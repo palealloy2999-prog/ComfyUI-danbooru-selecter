@@ -1,0 +1,417 @@
+{
+  "カテゴリID": "prints",
+  "カテゴリ名": "プリント",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aprints",
+  "セクション一覧": [
+    {
+      "セクション名": "パターン",
+      "タグ一覧": [
+        {
+          "label": "アーガイル",
+          "tag": "argyle",
+          "link": "https://danbooru.donmai.us/wiki_pages/argyle"
+        },
+        {
+          "label": "麻の葉文様",
+          "tag": "asa_no_ha_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/asa_no_ha_%28pattern%29"
+        },
+        {
+          "label": "迷彩",
+          "tag": "camouflage",
+          "link": "https://danbooru.donmai.us/wiki_pages/camouflage"
+        },
+        {
+          "label": "市松",
+          "tag": "checkered",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered"
+        },
+        {
+          "label": "ハニカム",
+          "tag": "honeycomb_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/honeycomb_%28pattern%29"
+        },
+        {
+          "label": "千鳥格子",
+          "tag": "houndstooth",
+          "link": "https://danbooru.donmai.us/wiki_pages/houndstooth"
+        },
+        {
+          "label": "ピンストライプ柄",
+          "tag": "pinstripe_pattern",
+          "link": "https://danbooru.donmai.us/wiki_pages/pinstripe_pattern"
+        },
+        {
+          "label": "チェック柄",
+          "tag": "plaid",
+          "link": "https://danbooru.donmai.us/wiki_pages/plaid"
+        },
+        {
+          "label": "ギンガム",
+          "tag": "gingham",
+          "link": "https://danbooru.donmai.us/wiki_pages/gingham"
+        },
+        {
+          "label": "水玉模様",
+          "tag": "polka_dot",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot"
+        },
+        {
+          "label": "紗綾形",
+          "tag": "sayagata",
+          "link": "https://danbooru.donmai.us/wiki_pages/sayagata"
+        },
+        {
+          "label": "青海波",
+          "tag": "seigaiha",
+          "link": "https://danbooru.donmai.us/wiki_pages/seigaiha"
+        },
+        {
+          "label": "縞模様",
+          "tag": "striped",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped"
+        },
+        {
+          "label": "斜めのストライプ",
+          "tag": "diagonal_stripes",
+          "link": "https://danbooru.donmai.us/wiki_pages/diagonal_stripes"
+        },
+        {
+          "label": "横縞",
+          "tag": "horizontal_stripes",
+          "link": "https://danbooru.donmai.us/wiki_pages/horizontal_stripes"
+        },
+        {
+          "label": "縦縞",
+          "tag": "vertical_stripes",
+          "link": "https://danbooru.donmai.us/wiki_pages/vertical_stripes"
+        },
+        {
+          "label": "色のストライプ",
+          "tag": "colored_stripes",
+          "link": "https://danbooru.donmai.us/wiki_pages/colored_stripes"
+        },
+        {
+          "label": "多色のストライプ",
+          "tag": "multicolored_stripes",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_stripes"
+        },
+        {
+          "label": "トラの縞模様",
+          "tag": "tiger_stripes",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiger_stripes"
+        },
+        {
+          "label": "二重縦縞",
+          "tag": "double_vertical_stripe",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_vertical_stripe"
+        },
+        {
+          "label": "侵略ストライプ",
+          "tag": "invasion_stripes",
+          "link": "https://danbooru.donmai.us/wiki_pages/invasion_stripes"
+        },
+        {
+          "label": "矢絣",
+          "tag": "yagasuri",
+          "link": "https://danbooru.donmai.us/wiki_pages/yagasuri"
+        }
+      ]
+    },
+    {
+      "セクション名": "特定のプリント",
+      "タグ一覧": [
+        {
+          "label": "アニマルプリント",
+          "tag": "animal_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_print"
+        },
+        {
+          "label": "コウモリ柄",
+          "tag": "bat_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/bat_print"
+        },
+        {
+          "label": "クマ柄",
+          "tag": "bear_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/bear_print"
+        },
+        {
+          "label": "鳥柄",
+          "tag": "bird_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/bird_print"
+        },
+        {
+          "label": "牛柄",
+          "tag": "cow_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/cow_print"
+        },
+        {
+          "label": "ヒョウ柄",
+          "tag": "leopard_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/leopard_print"
+        },
+        {
+          "label": "虎柄",
+          "tag": "tiger_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiger_print"
+        },
+        {
+          "label": "ヘビ柄",
+          "tag": "snake_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/snake_print"
+        },
+        {
+          "label": "ゼブラ柄",
+          "tag": "zebra_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/zebra_print"
+        },
+        {
+          "label": "花火プリント",
+          "tag": "fireworks_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/fireworks_print"
+        },
+        {
+          "label": "旗のプリント",
+          "tag": "flag_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/flag_print"
+        },
+        {
+          "label": "花柄",
+          "tag": "floral_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/floral_print"
+        },
+        {
+          "label": "桜のプリント",
+          "tag": "cherry_blossom_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/cherry_blossom_print"
+        },
+        {
+          "label": "食品プリント",
+          "tag": "food_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/food_print"
+        },
+        {
+          "label": "ゲームコントローラー柄",
+          "tag": "game_controller_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_controller_print"
+        },
+        {
+          "label": "グリッドプリント",
+          "tag": "grid_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/grid_print"
+        },
+        {
+          "label": "月のプリント",
+          "tag": "moon_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/moon_print"
+        },
+        {
+          "label": "三日月柄",
+          "tag": "crescent_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/crescent_print"
+        },
+        {
+          "label": "手形",
+          "tag": "handprint",
+          "link": "https://danbooru.donmai.us/wiki_pages/handprint"
+        },
+        {
+          "label": "葉っぱのプリント",
+          "tag": "leaf_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/leaf_print"
+        },
+        {
+          "label": "音符プリント",
+          "tag": "musical_note_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/musical_note_print"
+        },
+        {
+          "label": "ピアノプリント",
+          "tag": "piano_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/piano_print"
+        },
+        {
+          "label": "スイカプリント",
+          "tag": "watermelon_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/watermelon_print"
+        }
+      ]
+    },
+    {
+      "セクション名": "模様のあるもの",
+      "タグ一覧": [
+        {
+          "label": "模様のある髪",
+          "tag": "patterned_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/patterned_hair"
+        },
+        {
+          "label": "柄物の服",
+          "tag": "patterned_clothing",
+          "link": "https://danbooru.donmai.us/wiki_pages/patterned_clothing"
+        },
+        {
+          "label": "模様のある",
+          "tag": "patterned",
+          "link": "https://danbooru.donmai.us/wiki_pages/patterned"
+        },
+        {
+          "label": "模様のある背景",
+          "tag": "patterned_background",
+          "link": "https://danbooru.donmai.us/wiki_pages/patterned_background"
+        }
+      ]
+    },
+    {
+      "セクション名": "柄物の衣類・小物",
+      "タグ一覧": [
+        {
+          "label": "プリントアスコット",
+          "tag": "print_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_ascot"
+        },
+        {
+          "label": "プリントブーツ",
+          "tag": "print_boots",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_boots"
+        },
+        {
+          "label": "プリントリボン",
+          "tag": "print_bow",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_bow"
+        },
+        {
+          "label": "プリント蝶ネクタイ",
+          "tag": "print_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_bowtie"
+        },
+        {
+          "label": "プリント眼帯",
+          "tag": "print_eyepatch",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_eyepatch"
+        },
+        {
+          "label": "プリント手袋",
+          "tag": "print_gloves",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_gloves"
+        },
+        {
+          "label": "プリントの袴",
+          "tag": "print_hakama",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_hakama"
+        },
+        {
+          "label": "プリントヘッドウェア",
+          "tag": "print_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_headwear"
+        },
+        {
+          "label": "プリント着物",
+          "tag": "print_kimono",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_kimono"
+        },
+        {
+          "label": "プリントレギンス",
+          "tag": "print_leggings",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_leggings"
+        },
+        {
+          "label": "プリントネクタイ",
+          "tag": "print_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_necktie"
+        },
+        {
+          "label": "プリントネッカチーフ",
+          "tag": "print_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_neckerchief"
+        },
+        {
+          "label": "プリントパンティー",
+          "tag": "print_panties",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_panties"
+        },
+        {
+          "label": "プリントパンスト",
+          "tag": "print_pantyhose",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_pantyhose"
+        },
+        {
+          "label": "プリントリボン",
+          "tag": "print_ribbon",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_ribbon"
+        },
+        {
+          "label": "プリントサンダル",
+          "tag": "print_sandals",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_sandals"
+        },
+        {
+          "label": "プリントシャツ",
+          "tag": "print_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_shirt"
+        },
+        {
+          "label": "プリントシューズ",
+          "tag": "print_shoes",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_shoes"
+        },
+        {
+          "label": "柄物の短パン",
+          "tag": "print_shorts",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_shorts"
+        },
+        {
+          "label": "プリントスリッパ",
+          "tag": "print_slippers",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_slippers"
+        },
+        {
+          "label": "プリントソックス",
+          "tag": "print_socks",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_socks"
+        },
+        {
+          "label": "柄物の水着",
+          "tag": "print_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_swimsuit"
+        },
+        {
+          "label": "プリントビキニ",
+          "tag": "print_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_bikini"
+        },
+        {
+          "label": "柄物のサイハイソックス",
+          "tag": "print_thighhighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_thighhighs"
+        },
+        {
+          "label": "プリント傘",
+          "tag": "print_umbrella",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_umbrella"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：色",
+          "tag": "tag_group%3Acolors",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acolors"
+        },
+        {
+          "label": "タググループ：模様・パターン",
+          "tag": "tag_group%3Apatterns",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apatterns"
+        },
+        {
+          "label": "タググループ：シンボル",
+          "tag": "tag_group%3Asymbols",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asymbols"
+        }
+      ]
+    }
+  ]
+}

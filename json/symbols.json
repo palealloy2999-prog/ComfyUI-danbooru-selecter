@@ -1,0 +1,1722 @@
+{
+  "カテゴリID": "symbols",
+  "カテゴリ名": "シンボル",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Asymbols",
+  "セクション一覧": [
+    {
+      "セクション名": "2次元形状",
+      "タグ一覧": [
+        {
+          "label": "丸",
+          "tag": "circle",
+          "link": "https://danbooru.donmai.us/wiki_pages/circle"
+        },
+        {
+          "label": "三日月",
+          "tag": "crescent",
+          "link": "https://danbooru.donmai.us/wiki_pages/crescent"
+        },
+        {
+          "label": "矢印",
+          "tag": "arrow_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/arrow_%28symbol%29"
+        },
+        {
+          "label": "七角形",
+          "tag": "heptagon",
+          "link": "https://danbooru.donmai.us/wiki_pages/heptagon"
+        },
+        {
+          "label": "六角形",
+          "tag": "hexagon",
+          "link": "https://danbooru.donmai.us/wiki_pages/hexagon"
+        },
+        {
+          "label": "八角形",
+          "tag": "octagon",
+          "link": "https://danbooru.donmai.us/wiki_pages/octagon"
+        },
+        {
+          "label": "五角形",
+          "tag": "pentagon_%28shape%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pentagon_%28shape%29"
+        },
+        {
+          "label": "矩形",
+          "tag": "rectangle",
+          "link": "https://danbooru.donmai.us/wiki_pages/rectangle"
+        },
+        {
+          "label": "ダイヤモンド",
+          "tag": "diamond_%28shape%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/diamond_%28shape%29"
+        },
+        {
+          "label": "三角形",
+          "tag": "triangle",
+          "link": "https://danbooru.donmai.us/wiki_pages/triangle"
+        },
+        {
+          "label": "四角",
+          "tag": "square",
+          "link": "https://danbooru.donmai.us/wiki_pages/square"
+        },
+        {
+          "label": "星の記号",
+          "tag": "star_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_%28symbol%29"
+        },
+        {
+          "label": "アスタリスク",
+          "tag": "asterisk_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/asterisk_%28symbol%29"
+        },
+        {
+          "label": "赤い星",
+          "tag": "red_star",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_star"
+        },
+        {
+          "label": "吹き出し内の星",
+          "tag": "spoken_star",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_star"
+        },
+        {
+          "label": "五芒星",
+          "tag": "pentagram",
+          "link": "https://danbooru.donmai.us/wiki_pages/pentagram"
+        },
+        {
+          "label": "ドゥルーズ派のスター",
+          "tag": "druze_star",
+          "link": "https://danbooru.donmai.us/wiki_pages/druze_star"
+        },
+        {
+          "label": "逆五芒星",
+          "tag": "inverted_pentagram",
+          "link": "https://danbooru.donmai.us/wiki_pages/inverted_pentagram"
+        },
+        {
+          "label": "六芒星",
+          "tag": "hexagram",
+          "link": "https://danbooru.donmai.us/wiki_pages/hexagram"
+        },
+        {
+          "label": "ダビデの星",
+          "tag": "star_of_david",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_of_david"
+        },
+        {
+          "label": "ヘプタグラム",
+          "tag": "heptagram",
+          "link": "https://danbooru.donmai.us/wiki_pages/heptagram"
+        },
+        {
+          "label": "オクタグラム",
+          "tag": "octagram",
+          "link": "https://danbooru.donmai.us/wiki_pages/octagram"
+        },
+        {
+          "label": "ラクシュミの星",
+          "tag": "star_of_lakshmi",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_of_lakshmi"
+        },
+        {
+          "label": "エニアグラム",
+          "tag": "enneagram",
+          "link": "https://danbooru.donmai.us/wiki_pages/enneagram"
+        },
+        {
+          "label": "デカグラム",
+          "tag": "decagram",
+          "link": "https://danbooru.donmai.us/wiki_pages/decagram"
+        },
+        {
+          "label": "十二芒星",
+          "tag": "dodecagram",
+          "link": "https://danbooru.donmai.us/wiki_pages/dodecagram"
+        }
+      ]
+    },
+    {
+      "セクション名": "立体形状",
+      "タグ一覧": [
+        {
+          "label": "円錐",
+          "tag": "cone_%28geometry%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cone_%28geometry%29"
+        },
+        {
+          "label": "四面体",
+          "tag": "tetrahedron",
+          "link": "https://danbooru.donmai.us/wiki_pages/tetrahedron"
+        },
+        {
+          "label": "キューブ",
+          "tag": "cube",
+          "link": "https://danbooru.donmai.us/wiki_pages/cube"
+        },
+        {
+          "label": "八面体",
+          "tag": "octahedron",
+          "link": "https://danbooru.donmai.us/wiki_pages/octahedron"
+        },
+        {
+          "label": "十二面体",
+          "tag": "dodecahedron",
+          "link": "https://danbooru.donmai.us/wiki_pages/dodecahedron"
+        },
+        {
+          "label": "二十面体",
+          "tag": "icosahedron",
+          "link": "https://danbooru.donmai.us/wiki_pages/icosahedron"
+        },
+        {
+          "label": "プリズム",
+          "tag": "prism",
+          "link": "https://danbooru.donmai.us/wiki_pages/prism"
+        },
+        {
+          "label": "ピラミッド",
+          "tag": "pyramid_%28geometry%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pyramid_%28geometry%29"
+        },
+        {
+          "label": "オーブ",
+          "tag": "orb",
+          "link": "https://danbooru.donmai.us/wiki_pages/orb"
+        },
+        {
+          "label": "大十二面体",
+          "tag": "great_dodecahedron",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_dodecahedron"
+        },
+        {
+          "label": "小さな星型十二面体",
+          "tag": "small_stellated_dodecahedron",
+          "link": "https://danbooru.donmai.us/wiki_pages/small_stellated_dodecahedron"
+        },
+        {
+          "label": "星型八面体",
+          "tag": "stellated_octahedron",
+          "link": "https://danbooru.donmai.us/wiki_pages/stellated_octahedron"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "メビウスの帯",
+          "tag": "mobius_strip",
+          "link": "https://danbooru.donmai.us/wiki_pages/mobius_strip"
+        },
+        {
+          "label": "クラインの壺",
+          "tag": "klein_bottle",
+          "link": "https://danbooru.donmai.us/wiki_pages/klein_bottle"
+        }
+      ]
+    },
+    {
+      "セクション名": "感情の象徴",
+      "タグ一覧": [
+        {
+          "label": "^^^",
+          "tag": "%5E%5E%5E",
+          "link": "https://danbooru.donmai.us/wiki_pages/%5E%5E%5E"
+        },
+        {
+          "label": "+++",
+          "tag": "%2B%2B%2B",
+          "link": "https://danbooru.donmai.us/wiki_pages/%2B%2B%2B"
+        },
+        {
+          "label": "空気の一吹き",
+          "tag": "puff_of_air",
+          "link": "https://danbooru.donmai.us/wiki_pages/puff_of_air"
+        },
+        {
+          "label": "怒りマーク",
+          "tag": "anger_vein",
+          "link": "https://danbooru.donmai.us/wiki_pages/anger_vein"
+        },
+        {
+          "label": "吹き出し内の怒りマーク",
+          "tag": "spoken_anger_vein",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_anger_vein"
+        },
+        {
+          "label": "吹き出し内の赤面の印",
+          "tag": "spoken_blush",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_blush"
+        },
+        {
+          "label": "ハート",
+          "tag": "heart",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart"
+        },
+        {
+          "label": "心臓を貫く矢",
+          "tag": "arrow_through_heart",
+          "link": "https://danbooru.donmai.us/wiki_pages/arrow_through_heart"
+        },
+        {
+          "label": "失恋",
+          "tag": "broken_heart",
+          "link": "https://danbooru.donmai.us/wiki_pages/broken_heart"
+        },
+        {
+          "label": "吹き出し内のハート",
+          "tag": "spoken_heart",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_heart"
+        },
+        {
+          "label": "気付きの線",
+          "tag": "notice_lines",
+          "link": "https://danbooru.donmai.us/wiki_pages/notice_lines"
+        },
+        {
+          "label": "叫びの強調線",
+          "tag": "shout_lines",
+          "link": "https://danbooru.donmai.us/wiki_pages/shout_lines"
+        },
+        {
+          "label": "スマイリーフェイス",
+          "tag": "smiley_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/smiley_face"
+        },
+        {
+          "label": "スクイグル",
+          "tag": "squiggle",
+          "link": "https://danbooru.donmai.us/wiki_pages/squiggle"
+        },
+        {
+          "label": "吹き出し内の波線",
+          "tag": "spoken_squiggle",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_squiggle"
+        },
+        {
+          "label": "シンボル BA-90",
+          "tag": "symbol_ba-90",
+          "link": "https://danbooru.donmai.us/wiki_pages/symbol_ba-90"
+        },
+        {
+          "label": "汗滴",
+          "tag": "sweatdrop",
+          "link": "https://danbooru.donmai.us/wiki_pages/sweatdrop"
+        },
+        {
+          "label": "漫画的な汗マーク",
+          "tag": "comedic_sweatdrop",
+          "link": "https://danbooru.donmai.us/wiki_pages/comedic_sweatdrop"
+        },
+        {
+          "label": "飛び散る汗",
+          "tag": "flying_sweatdrops",
+          "link": "https://danbooru.donmai.us/wiki_pages/flying_sweatdrops"
+        },
+        {
+          "label": "吹き出し内の汗マーク",
+          "tag": "spoken_sweatdrop",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_sweatdrop"
+        },
+        {
+          "label": "スクィーンズ",
+          "tag": "squeans",
+          "link": "https://danbooru.donmai.us/wiki_pages/squeans"
+        }
+      ]
+    },
+    {
+      "セクション名": "音楽記号",
+      "タグ一覧": [
+        {
+          "label": "ヘ音記号",
+          "tag": "bass_clef",
+          "link": "https://danbooru.donmai.us/wiki_pages/bass_clef"
+        },
+        {
+          "label": "フラット記号",
+          "tag": "flat_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/flat_sign"
+        },
+        {
+          "label": "音符",
+          "tag": "musical_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/musical_note"
+        },
+        {
+          "label": "全音符",
+          "tag": "whole_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/whole_note"
+        },
+        {
+          "label": "全休符",
+          "tag": "whole_rest",
+          "link": "https://danbooru.donmai.us/wiki_pages/whole_rest"
+        },
+        {
+          "label": "2分音符",
+          "tag": "half_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/half_note"
+        },
+        {
+          "label": "二分休符",
+          "tag": "half_rest",
+          "link": "https://danbooru.donmai.us/wiki_pages/half_rest"
+        },
+        {
+          "label": "付点二分音符",
+          "tag": "dotted_half_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/dotted_half_note"
+        },
+        {
+          "label": "四分音符",
+          "tag": "quarter_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/quarter_note"
+        },
+        {
+          "label": "四分休符",
+          "tag": "quarter_rest",
+          "link": "https://danbooru.donmai.us/wiki_pages/quarter_rest"
+        },
+        {
+          "label": "付点四分音符",
+          "tag": "dotted_quarter_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/dotted_quarter_note"
+        },
+        {
+          "label": "八分音符",
+          "tag": "eighth_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/eighth_note"
+        },
+        {
+          "label": "8分音符の連桁",
+          "tag": "beamed_eighth_notes",
+          "link": "https://danbooru.donmai.us/wiki_pages/beamed_eighth_notes"
+        },
+        {
+          "label": "八分休符",
+          "tag": "eighth_rest",
+          "link": "https://danbooru.donmai.us/wiki_pages/eighth_rest"
+        },
+        {
+          "label": "付点八分音符",
+          "tag": "dotted_eighth_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/dotted_eighth_note"
+        },
+        {
+          "label": "16分音符",
+          "tag": "sixteenth_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/sixteenth_note"
+        },
+        {
+          "label": "16分音符の連桁",
+          "tag": "beamed_sixteenth_notes",
+          "link": "https://danbooru.donmai.us/wiki_pages/beamed_sixteenth_notes"
+        },
+        {
+          "label": "16分休符",
+          "tag": "sixteenth_rest",
+          "link": "https://danbooru.donmai.us/wiki_pages/sixteenth_rest"
+        },
+        {
+          "label": "付点十六分音符",
+          "tag": "dotted_sixteenth_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/dotted_sixteenth_note"
+        },
+        {
+          "label": "32分音符",
+          "tag": "thirty-second_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/thirty-second_note"
+        },
+        {
+          "label": "32分音符のビーム",
+          "tag": "beamed_thirty-second_notes",
+          "link": "https://danbooru.donmai.us/wiki_pages/beamed_thirty-second_notes"
+        },
+        {
+          "label": "三十二分休符",
+          "tag": "thirty-second_rest",
+          "link": "https://danbooru.donmai.us/wiki_pages/thirty-second_rest"
+        },
+        {
+          "label": "付点32分音符",
+          "tag": "dotted_thirty-second_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/dotted_thirty-second_note"
+        },
+        {
+          "label": "64分音符",
+          "tag": "sixty-fourth_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/sixty-fourth_note"
+        },
+        {
+          "label": "64分音符の連桁",
+          "tag": "beamed_sixty-fourth_notes",
+          "link": "https://danbooru.donmai.us/wiki_pages/beamed_sixty-fourth_notes"
+        },
+        {
+          "label": "ゴーストノート",
+          "tag": "ghost_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/ghost_note"
+        },
+        {
+          "label": "装飾音符",
+          "tag": "grace_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/grace_note"
+        },
+        {
+          "label": "吹き出し内の音符",
+          "tag": "spoken_musical_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_musical_note"
+        },
+        {
+          "label": "ナチュラルサイン",
+          "tag": "natural_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/natural_sign"
+        },
+        {
+          "label": "シャープ記号",
+          "tag": "sharp_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/sharp_sign"
+        },
+        {
+          "label": "五線譜",
+          "tag": "musical_staff",
+          "link": "https://danbooru.donmai.us/wiki_pages/musical_staff"
+        },
+        {
+          "label": "拍子記号",
+          "tag": "time_signature",
+          "link": "https://danbooru.donmai.us/wiki_pages/time_signature"
+        },
+        {
+          "label": "ト音記号",
+          "tag": "treble_clef",
+          "link": "https://danbooru.donmai.us/wiki_pages/treble_clef"
+        }
+      ]
+    },
+    {
+      "セクション名": "トランプ",
+      "タグ一覧": [
+        {
+          "label": "トランプ",
+          "tag": "playing_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_card"
+        },
+        {
+          "label": "クラブ",
+          "tag": "club_%28shape%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_%28shape%29"
+        },
+        {
+          "label": "ダイヤモンド",
+          "tag": "diamond_%28shape%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/diamond_%28shape%29"
+        },
+        {
+          "label": "ハート",
+          "tag": "heart",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart"
+        },
+        {
+          "label": "スペード",
+          "tag": "spade_%28shape%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/spade_%28shape%29"
+        },
+        {
+          "label": "トランプテーマ",
+          "tag": "playing_card_theme",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_card_theme"
+        }
+      ]
+    },
+    {
+      "セクション名": "テキスト、言語、文字、数字、句読点",
+      "タグ一覧": [
+        {
+          "label": "タググループ：テキスト",
+          "tag": "tag_group%3Atext",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Atext"
+        },
+        {
+          "label": "タググループ：制作年・月のタグ",
+          "tag": "tag_group%3Ayear_tags",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ayear_tags"
+        },
+        {
+          "label": "！",
+          "tag": "%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/%21"
+        },
+        {
+          "label": "吹き出し内の感嘆符",
+          "tag": "spoken_exclamation_mark",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_exclamation_mark"
+        },
+        {
+          "label": "！？",
+          "tag": "%21%3F",
+          "link": "https://danbooru.donmai.us/wiki_pages/%21%3F"
+        },
+        {
+          "label": "吹き出し内の感嘆疑問符",
+          "tag": "spoken_interrobang",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_interrobang"
+        },
+        {
+          "label": "？",
+          "tag": "%3F",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3F"
+        },
+        {
+          "label": "吹き出し内の疑問符",
+          "tag": "spoken_question_mark",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_question_mark"
+        },
+        {
+          "label": "…",
+          "tag": "...",
+          "link": "https://danbooru.donmai.us/wiki_pages/..."
+        },
+        {
+          "label": "吹き出し内の三点リーダー",
+          "tag": "spoken_ellipsis",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_ellipsis"
+        },
+        {
+          "label": "@",
+          "tag": "%40_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/%40_%28symbol%29"
+        },
+        {
+          "label": "等号",
+          "tag": "equal_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/equal_sign"
+        },
+        {
+          "label": "無限大記号",
+          "tag": "infinity_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/infinity_symbol"
+        },
+        {
+          "label": "双喜紋",
+          "tag": "double_happiness",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_happiness"
+        },
+        {
+          "label": "寿の字",
+          "tag": "shou_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shou_%28symbol%29"
+        },
+        {
+          "label": "幸運のシンボル",
+          "tag": "good_fortune_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/good_fortune_symbol"
+        },
+        {
+          "label": "倒福",
+          "tag": "dao_fu",
+          "link": "https://danbooru.donmai.us/wiki_pages/dao_fu"
+        },
+        {
+          "label": "天 漢字",
+          "tag": "heaven_%28kanji%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/heaven_%28kanji%29"
+        },
+        {
+          "label": "二本足の馬の漢字",
+          "tag": "two-legged_horse_%28kanji%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-legged_horse_%28kanji%29"
+        },
+        {
+          "label": "マイナス記号",
+          "tag": "minus_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/minus_sign"
+        },
+        {
+          "label": "オメガ記号",
+          "tag": "omega_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/omega_symbol"
+        },
+        {
+          "label": "円周率（数学）",
+          "tag": "pi_%28math%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pi_%28math%29"
+        },
+        {
+          "label": "ルーン文字",
+          "tag": "runes",
+          "link": "https://danbooru.donmai.us/wiki_pages/runes"
+        },
+        {
+          "label": "ジーグルネン",
+          "tag": "siegrunen",
+          "link": "https://danbooru.donmai.us/wiki_pages/siegrunen"
+        },
+        {
+          "label": "セグメント表示",
+          "tag": "segment_display",
+          "link": "https://danbooru.donmai.us/wiki_pages/segment_display"
+        },
+        {
+          "label": "7セグメントディスプレイ",
+          "tag": "seven-segment_display",
+          "link": "https://danbooru.donmai.us/wiki_pages/seven-segment_display"
+        },
+        {
+          "label": "Z（ロシア語の記号）",
+          "tag": "z_%28russian_symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/z_%28russian_symbol%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "通貨記号",
+      "タグ一覧": [
+        {
+          "label": "ドル記号",
+          "tag": "dollar_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/dollar_sign"
+        },
+        {
+          "label": "ユーロ記号",
+          "tag": "euro_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/euro_sign"
+        },
+        {
+          "label": "フラン記号",
+          "tag": "franc_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/franc_sign"
+        },
+        {
+          "label": "インドルピー記号",
+          "tag": "indian_rupee_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/indian_rupee_sign"
+        },
+        {
+          "label": "ポンド記号",
+          "tag": "pound_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/pound_sign"
+        },
+        {
+          "label": "ルーブル記号",
+          "tag": "ruble_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/ruble_sign"
+        },
+        {
+          "label": "ウォン記号",
+          "tag": "won_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/won_sign"
+        },
+        {
+          "label": "円記号",
+          "tag": "yen_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/yen_sign"
+        }
+      ]
+    },
+    {
+      "セクション名": "エンコーディング",
+      "タグ一覧": [
+        {
+          "label": "バーコード",
+          "tag": "barcode",
+          "link": "https://danbooru.donmai.us/wiki_pages/barcode"
+        },
+        {
+          "label": "QRコード",
+          "tag": "qr_code",
+          "link": "https://danbooru.donmai.us/wiki_pages/qr_code"
+        }
+      ]
+    },
+    {
+      "セクション名": "十字のシンボル",
+      "タグ一覧": [
+        {
+          "label": "十字",
+          "tag": "cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross"
+        },
+        {
+          "label": "十字",
+          "tag": "cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross"
+        },
+        {
+          "label": "矢印十字",
+          "tag": "arrow_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/arrow_cross"
+        },
+        {
+          "label": "バルケンクロイツ",
+          "tag": "balkenkreuz",
+          "link": "https://danbooru.donmai.us/wiki_pages/balkenkreuz"
+        },
+        {
+          "label": "ケルト十字",
+          "tag": "celtic_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/celtic_cross"
+        },
+        {
+          "label": "クロス・ボトニー",
+          "tag": "cross_bottony",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_bottony"
+        },
+        {
+          "label": "十字架",
+          "tag": "cross_crosslet",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_crosslet"
+        },
+        {
+          "label": "クロスフィット",
+          "tag": "cross_fitchy",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_fitchy"
+        },
+        {
+          "label": "クロスフルーリー",
+          "tag": "cross_fleury",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_fleury"
+        },
+        {
+          "label": "クロスモリーン",
+          "tag": "cross_moline",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_moline"
+        },
+        {
+          "label": "クロスパトンス",
+          "tag": "cross_patonce",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_patonce"
+        },
+        {
+          "label": "クロスパティ",
+          "tag": "cross_patty",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_patty"
+        },
+        {
+          "label": "クロスポテンシャル",
+          "tag": "cross_potent",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_potent"
+        },
+        {
+          "label": "十字架",
+          "tag": "crucifix",
+          "link": "https://danbooru.donmai.us/wiki_pages/crucifix"
+        },
+        {
+          "label": "ギリシャ十字",
+          "tag": "greek_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/greek_cross"
+        },
+        {
+          "label": "赤十字",
+          "tag": "red_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_cross"
+        },
+        {
+          "label": "逆十字",
+          "tag": "inverted_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/inverted_cross"
+        },
+        {
+          "label": "鉄十字",
+          "tag": "iron_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/iron_cross"
+        },
+        {
+          "label": "ラテン十字",
+          "tag": "latin_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/latin_cross"
+        },
+        {
+          "label": "マルタ十字",
+          "tag": "maltese_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/maltese_cross"
+        },
+        {
+          "label": "正教会の十字架",
+          "tag": "orthodox_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/orthodox_cross"
+        },
+        {
+          "label": "プラス記号",
+          "tag": "plus_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/plus_sign"
+        },
+        {
+          "label": "太陽の十字架",
+          "tag": "sun_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/sun_cross"
+        },
+        {
+          "label": "2本の棒の十字",
+          "tag": "two-barred_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-barred_cross"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の記号",
+      "タグ一覧": [
+        {
+          "label": "アナーキーシンボル",
+          "tag": "anarchy_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/anarchy_symbol"
+        },
+        {
+          "label": "アンク",
+          "tag": "ankh",
+          "link": "https://danbooru.donmai.us/wiki_pages/ankh"
+        },
+        {
+          "label": "アルス・ゴエティア",
+          "tag": "ars_goetia",
+          "link": "https://danbooru.donmai.us/wiki_pages/ars_goetia"
+        },
+        {
+          "label": "バッテリーインジケーター",
+          "tag": "battery_indicator",
+          "link": "https://danbooru.donmai.us/wiki_pages/battery_indicator"
+        },
+        {
+          "label": "バイオハザードシンボル",
+          "tag": "biohazard_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/biohazard_symbol"
+        },
+        {
+          "label": "ブラックサン",
+          "tag": "black_sun_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_sun_%28symbol%29"
+        },
+        {
+          "label": "カドゥケウス",
+          "tag": "caduceus",
+          "link": "https://danbooru.donmai.us/wiki_pages/caduceus"
+        },
+        {
+          "label": "コンパスローズ",
+          "tag": "compass_rose",
+          "link": "https://danbooru.donmai.us/wiki_pages/compass_rose"
+        },
+        {
+          "label": "デジタルレイン",
+          "tag": "digital_rain",
+          "link": "https://danbooru.donmai.us/wiki_pages/digital_rain"
+        },
+        {
+          "label": "ファスケス",
+          "tag": "fasces_%28object%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fasces_%28object%29"
+        },
+        {
+          "label": "可燃性シンボル",
+          "tag": "flammable_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/flammable_symbol"
+        },
+        {
+          "label": "フルール・ド・リス",
+          "tag": "fleur-de-lis",
+          "link": "https://danbooru.donmai.us/wiki_pages/fleur-de-lis"
+        },
+        {
+          "label": "割れ物注意マーク",
+          "tag": "fragile_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/fragile_symbol"
+        },
+        {
+          "label": "鎌と槌",
+          "tag": "hammer_and_sickle",
+          "link": "https://danbooru.donmai.us/wiki_pages/hammer_and_sickle"
+        },
+        {
+          "label": "コロヴラット",
+          "tag": "kolovrat_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kolovrat_%28symbol%29"
+        },
+        {
+          "label": "稲妻のシンボル",
+          "tag": "lightning_bolt_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/lightning_bolt_symbol"
+        },
+        {
+          "label": "禁止マーク",
+          "tag": "no_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_symbol"
+        },
+        {
+          "label": "進入禁止の標識",
+          "tag": "no_entry_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_entry_sign"
+        },
+        {
+          "label": "禁煙",
+          "tag": "no_smoking",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_smoking"
+        },
+        {
+          "label": "温泉シンボル",
+          "tag": "onsen_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/onsen_symbol"
+        },
+        {
+          "label": "オム",
+          "tag": "om_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/om_%28symbol%29"
+        },
+        {
+          "label": "ウロボロス",
+          "tag": "ouroboros",
+          "link": "https://danbooru.donmai.us/wiki_pages/ouroboros"
+        },
+        {
+          "label": "ペアレンタル・アドバイザリー表示",
+          "tag": "parental_advisory",
+          "link": "https://danbooru.donmai.us/wiki_pages/parental_advisory"
+        },
+        {
+          "label": "平和のシンボル",
+          "tag": "peace_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/peace_symbol"
+        },
+        {
+          "label": "電源マーク",
+          "tag": "power_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/power_symbol"
+        },
+        {
+          "label": "放射線記号",
+          "tag": "radiation_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/radiation_symbol"
+        },
+        {
+          "label": "リサイクルシンボル",
+          "tag": "recycling_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/recycling_symbol"
+        },
+        {
+          "label": "ライヒサドラー",
+          "tag": "reichsadler",
+          "link": "https://danbooru.donmai.us/wiki_pages/reichsadler"
+        },
+        {
+          "label": "トイレのシンボル",
+          "tag": "restroom_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/restroom_symbol"
+        },
+        {
+          "label": "アスクレピオスの杖",
+          "tag": "rod_of_asclepius",
+          "link": "https://danbooru.donmai.us/wiki_pages/rod_of_asclepius"
+        },
+        {
+          "label": "生命の星",
+          "tag": "star_of_life",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_of_life"
+        },
+        {
+          "label": "ルシファーの印章",
+          "tag": "sigil_of_lucifer",
+          "link": "https://danbooru.donmai.us/wiki_pages/sigil_of_lucifer"
+        },
+        {
+          "label": "電波強度表示",
+          "tag": "signal_bar",
+          "link": "https://danbooru.donmai.us/wiki_pages/signal_bar"
+        },
+        {
+          "label": "ドクロと骨",
+          "tag": "skull_and_crossbones",
+          "link": "https://danbooru.donmai.us/wiki_pages/skull_and_crossbones"
+        },
+        {
+          "label": "ジョリーロジャー",
+          "tag": "jolly_roger",
+          "link": "https://danbooru.donmai.us/wiki_pages/jolly_roger"
+        },
+        {
+          "label": "トーテンコップフ",
+          "tag": "totenkopf",
+          "link": "https://danbooru.donmai.us/wiki_pages/totenkopf"
+        },
+        {
+          "label": "星と三日月",
+          "tag": "star_and_crescent",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_and_crescent"
+        },
+        {
+          "label": "卍",
+          "tag": "swastika",
+          "link": "https://danbooru.donmai.us/wiki_pages/swastika"
+        },
+        {
+          "label": "トリグラム",
+          "tag": "trigram",
+          "link": "https://danbooru.donmai.us/wiki_pages/trigram"
+        },
+        {
+          "label": "八卦",
+          "tag": "bagua",
+          "link": "https://danbooru.donmai.us/wiki_pages/bagua"
+        },
+        {
+          "label": "トリズブ",
+          "tag": "tryzub",
+          "link": "https://danbooru.donmai.us/wiki_pages/tryzub"
+        },
+        {
+          "label": "巴",
+          "tag": "tomoe_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tomoe_%28symbol%29"
+        },
+        {
+          "label": "みつどもえ",
+          "tag": "mitsudomoe_%28shape%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitsudomoe_%28shape%29"
+        },
+        {
+          "label": "警告サイン",
+          "tag": "warning_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/warning_sign"
+        },
+        {
+          "label": "車椅子標識",
+          "tag": "wheelchair_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/wheelchair_sign"
+        },
+        {
+          "label": "法輪",
+          "tag": "wheel_of_dharma",
+          "link": "https://danbooru.donmai.us/wiki_pages/wheel_of_dharma"
+        },
+        {
+          "label": "Wi-Fiシンボル",
+          "tag": "wi-fi_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/wi-fi_symbol"
+        },
+        {
+          "label": "ウルフサンゲル",
+          "tag": "wolfsangel",
+          "link": "https://danbooru.donmai.us/wiki_pages/wolfsangel"
+        },
+        {
+          "label": "×マーク",
+          "tag": "x",
+          "link": "https://danbooru.donmai.us/wiki_pages/x"
+        },
+        {
+          "label": "吹き出し内のバツ印",
+          "tag": "spoken_x",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_x"
+        },
+        {
+          "label": "陰陽",
+          "tag": "yin_yang",
+          "link": "https://danbooru.donmai.us/wiki_pages/yin_yang"
+        },
+        {
+          "label": "星座",
+          "tag": "zodiac",
+          "link": "https://danbooru.donmai.us/wiki_pages/zodiac"
+        }
+      ]
+    },
+    {
+      "セクション名": "太陽系（天文学的順序で整理されたタグ）",
+      "タグ一覧": [
+        {
+          "label": "太陽のシンボル",
+          "tag": "sun_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/sun_symbol"
+        },
+        {
+          "label": "水星記号",
+          "tag": "mercury_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/mercury_symbol"
+        },
+        {
+          "label": "金星のシンボル",
+          "tag": "venus_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/venus_symbol"
+        },
+        {
+          "label": "火星記号",
+          "tag": "mars_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/mars_symbol"
+        },
+        {
+          "label": "木星のシンボル",
+          "tag": "jupiter_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/jupiter_symbol"
+        },
+        {
+          "label": "土星のシンボル",
+          "tag": "saturn_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/saturn_symbol"
+        },
+        {
+          "label": "天王星のシンボル",
+          "tag": "uranus_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/uranus_symbol"
+        },
+        {
+          "label": "海王星のシンボル",
+          "tag": "neptune_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/neptune_symbol"
+        },
+        {
+          "label": "冥王星のシンボル",
+          "tag": "pluto_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/pluto_symbol"
+        }
+      ]
+    },
+    {
+      "セクション名": "性別の追加記号",
+      "タグ一覧": [
+        {
+          "label": "両性具有のシンボル",
+          "tag": "androgyne_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/androgyne_symbol"
+        },
+        {
+          "label": "連結された火星のシンボル",
+          "tag": "interlocked_mars_symbols",
+          "link": "https://danbooru.donmai.us/wiki_pages/interlocked_mars_symbols"
+        },
+        {
+          "label": "連動した火星と金星のシンボル",
+          "tag": "interlocked_mars_and_venus_symbols",
+          "link": "https://danbooru.donmai.us/wiki_pages/interlocked_mars_and_venus_symbols"
+        },
+        {
+          "label": "連結された金星のシンボル",
+          "tag": "interlocked_venus_symbols",
+          "link": "https://danbooru.donmai.us/wiki_pages/interlocked_venus_symbols"
+        },
+        {
+          "label": "男性と女性のシンボル",
+          "tag": "male-female_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/male-female_symbol"
+        },
+        {
+          "label": "中性記号",
+          "tag": "neutered_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/neutered_symbol"
+        },
+        {
+          "label": "トランスジェンダーのシンボル",
+          "tag": "transgender_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/transgender_symbol"
+        }
+      ]
+    },
+    {
+      "セクション名": "道路標識",
+      "タグ一覧": [
+        {
+          "label": "道路標識",
+          "tag": "road_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/road_sign"
+        },
+        {
+          "label": "自転車専用標識",
+          "tag": "bicycles_only_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/bicycles_only_sign"
+        },
+        {
+          "label": "バス停",
+          "tag": "bus_stop",
+          "link": "https://danbooru.donmai.us/wiki_pages/bus_stop"
+        },
+        {
+          "label": "落石の標識",
+          "tag": "falling_rocks_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/falling_rocks_sign"
+        },
+        {
+          "label": "自動車専用標識",
+          "tag": "motor_vehicles_only_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/motor_vehicles_only_sign"
+        },
+        {
+          "label": "駐車禁止標識",
+          "tag": "no_parking_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_parking_sign"
+        },
+        {
+          "label": "横断禁止標識",
+          "tag": "no_pedestrian_crossing_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_pedestrian_crossing_sign"
+        },
+        {
+          "label": "駐停車禁止標識",
+          "tag": "no_stopping_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_stopping_sign"
+        },
+        {
+          "label": "Uターン禁止標識",
+          "tag": "no_u-turn_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_u-turn_sign"
+        },
+        {
+          "label": "一方通行標識",
+          "tag": "one_way_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/one_way_sign"
+        },
+        {
+          "label": "駐車許可標識",
+          "tag": "parking_permissive_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/parking_permissive_sign"
+        },
+        {
+          "label": "横断歩道標識",
+          "tag": "pedestrian_crossing_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/pedestrian_crossing_sign"
+        },
+        {
+          "label": "歩行者専用標識",
+          "tag": "pedestrians_only_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/pedestrians_only_sign"
+        },
+        {
+          "label": "踏切標識",
+          "tag": "railroad_crossing_ahead_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/railroad_crossing_ahead_sign"
+        },
+        {
+          "label": "車両通行止めの標識",
+          "tag": "road_closed_to_vehicles_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/road_closed_to_vehicles_sign"
+        },
+        {
+          "label": "道路狭窄標識",
+          "tag": "road_narrows_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/road_narrows_sign"
+        },
+        {
+          "label": "学校横断標識",
+          "tag": "school_crossing_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/school_crossing_sign"
+        },
+        {
+          "label": "速度制限標識",
+          "tag": "speed_limit_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/speed_limit_sign"
+        },
+        {
+          "label": "一時停止の標識",
+          "tag": "stop_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/stop_sign"
+        },
+        {
+          "label": "直進または左折の標識",
+          "tag": "straight_or_left_turn_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/straight_or_left_turn_sign"
+        },
+        {
+          "label": "直進または右折の標識",
+          "tag": "straight_or_right_turn_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/straight_or_right_turn_sign"
+        },
+        {
+          "label": "左折標識",
+          "tag": "turn_left_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/turn_left_sign"
+        },
+        {
+          "label": "右折標識",
+          "tag": "turn_right_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/turn_right_sign"
+        }
+      ]
+    },
+    {
+      "セクション名": "日本",
+      "タグ一覧": [
+        {
+          "label": "菊紋",
+          "tag": "kikumon",
+          "link": "https://danbooru.donmai.us/wiki_pages/kikumon"
+        },
+        {
+          "label": "三つ葉葵",
+          "tag": "mitsuba_aoi_%28tokugawa_mon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitsuba_aoi_%28tokugawa_mon%29"
+        },
+        {
+          "label": "織田うり",
+          "tag": "oda_uri",
+          "link": "https://danbooru.donmai.us/wiki_pages/oda_uri"
+        },
+        {
+          "label": "真田家（家紋）",
+          "tag": "sanada_clan_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sanada_clan_%28emblem%29"
+        },
+        {
+          "label": "坂本家（家紋）",
+          "tag": "sakamoto_clan_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sakamoto_clan_%28emblem%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "アークナイツ",
+      "タグ一覧": [
+        {
+          "label": "大龍門のロゴ",
+          "tag": "great_lungmen_logo",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_lungmen_logo"
+        },
+        {
+          "label": "ペンギン急便のロゴ",
+          "tag": "penguin_logistics_logo",
+          "link": "https://danbooru.donmai.us/wiki_pages/penguin_logistics_logo"
+        },
+        {
+          "label": "ライン生命のロゴ",
+          "tag": "rhine_lab_logo",
+          "link": "https://danbooru.donmai.us/wiki_pages/rhine_lab_logo"
+        },
+        {
+          "label": "ロドスのロゴ",
+          "tag": "rhodes_island_logo",
+          "link": "https://danbooru.donmai.us/wiki_pages/rhodes_island_logo"
+        },
+        {
+          "label": "ウルサス帝国のロゴ",
+          "tag": "ursus_empire_logo",
+          "link": "https://danbooru.donmai.us/wiki_pages/ursus_empire_logo"
+        }
+      ]
+    },
+    {
+      "セクション名": "アズールレーン",
+      "タグ一覧": [
+        {
+          "label": "東煌の紋章",
+          "tag": "dragon_empery_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragon_empery_%28emblem%29"
+        },
+        {
+          "label": "ユニオンの紋章",
+          "tag": "eagle_union_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/eagle_union_%28emblem%29"
+        },
+        {
+          "label": "アイリス・リブレ（エンブレム）",
+          "tag": "iris_libre_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/iris_libre_%28emblem%29"
+        },
+        {
+          "label": "鉄血（紋章）",
+          "tag": "iron_blood_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/iron_blood_%28emblem%29"
+        },
+        {
+          "label": "北方連合の紋章",
+          "tag": "northern_parliament_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/northern_parliament_%28emblem%29"
+        },
+        {
+          "label": "重桜の紋章",
+          "tag": "sakura_empire_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sakura_empire_%28emblem%29"
+        },
+        {
+          "label": "ロイヤルの紋章",
+          "tag": "royal_navy_emblem_%28azur_lane%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/royal_navy_emblem_%28azur_lane%29"
+        },
+        {
+          "label": "サルデーニャ帝国（紋章）",
+          "tag": "sardegna_empire_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sardegna_empire_%28emblem%29"
+        },
+        {
+          "label": "ヴィチヤ・ドミニオン（紋章）",
+          "tag": "vichya_dominion_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/vichya_dominion_%28emblem%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "ブレイブルー",
+      "タグ一覧": [
+        {
+          "label": "ブレイブルーの記章",
+          "tag": "blazblue_insignia",
+          "link": "https://danbooru.donmai.us/wiki_pages/blazblue_insignia"
+        }
+      ]
+    },
+    {
+      "セクション名": "BLEACH",
+      "タグ一覧": [
+        {
+          "label": "四楓院の紋章",
+          "tag": "shihouin_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/shihouin_symbol"
+        },
+        {
+          "label": "死神代行の紋章",
+          "tag": "shinigami_daikou_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/shinigami_daikou_symbol"
+        }
+      ]
+    },
+    {
+      "セクション名": "Fateシリーズ",
+      "タグ一覧": [
+        {
+          "label": "令呪",
+          "tag": "command_spell",
+          "link": "https://danbooru.donmai.us/wiki_pages/command_spell"
+        }
+      ]
+    },
+    {
+      "セクション名": "鋼の錬金術師",
+      "タグ一覧": [
+        {
+          "label": "アメストリスのシンボル",
+          "tag": "amestris_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/amestris_symbol"
+        },
+        {
+          "label": "フラメルのシンボル",
+          "tag": "flamel_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/flamel_symbol"
+        }
+      ]
+    },
+    {
+      "セクション名": "幻想水滸伝",
+      "タグ一覧": [
+        {
+          "label": "真の紋章",
+          "tag": "true_rune",
+          "link": "https://danbooru.donmai.us/wiki_pages/true_rune"
+        }
+      ]
+    },
+    {
+      "セクション名": "ガールズ＆パンツァー",
+      "タグ一覧": [
+        {
+          "label": "大洗（エンブレム）",
+          "tag": "ooarai_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ooarai_%28emblem%29"
+        },
+        {
+          "label": "聖グロリアナ（紋章）",
+          "tag": "st._gloriana%27s_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/st._gloriana%27s_%28emblem%29"
+        },
+        {
+          "label": "サンダース（エンブレム）",
+          "tag": "saunders_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/saunders_%28emblem%29"
+        },
+        {
+          "label": "アンツィオ（紋章）",
+          "tag": "anzio_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/anzio_%28emblem%29"
+        },
+        {
+          "label": "プラウダ（紋章）",
+          "tag": "pravda_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pravda_%28emblem%29"
+        },
+        {
+          "label": "黒森峰（紋章）",
+          "tag": "kuromorimine_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kuromorimine_%28emblem%29"
+        },
+        {
+          "label": "知波単の校章",
+          "tag": "chi-hatan_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/chi-hatan_%28emblem%29"
+        },
+        {
+          "label": "継続の校章",
+          "tag": "keizoku_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/keizoku_%28emblem%29"
+        },
+        {
+          "label": "選抜大学（エンブレム）",
+          "tag": "selection_university_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/selection_university_%28emblem%29"
+        },
+        {
+          "label": "日本戦車道連盟の紋章",
+          "tag": "japanese_tankery_league_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_tankery_league_%28emblem%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "Identity V 第五人格",
+      "タグ一覧": [
+        {
+          "label": "ミューズマーク",
+          "tag": "muse_mark_%28identity_v%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/muse_mark_%28identity_v%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "けものフレンズ",
+      "タグ一覧": [
+        {
+          "label": "ジャパリシンボル",
+          "tag": "japari_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/japari_symbol"
+        }
+      ]
+    },
+    {
+      "セクション名": "ナルト",
+      "タグ一覧": [
+        {
+          "label": "雨隠のシンボル",
+          "tag": "amegakure_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/amegakure_symbol"
+        },
+        {
+          "label": "岩隠れのシンボル",
+          "tag": "iwagakure_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwagakure_symbol"
+        },
+        {
+          "label": "木ノ葉隠れのシンボル",
+          "tag": "konohagakure_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/konohagakure_symbol"
+        },
+        {
+          "label": "霧隠のシンボル",
+          "tag": "kirigakure_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/kirigakure_symbol"
+        },
+        {
+          "label": "音隠のシンボル",
+          "tag": "otogakure_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/otogakure_symbol"
+        },
+        {
+          "label": "砂隠れのシンボル",
+          "tag": "sunagakure_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/sunagakure_symbol"
+        },
+        {
+          "label": "うちはシンボル",
+          "tag": "uchiha_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/uchiha_symbol"
+        }
+      ]
+    },
+    {
+      "セクション名": "ワンピース",
+      "タグ一覧": [
+        {
+          "label": "麦わら帽子の海賊旗",
+          "tag": "straw_hats_jolly_roger",
+          "link": "https://danbooru.donmai.us/wiki_pages/straw_hats_jolly_roger"
+        }
+      ]
+    },
+    {
+      "セクション名": "進撃の巨人",
+      "タグ一覧": [
+        {
+          "label": "調査兵団（エンブレム）",
+          "tag": "survey_corps_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/survey_corps_%28emblem%29"
+        },
+        {
+          "label": "駐屯兵団の紋章",
+          "tag": "garrison_regiment_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/garrison_regiment_%28emblem%29"
+        },
+        {
+          "label": "憲兵旅団（紋章）",
+          "tag": "military_police_brigade_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/military_police_brigade_%28emblem%29"
+        },
+        {
+          "label": "訓練兵団の紋章",
+          "tag": "training_corps_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/training_corps_%28emblem%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "スイートプリキュア",
+      "タグ一覧": [
+        {
+          "label": "ト音記号（スイートプリキュア）",
+          "tag": "g-clef_%28suite_precure%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/g-clef_%28suite_precure%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "テイルズ オブ エクシリア",
+      "タグ一覧": [
+        {
+          "label": "エクシリアシンボル",
+          "tag": "xillia_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/xillia_symbol"
+        }
+      ]
+    },
+    {
+      "セクション名": "ワールドウィッチーズシリーズ",
+      "タグ一覧": [
+        {
+          "label": "第501統合戦闘航空団（エンブレム）",
+          "tag": "501st_joint_fighter_wing_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/501st_joint_fighter_wing_%28emblem%29"
+        },
+        {
+          "label": "第502統合戦闘航空団（エンブレム）",
+          "tag": "502nd_joint_fighter_wing_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/502nd_joint_fighter_wing_%28emblem%29"
+        },
+        {
+          "label": "第503統合戦闘航空団（エンブレム）",
+          "tag": "503rd_joint_fighter_wing_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/503rd_joint_fighter_wing_%28emblem%29"
+        },
+        {
+          "label": "第504統合戦闘航空団（エンブレム）",
+          "tag": "504th_joint_fighter_wing_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/504th_joint_fighter_wing_%28emblem%29"
+        },
+        {
+          "label": "第505統合戦闘航空団（エンブレム）",
+          "tag": "505th_joint_fighter_wing_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/505th_joint_fighter_wing_%28emblem%29"
+        },
+        {
+          "label": "第506統合戦闘航空団（エンブレム）",
+          "tag": "506th_joint_fighter_wing_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/506th_joint_fighter_wing_%28emblem%29"
+        },
+        {
+          "label": "第507統合戦闘航空団（エンブレム）",
+          "tag": "507th_joint_fighter_wing_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/507th_joint_fighter_wing_%28emblem%29"
+        },
+        {
+          "label": "第508統合戦闘航空団（エンブレム）",
+          "tag": "508th_joint_fighter_wing_%28emblem%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/508th_joint_fighter_wing_%28emblem%29"
+        }
+      ]
+    }
+  ]
+}

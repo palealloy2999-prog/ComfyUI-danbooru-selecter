@@ -1,0 +1,227 @@
+﻿{
+    "カテゴリID":  "visual_aesthetic",
+    "カテゴリ名":  "視覚的な作風",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Avisual_aesthetic",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "一般的な美学",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "抽象",
+                                         "tag":  "abstract",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/abstract"
+                                     },
+                                     {
+                                         "label":  "アシッドグラフィックス",
+                                         "tag":  "acid_graphics",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/acid_graphics"
+                                     },
+                                     {
+                                         "label":  "バイオパンク",
+                                         "tag":  "biopunk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/biopunk"
+                                     },
+                                     {
+                                         "label":  "ブリンギー",
+                                         "tag":  "blingee",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blingee"
+                                     },
+                                     {
+                                         "label":  "チョコガール",
+                                         "tag":  "choco_girl",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/choco_girl"
+                                     },
+                                     {
+                                         "label":  "サイバーパンク",
+                                         "tag":  "cyberpunk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cyberpunk"
+                                     },
+                                     {
+                                         "label":  "ディーゼルパンク",
+                                         "tag":  "dieselpunk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dieselpunk"
+                                     },
+                                     {
+                                         "label":  "敦煌風",
+                                         "tag":  "dunhuang_style",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dunhuang_style"
+                                     },
+                                     {
+                                         "label":  "フルティガーエアロ",
+                                         "tag":  "frutiger_aero",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frutiger_aero"
+                                     },
+                                     {
+                                         "label":  "フルティガーメトロ",
+                                         "tag":  "frutiger_metro",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frutiger_metro"
+                                     },
+                                     {
+                                         "label":  "グロかわ",
+                                         "tag":  "gurokawa",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gurokawa"
+                                     },
+                                     {
+                                         "label":  "平成レトロ",
+                                         "tag":  "heisei_retro",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heisei_retro"
+                                     },
+                                     {
+                                         "label":  "シューディーバ",
+                                         "tag":  "shoe_diva",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoe_diva"
+                                     },
+                                     {
+                                         "label":  "シルクパンク",
+                                         "tag":  "silkpunk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/silkpunk"
+                                     },
+                                     {
+                                         "label":  "スチームパンク",
+                                         "tag":  "steampunk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/steampunk"
+                                     },
+                                     {
+                                         "label":  "シュール",
+                                         "tag":  "surreal",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/surreal"
+                                     },
+                                     {
+                                         "label":  "シンセウェーブ",
+                                         "tag":  "synthwave",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/synthwave"
+                                     },
+                                     {
+                                         "label":  "天使界隈",
+                                         "tag":  "tenshi_kaiwai",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tenshi_kaiwai"
+                                     },
+                                     {
+                                         "label":  "ウィアードコア",
+                                         "tag":  "weirdcore",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/weirdcore"
+                                     },
+                                     {
+                                         "label":  "ヴェイパーウェイヴ",
+                                         "tag":  "vaporwave",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vaporwave"
+                                     },
+                                     {
+                                         "label":  "病みかわいい",
+                                         "tag":  "yami_kawaii",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yami_kawaii"
+                                     },
+                                     {
+                                         "label":  "ゆめかわいい",
+                                         "tag":  "yume_kawaii",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yume_kawaii"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "アートスタイル",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "絵柄パロディ一覧",
+                                         "tag":  "list_of_style_parodies",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_style_parodies"
+                                     },
+                                     {
+                                         "label":  "1980年代（スタイル）",
+                                         "tag":  "1980s_%28style%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/1980s_%28style%29"
+                                     },
+                                     {
+                                         "label":  "1990年代（スタイル）",
+                                         "tag":  "1990s_%28style%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/1990s_%28style%29"
+                                     },
+                                     {
+                                         "label":  "2000年代（スタイル）",
+                                         "tag":  "2000s_%28style%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/2000s_%28style%29"
+                                     },
+                                     {
+                                         "label":  "アールデコ",
+                                         "tag":  "art_deco",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/art_deco"
+                                     },
+                                     {
+                                         "label":  "アールヌーボー",
+                                         "tag":  "art_nouveau",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/art_nouveau"
+                                     },
+                                     {
+                                         "label":  "洞窟壁画",
+                                         "tag":  "cave_paintings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cave_paintings"
+                                     },
+                                     {
+                                         "label":  "キュービズム",
+                                         "tag":  "cubism",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cubism"
+                                     },
+                                     {
+                                         "label":  "印象派",
+                                         "tag":  "impressionism",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/impressionism"
+                                     },
+                                     {
+                                         "label":  "リーン・クレール",
+                                         "tag":  "ligne_claire",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ligne_claire"
+                                     },
+                                     {
+                                         "label":  "ローポリ",
+                                         "tag":  "low_poly",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/low_poly"
+                                     },
+                                     {
+                                         "label":  "日本画",
+                                         "tag":  "nihonga",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nihonga"
+                                     },
+                                     {
+                                         "label":  "水墨画",
+                                         "tag":  "sumi-e",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sumi-e"
+                                     },
+                                     {
+                                         "label":  "浮世絵",
+                                         "tag":  "ukiyo-e",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ukiyo-e"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "デザイン要素",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "サイバーシジリズム",
+                                         "tag":  "cyber_sigilism",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cyber_sigilism"
+                                     },
+                                     {
+                                         "label":  "装飾的な曲線模様",
+                                         "tag":  "flourish_%28design%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flourish_%28design%29"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：ファッションスタイル",
+                                         "tag":  "tag_group%3Afashion_style",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Afashion_style"
+                                     },
+                                     {
+                                         "label":  "絵柄パロディ一覧",
+                                         "tag":  "list_of_style_parodies",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_style_parodies"
+                                     }
+                                 ]
+                    }
+                ]
+}

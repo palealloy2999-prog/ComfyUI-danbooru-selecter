@@ -1,0 +1,27 @@
+{
+  "カテゴリID": "nape",
+  "カテゴリ名": "うなじ",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=nape",
+  "セクション一覧": [
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "後ろから",
+          "tag": "from_behind",
+          "link": "https://danbooru.donmai.us/wiki_pages/from_behind"
+        },
+        {
+          "label": "うなじの一本毛",
+          "tag": "lone_nape_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/lone_nape_hair"
+        },
+        {
+          "label": "タググループ：肩",
+          "tag": "tag_group%3Ashoulders",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ashoulders"
+        }
+      ]
+    }
+  ]
+}

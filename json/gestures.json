@@ -1,0 +1,657 @@
+{
+  "カテゴリID": "gestures",
+  "カテゴリ名": "ジェスチャー",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Agestures",
+  "セクション一覧": [
+    {
+      "セクション名": "両手を使う仕草",
+      "タグ一覧": [
+        {
+          "label": "エアクォート",
+          "tag": "air_quotes",
+          "link": "https://danbooru.donmai.us/wiki_pages/air_quotes"
+        },
+        {
+          "label": "抱っこを求める",
+          "tag": "carry_me",
+          "link": "https://danbooru.donmai.us/wiki_pages/carry_me"
+        },
+        {
+          "label": "サークルハンド",
+          "tag": "circle_hands",
+          "link": "https://danbooru.donmai.us/wiki_pages/circle_hands"
+        },
+        {
+          "label": "握りしめた手",
+          "tag": "clenched_hands",
+          "link": "https://danbooru.donmai.us/wiki_pages/clenched_hands"
+        },
+        {
+          "label": "両手をカップ状にする",
+          "tag": "cupping_hands",
+          "link": "https://danbooru.donmai.us/wiki_pages/cupping_hands"
+        },
+        {
+          "label": "ダブルフィンガーガン",
+          "tag": "double_finger_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_finger_gun"
+        },
+        {
+          "label": "両手でサムズダウン",
+          "tag": "double_thumbs_down",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_thumbs_down"
+        },
+        {
+          "label": "両手でサムズアップ",
+          "tag": "double_thumbs_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_thumbs_up"
+        },
+        {
+          "label": "ダブルV",
+          "tag": "double_v",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_v"
+        },
+        {
+          "label": "そわそわする",
+          "tag": "fidgeting",
+          "link": "https://danbooru.donmai.us/wiki_pages/fidgeting"
+        },
+        {
+          "label": "指で数える",
+          "tag": "finger_counting",
+          "link": "https://danbooru.donmai.us/wiki_pages/finger_counting"
+        },
+        {
+          "label": "指で枠を作る",
+          "tag": "finger_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/finger_frame"
+        },
+        {
+          "label": "フィストバンプ",
+          "tag": "fist_bump",
+          "link": "https://danbooru.donmai.us/wiki_pages/fist_bump"
+        },
+        {
+          "label": "拳を手に",
+          "tag": "fist_in_hand",
+          "link": "https://danbooru.donmai.us/wiki_pages/fist_in_hand"
+        },
+        {
+          "label": "まさぐる手つき",
+          "tag": "groping_motion",
+          "link": "https://danbooru.donmai.us/wiki_pages/groping_motion"
+        },
+        {
+          "label": "手で作った眼鏡",
+          "tag": "hand_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_glasses"
+        },
+        {
+          "label": "ハートの腕",
+          "tag": "heart_arms",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_arms"
+        },
+        {
+          "label": "手でハートを作る",
+          "tag": "heart_hands",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_hands"
+        },
+        {
+          "label": "ハートの手デュオ",
+          "tag": "heart_hands_duo",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_hands_duo"
+        },
+        {
+          "label": "ハートハンズトリオ",
+          "tag": "heart_hands_trio",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_hands_trio"
+        },
+        {
+          "label": "ハートハンズカルテット",
+          "tag": "heart_hands_quartet",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_hands_quartet"
+        },
+        {
+          "label": "ハイタッチ",
+          "tag": "high_five",
+          "link": "https://danbooru.donmai.us/wiki_pages/high_five"
+        },
+        {
+          "label": "手で角を作る",
+          "tag": "horns_pose",
+          "link": "https://danbooru.donmai.us/wiki_pages/horns_pose"
+        },
+        {
+          "label": "きつねの窓",
+          "tag": "kitsune_no_mado",
+          "link": "https://danbooru.donmai.us/wiki_pages/kitsune_no_mado"
+        },
+        {
+          "label": "ヌーギー",
+          "tag": "noogie",
+          "link": "https://danbooru.donmai.us/wiki_pages/noogie"
+        },
+        {
+          "label": "自分の手を握りしめて",
+          "tag": "own_hands_clasped",
+          "link": "https://danbooru.donmai.us/wiki_pages/own_hands_clasped"
+        },
+        {
+          "label": "拳を合わせた挨拶",
+          "tag": "palm-fist_greeting",
+          "link": "https://danbooru.donmai.us/wiki_pages/palm-fist_greeting"
+        },
+        {
+          "label": "手のひらと拳でタップ",
+          "tag": "palm-fist_tap",
+          "link": "https://danbooru.donmai.us/wiki_pages/palm-fist_tap"
+        },
+        {
+          "label": "挿入ジェスチャー",
+          "tag": "penetration_gesture",
+          "link": "https://danbooru.donmai.us/wiki_pages/penetration_gesture"
+        },
+        {
+          "label": "指切り",
+          "tag": "pinky_swear",
+          "link": "https://danbooru.donmai.us/wiki_pages/pinky_swear"
+        },
+        {
+          "label": "ウサギのポーズ",
+          "tag": "rabbit_pose",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit_pose"
+        },
+        {
+          "label": "影絵人形",
+          "tag": "shadow_puppet",
+          "link": "https://danbooru.donmai.us/wiki_pages/shadow_puppet"
+        },
+        {
+          "label": "指先同士を合わせる",
+          "tag": "steepled_fingers",
+          "link": "https://danbooru.donmai.us/wiki_pages/steepled_fingers"
+        },
+        {
+          "label": "月にかわっておしおきよ",
+          "tag": "tsuki_ni_kawatte_oshioki_yo",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsuki_ni_kawatte_oshioki_yo"
+        },
+        {
+          "label": "腕でバツ印",
+          "tag": "x_arms",
+          "link": "https://danbooru.donmai.us/wiki_pages/x_arms"
+        },
+        {
+          "label": "指でバツ印",
+          "tag": "x_fingers",
+          "link": "https://danbooru.donmai.us/wiki_pages/x_fingers"
+        }
+      ]
+    },
+    {
+      "セクション名": "指1本の仕草",
+      "タグ一覧": [
+        {
+          "label": "あかんべえ",
+          "tag": "akanbe",
+          "link": "https://danbooru.donmai.us/wiki_pages/akanbe"
+        },
+        {
+          "label": "手招き",
+          "tag": "beckoning",
+          "link": "https://danbooru.donmai.us/wiki_pages/beckoning"
+        },
+        {
+          "label": "髪を指でくるくる巻く",
+          "tag": "twirling_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/twirling_hair"
+        },
+        {
+          "label": "人差し指を立てる",
+          "tag": "index_finger_raised",
+          "link": "https://danbooru.donmai.us/wiki_pages/index_finger_raised"
+        },
+        {
+          "label": "中指",
+          "tag": "middle_finger",
+          "link": "https://danbooru.donmai.us/wiki_pages/middle_finger"
+        },
+        {
+          "label": "小指を立てる",
+          "tag": "pinky_out",
+          "link": "https://danbooru.donmai.us/wiki_pages/pinky_out"
+        },
+        {
+          "label": "指差し",
+          "tag": "pointing",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointing"
+        },
+        {
+          "label": "他の人を指差す",
+          "tag": "pointing_at_another",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointing_at_another"
+        },
+        {
+          "label": "自分を指差す",
+          "tag": "pointing_at_self",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointing_at_self"
+        },
+        {
+          "label": "視聴者を指差して",
+          "tag": "pointing_at_viewer",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointing_at_viewer"
+        },
+        {
+          "label": "指さしスパイダーマン（ミーム）",
+          "tag": "pointing_spider-man_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointing_spider-man_%28meme%29"
+        },
+        {
+          "label": "下を指して",
+          "tag": "pointing_down",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointing_down"
+        },
+        {
+          "label": "前を指して",
+          "tag": "pointing_forward",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointing_forward"
+        },
+        {
+          "label": "上を指差す",
+          "tag": "pointing_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointing_up"
+        },
+        {
+          "label": "カミナポーズ",
+          "tag": "kamina_pose",
+          "link": "https://danbooru.donmai.us/wiki_pages/kamina_pose"
+        },
+        {
+          "label": "サタデーナイトフィーバー",
+          "tag": "saturday_night_fever",
+          "link": "https://danbooru.donmai.us/wiki_pages/saturday_night_fever"
+        },
+        {
+          "label": "口に指を当てて静かにの合図",
+          "tag": "shushing",
+          "link": "https://danbooru.donmai.us/wiki_pages/shushing"
+        },
+        {
+          "label": "喉を切り裂く（ジェスチャー）",
+          "tag": "slit_throat_%28gesture%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/slit_throat_%28gesture%29"
+        },
+        {
+          "label": "親指を下に向けて",
+          "tag": "thumbs_down",
+          "link": "https://danbooru.donmai.us/wiki_pages/thumbs_down"
+        },
+        {
+          "label": "サムズアップ",
+          "tag": "thumbs_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/thumbs_up"
+        }
+      ]
+    },
+    {
+      "セクション名": "指2本の仕草",
+      "タグ一覧": [
+        {
+          "label": "\\n/",
+          "tag": "%5Cn%2F",
+          "link": "https://danbooru.donmai.us/wiki_pages/%5Cn%2F"
+        },
+        {
+          "label": "指を交差させて",
+          "tag": "crossed_fingers",
+          "link": "https://danbooru.donmai.us/wiki_pages/crossed_fingers"
+        },
+        {
+          "label": "指銃",
+          "tag": "finger_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/finger_gun"
+        },
+        {
+          "label": "指ハート",
+          "tag": "finger_heart",
+          "link": "https://danbooru.donmai.us/wiki_pages/finger_heart"
+        },
+        {
+          "label": "キツネの影絵",
+          "tag": "fox_shadow_puppet",
+          "link": "https://danbooru.donmai.us/wiki_pages/fox_shadow_puppet"
+        },
+        {
+          "label": "シャカサイン",
+          "tag": "shaka_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/shaka_sign"
+        },
+        {
+          "label": "二本指の敬礼",
+          "tag": "two-finger_salute",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-finger_salute"
+        },
+        {
+          "label": "L字にした手",
+          "tag": "l_hand",
+          "link": "https://danbooru.donmai.us/wiki_pages/l_hand"
+        },
+        {
+          "label": "ピースサイン",
+          "tag": "v",
+          "link": "https://danbooru.donmai.us/wiki_pages/v"
+        },
+        {
+          "label": "ギャルv",
+          "tag": "gyaru_v",
+          "link": "https://danbooru.donmai.us/wiki_pages/gyaru_v"
+        },
+        {
+          "label": "内向きのV",
+          "tag": "inward_v",
+          "link": "https://danbooru.donmai.us/wiki_pages/inward_v"
+        },
+        {
+          "label": "目元でピースサイン",
+          "tag": "v_over_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/v_over_eye"
+        },
+        {
+          "label": "口の上のv",
+          "tag": "v_over_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/v_over_mouth"
+        }
+      ]
+    },
+    {
+      "セクション名": "指3本の仕草",
+      "タグ一覧": [
+        {
+          "label": "\\m/",
+          "tag": "%5Cm%2F",
+          "link": "https://danbooru.donmai.us/wiki_pages/%5Cm%2F"
+        },
+        {
+          "label": "真ん中のw",
+          "tag": "middle_w",
+          "link": "https://danbooru.donmai.us/wiki_pages/middle_w"
+        },
+        {
+          "label": "お金のジェスチャー",
+          "tag": "money_gesture",
+          "link": "https://danbooru.donmai.us/wiki_pages/money_gesture"
+        },
+        {
+          "label": "OKサイン",
+          "tag": "ok_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/ok_sign"
+        },
+        {
+          "label": "つまむジェスチャー",
+          "tag": "pinching_gesture",
+          "link": "https://danbooru.donmai.us/wiki_pages/pinching_gesture"
+        },
+        {
+          "label": "指でW字",
+          "tag": "w",
+          "link": "https://danbooru.donmai.us/wiki_pages/w"
+        }
+      ]
+    },
+    {
+      "セクション名": "指4本の仕草",
+      "タグ一覧": [
+        {
+          "label": "数字の4（ASL）",
+          "tag": "number_four_%28asl%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/number_four_%28asl%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "手を開いた仕草",
+      "タグ一覧": [
+        {
+          "label": "\\||/",
+          "tag": "%5C%7C%7C%2F",
+          "link": "https://danbooru.donmai.us/wiki_pages/%5C%7C%7C%2F"
+        },
+        {
+          "label": "\\|||/",
+          "tag": "239552",
+          "link": "https://danbooru.donmai.us/wiki_pages/239552"
+        },
+        {
+          "label": "爪のポーズ",
+          "tag": "claw_pose",
+          "link": "https://danbooru.donmai.us/wiki_pages/claw_pose"
+        },
+        {
+          "label": "顔面を手で覆う",
+          "tag": "facepalm",
+          "link": "https://danbooru.donmai.us/wiki_pages/facepalm"
+        },
+        {
+          "label": "おひかえなすって",
+          "tag": "ohikaenasutte",
+          "link": "https://danbooru.donmai.us/wiki_pages/ohikaenasutte"
+        },
+        {
+          "label": "開いた手",
+          "tag": "open_hand",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_hand"
+        },
+        {
+          "label": "手を伸ばす",
+          "tag": "reaching",
+          "link": "https://danbooru.donmai.us/wiki_pages/reaching"
+        },
+        {
+          "label": "敬礼",
+          "tag": "salute",
+          "link": "https://danbooru.donmai.us/wiki_pages/salute"
+        },
+        {
+          "label": "指を広げる",
+          "tag": "spread_fingers",
+          "link": "https://danbooru.donmai.us/wiki_pages/spread_fingers"
+        },
+        {
+          "label": "止まれ（ジェスチャー）",
+          "tag": "stop_%28gesture%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/stop_%28gesture%29"
+        },
+        {
+          "label": "まっすぐな敬礼",
+          "tag": "straight-arm_salute",
+          "link": "https://danbooru.donmai.us/wiki_pages/straight-arm_salute"
+        },
+        {
+          "label": "バルカン敬礼",
+          "tag": "vulcan_salute",
+          "link": "https://danbooru.donmai.us/wiki_pages/vulcan_salute"
+        },
+        {
+          "label": "手を振る",
+          "tag": "waving",
+          "link": "https://danbooru.donmai.us/wiki_pages/waving"
+        }
+      ]
+    },
+    {
+      "セクション名": "握りこぶしの仕草",
+      "タグ一覧": [
+        {
+          "label": "握りしめた手",
+          "tag": "clenched_hand",
+          "link": "https://danbooru.donmai.us/wiki_pages/clenched_hand"
+        },
+        {
+          "label": "曲がった指",
+          "tag": "curled_fingers",
+          "link": "https://danbooru.donmai.us/wiki_pages/curled_fingers"
+        },
+        {
+          "label": "どじっこポーズ",
+          "tag": "dojikko_pose",
+          "link": "https://danbooru.donmai.us/wiki_pages/dojikko_pose"
+        },
+        {
+          "label": "フィグサイン",
+          "tag": "fig_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/fig_sign"
+        },
+        {
+          "label": "前足のポーズ",
+          "tag": "paw_pose",
+          "link": "https://danbooru.donmai.us/wiki_pages/paw_pose"
+        },
+        {
+          "label": "パワーフィスト",
+          "tag": "power_fist",
+          "link": "https://danbooru.donmai.us/wiki_pages/power_fist"
+        },
+        {
+          "label": "拳を突き上げた",
+          "tag": "raised_fist",
+          "link": "https://danbooru.donmai.us/wiki_pages/raised_fist"
+        },
+        {
+          "label": "どちら様ですか？",
+          "tag": "che_vuoi%3F_%28italian_gesture%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/che_vuoi%3F_%28italian_gesture%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の片手の仕草",
+      "タグ一覧": [
+        {
+          "label": "手招き",
+          "tag": "beckoning",
+          "link": "https://danbooru.donmai.us/wiki_pages/beckoning"
+        },
+        {
+          "label": "クンニリングスのジェスチャー",
+          "tag": "cunnilingus_gesture",
+          "link": "https://danbooru.donmai.us/wiki_pages/cunnilingus_gesture"
+        },
+        {
+          "label": "フェラチオのジェスチャー",
+          "tag": "fellatio_gesture",
+          "link": "https://danbooru.donmai.us/wiki_pages/fellatio_gesture"
+        },
+        {
+          "label": "手コキのジェスチャー",
+          "tag": "handjob_gesture",
+          "link": "https://danbooru.donmai.us/wiki_pages/handjob_gesture"
+        },
+        {
+          "label": "帽子に手を添える挨拶",
+          "tag": "hat_tip",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_tip"
+        },
+        {
+          "label": "口での行為を誘う仕草",
+          "tag": "oral_invitation",
+          "link": "https://danbooru.donmai.us/wiki_pages/oral_invitation"
+        },
+        {
+          "label": "口での行為を模した仕草",
+          "tag": "oral_simulation",
+          "link": "https://danbooru.donmai.us/wiki_pages/oral_simulation"
+        },
+        {
+          "label": "ショッカー（ジェスチャー）",
+          "tag": "shocker_%28gesture%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shocker_%28gesture%29"
+        },
+        {
+          "label": "自分の顎を撫でる",
+          "tag": "stroking_own_chin",
+          "link": "https://danbooru.donmai.us/wiki_pages/stroking_own_chin"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他のジェスチャー",
+      "タグ一覧": [
+        {
+          "label": "エアギター",
+          "tag": "air_guitar",
+          "link": "https://danbooru.donmai.us/wiki_pages/air_guitar"
+        },
+        {
+          "label": "お辞儀",
+          "tag": "bowing",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowing"
+        },
+        {
+          "label": "カーテシー",
+          "tag": "curtsey",
+          "link": "https://danbooru.donmai.us/wiki_pages/curtsey"
+        },
+        {
+          "label": "助けを求めるハンドサイン",
+          "tag": "distress_hand_signal",
+          "link": "https://danbooru.donmai.us/wiki_pages/distress_hand_signal"
+        },
+        {
+          "label": "ハートテール",
+          "tag": "heart_tail",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_tail"
+        },
+        {
+          "label": "ハートテールデュオ",
+          "tag": "heart_tail_duo",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_tail_duo"
+        },
+        {
+          "label": "ジェスチャーで持つ",
+          "tag": "holding_with_gesture",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_with_gesture"
+        },
+        {
+          "label": "九字印",
+          "tag": "kuji-in",
+          "link": "https://danbooru.donmai.us/wiki_pages/kuji-in"
+        },
+        {
+          "label": "蘭の指",
+          "tag": "orchid_fingers",
+          "link": "https://danbooru.donmai.us/wiki_pages/orchid_fingers"
+        },
+        {
+          "label": "肩をすくめる",
+          "tag": "shrugging",
+          "link": "https://danbooru.donmai.us/wiki_pages/shrugging"
+        },
+        {
+          "label": "つま先を伸ばす",
+          "tag": "toe-point",
+          "link": "https://danbooru.donmai.us/wiki_pages/toe-point"
+        },
+        {
+          "label": "勝利のポーズ",
+          "tag": "victory_pose",
+          "link": "https://danbooru.donmai.us/wiki_pages/victory_pose"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：手",
+          "tag": "tag_group%3Ahands",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahands"
+        },
+        {
+          "label": "タググループ：姿勢",
+          "tag": "tag_group%3Aposture",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aposture"
+        }
+      ]
+    }
+  ]
+}

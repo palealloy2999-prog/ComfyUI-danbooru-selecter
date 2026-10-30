@@ -1,0 +1,1087 @@
+﻿{
+    "カテゴリID":  "face_tags",
+    "カテゴリ名":  "顔・表情",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aface_tags",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "基本",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "複数の表情",
+                                         "tag":  "multiple_expressions",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_expressions"
+                                     },
+                                     {
+                                         "label":  "表情表",
+                                         "tag":  "expression_chart",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/expression_chart"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "感情",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "怒り",
+                                         "tag":  "angry",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/angry"
+                                     },
+                                     {
+                                         "label":  "怒りマーク",
+                                         "tag":  "anger_vein",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/anger_vein"
+                                     },
+                                     {
+                                         "label":  "イライラ",
+                                         "tag":  "annoyed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/annoyed"
+                                     },
+                                     {
+                                         "label":  "歯を食いしばる",
+                                         "tag":  "clenched_teeth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clenched_teeth"
+                                     },
+                                     {
+                                         "label":  "しかめっ面",
+                                         "tag":  "scowl",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scowl"
+                                     },
+                                     {
+                                         "label":  "イライラ",
+                                         "tag":  "annoyed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/annoyed"
+                                     },
+                                     {
+                                         "label":  "赤面",
+                                         "tag":  "blush",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blush"
+                                     },
+                                     {
+                                         "label":  "チークステッカー",
+                                         "tag":  "blush_stickers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blush_stickers"
+                                     },
+                                     {
+                                         "label":  "恥ずかしい",
+                                         "tag":  "embarrassed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/embarrassed"
+                                     },
+                                     {
+                                         "label":  "顔全体の赤面",
+                                         "tag":  "full-face_blush",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/full-face_blush"
+                                     },
+                                     {
+                                         "label":  "鼻が赤くなる",
+                                         "tag":  "nose_blush",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nose_blush"
+                                     },
+                                     {
+                                         "label":  "退屈",
+                                         "tag":  "bored",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bored"
+                                     },
+                                     {
+                                         "label":  "目を閉じて",
+                                         "tag":  "closed_eyes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/closed_eyes"
+                                     },
+                                     {
+                                         "label":  "混乱した",
+                                         "tag":  "confused",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/confused"
+                                     },
+                                     {
+                                         "label":  "クレイジー",
+                                         "tag":  "crazy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crazy"
+                                     },
+                                     {
+                                         "label":  "絶望",
+                                         "tag":  "despair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/despair"
+                                     },
+                                     {
+                                         "label":  "決意した表情",
+                                         "tag":  "determined",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/determined"
+                                     },
+                                     {
+                                         "label":  "残念だった",
+                                         "tag":  "disappointed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/disappointed"
+                                     },
+                                     {
+                                         "label":  "軽蔑",
+                                         "tag":  "disdain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/disdain"
+                                     },
+                                     {
+                                         "label":  "嫌悪",
+                                         "tag":  "disgust",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/disgust"
+                                     },
+                                     {
+                                         "label":  "酔っ払い",
+                                         "tag":  "drunk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/drunk"
+                                     },
+                                     {
+                                         "label":  "妬み",
+                                         "tag":  "envy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/envy"
+                                     },
+                                     {
+                                         "label":  "興奮した",
+                                         "tag":  "excited",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/excited"
+                                     },
+                                     {
+                                         "label":  "疲れ果てた",
+                                         "tag":  "exhausted",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/exhausted"
+                                     },
+                                     {
+                                         "label":  "無表情",
+                                         "tag":  "expressionless",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/expressionless"
+                                     },
+                                     {
+                                         "label":  "顔面を手で覆う",
+                                         "tag":  "facepalm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/facepalm"
+                                     },
+                                     {
+                                         "label":  "慌てた",
+                                         "tag":  "flustered",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flustered"
+                                     },
+                                     {
+                                         "label":  "イライラした",
+                                         "tag":  "frustrated",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frustrated"
+                                     },
+                                     {
+                                         "label":  "しかめ眉",
+                                         "tag":  "furrowed_brow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/furrowed_brow"
+                                     },
+                                     {
+                                         "label":  "しかめっ面",
+                                         "tag":  "grimace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grimace"
+                                     },
+                                     {
+                                         "label":  "罪悪感",
+                                         "tag":  "guilt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/guilt"
+                                     },
+                                     {
+                                         "label":  "ハッピー",
+                                         "tag":  "happy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/happy"
+                                     },
+                                     {
+                                         "label":  "キューブリックの視線",
+                                         "tag":  "kubrick_stare",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kubrick_stare"
+                                     },
+                                     {
+                                         "label":  "さみしい",
+                                         "tag":  "lonely",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lonely"
+                                     },
+                                     {
+                                         "label":  "神経質",
+                                         "tag":  "nervous",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nervous"
+                                     },
+                                     {
+                                         "label":  "鼻血",
+                                         "tag":  "nosebleed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nosebleed"
+                                     },
+                                     {
+                                         "label":  "片目を閉じて",
+                                         "tag":  "one_eye_closed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/one_eye_closed"
+                                     },
+                                     {
+                                         "label":  ":o（丸く開いた口）",
+                                         "tag":  "%3Ao",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Ao"
+                                     },
+                                     {
+                                         "label":  "口を開ける",
+                                         "tag":  "open_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/open_mouth"
+                                     },
+                                     {
+                                         "label":  "少し開いた唇",
+                                         "tag":  "parted_lips",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/parted_lips"
+                                     },
+                                     {
+                                         "label":  "痛み",
+                                         "tag":  "pain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pain"
+                                     },
+                                     {
+                                         "label":  "ふくれっ面",
+                                         "tag":  "pout",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pout"
+                                     },
+                                     {
+                                         "label":  "片眉を上げる",
+                                         "tag":  "raised_eyebrow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/raised_eyebrow"
+                                     },
+                                     {
+                                         "label":  "眉頭を上げる",
+                                         "tag":  "raised_inner_eyebrows",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/raised_inner_eyebrows"
+                                     },
+                                     {
+                                         "label":  "レイプ顔",
+                                         "tag":  "rape_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rape_face"
+                                     },
+                                     {
+                                         "label":  "目を回す",
+                                         "tag":  "rolling_eyes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rolling_eyes"
+                                     },
+                                     {
+                                         "label":  "悲しい",
+                                         "tag":  "sad",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sad"
+                                     },
+                                     {
+                                         "label":  "落ち込んだ表情",
+                                         "tag":  "depressed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/depressed"
+                                     },
+                                     {
+                                         "label":  "しかめっ面",
+                                         "tag":  "frown",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frown"
+                                     },
+                                     {
+                                         "label":  "憂鬱（表情）",
+                                         "tag":  "gloom_%28expression%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gloom_%28expression%29"
+                                     },
+                                     {
+                                         "label":  "涙",
+                                         "tag":  "tears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tears"
+                                     },
+                                     {
+                                         "label":  "怖がる表情",
+                                         "tag":  "scared",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scared"
+                                     },
+                                     {
+                                         "label":  "パニックに陥る",
+                                         "tag":  "panicking",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/panicking"
+                                     },
+                                     {
+                                         "label":  "心配した",
+                                         "tag":  "worried",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/worried"
+                                     },
+                                     {
+                                         "label":  "真剣な表情",
+                                         "tag":  "serious",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/serious"
+                                     },
+                                     {
+                                         "label":  "ため息",
+                                         "tag":  "sigh",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sigh"
+                                     },
+                                     {
+                                         "label":  "眠い",
+                                         "tag":  "sleepy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleepy"
+                                     },
+                                     {
+                                         "label":  "ふくれっ面",
+                                         "tag":  "sulking",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sulking"
+                                     },
+                                     {
+                                         "label":  "驚いた",
+                                         "tag":  "surprised",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/surprised"
+                                     },
+                                     {
+                                         "label":  "考え",
+                                         "tag":  "thinking",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thinking"
+                                     },
+                                     {
+                                         "label":  "物思いにふける",
+                                         "tag":  "pensive",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pensive"
+                                     },
+                                     {
+                                         "label":  "V字型の眉",
+                                         "tag":  "v-shaped_eyebrows",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/v-shaped_eyebrows"
+                                     },
+                                     {
+                                         "label":  "ひるむ",
+                                         "tag":  "wince",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wince"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "性的",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "行為後の余韻",
+                                         "tag":  "afterglow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/afterglow"
+                                     },
+                                     {
+                                         "label":  "アヘ顔",
+                                         "tag":  "ahegao",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ahegao"
+                                     },
+                                     {
+                                         "label":  "めちゃくちゃに犯される",
+                                         "tag":  "fucked_silly",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fucked_silly"
+                                     },
+                                     {
+                                         "label":  "性的興奮",
+                                         "tag":  "aroused",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aroused"
+                                     },
+                                     {
+                                         "label":  "めちゃくちゃになった",
+                                         "tag":  "fucked_silly",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fucked_silly"
+                                     },
+                                     {
+                                         "label":  "発情期",
+                                         "tag":  "in_heat",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/in_heat"
+                                     },
+                                     {
+                                         "label":  "いたずらな顔",
+                                         "tag":  "naughty_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/naughty_face"
+                                     },
+                                     {
+                                         "label":  "魅惑的な笑顔",
+                                         "tag":  "seductive_smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seductive_smile"
+                                     },
+                                     {
+                                         "label":  "とろ顔",
+                                         "tag":  "torogao",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/torogao"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "笑顔",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "笑顔",
+                                         "tag":  "smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/smile"
+                                     },
+                                     {
+                                         "label":  ":d",
+                                         "tag":  "%3Ad",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Ad"
+                                     },
+                                     {
+                                         "label":  "クレイジーな笑顔",
+                                         "tag":  "crazy_smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crazy_smile"
+                                     },
+                                     {
+                                         "label":  "邪悪な笑顔",
+                                         "tag":  "evil_smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/evil_smile"
+                                     },
+                                     {
+                                         "label":  "指で口角を上げる",
+                                         "tag":  "fingersmile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fingersmile"
+                                     },
+                                     {
+                                         "label":  "作り笑い",
+                                         "tag":  "forced_smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/forced_smile"
+                                     },
+                                     {
+                                         "label":  "グラスゴースマイル",
+                                         "tag":  "glasgow_smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glasgow_smile"
+                                     },
+                                     {
+                                         "label":  "にっこり笑う",
+                                         "tag":  "grin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grin"
+                                     },
+                                     {
+                                         "label":  "邪悪な笑み",
+                                         "tag":  "evil_grin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/evil_grin"
+                                     },
+                                     {
+                                         "label":  "軽い笑顔",
+                                         "tag":  "light_smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/light_smile"
+                                     },
+                                     {
+                                         "label":  "悲しい笑顔",
+                                         "tag":  "sad_smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sad_smile"
+                                     },
+                                     {
+                                         "label":  "魅惑的な笑顔",
+                                         "tag":  "seductive_smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seductive_smile"
+                                     },
+                                     {
+                                         "label":  "笑顔",
+                                         "tag":  "smile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/smile"
+                                     },
+                                     {
+                                         "label":  "抑えた笑い",
+                                         "tag":  "stifled_laugh",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stifled_laugh"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "得意げな",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "得意げな表情",
+                                         "tag":  "smug",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/smug"
+                                     },
+                                     {
+                                         "label":  "どや顔",
+                                         "tag":  "doyagao",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/doyagao"
+                                     },
+                                     {
+                                         "label":  "ニヤニヤ",
+                                         "tag":  "smirk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/smirk"
+                                     },
+                                     {
+                                         "label":  "得意げな表情",
+                                         "tag":  "smug",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/smug"
+                                     },
+                                     {
+                                         "label":  "トロールフェイス",
+                                         "tag":  "troll_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/troll_face"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "驚き・恐怖・悲しみ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "驚いた",
+                                         "tag":  "surprised",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/surprised"
+                                     },
+                                     {
+                                         "label":  "怖がる表情",
+                                         "tag":  "scared",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scared"
+                                     },
+                                     {
+                                         "label":  "悲しい",
+                                         "tag":  "sad",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sad"
+                                     },
+                                     {
+                                         "label":  "^^^",
+                                         "tag":  "%5E%5E%5E",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%5E%5E%5E"
+                                     },
+                                     {
+                                         "label":  "カラードレイン",
+                                         "tag":  "color_drain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/color_drain"
+                                     },
+                                     {
+                                         "label":  "落ち込んだ表情",
+                                         "tag":  "depressed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/depressed"
+                                     },
+                                     {
+                                         "label":  "絶望",
+                                         "tag":  "despair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/despair"
+                                     },
+                                     {
+                                         "label":  "憂鬱（表情）",
+                                         "tag":  "gloom_%28expression%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gloom_%28expression%29"
+                                     },
+                                     {
+                                         "label":  "恐怖",
+                                         "tag":  "horrified",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/horrified"
+                                     },
+                                     {
+                                         "label":  "叫ぶ",
+                                         "tag":  "screaming",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/screaming"
+                                     },
+                                     {
+                                         "label":  "すすり泣く",
+                                         "tag":  "sobbing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sobbing"
+                                     },
+                                     {
+                                         "label":  "トラウマを負った",
+                                         "tag":  "traumatized",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/traumatized"
+                                     },
+                                     {
+                                         "label":  "青ざめる",
+                                         "tag":  "turn_pale",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/turn_pale"
+                                     },
+                                     {
+                                         "label":  "波形の口",
+                                         "tag":  "wavy_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wavy_mouth"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "顔文字風の表情",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  ";)",
+                                         "tag":  "%3B%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3B%29"
+                                     },
+                                     {
+                                         "label":  ":d",
+                                         "tag":  "%3Ad",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Ad"
+                                     },
+                                     {
+                                         "label":  ";d",
+                                         "tag":  "%3Bd",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Bd"
+                                     },
+                                     {
+                                         "label":  "XD",
+                                         "tag":  "xd",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/xd"
+                                     },
+                                     {
+                                         "label":  "d:",
+                                         "tag":  "d%3A",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/d%3A"
+                                     },
+                                     {
+                                         "label":  ":3",
+                                         "tag":  "%3A3",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3A3"
+                                     },
+                                     {
+                                         "label":  ";3",
+                                         "tag":  "%3B3",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3B3"
+                                     },
+                                     {
+                                         "label":  "x3",
+                                         "tag":  "x3",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/x3"
+                                     },
+                                     {
+                                         "label":  "3:",
+                                         "tag":  "3%3A",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/3%3A"
+                                     },
+                                     {
+                                         "label":  "0w0",
+                                         "tag":  "0w0",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/0w0"
+                                     },
+                                     {
+                                         "label":  "uwu",
+                                         "tag":  "uwu",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/uwu"
+                                     },
+                                     {
+                                         "label":  ":p",
+                                         "tag":  "%3Ap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Ap"
+                                     },
+                                     {
+                                         "label":  ";p",
+                                         "tag":  "%3Bp",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Bp"
+                                     },
+                                     {
+                                         "label":  ":q",
+                                         "tag":  "%3Aq",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Aq"
+                                     },
+                                     {
+                                         "label":  ";q",
+                                         "tag":  "%3Bq",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Bq"
+                                     },
+                                     {
+          "label": ">:)",
+                                         "tag":  "%3E%3A%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3E%3A%29"
+                                     },
+                                     {
+          "label": ">:(",
+                                         "tag":  "%3E%3A%28",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3E%3A%28"
+                                     },
+                                     {
+                                         "label":  ":t",
+                                         "tag":  "%3At",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3At"
+                                     },
+                                     {
+                                         "label":  ":i",
+                                         "tag":  "%3Ai",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Ai"
+                                     },
+                                     {
+                                         "label":  ":/",
+                                         "tag":  "%3A%2F",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3A%2F"
+                                     },
+                                     {
+                                         "label":  ":|",
+                                         "tag":  "show_or_new?title=:|",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/show_or_new?title=:|"
+                                     },
+                                     {
+                                         "label":  "x口",
+                                         "tag":  "x_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/x_mouth"
+                                     },
+                                     {
+                                         "label":  ":c",
+                                         "tag":  "%3Ac",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Ac"
+                                     },
+                                     {
+                                         "label":  "c:",
+                                         "tag":  "c%3A",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/c%3A"
+                                     },
+                                     {
+          "label": ":<",
+                                         "tag":  "%3A%3C",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3A%3C"
+                                     },
+                                     {
+          "label": ";<",
+                                         "tag":  "%3B%3C",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3B%3C"
+                                     },
+                                     {
+                                         "label":  "ダイヤモンドの口",
+                                         "tag":  "diamond_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/diamond_mouth"
+                                     },
+                                     {
+          "label": ":>",
+                                         "tag":  "%3A%3E",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3A%3E"
+                                     },
+                                     {
+          "label": ":>=",
+                                         "tag":  "%3A%3E%3D",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3A%3E%3D"
+                                     },
+                                     {
+          "label": ":>",
+                                         "tag":  "%3A%3E",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3A%3E"
+                                     },
+                                     {
+                                         "label":  ":o（丸く開いた口）",
+                                         "tag":  "%3Ao",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Ao"
+                                     },
+                                     {
+                                         "label":  ";o",
+                                         "tag":  "%3Bo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Bo"
+                                     },
+                                     {
+                                         "label":  "o3o",
+                                         "tag":  "o3o",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/o3o"
+                                     },
+                                     {
+          "label": ">3<",
+                                         "tag":  "%3E3%3C",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3E3%3C"
+                                     },
+                                     {
+                                         "label":  "o_o",
+                                         "tag":  "o_o",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/o_o"
+                                     },
+                                     {
+                                         "label":  "0_0",
+                                         "tag":  "0_0",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/0_0"
+                                     },
+                                     {
+                                         "label":  "|_|",
+                                         "tag":  "show_or_new?title=|_|",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/show_or_new?title=|_|"
+                                     },
+                                     {
+                                         "label":  "._.",
+                                         "tag":  "._.",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/._."
+                                     },
+                                     {
+                                         "label":  "丸い目",
+                                         "tag":  "solid_circle_eyes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/solid_circle_eyes"
+                                     },
+                                     {
+                                         "label":  "ハート型の目",
+                                         "tag":  "heart-shaped_eyes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart-shaped_eyes"
+                                     },
+                                     {
+                                         "label":  "^_^",
+                                         "tag":  "%5E_%5E",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%5E_%5E"
+                                     },
+                                     {
+                                         "label":  "＼(^o^)／",
+                                         "tag":  "%5C%28%5Eo%5E%29%2F",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%5C%28%5Eo%5E%29%2F"
+                                     },
+                                     {
+                                         "label":  "^q^",
+                                         "tag":  "%5Eq%5E",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%5Eq%5E"
+                                     },
+                                     {
+          "label": ">_<",
+                                         "tag":  "%3E_%3C",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3E_%3C"
+                                     },
+                                     {
+                                         "label":  "XD",
+                                         "tag":  "xd",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/xd"
+                                     },
+                                     {
+                                         "label":  "x3",
+                                         "tag":  "x3",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/x3"
+                                     },
+                                     {
+          "label": ">o<",
+                                         "tag":  "%3Eo%3C",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Eo%3C"
+                                     },
+                                     {
+                                         "label":  "@_@",
+                                         "tag":  "%40_%40",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%40_%40"
+                                     },
+                                     {
+          "label": ">_@",
+                                         "tag":  "%3E_%40",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3E_%40"
+                                     },
+                                     {
+                                         "label":  "+_+",
+                                         "tag":  "%2B_%2B",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%2B_%2B"
+                                     },
+                                     {
+                                         "label":  "+_-",
+                                         "tag":  "%2B_-",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%2B_-"
+                                     },
+                                     {
+                                         "label":  "=_=",
+                                         "tag":  "%3D_%3D",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3D_%3D"
+                                     },
+                                     {
+          "label": "<o>_<o>",
+                                         "tag":  "%3Co%3E_%3Co%3E",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3Co%3E_%3Co%3E"
+                                     },
+                                     {
+          "label": "<|>_<|>",
+          "tag": "show_or_new?title=<|>_<|>",
+          "link": "https://danbooru.donmai.us/wiki_pages/show_or_new?title=<|>_<|>"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "描画スタイル",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "眉毛",
+                                         "tag":  "eyebrows",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyebrows"
+                                     },
+                                     {
+                                         "label":  "髪に隠れた眉",
+                                         "tag":  "eyebrows_hidden_by_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyebrows_hidden_by_hair"
+                                     },
+                                     {
+                                         "label":  "左右で異なる眉",
+                                         "tag":  "mismatched_eyebrows",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mismatched_eyebrows"
+                                     },
+                                     {
+                                         "label":  "タググループ：目・瞳",
+                                         "tag":  "tag_group%3Aeyes_tags",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyes_tags"
+                                     },
+                                     {
+                                         "label":  "縮瞳",
+                                         "tag":  "constricted_pupils",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/constricted_pupils"
+                                     },
+                                     {
+                                         "label":  "斜視",
+                                         "tag":  "cross-eyed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cross-eyed"
+                                     },
+                                     {
+                                         "label":  "目を大きく見開いて",
+                                         "tag":  "wide-eyed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wide-eyed"
+                                     },
+                                     {
+                                         "label":  "鼻",
+                                         "tag":  "nose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nose"
+                                     },
+                                     {
+                                         "label":  "点で描かれた鼻",
+                                         "tag":  "dot_nose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dot_nose"
+                                     },
+                                     {
+                                         "label":  "鼻がない",
+                                         "tag":  "no_nose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_nose"
+                                     },
+                                     {
+                                         "label":  "栗の形の口",
+                                         "tag":  "chestnut_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chestnut_mouth"
+                                     },
+                                     {
+                                         "label":  "点の口",
+                                         "tag":  "dot_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dot_mouth"
+                                     },
+                                     {
+                                         "label":  "口からよだれを垂らす",
+                                         "tag":  "mouth_drool",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mouth_drool"
+                                     },
+                                     {
+                                         "label":  "口がない",
+                                         "tag":  "no_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_mouth"
+                                     },
+                                     {
+                                         "label":  "長方形の口",
+                                         "tag":  "rectangular_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rectangular_mouth"
+                                     },
+                                     {
+                                         "label":  "横向きの口",
+                                         "tag":  "sideways_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sideways_mouth"
+                                     },
+                                     {
+                                         "label":  "口が裂ける",
+                                         "tag":  "split_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/split_mouth"
+                                     },
+                                     {
+                                         "label":  "ユリエ口",
+                                         "tag":  "yurie_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yurie_mouth"
+                                     },
+                                     {
+                                         "label":  "波形の口",
+                                         "tag":  "wavy_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wavy_mouth"
+                                     },
+                                     {
+                                         "label":  "モブの顔",
+                                         "tag":  "mob_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mob_face"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ミームの顔",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "怒った犬の鳴き声",
+                                         "tag":  "angry_dog_noises_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/angry_dog_noises_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "素晴らしい顔",
+                                         "tag":  "awesome_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/awesome_face"
+                                     },
+                                     {
+                                         "label":  "エセックスの顔",
+                                         "tag":  "essex_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/essex_face"
+                                     },
+                                     {
+                                         "label":  "エクスカリバーの顔",
+                                         "tag":  "excalibur_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/excalibur_face"
+                                     },
+                                     {
+                                         "label":  "FXに全財産をつぎ込んだ人々の顔",
+                                         "tag":  "face_of_the_people_who_sank_all_their_money_into_the_fx_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/face_of_the_people_who_sank_all_their_money_into_the_fx_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "ギャテ ギャテ",
+                                         "tag":  "gyate_gyate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gyate_gyate"
+                                     },
+                                     {
+                                         "label":  "へのへのもへじ",
+                                         "tag":  "henohenomoheji",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/henohenomoheji"
+                                     },
+                                     {
+                                         "label":  "ノノワ",
+                                         "tag":  "nonowa",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nonowa"
+                                     },
+                                     {
+                                         "label":  "スマイリーフェイス",
+                                         "tag":  "smiley_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/smiley_face"
+                                     },
+                                     {
+                                         "label":  "トロールフェイス",
+                                         "tag":  "troll_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/troll_face"
+                                     },
+                                     {
+                                         "label":  "嘘だ",
+                                         "tag":  "uso_da",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/uso_da"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "フードガズム",
+                                         "tag":  "foodgasm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/foodgasm"
+                                     },
+                                     {
+                                         "label":  "肖像画",
+                                         "tag":  "portrait",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/portrait"
+                                     },
+                                     {
+                                         "label":  "横顔",
+                                         "tag":  "profile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/profile"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "見て圧倒される表情",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "胸に圧倒される",
+                                         "tag":  "breast_awe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/breast_awe"
+                                     },
+                                     {
+                                         "label":  "食べ物に圧倒される",
+                                         "tag":  "food_awe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/food_awe"
+                                     },
+                                     {
+                                         "label":  "筋肉に圧倒される",
+                                         "tag":  "muscle_awe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/muscle_awe"
+                                     },
+                                     {
+                                         "label":  "ペニスの畏怖",
+                                         "tag":  "penis_awe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/penis_awe"
+                                     },
+                                     {
+                                         "label":  "見つめる",
+                                         "tag":  "staring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/staring"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：目・瞳",
+                                         "tag":  "tag_group%3Aeyes_tags",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyes_tags"
+                                     },
+                                     {
+                                         "label":  "眉毛",
+                                         "tag":  "eyebrows",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyebrows"
+                                     },
+                                     {
+                                         "label":  "化粧",
+                                         "tag":  "makeup",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/makeup"
+                                     },
+                                     {
+                                         "label":  "鼻",
+                                         "tag":  "nose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nose"
+                                     }
+                                 ]
+                    }
+                ]
+}

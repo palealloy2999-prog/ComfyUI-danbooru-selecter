@@ -1,0 +1,1817 @@
+﻿{
+    "カテゴリID":  "accessories",
+    "カテゴリ名":  "アクセサリー",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aaccessories",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "頭",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：帽子・頭飾り",
+                                         "tag":  "tag_group%3Aheadwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aheadwear"
+                                     },
+                                     {
+                                         "label":  "タググループ：アイウェア",
+                                         "tag":  "tag_group%3Aeyewear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyewear"
+                                     },
+                                     {
+                                         "label":  "バンダナ",
+                                         "tag":  "bandana",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandana"
+                                     },
+                                     {
+                                         "label":  "ビンディ",
+                                         "tag":  "bindi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bindi"
+                                     },
+                                     {
+                                         "label":  "ボンネット",
+                                         "tag":  "bonnet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bonnet"
+                                     },
+                                     {
+                                         "label":  "サークレット",
+                                         "tag":  "circlet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/circlet"
+                                     },
+                                     {
+                                         "label":  "王冠",
+                                         "tag":  "crown",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crown"
+                                     },
+                                     {
+                                         "label":  "ミニクラウン",
+                                         "tag":  "mini_crown",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mini_crown"
+                                     },
+                                     {
+                                         "label":  "耳カバー",
+                                         "tag":  "ear_covers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ear_covers"
+                                     },
+                                     {
+                                         "label":  "イヤーカフ",
+                                         "tag":  "ear_cuffs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ear_cuffs"
+                                     },
+                                     {
+                                         "label":  "耳当て",
+                                         "tag":  "earmuffs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/earmuffs"
+                                     },
+                                     {
+                                         "label":  "耳飾り",
+                                         "tag":  "ear_ornament",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ear_ornament"
+                                     },
+                                     {
+                                         "label":  "つけ耳",
+                                         "tag":  "fake_animal_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_animal_ears"
+                                     },
+                                     {
+                                         "label":  "ファシネーター",
+                                         "tag":  "fascinator",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fascinator"
+                                     },
+                                     {
+                                         "label":  "ゴーグル",
+                                         "tag":  "goggles",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/goggles"
+                                     },
+                                     {
+                                         "label":  "眼鏡",
+                                         "tag":  "glasses",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glasses"
+                                     },
+                                     {
+                                         "label":  "ヘアバンド",
+                                         "tag":  "hairband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairband"
+                                     },
+                                     {
+                                         "label":  "チェーンヘアバンド",
+                                         "tag":  "chain_hairband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chain_hairband"
+                                     },
+                                     {
+                                         "label":  "フリルヘアバンド",
+                                         "tag":  "frilled_hairband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frilled_hairband"
+                                     },
+                                     {
+                                         "label":  "ヘアエクステンション",
+                                         "tag":  "hair_extensions",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_extensions"
+                                     },
+                                     {
+                                         "label":  "サイバーロックス",
+                                         "tag":  "cyberlox",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cyberlox"
+                                     },
+                                     {
+          "label": "アライグマの尻尾",
+                                         "tag":  "raccoon_tails_%28hairstyle%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/raccoon_tails_%28hairstyle%29"
+                                     },
+                                     {
+                                         "label":  "リングヘアエクステンション",
+                                         "tag":  "ring_hair_extensions",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ring_hair_extensions"
+                                     },
+                                     {
+                                         "label":  "髪飾り",
+                                         "tag":  "hair_ornament",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_ornament"
+                                     },
+                                     {
+                                         "label":  "ヘアビーズ",
+                                         "tag":  "hair_beads",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_beads"
+                                     },
+                                     {
+                                         "label":  "ヘアゴム",
+                                         "tag":  "hair_bobbles",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_bobbles"
+                                     },
+                                     {
+                                         "label":  "髪の蝶結びリボン",
+                                         "tag":  "hair_bow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_bow"
+                                     },
+                                     {
+                                         "label":  "ヘアクリップ",
+                                         "tag":  "hairclip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairclip"
+                                     },
+                                     {
+                                         "label":  "髪の花飾り",
+                                         "tag":  "hair_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_flower"
+                                     },
+                                     {
+                                         "label":  "ヘアピン",
+                                         "tag":  "hairpin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairpin"
+                                     },
+                                     {
+                                         "label":  "髪のリボン",
+                                         "tag":  "hair_ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_ribbon"
+                                     },
+                                     {
+                                         "label":  "ヘアシュシュ",
+                                         "tag":  "hair_scrunchie",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_scrunchie"
+                                     },
+                                     {
+                                         "label":  "ヘアスティック",
+                                         "tag":  "hair_stick",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_stick"
+                                     },
+                                     {
+                                         "label":  "ヘアチューブ",
+                                         "tag":  "hair_tubes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_tubes"
+                                     },
+                                     {
+                                         "label":  "かんざし",
+                                         "tag":  "kanzashi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kanzashi"
+                                     },
+                                     {
+                                         "label":  "帽子",
+                                         "tag":  "hat",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat"
+                                     },
+                                     {
+                                         "label":  "ミニハット",
+                                         "tag":  "mini_hat",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mini_hat"
+                                     },
+                                     {
+                                         "label":  "ヘッドバンド",
+                                         "tag":  "headband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headband"
+                                     },
+                                     {
+                                         "label":  "チェーンヘッドバンド",
+                                         "tag":  "chain_headband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chain_headband"
+                                     },
+                                     {
+                                         "label":  "額当て",
+                                         "tag":  "forehead_protector",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/forehead_protector"
+                                     },
+                                     {
+                                         "label":  "ハチマキ",
+                                         "tag":  "hachimaki",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hachimaki"
+                                     },
+                                     {
+                                         "label":  "汗止めバンド",
+                                         "tag":  "sweatband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sweatband"
+                                     },
+                                     {
+                                         "label":  "ヘッドチェーン",
+                                         "tag":  "head_chain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_chain"
+                                     },
+                                     {
+                                         "label":  "ヘッドマウントディスプレイ",
+                                         "tag":  "head-mounted_display",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head-mounted_display"
+                                     },
+                                     {
+                                         "label":  "ヘッドピース",
+                                         "tag":  "headpiece",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headpiece"
+                                     },
+                                     {
+                                         "label":  "ヘッドフォン",
+                                         "tag":  "headphones",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headphones"
+                                     },
+                                     {
+          "label": "イヤホン",
+                                         "tag":  "earphones",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/earphones"
+                                     },
+                                     {
+                                         "label":  "イヤーピース",
+                                         "tag":  "earpiece",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/earpiece"
+                                     },
+                                     {
+                                         "label":  "ヘッドセット",
+                                         "tag":  "headset",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headset"
+                                     },
+                                     {
+                                         "label":  "頭巾",
+                                         "tag":  "headscarf",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headscarf"
+                                     },
+                                     {
+                                         "label":  "ヒジャブ",
+                                         "tag":  "hijab",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hijab"
+                                     },
+                                     {
+                                         "label":  "花冠",
+                                         "tag":  "head_wreath",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_wreath"
+                                     },
+                                     {
+                                         "label":  "ヴィノック",
+                                         "tag":  "vinok",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vinok"
+                                     },
+                                     {
+                                         "label":  "角飾り",
+                                         "tag":  "horn_ornament",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/horn_ornament"
+                                     },
+                                     {
+          "label": "垂れ飾り",
+                                         "tag":  "lappet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lappet"
+                                     },
+                                     {
+                                         "label":  "月桂冠",
+                                         "tag":  "laurel_crown",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/laurel_crown"
+                                     },
+                                     {
+                                         "label":  "安全メガネ",
+                                         "tag":  "safety_glasses",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/safety_glasses"
+                                     },
+                                     {
+                                         "label":  "サングラス",
+                                         "tag":  "sunglasses",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sunglasses"
+                                     },
+                                     {
+                                         "label":  "ティアラ",
+                                         "tag":  "tiara",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tiara"
+                                     },
+                                     {
+                                         "label":  "三角形のヘッドピース",
+                                         "tag":  "triangular_headpiece",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/triangular_headpiece"
+                                     },
+                                     {
+                                         "label":  "ベール",
+                                         "tag":  "veil",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/veil"
+                                     },
+                                     {
+                                         "label":  "かつら",
+                                         "tag":  "wig",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wig"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "首",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：首とネックウェア",
+                                         "tag":  "tag_group%3Aneck_and_neckwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aneck_and_neckwear"
+                                     },
+                                     {
+                                         "label":  "アスコット",
+                                         "tag":  "ascot",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ascot"
+                                     },
+                                     {
+                                         "label":  "よだれかけ",
+                                         "tag":  "bib",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bib"
+                                     },
+                                     {
+                                         "label":  "蝶ネクタイ",
+                                         "tag":  "bowtie",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bowtie"
+                                     },
+                                     {
+                                         "label":  "長命鎖",
+                                         "tag":  "changmingsuo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/changmingsuo"
+                                     },
+                                     {
+                                         "label":  "あごひも",
+                                         "tag":  "chin_strap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chin_strap"
+                                     },
+                                     {
+                                         "label":  "チョーカー",
+                                         "tag":  "choker",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/choker"
+                                     },
+                                     {
+                                         "label":  "フリルチョーカー",
+                                         "tag":  "frilled_choker",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frilled_choker"
+                                     },
+                                     {
+                                         "label":  "タトゥーチョーカー",
+                                         "tag":  "tattoo_choker",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tattoo_choker"
+                                     },
+                                     {
+                                         "label":  "首輪",
+                                         "tag":  "collar",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/collar"
+                                     },
+                                     {
+                                         "label":  "首輪チェーン",
+                                         "tag":  "collar_chain_%28jewelry%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/collar_chain_%28jewelry%29"
+                                     },
+                                     {
+                                         "label":  "襟先アクセサリー",
+                                         "tag":  "collar_tips_%28jewelry%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/collar_tips_%28jewelry%29"
+                                     },
+                                     {
+                                         "label":  "クロスタイ",
+                                         "tag":  "cross_tie",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cross_tie"
+                                     },
+                                     {
+                                         "label":  "ドッグタグ",
+                                         "tag":  "dog_tags",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dog_tags"
+                                     },
+                                     {
+                                         "label":  "フェザーボア",
+                                         "tag":  "feather_boa",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/feather_boa"
+                                     },
+                                     {
+                                         "label":  "ギンペ",
+                                         "tag":  "guimpe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/guimpe"
+                                     },
+                                     {
+                                         "label":  "ラペルピン",
+                                         "tag":  "lapel_pin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lapel_pin"
+                                     },
+                                     {
+                                         "label":  "レイ",
+                                         "tag":  "lei",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lei"
+                                     },
+                                     {
+                                         "label":  "ラフカラー",
+                                         "tag":  "neck_ruff",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_ruff"
+                                     },
+                                     {
+                                         "label":  "ネッカチーフ",
+                                         "tag":  "neckerchief",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/neckerchief"
+                                     },
+                                     {
+                                         "label":  "ネックレス",
+                                         "tag":  "necklace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/necklace"
+                                     },
+                                     {
+                                         "label":  "ネックリボン",
+                                         "tag":  "neck_ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_ribbon"
+                                     },
+                                     {
+                                         "label":  "ネックリング",
+                                         "tag":  "neck_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_ring"
+                                     },
+                                     {
+                                         "label":  "ネクタイ",
+                                         "tag":  "necktie",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/necktie"
+                                     },
+                                     {
+                                         "label":  "ネクタイピン",
+                                         "tag":  "tie_clip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tie_clip"
+                                     },
+                                     {
+                                         "label":  "スカーフ",
+                                         "tag":  "scarf",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scarf"
+                                     },
+                                     {
+                                         "label":  "スカーフチョーカー",
+                                         "tag":  "scarf_choker",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scarf_choker"
+                                     },
+                                     {
+                                         "label":  "ショール",
+                                         "tag":  "shawl",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shawl"
+                                     },
+                                     {
+                                         "label":  "ストール",
+                                         "tag":  "stole",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stole"
+                                     },
+                                     {
+                                         "label":  "ウセク",
+                                         "tag":  "usekh_collar",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/usekh_collar"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "腕・手",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：手袋・手の装飾",
+                                         "tag":  "tag_group%3Ahandwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahandwear"
+                                     },
+                                     {
+                                         "label":  "腕章",
+                                         "tag":  "armband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armband"
+                                     },
+                                     {
+                                         "label":  "アームベルト",
+                                         "tag":  "arm_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_belt"
+                                     },
+                                     {
+                                         "label":  "アームガーター",
+                                         "tag":  "arm_garter",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_garter"
+                                     },
+                                     {
+                                         "label":  "腕輪",
+                                         "tag":  "armlet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armlet"
+                                     },
+                                     {
+                                         "label":  "腕リボン",
+                                         "tag":  "arm_ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_ribbon"
+                                     },
+                                     {
+                                         "label":  "アームウォーマー",
+                                         "tag":  "arm_warmers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_warmers"
+                                     },
+                                     {
+                                         "label":  "ブレスレット",
+                                         "tag":  "bracelet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bracelet"
+                                     },
+                                     {
+                                         "label":  "ブレイサー",
+                                         "tag":  "bracer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bracer"
+                                     },
+                                     {
+                                         "label":  "ブライダルガントレット",
+                                         "tag":  "bridal_gauntlets",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bridal_gauntlets"
+                                     },
+                                     {
+                                         "label":  "カフスボタン",
+                                         "tag":  "cuff_links",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cuff_links"
+                                     },
+                                     {
+                                         "label":  "付け袖",
+                                         "tag":  "detached_sleeves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/detached_sleeves"
+                                     },
+                                     {
+                                         "label":  "肘スリーブ",
+                                         "tag":  "elbow_sleeve",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/elbow_sleeve"
+                                     },
+                                     {
+                                         "label":  "肩章",
+                                         "tag":  "epaulettes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/epaulettes"
+                                     },
+                                     {
+                                         "label":  "指サック",
+                                         "tag":  "finger_cots",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/finger_cots"
+                                     },
+                                     {
+                                         "label":  "手袋",
+                                         "tag":  "gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gloves"
+                                     },
+                                     {
+                                         "label":  "指なし手袋",
+                                         "tag":  "fingerless_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fingerless_gloves"
+                                     },
+                                     {
+                                         "label":  "ハンドチェーン",
+                                         "tag":  "hand_chains",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_chains"
+                                     },
+                                     {
+                                         "label":  "ハンドジュエル",
+                                         "tag":  "hand_jewel",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_jewel"
+                                     },
+                                     {
+                                         "label":  "ミトン",
+                                         "tag":  "mittens",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mittens"
+                                     },
+                                     {
+                                         "label":  "リストバンド",
+                                         "tag":  "wristband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wristband"
+                                     },
+                                     {
+                                         "label":  "手首カフス",
+                                         "tag":  "wrist_cuffs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wrist_cuffs"
+                                     },
+                                     {
+                                         "label":  "ボタン付き袖口",
+                                         "tag":  "buttoned_cuffs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/buttoned_cuffs"
+                                     },
+                                     {
+                                         "label":  "手首の花",
+                                         "tag":  "wrist_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wrist_flower"
+                                     },
+                                     {
+                                         "label":  "手首のラフ",
+                                         "tag":  "wrist_ruff",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wrist_ruff"
+                                     },
+                                     {
+                                         "label":  "手首用シュシュ",
+                                         "tag":  "wrist_scrunchie",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wrist_scrunchie"
+                                     },
+                                     {
+                                         "label":  "リストストラップ",
+                                         "tag":  "wrist_straps",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wrist_straps"
+                                     },
+                                     {
+                                         "label":  "腕時計",
+                                         "tag":  "wristwatch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wristwatch"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "脚",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：レッグウェア",
+                                         "tag":  "tag_group%3Alegwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Alegwear"
+                                     },
+                                     {
+          "label":  "タググループ:フットウェア",
+                                         "tag":  "tag_group%3Afootwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Afootwear"
+                                     },
+                                     {
+                                         "label":  "足首ガーター",
+                                         "tag":  "ankle_garter",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ankle_garter"
+                                     },
+                                     {
+                                         "label":  "アンクルストラップ",
+                                         "tag":  "ankle_strap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ankle_strap"
+                                     },
+                                     {
+                                         "label":  "アンクレット",
+                                         "tag":  "anklet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/anklet"
+                                     },
+                                     {
+                                         "label":  "裸足サンダル",
+                                         "tag":  "barefoot_sandals_%28jewelry%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/barefoot_sandals_%28jewelry%29"
+                                     },
+                                     {
+                                         "label":  "ふくらはぎ飾り",
+                                         "tag":  "calflet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/calflet"
+                                     },
+                                     {
+                                         "label":  "ガーターストラップ",
+                                         "tag":  "garter_straps",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/garter_straps"
+                                     },
+                                     {
+                                         "label":  "膝ストラップ",
+                                         "tag":  "knee_strap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knee_strap"
+                                     },
+                                     {
+                                         "label":  "レッグベルト",
+                                         "tag":  "leg_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leg_belt"
+                                     },
+                                     {
+                                         "label":  "脚のリボン",
+                                         "tag":  "leg_ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leg_ribbon"
+                                     },
+                                     {
+                                         "label":  "太ももリボン",
+                                         "tag":  "thigh_ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thigh_ribbon"
+                                     },
+                                     {
+                                         "label":  "レッグウォーマー",
+                                         "tag":  "leg_warmers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leg_warmers"
+                                     },
+                                     {
+                                         "label":  "ファーレッグウォーマー",
+                                         "tag":  "fur_leg_warmers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur_leg_warmers"
+                                     },
+                                     {
+                                         "label":  "レッグウェアガーター",
+                                         "tag":  "legwear_garter",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/legwear_garter"
+                                     },
+                                     {
+                                         "label":  "ルーズソックス",
+                                         "tag":  "loose_socks",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/loose_socks"
+                                     },
+                                     {
+                                         "label":  "すねストラップ",
+                                         "tag":  "shin_strap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shin_strap"
+                                     },
+                                     {
+                                         "label":  "スパッツ（靴覆い）",
+                                         "tag":  "spats_%28footwear%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spats_%28footwear%29"
+                                     },
+                                     {
+                                         "label":  "腿当て",
+                                         "tag":  "thighlet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thighlet"
+                                     },
+                                     {
+                                         "label":  "太ももストラップ",
+                                         "tag":  "thigh_strap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thigh_strap"
+                                     },
+                                     {
+                                         "label":  "フリル付きの太ももストラップ",
+                                         "tag":  "frilled_thigh_strap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frilled_thigh_strap"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "胴体",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "飾緒",
+                                         "tag":  "aiguillette",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aiguillette"
+                                     },
+                                     {
+                                         "label":  "弾帯",
+                                         "tag":  "bandolier",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandolier"
+                                     },
+                                     {
+                                         "label":  "ベリーチェーン",
+                                         "tag":  "belly_chain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belly_chain"
+                                     },
+                                     {
+                                         "label":  "ベルト",
+                                         "tag":  "belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belt"
+                                     },
+                                     {
+                                         "label":  "ベルトのバックル",
+                                         "tag":  "belt_buckle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belt_buckle"
+                                     },
+                                     {
+                                         "label":  "ベルトチャーム",
+                                         "tag":  "belt_charm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belt_charm"
+                                     },
+                                     {
+                                         "label":  "しっぽキーホルダー",
+                                         "tag":  "tail_keychain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tail_keychain"
+                                     },
+                                     {
+                                         "label":  "ベルトスカート",
+                                         "tag":  "belt_skirt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belt_skirt"
+                                     },
+                                     {
+                                         "label":  "チェーンベルト",
+                                         "tag":  "chain_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chain_belt"
+                                     },
+                                     {
+                                         "label":  "腰飾りチェーン",
+                                         "tag":  "chatelaine",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chatelaine"
+                                     },
+                                     {
+                                         "label":  "宝石ベルト",
+                                         "tag":  "gem_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gem_belt"
+                                     },
+                                     {
+                                         "label":  "緩いベルト",
+                                         "tag":  "loose_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/loose_belt"
+                                     },
+                                     {
+                                         "label":  "サム・ブラウンベルト",
+                                         "tag":  "sam_browne_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sam_browne_belt"
+                                     },
+                                     {
+                                         "label":  "ショルダーベルト",
+                                         "tag":  "shoulder_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoulder_belt"
+                                     },
+                                     {
+                                         "label":  "スタッズベルト",
+                                         "tag":  "studded_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/studded_belt"
+                                     },
+                                     {
+                                         "label":  "ウォレットチェーン",
+                                         "tag":  "wallet_chain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wallet_chain"
+                                     },
+                                     {
+                                         "label":  "ボディジュエリー",
+                                         "tag":  "body_jewelry",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/body_jewelry"
+                                     },
+                                     {
+                                         "label":  "ブートニア",
+                                         "tag":  "boutonniere",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/boutonniere"
+                                     },
+                                     {
+                                         "label":  "バッスル（腰の膨らみ）",
+                                         "tag":  "bustle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bustle"
+                                     },
+                                     {
+                                         "label":  "ケープ",
+                                         "tag":  "cape",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cape"
+                                     },
+                                     {
+                                         "label":  "ケープレット",
+                                         "tag":  "capelet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/capelet"
+                                     },
+                                     {
+                                         "label":  "腰周りの服",
+                                         "tag":  "clothes_around_waist",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clothes_around_waist"
+                                     },
+                                     {
+                                         "label":  "コサージュ",
+                                         "tag":  "corsage",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/corsage"
+                                     },
+                                     {
+                                         "label":  "コルセット",
+                                         "tag":  "corset",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/corset"
+                                     },
+                                     {
+                                         "label":  "クリノリン",
+                                         "tag":  "crinoline",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crinoline"
+                                     },
+                                     {
+                                         "label":  "つけしっぽ",
+                                         "tag":  "fake_tail",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_tail"
+                                     },
+                                     {
+                                         "label":  "ウエストポーチ",
+                                         "tag":  "fanny_pack",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fanny_pack"
+                                     },
+                                     {
+                                         "label":  "ガーターベルト",
+                                         "tag":  "garter_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/garter_belt"
+                                     },
+                                     {
+                                         "label":  "ハーネス",
+                                         "tag":  "harness",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/harness"
+                                     },
+                                     {
+                                         "label":  "チェストハーネス",
+                                         "tag":  "chest_harness",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chest_harness"
+                                     },
+                                     {
+                                         "label":  "羽織紐",
+                                         "tag":  "haori_himo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/haori_himo"
+                                     },
+                                     {
+                                         "label":  "帯",
+                                         "tag":  "obi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/obi"
+                                     },
+                                     {
+                                         "label":  "印籠",
+                                         "tag":  "inrou",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/inrou"
+                                     },
+                                     {
+                                         "label":  "帯揚げ",
+                                         "tag":  "obiage",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/obiage"
+                                     },
+                                     {
+                                         "label":  "ポケットチーフ",
+                                         "tag":  "pocket_square",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pocket_square"
+                                     },
+                                     {
+                                         "label":  "サロン",
+                                         "tag":  "sarong",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sarong"
+                                     },
+                                     {
+                                         "label":  "飾り帯",
+                                         "tag":  "sash",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sash"
+                                     },
+                                     {
+                                         "label":  "肩帯",
+                                         "tag":  "shoulder_sash",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoulder_sash"
+                                     },
+                                     {
+                                         "label":  "ウエストサッシュ",
+                                         "tag":  "waist_sash",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/waist_sash"
+                                     },
+                                     {
+                                         "label":  "カマーバンド",
+                                         "tag":  "cummerbund",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cummerbund"
+                                     },
+                                     {
+                                         "label":  "シェンディット",
+                                         "tag":  "shendyt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shendyt"
+                                     },
+                                     {
+                                         "label":  "しめ縄",
+                                         "tag":  "shimenawa",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shimenawa"
+                                     },
+                                     {
+                                         "label":  "シャツステイ",
+                                         "tag":  "shirt_stay",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shirt_stay"
+                                     },
+                                     {
+                                         "label":  "サスペンダー",
+                                         "tag":  "suspenders",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/suspenders"
+                                     },
+                                     {
+                                         "label":  "セーターガード",
+                                         "tag":  "sweater_guard",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sweater_guard"
+                                     },
+                                     {
+                                         "label":  "アンダーバスト",
+                                         "tag":  "underbust",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/underbust"
+                                     },
+                                     {
+                                         "label":  "ウエストケープ",
+                                         "tag":  "waist_cape",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/waist_cape"
+                                     },
+                                     {
+                                         "label":  "ボールピットチェーン",
+                                         "tag":  "ball_pit_chain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ball_pit_chain"
+                                     },
+                                     {
+                                         "label":  "ヤオペイ",
+                                         "tag":  "yaopei",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yaopei"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ジュエリー",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：ピアス",
+                                         "tag":  "tag_group%3Apiercings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Apiercings"
+                                     },
+                                     {
+                                         "label":  "アンクレット",
+                                         "tag":  "anklet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/anklet"
+                                     },
+                                     {
+                                         "label":  "腕輪",
+                                         "tag":  "armlet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armlet"
+                                     },
+                                     {
+                                         "label":  "裸足サンダル",
+                                         "tag":  "barefoot_sandals_%28jewelry%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/barefoot_sandals_%28jewelry%29"
+                                     },
+                                     {
+                                         "label":  "ベリーチェーン",
+                                         "tag":  "belly_chain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belly_chain"
+                                     },
+                                     {
+                                         "label":  "キラキラ光る",
+                                         "tag":  "bling",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bling"
+                                     },
+                                     {
+                                         "label":  "ボディジュエリー",
+                                         "tag":  "body_jewelry",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/body_jewelry"
+                                     },
+                                     {
+                                         "label":  "ブレスレット",
+                                         "tag":  "bracelet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bracelet"
+                                     },
+                                     {
+                                         "label":  "バングル",
+                                         "tag":  "bangle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bangle"
+                                     },
+                                     {
+                                         "label":  "ビーズブレスレット",
+                                         "tag":  "bead_bracelet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bead_bracelet"
+                                     },
+                                     {
+                                         "label":  "チェーンブレスレット",
+                                         "tag":  "chain_bracelet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chain_bracelet"
+                                     },
+                                     {
+                                         "label":  "友情ブレスレット",
+                                         "tag":  "friendship_bracelet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/friendship_bracelet"
+                                     },
+                                     {
+                                         "label":  "ブローチ",
+                                         "tag":  "brooch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brooch"
+                                     },
+                                     {
+                                         "label":  "ふくらはぎ飾り",
+                                         "tag":  "calflet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/calflet"
+                                     },
+                                     {
+                                         "label":  "カメオ",
+                                         "tag":  "cameo_%28jewelry%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cameo_%28jewelry%29"
+                                     },
+                                     {
+                                         "label":  "長命鎖",
+                                         "tag":  "changmingsuo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/changmingsuo"
+                                     },
+                                     {
+                                         "label":  "腰飾りチェーン",
+                                         "tag":  "chatelaine",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chatelaine"
+                                     },
+                                     {
+                                         "label":  "サークレット",
+                                         "tag":  "circlet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/circlet"
+                                     },
+                                     {
+                                         "label":  "首輪チェーン",
+                                         "tag":  "collar_chain_%28jewelry%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/collar_chain_%28jewelry%29"
+                                     },
+                                     {
+                                         "label":  "襟先アクセサリー",
+                                         "tag":  "collar_tips_%28jewelry%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/collar_tips_%28jewelry%29"
+                                     },
+                                     {
+                                         "label":  "イヤークリップ",
+                                         "tag":  "earclip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/earclip"
+                                     },
+                                     {
+                                         "label":  "イヤリング",
+                                         "tag":  "earrings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/earrings"
+                                     },
+                                     {
+                                         "label":  "クリスタルイヤリング",
+                                         "tag":  "crystal_earrings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crystal_earrings"
+                                     },
+                                     {
+                                         "label":  "フープイヤリング",
+                                         "tag":  "hoop_earrings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hoop_earrings"
+                                     },
+                                     {
+                                         "label":  "スタッドイヤリング",
+                                         "tag":  "stud_earrings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stud_earrings"
+                                     },
+                                     {
+                                         "label":  "フェイスチェーン",
+                                         "tag":  "face_chain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/face_chain"
+                                     },
+                                     {
+                                         "label":  "歯の装飾（グリル）",
+                                         "tag":  "grills",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grills"
+                                     },
+                                     {
+                                         "label":  "ハンドチェーン",
+                                         "tag":  "hand_chains",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_chains"
+                                     },
+                                     {
+                                         "label":  "ヘッドチェーン",
+                                         "tag":  "head_chain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_chain"
+                                     },
+                                     {
+                                         "label":  "ヘッドピース",
+                                         "tag":  "headpiece",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headpiece"
+                                     },
+                                     {
+                                         "label":  "メダリオン",
+                                         "tag":  "medallion",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/medallion"
+                                     },
+                                     {
+                                         "label":  "ネックレス",
+                                         "tag":  "necklace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/necklace"
+                                     },
+                                     {
+                                         "label":  "お守り",
+                                         "tag":  "amulet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/amulet"
+                                     },
+                                     {
+                                         "label":  "ビーズネックレス",
+                                         "tag":  "bead_necklace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bead_necklace"
+                                     },
+                                     {
+                                         "label":  "チェーンネックレス",
+                                         "tag":  "chain_necklace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chain_necklace"
+                                     },
+                                     {
+                                         "label":  "花飾り",
+                                         "tag":  "festoon_%28necklace%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/festoon_%28necklace%29"
+                                     },
+                                     {
+                                         "label":  "ラリアット",
+                                         "tag":  "lariat_%28necklace%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lariat_%28necklace%29"
+                                     },
+                                     {
+                                         "label":  "ロケット",
+                                         "tag":  "locket",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/locket"
+                                     },
+                                     {
+                                         "label":  "真珠のネックレス",
+                                         "tag":  "pearl_necklace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pearl_necklace"
+                                     },
+                                     {
+                                         "label":  "ペンダント",
+                                         "tag":  "pendant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pendant"
+                                     },
+                                     {
+                                         "label":  "プラストロンネックレス",
+                                         "tag":  "plastron_%28necklace%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plastron_%28necklace%29"
+                                     },
+                                     {
+                                         "label":  "リヴィエール",
+                                         "tag":  "riviere_%28necklace%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/riviere_%28necklace%29"
+                                     },
+                                     {
+                                         "label":  "ソートワール",
+                                         "tag":  "sautoir",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sautoir"
+                                     },
+                                     {
+                                         "label":  "ショルダーネックレス",
+                                         "tag":  "shoulder_necklace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoulder_necklace"
+                                     },
+                                     {
+                                         "label":  "ステーションネックレス",
+                                         "tag":  "station_necklace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/station_necklace"
+                                     },
+                                     {
+                                         "label":  "トルク",
+                                         "tag":  "torc",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/torc"
+                                     },
+                                     {
+                                         "label":  "ネックリング",
+                                         "tag":  "neck_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_ring"
+                                     },
+                                     {
+                                         "label":  "ノリガエ",
+                                         "tag":  "norigae",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/norigae"
+                                     },
+                                     {
+                                         "label":  "指輪",
+                                         "tag":  "ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ring"
+                                     },
+                                     {
+                                         "label":  "爪形の指輪",
+                                         "tag":  "claw_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/claw_ring"
+                                     },
+                                     {
+                                         "label":  "中間リング",
+                                         "tag":  "middle_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/middle_ring"
+                                     },
+                                     {
+                                         "label":  "装飾的な指輪",
+                                         "tag":  "ornate_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ornate_ring"
+                                     },
+                                     {
+                                         "label":  "結婚指輪",
+                                         "tag":  "wedding_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wedding_ring"
+                                     },
+                                     {
+                                         "label":  "腿当て",
+                                         "tag":  "thighlet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thighlet"
+                                     },
+                                     {
+                                         "label":  "ヤオペイ",
+                                         "tag":  "yaopei",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yaopei"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "バッグ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "動物バッグ",
+                                         "tag":  "animal_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_bag"
+                                     },
+                                     {
+                                         "label":  "バックパック",
+                                         "tag":  "backpack",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/backpack"
+                                     },
+                                     {
+                                         "label":  "ランドセル",
+                                         "tag":  "randoseru",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/randoseru"
+                                     },
+                                     {
+                                         "label":  "ブリーフケース",
+                                         "tag":  "briefcase",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/briefcase"
+                                     },
+                                     {
+                                         "label":  "キャラクターバッグ",
+                                         "tag":  "character_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_bag"
+                                     },
+                                     {
+                                         "label":  "キャラクターバックパック",
+                                         "tag":  "character_backpack",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_backpack"
+                                     },
+                                     {
+                                         "label":  "クラッチバッグ",
+                                         "tag":  "clutch_purse",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clutch_purse"
+                                     },
+                                     {
+                                         "label":  "小銭入れ",
+                                         "tag":  "coin_purse",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/coin_purse"
+                                     },
+                                     {
+                                         "label":  "巾着袋",
+                                         "tag":  "drawstring_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/drawstring_bag"
+                                     },
+                                     {
+                                         "label":  "ダッフルバッグ",
+                                         "tag":  "duffel_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/duffel_bag"
+                                     },
+                                     {
+                                         "label":  "ウエストポーチ",
+                                         "tag":  "fanny_pack",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fanny_pack"
+                                     },
+                                     {
+                                         "label":  "食べ物モチーフのバッグ",
+                                         "tag":  "food-themed_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/food-themed_bag"
+                                     },
+                                     {
+                                         "label":  "ギグバッグ",
+                                         "tag":  "gigbag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gigbag"
+                                     },
+                                     {
+                                         "label":  "ハンドバッグ",
+                                         "tag":  "handbag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/handbag"
+                                     },
+                                     {
+                                         "label":  "バレルバッグ",
+                                         "tag":  "barrel_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/barrel_bag"
+                                     },
+                                     {
+                                         "label":  "ハーフムーンバッグ",
+                                         "tag":  "half_moon_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/half_moon_bag"
+                                     },
+                                     {
+                                         "label":  "ハート型のバッグ",
+                                         "tag":  "heart-shaped_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart-shaped_bag"
+                                     },
+                                     {
+                                         "label":  "痛バッグ",
+                                         "tag":  "itabag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/itabag"
+                                     },
+                                     {
+                                         "label":  "革のバッグ",
+                                         "tag":  "leather_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leather_bag"
+                                     },
+                                     {
+                                         "label":  "メッシュバッグ",
+                                         "tag":  "mesh_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mesh_bag"
+                                     },
+                                     {
+                                         "label":  "お守り",
+                                         "tag":  "omamori",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/omamori"
+                                     },
+                                     {
+                                         "label":  "ポーチ",
+                                         "tag":  "pouch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pouch"
+                                     },
+                                     {
+                                         "label":  "ベルトポーチ",
+                                         "tag":  "belt_pouch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belt_pouch"
+                                     },
+                                     {
+                                         "label":  "ボクジュモニ",
+                                         "tag":  "bokjumeoni",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bokjumeoni"
+                                     },
+                                     {
+                                         "label":  "丸いバッグ",
+                                         "tag":  "round_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/round_bag"
+                                     },
+                                     {
+                                         "label":  "サドルバッグ",
+                                         "tag":  "saddlebags",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/saddlebags"
+                                     },
+                                     {
+                                         "label":  "サッチェル",
+                                         "tag":  "satchel",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/satchel"
+                                     },
+                                     {
+                                         "label":  "通学かばん",
+                                         "tag":  "school_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/school_bag"
+                                     },
+                                     {
+                                         "label":  "ショルダーバッグ",
+                                         "tag":  "shoulder_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoulder_bag"
+                                     },
+                                     {
+                                         "label":  "メッセンジャーバッグ",
+                                         "tag":  "messenger_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/messenger_bag"
+                                     },
+                                     {
+                                         "label":  "星型のバッグ",
+                                         "tag":  "star-shaped_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/star-shaped_bag"
+                                     },
+                                     {
+                                         "label":  "スーツケース",
+                                         "tag":  "suitcase",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/suitcase"
+                                     },
+                                     {
+                                         "label":  "トートバッグ",
+                                         "tag":  "tote_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tote_bag"
+                                     },
+                                     {
+                                         "label":  "水袋",
+                                         "tag":  "waterskin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/waterskin"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "装飾",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "バッジ",
+                                         "tag":  "badge",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/badge"
+                                     },
+                                     {
+                                         "label":  "包帯",
+                                         "tag":  "bandage",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandage"
+                                     },
+                                     {
+                                         "label":  "絆創膏",
+                                         "tag":  "bandaid",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandaid"
+                                     },
+                                     {
+                                         "label":  "ビーズ",
+                                         "tag":  "beads",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/beads"
+                                     },
+                                     {
+                                         "label":  "勾玉",
+                                         "tag":  "magatama",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/magatama"
+                                     },
+                                     {
+                                         "label":  "数珠",
+                                         "tag":  "prayer_beads",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/prayer_beads"
+                                     },
+                                     {
+                                         "label":  "ロザリオ",
+                                         "tag":  "rosary",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rosary"
+                                     },
+                                     {
+                                         "label":  "ベル",
+                                         "tag":  "bell",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bell"
+                                     },
+                                     {
+                                         "label":  "ジングルベル",
+                                         "tag":  "jingle_bell",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/jingle_bell"
+                                     },
+                                     {
+                                         "label":  "蝶結び",
+                                         "tag":  "bow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bow"
+                                     },
+                                     {
+                                         "label":  "髪の蝶結びリボン",
+                                         "tag":  "hair_bow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_bow"
+                                     },
+                                     {
+                                         "label":  "バックル",
+                                         "tag":  "buckle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/buckle"
+                                     },
+                                     {
+                                         "label":  "ボタン",
+                                         "tag":  "buttons",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/buttons"
+                                     },
+                                     {
+                                         "label":  "ボタン付き袖口",
+                                         "tag":  "buttoned_cuffs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/buttoned_cuffs"
+                                     },
+                                     {
+                                         "label":  "ダブルブレスト",
+                                         "tag":  "double-breasted",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/double-breasted"
+                                     },
+                                     {
+                                         "label":  "ボタンバッジ",
+                                         "tag":  "button_badge",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/button_badge"
+                                     },
+                                     {
+                                         "label":  "チャーム",
+                                         "tag":  "charm_%28object%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/charm_%28object%29"
+                                     },
+                                     {
+                                         "label":  "バッグチャーム",
+                                         "tag":  "bag_charm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bag_charm"
+                                     },
+                                     {
+                                         "label":  "ベルトチャーム",
+                                         "tag":  "belt_charm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belt_charm"
+                                     },
+                                     {
+                                         "label":  "携帯電話のチャーム",
+                                         "tag":  "cellphone_charm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cellphone_charm"
+                                     },
+                                     {
+                                         "label":  "キャラクターチャーム",
+                                         "tag":  "character_charm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_charm"
+                                     },
+                                     {
+                                         "label":  "中国結び",
+                                         "tag":  "chinese_knot",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chinese_knot"
+                                     },
+                                     {
+                                         "label":  "デコ電",
+                                         "tag":  "decoden",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/decoden"
+                                     },
+                                     {
+                                         "label":  "花",
+                                         "tag":  "flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower"
+                                     },
+                                     {
+                                         "label":  "髪の花飾り",
+                                         "tag":  "hair_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_flower"
+                                     },
+                                     {
+                                         "label":  "花飾り",
+                                         "tag":  "flower_trim",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_trim"
+                                     },
+                                     {
+                                         "label":  "フリル",
+                                         "tag":  "frills",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frills"
+                                     },
+                                     {
+                                         "label":  "毛皮のトリム",
+                                         "tag":  "fur_trim",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur_trim"
+                                     },
+                                     {
+                                         "label":  "宝石",
+                                         "tag":  "gem",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gem"
+                                     },
+                                     {
+                                         "label":  "ハンドジュエル",
+                                         "tag":  "hand_jewel",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_jewel"
+                                     },
+                                     {
+                                         "label":  "ラインストーン",
+                                         "tag":  "rhinestone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rhinestone"
+                                     },
+                                     {
+                                         "label":  "レース",
+                                         "tag":  "lace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace"
+                                     },
+                                     {
+                                         "label":  "ネイルアート",
+                                         "tag":  "nail_art",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nail_art"
+                                     },
+                                     {
+                                         "label":  "付け爪",
+                                         "tag":  "fake_nails",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_nails"
+                                     },
+                                     {
+                                         "label":  "ネイル飾り",
+                                         "tag":  "nail_ornament",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nail_ornament"
+                                     },
+                                     {
+                                         "label":  "Oリング",
+                                         "tag":  "o-ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/o-ring"
+                                     },
+                                     {
+                                         "label":  "ハート型Oリング",
+                                         "tag":  "heart_o-ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_o-ring"
+                                     },
+                                     {
+                                         "label":  "ポケット",
+                                         "tag":  "pocket",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pocket"
+                                     },
+                                     {
+                                         "label":  "ポンポン",
+                                         "tag":  "pom_pom_%28clothes%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pom_pom_%28clothes%29"
+                                     },
+                                     {
+                                         "label":  "リボン",
+                                         "tag":  "ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbon"
+                                     },
+                                     {
+                                         "label":  "髪のリボン",
+                                         "tag":  "hair_ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_ribbon"
+                                     },
+                                     {
+                                         "label":  "ネックリボン",
+                                         "tag":  "neck_ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_ribbon"
+                                     },
+                                     {
+                                         "label":  "スパイク",
+                                         "tag":  "spikes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spikes"
+                                     },
+                                     {
+                                         "label":  "ステッカー",
+                                         "tag":  "sticker",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sticker"
+                                     },
+                                     {
+                                         "label":  "タッセル",
+                                         "tag":  "tassel",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tassel"
+                                     },
+                                     {
+                                         "label":  "ジッパー",
+                                         "tag":  "zipper",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zipper"
+                                     },
+                                     {
+                                         "label":  "ジッパープルタブ",
+                                         "tag":  "zipper_pull_tab",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zipper_pull_tab"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "杖",
+                                         "tag":  "cane",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cane"
+                                     },
+                                     {
+                                         "label":  "携帯ストラップ",
+                                         "tag":  "cellphone_strap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cellphone_strap"
+                                     },
+                                     {
+                                         "label":  "タバコホルダー",
+                                         "tag":  "cigarette_holder",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cigarette_holder"
+                                     },
+                                     {
+                                         "label":  "デジタルメディアプレーヤー",
+                                         "tag":  "digital_media_player",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/digital_media_player"
+                                     },
+                                     {
+                                         "label":  "デジタルウォークマン",
+                                         "tag":  "digital_walkman",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/digital_walkman"
+                                     },
+                                     {
+                                         "label":  "iPod",
+                                         "tag":  "ipod",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ipod"
+                                     },
+                                     {
+                                         "label":  "ダストプラグ",
+                                         "tag":  "dust_plug",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dust_plug"
+                                     },
+                                     {
+                                         "label":  "手持ちの扇",
+                                         "tag":  "hand_fan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_fan"
+                                     },
+                                     {
+                                         "label":  "扇子",
+                                         "tag":  "folding_fan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/folding_fan"
+                                     },
+                                     {
+                                         "label":  "団扇",
+                                         "tag":  "tuanshan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tuanshan"
+                                     },
+                                     {
+                                         "label":  "ハンカチ",
+                                         "tag":  "handkerchief",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/handkerchief"
+                                     },
+                                     {
+                                         "label":  "マフ",
+                                         "tag":  "muff",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/muff"
+                                     },
+                                     {
+                                         "label":  "ペンケース",
+                                         "tag":  "pencil_case",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pencil_case"
+                                     },
+                                     {
+                                         "label":  "ポップソケット",
+                                         "tag":  "pop_socket",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pop_socket"
+                                     },
+                                     {
+                                         "label":  "尻尾飾り",
+                                         "tag":  "tail_ornament",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tail_ornament"
+                                     },
+                                     {
+                                         "label":  "傘",
+                                         "tag":  "umbrella",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/umbrella"
+                                     },
+                                     {
+                                         "label":  "折りたたみ傘",
+                                         "tag":  "folding_umbrella",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/folding_umbrella"
+                                     },
+                                     {
+                                         "label":  "パラソル",
+                                         "tag":  "parasol",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/parasol"
+                                     },
+                                     {
+                                         "label":  "バーチャルペット",
+                                         "tag":  "virtual_pet_%28toy%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/virtual_pet_%28toy%29"
+                                     },
+                                     {
+                                         "label":  "財布",
+                                         "tag":  "wallet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wallet"
+                                     },
+                                     {
+                                         "label":  "はこせこ",
+                                         "tag":  "hakoseko",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hakoseko"
+                                     },
+                                     {
+                                         "label":  "時計",
+                                         "tag":  "watch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/watch"
+                                     },
+                                     {
+                                         "label":  "腕時計",
+                                         "tag":  "wristwatch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wristwatch"
+                                     },
+                                     {
+                                         "label":  "懐中時計",
+                                         "tag":  "pocket_watch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pocket_watch"
+                                     },
+                                     {
+                                         "label":  "翼飾り",
+                                         "tag":  "wing_ornament",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_ornament"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：服装",
+                                         "tag":  "tag_group%3Aattire",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+                                     }
+                                 ]
+                    }
+                ]
+}

@@ -1,0 +1,527 @@
+{
+  "カテゴリID": "weapon",
+  "カテゴリ名": "武器",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=weapon",
+  "セクション一覧": [
+    {
+      "セクション名": "近接武器",
+      "タグ一覧": [
+        {
+          "label": "戦斧",
+          "tag": "battle_axe",
+          "link": "https://danbooru.donmai.us/wiki_pages/battle_axe"
+        },
+        {
+          "label": "ブラスナックル",
+          "tag": "brass_knuckles",
+          "link": "https://danbooru.donmai.us/wiki_pages/brass_knuckles"
+        },
+        {
+          "label": "鉤爪（武器）",
+          "tag": "claw_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/claw_%28weapon%29"
+        },
+        {
+          "label": "棍棒",
+          "tag": "club_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_%28weapon%29"
+        },
+        {
+          "label": "フレイル",
+          "tag": "flail",
+          "link": "https://danbooru.donmai.us/wiki_pages/flail"
+        },
+        {
+          "label": "ナイフ",
+          "tag": "knife",
+          "link": "https://danbooru.donmai.us/wiki_pages/knife"
+        },
+        {
+          "label": "メイス",
+          "tag": "mace",
+          "link": "https://danbooru.donmai.us/wiki_pages/mace"
+        },
+        {
+          "label": "ヌンチャク",
+          "tag": "nunchaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/nunchaku"
+        },
+        {
+          "label": "長柄武器",
+          "tag": "polearm",
+          "link": "https://danbooru.donmai.us/wiki_pages/polearm"
+        },
+        {
+          "label": "剣",
+          "tag": "sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/sword"
+        },
+        {
+          "label": "戦鎚",
+          "tag": "war_hammer",
+          "link": "https://danbooru.donmai.us/wiki_pages/war_hammer"
+        }
+      ]
+    },
+    {
+      "セクション名": "遠距離武器",
+      "タグ一覧": [
+        {
+          "label": "爆弾",
+          "tag": "bomb",
+          "link": "https://danbooru.donmai.us/wiki_pages/bomb"
+        },
+        {
+          "label": "ブーメラン",
+          "tag": "boomerang",
+          "link": "https://danbooru.donmai.us/wiki_pages/boomerang"
+        },
+        {
+          "label": "弓",
+          "tag": "bow_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bow_%28weapon%29"
+        },
+        {
+          "label": "大砲",
+          "tag": "cannon",
+          "link": "https://danbooru.donmai.us/wiki_pages/cannon"
+        },
+        {
+          "label": "クロスボウ",
+          "tag": "crossbow",
+          "link": "https://danbooru.donmai.us/wiki_pages/crossbow"
+        },
+        {
+          "label": "火炎放射器",
+          "tag": "flamethrower",
+          "link": "https://danbooru.donmai.us/wiki_pages/flamethrower"
+        },
+        {
+          "label": "グレネードランチャー",
+          "tag": "grenade_launcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/grenade_launcher"
+        },
+        {
+          "label": "銃",
+          "tag": "gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun"
+        },
+        {
+          "label": "ロケットランチャー",
+          "tag": "rocket_launcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/rocket_launcher"
+        },
+        {
+          "label": "手裏剣",
+          "tag": "shuriken",
+          "link": "https://danbooru.donmai.us/wiki_pages/shuriken"
+        },
+        {
+          "label": "パチンコ",
+          "tag": "slingshot_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/slingshot_%28weapon%29"
+        },
+        {
+          "label": "ワイヤー操作",
+          "tag": "wire_manipulation",
+          "link": "https://danbooru.donmai.us/wiki_pages/wire_manipulation"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクション",
+      "タグ一覧": [
+        {
+          "label": "狙いを定める",
+          "tag": "aiming",
+          "link": "https://danbooru.donmai.us/wiki_pages/aiming"
+        },
+        {
+          "label": "発砲",
+          "tag": "firing",
+          "link": "https://danbooru.donmai.us/wiki_pages/firing"
+        },
+        {
+          "label": "武器を手入れする",
+          "tag": "cleaning_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/cleaning_weapon"
+        },
+        {
+          "label": "武器を持つ",
+          "tag": "holding_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_weapon"
+        },
+        {
+          "label": "武器を舐める",
+          "tag": "licking_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/licking_weapon"
+        },
+        {
+          "label": "近接武器を向ける",
+          "tag": "pointing_melee_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointing_melee_weapon"
+        },
+        {
+          "label": "地面に突き立てた武器",
+          "tag": "planted",
+          "link": "https://danbooru.donmai.us/wiki_pages/planted"
+        },
+        {
+          "label": "ガーターベルトの武器",
+          "tag": "weapon_in_garters",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_in_garters"
+        },
+        {
+          "label": "武器を背中に持つ",
+          "tag": "holding_weapon_behind_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_weapon_behind_back"
+        },
+        {
+          "label": "背負った武器",
+          "tag": "weapon_on_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_on_back"
+        },
+        {
+          "label": "肩に担いだ武器",
+          "tag": "weapon_over_shoulder",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_over_shoulder"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "改造武器",
+          "tag": "adapted_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/adapted_weapon"
+        },
+        {
+          "label": "武器の変更",
+          "tag": "alternate_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/alternate_weapon"
+        },
+        {
+          "label": "武器についた血",
+          "tag": "blood_on_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/blood_on_weapon"
+        },
+        {
+          "label": "壊れた武器",
+          "tag": "broken_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/broken_weapon"
+        },
+        {
+          "label": "光る武器",
+          "tag": "glowing_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/glowing_weapon"
+        },
+        {
+          "label": "巨大な武器",
+          "tag": "huge_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/huge_weapon"
+        },
+        {
+          "label": "人間兵器",
+          "tag": "human_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/human_weapon"
+        },
+        {
+          "label": "武器化された楽器",
+          "tag": "weaponized_instrument",
+          "link": "https://danbooru.donmai.us/wiki_pages/weaponized_instrument"
+        },
+        {
+          "label": "二刀流",
+          "tag": "dual_wielding",
+          "link": "https://danbooru.donmai.us/wiki_pages/dual_wielding"
+        },
+        {
+          "label": "装備一覧の配置",
+          "tag": "equipment_layout",
+          "link": "https://danbooru.donmai.us/wiki_pages/equipment_layout"
+        },
+        {
+          "label": "武器の接続",
+          "tag": "weapon_connection",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_connection"
+        },
+        {
+          "label": "武器名の特定依頼",
+          "tag": "weapon_request",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_request"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "武器のリスト",
+          "tag": "list_of_weapons",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_weapons"
+        },
+        {
+          "label": "武器",
+          "tag": "weapons",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapons"
+        },
+        {
+          "label": "タグの別名",
+          "tag": "help:tag_aliases",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_aliases"
+        },
+        {
+          "label": "武器の変更",
+          "tag": "alternate_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/alternate_weapon"
+        },
+        {
+          "label": "腕の刃",
+          "tag": "arm_blade",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_blade"
+        },
+        {
+          "label": "腕の砲",
+          "tag": "arm_cannon",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_cannon"
+        },
+        {
+          "label": "鉄球付きの鎖",
+          "tag": "ball_and_chain_(weapon)",
+          "link": "https://danbooru.donmai.us/wiki_pages/ball_and_chain_(weapon)"
+        },
+        {
+          "label": "警棒",
+          "tag": "baton_(weapon)",
+          "link": "https://danbooru.donmai.us/wiki_pages/baton_(weapon)"
+        },
+        {
+          "label": "戦斧",
+          "tag": "battle_axe",
+          "link": "https://danbooru.donmai.us/wiki_pages/battle_axe"
+        },
+        {
+          "label": "銃剣",
+          "tag": "bayonet",
+          "link": "https://danbooru.donmai.us/wiki_pages/bayonet"
+        },
+        {
+          "label": "武器についた血",
+          "tag": "blood_on_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/blood_on_weapon"
+        },
+        {
+          "label": "bolter",
+          "tag": "bolter",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolter"
+        },
+        {
+          "label": "弓",
+          "tag": "bow_(weapon)",
+          "link": "https://danbooru.donmai.us/wiki_pages/bow_(weapon)"
+        },
+        {
+          "label": "ブラスナックル",
+          "tag": "brass_knuckles",
+          "link": "https://danbooru.donmai.us/wiki_pages/brass_knuckles"
+        },
+        {
+          "label": "壊れた武器",
+          "tag": "broken_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/broken_weapon"
+        },
+        {
+          "label": "チャクラム",
+          "tag": "chakram",
+          "link": "https://danbooru.donmai.us/wiki_pages/chakram"
+        },
+        {
+          "label": "鉤爪（武器）",
+          "tag": "claw_(weapon)",
+          "link": "https://danbooru.donmai.us/wiki_pages/claw_(weapon)"
+        },
+        {
+          "label": "武器を手入れする",
+          "tag": "cleaning_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/cleaning_weapon"
+        },
+        {
+          "label": "棍棒",
+          "tag": "club_(weapon)",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_(weapon)"
+        },
+        {
+          "label": "コンバットナイフ",
+          "tag": "combat_knife",
+          "link": "https://danbooru.donmai.us/wiki_pages/combat_knife"
+        },
+        {
+          "label": "隠し武器",
+          "tag": "concealed_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/concealed_weapon"
+        },
+        {
+          "label": "クロスボウ",
+          "tag": "crossbow",
+          "link": "https://danbooru.donmai.us/wiki_pages/crossbow"
+        },
+        {
+          "label": "かわいい意匠の武器",
+          "tag": "cute_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/cute_weapon"
+        },
+        {
+          "label": "短剣",
+          "tag": "dagger",
+          "link": "https://danbooru.donmai.us/wiki_pages/dagger"
+        },
+        {
+          "label": "エネルギー銃",
+          "tag": "energy_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/energy_gun"
+        },
+        {
+          "label": "フレイル",
+          "tag": "flail",
+          "link": "https://danbooru.donmai.us/wiki_pages/flail"
+        },
+        {
+          "label": "火炎放射器",
+          "tag": "flamethrower",
+          "link": "https://danbooru.donmai.us/wiki_pages/flamethrower"
+        },
+        {
+          "label": "炎をまとった武器",
+          "tag": "flaming_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/flaming_weapon"
+        },
+        {
+          "label": "光る武器",
+          "tag": "glowing_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/glowing_weapon"
+        },
+        {
+          "label": "グレネードランチャー",
+          "tag": "grenade_launcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/grenade_launcher"
+        },
+        {
+          "label": "銃",
+          "tag": "gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun"
+        },
+        {
+          "label": "ガンブレード",
+          "tag": "gunblade",
+          "link": "https://danbooru.donmai.us/wiki_pages/gunblade"
+        },
+        {
+          "label": "武器を持つ",
+          "tag": "holding_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_weapon"
+        },
+        {
+          "label": "巨大な武器",
+          "tag": "huge_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/huge_weapon"
+        },
+        {
+          "label": "十手",
+          "tag": "jitte",
+          "link": "https://danbooru.donmai.us/wiki_pages/jitte"
+        },
+        {
+          "label": "クナイ",
+          "tag": "kunai",
+          "link": "https://danbooru.donmai.us/wiki_pages/kunai"
+        },
+        {
+          "label": "鎖鎌",
+          "tag": "kusarigama",
+          "link": "https://danbooru.donmai.us/wiki_pages/kusarigama"
+        },
+        {
+          "label": "武器を舐める",
+          "tag": "licking_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/licking_weapon"
+        },
+        {
+          "label": "メイス",
+          "tag": "mace",
+          "link": "https://danbooru.donmai.us/wiki_pages/mace"
+        },
+        {
+          "label": "ヌンチャク",
+          "tag": "nunchaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/nunchaku"
+        },
+        {
+          "label": "長柄武器",
+          "tag": "polearm",
+          "link": "https://danbooru.donmai.us/wiki_pages/polearm"
+        },
+        {
+          "label": "ロケットランチャー",
+          "tag": "rocket_launcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/rocket_launcher"
+        },
+        {
+          "label": "釵",
+          "tag": "sai_(weapon)",
+          "link": "https://danbooru.donmai.us/wiki_pages/sai_(weapon)"
+        },
+        {
+          "label": "手裏剣",
+          "tag": "shuriken",
+          "link": "https://danbooru.donmai.us/wiki_pages/shuriken"
+        },
+        {
+          "label": "剣",
+          "tag": "sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/sword"
+        },
+        {
+          "label": "投げナイフ",
+          "tag": "throwing_knife",
+          "link": "https://danbooru.donmai.us/wiki_pages/throwing_knife"
+        },
+        {
+          "label": "トンファー",
+          "tag": "tonfa",
+          "link": "https://danbooru.donmai.us/wiki_pages/tonfa"
+        },
+        {
+          "label": "戦鎚",
+          "tag": "war_hammer",
+          "link": "https://danbooru.donmai.us/wiki_pages/war_hammer"
+        },
+        {
+          "label": "背負った武器",
+          "tag": "weapon_on_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_on_back"
+        },
+        {
+          "label": "肩に担いだ武器",
+          "tag": "weapon_over_shoulder",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_over_shoulder"
+        },
+        {
+          "label": "蛇腹剣",
+          "tag": "whip_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/whip_sword"
+        },
+        {
+          "label": "風火輪",
+          "tag": "windfire_wheel",
+          "link": "https://danbooru.donmai.us/wiki_pages/windfire_wheel"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

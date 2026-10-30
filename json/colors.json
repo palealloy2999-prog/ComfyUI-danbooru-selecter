@@ -1,0 +1,317 @@
+﻿{
+    "カテゴリID":  "colors",
+    "カテゴリ名":  "色",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Acolors",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "単色テーマ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "単色画",
+                                         "tag":  "monochrome",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/monochrome"
+                                     },
+                                     {
+                                         "label":  "グレースケール",
+                                         "tag":  "greyscale",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/greyscale"
+                                     },
+                                     {
+                                         "label":  "水色を基調",
+                                         "tag":  "aqua_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_theme"
+                                     },
+                                     {
+                                         "label":  "黒のテーマ",
+                                         "tag":  "black_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_theme"
+                                     },
+                                     {
+                                         "label":  "青のテーマ",
+                                         "tag":  "blue_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_theme"
+                                     },
+                                     {
+                                         "label":  "茶色のテーマ",
+                                         "tag":  "brown_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_theme"
+                                     },
+                                     {
+                                         "label":  "緑のテーマ",
+                                         "tag":  "green_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_theme"
+                                     },
+                                     {
+                                         "label":  "グレーテーマ",
+                                         "tag":  "grey_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_theme"
+                                     },
+                                     {
+                                         "label":  "オレンジテーマ",
+                                         "tag":  "orange_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_theme"
+                                     },
+                                     {
+                                         "label":  "ピンクのテーマ",
+                                         "tag":  "pink_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_theme"
+                                     },
+                                     {
+                                         "label":  "紫のテーマ",
+                                         "tag":  "purple_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple_theme"
+                                     },
+                                     {
+                                         "label":  "赤のテーマ",
+                                         "tag":  "red_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_theme"
+                                     },
+                                     {
+                                         "label":  "白のテーマ",
+                                         "tag":  "white_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_theme"
+                                     },
+                                     {
+                                         "label":  "黄色のテーマ",
+                                         "tag":  "yellow_theme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_theme"
+                                     },
+                                     {
+                                         "label":  "単色画",
+                                         "tag":  "monochrome",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/monochrome"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "落ち着いた色調",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "暗い画面",
+                                         "tag":  "dark",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dark"
+                                     },
+                                     {
+                                         "label":  "落ち着いた色調",
+                                         "tag":  "muted_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/muted_color"
+                                     },
+                                     {
+                                         "label":  "淡い色",
+                                         "tag":  "pale_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pale_color"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "部分着色",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "一部着色",
+                                         "tag":  "partially_colored",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/partially_colored"
+                                     },
+                                     {
+                                         "label":  "色付き背景のグレースケール",
+                                         "tag":  "greyscale_with_colored_background",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/greyscale_with_colored_background"
+                                     },
+                                     {
+                                         "label":  "スポットカラー",
+                                         "tag":  "spot_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spot_color"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "無彩色",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "単色画",
+                                         "tag":  "monochrome",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/monochrome"
+                                     },
+                                     {
+                                         "label":  "グレースケール",
+                                         "tag":  "greyscale",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/greyscale"
+                                     },
+                                     {
+                                         "label":  "高コントラスト",
+                                         "tag":  "high_contrast",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/high_contrast"
+                                     },
+                                     {
+                                         "label":  "線画",
+                                         "tag":  "lineart",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lineart"
+                                     },
+                                     {
+                                         "label":  "ネガ画像",
+                                         "tag":  "negative",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/negative"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "フィルター",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "セピア",
+                                         "tag":  "sepia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sepia"
+                                     },
+                                     {
+                                         "label":  "高コントラスト",
+                                         "tag":  "high_contrast",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/high_contrast"
+                                     },
+                                     {
+                                         "label":  "限定パレット",
+                                         "tag":  "limited_palette",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/limited_palette"
+                                     },
+                                     {
+                                         "label":  "複数のモノクロ",
+                                         "tag":  "multiple_monochrome",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_monochrome"
+                                     },
+                                     {
+                                         "label":  "パステルカラー",
+                                         "tag":  "pastel_colors",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pastel_colors"
+                                     },
+                                     {
+                                         "label":  "二重露光",
+                                         "tag":  "double_exposure",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/double_exposure"
+                                     },
+                                     {
+                                         "label":  "周辺減光",
+                                         "tag":  "vignetting",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vignetting"
+                                     },
+                                     {
+                                         "label":  "色反転",
+                                         "tag":  "inverted_colors",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/inverted_colors"
+                                     },
+                                     {
+                                         "label":  "ネオンパレット",
+                                         "tag":  "neon_palette",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/neon_palette"
+                                     },
+                                     {
+                                         "label":  "彩度の高い",
+                                         "tag":  "saturated",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/saturated"
+                                     },
+                                     {
+                                         "label":  "アナログ画材",
+                                         "tag":  "traditional_media",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/traditional_media"
+                                     },
+                                     {
+                                         "label":  "疑似アナログ",
+                                         "tag":  "faux_traditional_media",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faux_traditional_media"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "色彩理論",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "寒色系",
+                                         "tag":  "cool_colored",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cool_colored"
+                                     },
+                                     {
+                                         "label":  "カラフル",
+                                         "tag":  "colorful",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/colorful"
+                                     },
+                                     {
+                                         "label":  "類似色",
+                                         "tag":  "analogous_colors",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/analogous_colors"
+                                     },
+                                     {
+                                         "label":  "色のコントラスト",
+                                         "tag":  "color_contrast",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/color_contrast"
+                                     },
+                                     {
+                                         "label":  "カラーコーディネート",
+                                         "tag":  "color_coordination",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/color_coordination"
+                                     },
+                                     {
+                                         "label":  "暖色系",
+                                         "tag":  "warm_colored",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/warm_colored"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "着色表現",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "影",
+                                         "tag":  "shadow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shadow"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "カラーガイド",
+                                         "tag":  "color_guide",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/color_guide"
+                                     },
+                                     {
+                                         "label":  "カラードレイン",
+                                         "tag":  "color_drain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/color_drain"
+                                     },
+                                     {
+                                         "label":  "色のつながり",
+                                         "tag":  "color_connection",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/color_connection"
+                                     },
+                                     {
+                                         "label":  "虹の色順",
+                                         "tag":  "rainbow_order",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rainbow_order"
+                                     },
+                                     {
+                                         "label":  "グラデーション",
+                                         "tag":  "gradient",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient"
+                                     },
+                                     {
+                                         "label":  "タググループ：画像構成",
+                                         "tag":  "tag_group%3Aimage_composition",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aimage_composition"
+                                     },
+                                     {
+                                         "label":  "タググループ：プリント",
+                                         "tag":  "tag_group%3Aprints",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aprints"
+                                     },
+                                     {
+                                         "label":  "タググループ：背景",
+                                         "tag":  "tag_group%3Abackgrounds",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Abackgrounds"
+                                     },
+                                     {
+                                         "label":  "タググループ：肌の色",
+                                         "tag":  "tag_group%3Askin_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Askin_color"
+                                     }
+                                 ]
+                    }
+                ]
+}

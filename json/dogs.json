@@ -1,0 +1,1247 @@
+{
+  "カテゴリID": "dogs",
+  "カテゴリ名": "犬",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Adogs",
+  "セクション一覧": [
+    {
+      "セクション名": "基本",
+      "タグ一覧": [
+        {
+          "label": "犬",
+          "tag": "dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "動物",
+          "tag": "animal",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal"
+        },
+        {
+          "label": "ペット",
+          "tag": "pet",
+          "link": "https://danbooru.donmai.us/wiki_pages/pet"
+        },
+        {
+          "label": "動物化",
+          "tag": "animalization",
+          "link": "https://danbooru.donmai.us/wiki_pages/animalization"
+        },
+        {
+          "label": "頭の上の犬",
+          "tag": "dog_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_on_head"
+        },
+        {
+          "label": "k9（犬）",
+          "tag": "k9_%28dog%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/k9_%28dog%29"
+        },
+        {
+          "label": "盲導犬",
+          "tag": "guide_dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/guide_dog"
+        },
+        {
+          "label": "複数の犬",
+          "tag": "multiple_dogs",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_dogs"
+        },
+        {
+          "label": "犬が多すぎる",
+          "tag": "too_many_dogs",
+          "link": "https://danbooru.donmai.us/wiki_pages/too_many_dogs"
+        },
+        {
+          "label": "人間はいない",
+          "tag": "no_humans",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_humans"
+        },
+        {
+          "label": "ペットの散歩",
+          "tag": "pet_walking",
+          "link": "https://danbooru.donmai.us/wiki_pages/pet_walking"
+        },
+        {
+          "label": "子犬",
+          "tag": "puppy",
+          "link": "https://danbooru.donmai.us/wiki_pages/puppy"
+        }
+      ]
+    },
+    {
+      "セクション名": "犬の擬人化・衣装・身体部位",
+      "タグ一覧": [
+        {
+          "label": "犬のコスチューム",
+          "tag": "dog_costume",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_costume"
+        },
+        {
+          "label": "犬の耳",
+          "tag": "dog_ears",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_ears"
+        },
+        {
+          "label": "犬の帽子",
+          "tag": "dog_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_hat"
+        },
+        {
+          "label": "犬の足",
+          "tag": "dog_paws",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_paws"
+        },
+        {
+          "label": "犬のしっぽ",
+          "tag": "dog_tail",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_tail"
+        }
+      ]
+    },
+    {
+      "セクション名": "「犬」という言葉の語源に関連するもの",
+      "タグ一覧": [
+        {
+          "label": "ドッグビスケット",
+          "tag": "dog_biscuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_biscuit"
+        },
+        {
+          "label": "犬かき",
+          "tag": "dog_paddle",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_paddle"
+        },
+        {
+          "label": "後背位",
+          "tag": "doggystyle",
+          "link": "https://danbooru.donmai.us/wiki_pages/doggystyle"
+        }
+      ]
+    },
+    {
+      "セクション名": "タグ付けされた犬種",
+      "タグ一覧": [
+        {
+          "label": "アフガンハウンド",
+          "tag": "afghan_hound",
+          "link": "https://danbooru.donmai.us/wiki_pages/afghan_hound"
+        },
+        {
+          "label": "秋田犬",
+          "tag": "akita_inu",
+          "link": "https://danbooru.donmai.us/wiki_pages/akita_inu"
+        },
+        {
+          "label": "秋田犬",
+          "tag": "akita_inu",
+          "link": "https://danbooru.donmai.us/wiki_pages/akita_inu"
+        },
+        {
+          "label": "オーストラリアン・ケルピー",
+          "tag": "australian_kelpie",
+          "link": "https://danbooru.donmai.us/wiki_pages/australian_kelpie"
+        },
+        {
+          "label": "バセットハウンド",
+          "tag": "basset_hound",
+          "link": "https://danbooru.donmai.us/wiki_pages/basset_hound"
+        },
+        {
+          "label": "ビーグル",
+          "tag": "beagle",
+          "link": "https://danbooru.donmai.us/wiki_pages/beagle"
+        },
+        {
+          "label": "バーニーズ・マウンテン・ドッグ",
+          "tag": "bernese_mountain_dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/bernese_mountain_dog"
+        },
+        {
+          "label": "ボーダーコリー",
+          "tag": "border_collie",
+          "link": "https://danbooru.donmai.us/wiki_pages/border_collie"
+        },
+        {
+          "label": "ボルゾイ",
+          "tag": "borzoi",
+          "link": "https://danbooru.donmai.us/wiki_pages/borzoi"
+        },
+        {
+          "label": "ボストンテリア",
+          "tag": "boston_terrier",
+          "link": "https://danbooru.donmai.us/wiki_pages/boston_terrier"
+        },
+        {
+          "label": "ブリアード",
+          "tag": "briard",
+          "link": "https://danbooru.donmai.us/wiki_pages/briard"
+        },
+        {
+          "label": "ブルドッグ",
+          "tag": "bulldog",
+          "link": "https://danbooru.donmai.us/wiki_pages/bulldog"
+        },
+        {
+          "label": "ブルテリア",
+          "tag": "bull_terrier",
+          "link": "https://danbooru.donmai.us/wiki_pages/bull_terrier"
+        },
+        {
+          "label": "チワワ",
+          "tag": "chihuahua",
+          "link": "https://danbooru.donmai.us/wiki_pages/chihuahua"
+        },
+        {
+          "label": "チャイニーズ・クレステッド・ドッグ",
+          "tag": "chinese_crested_dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/chinese_crested_dog"
+        },
+        {
+          "label": "チャウチャウ",
+          "tag": "chow_chow",
+          "link": "https://danbooru.donmai.us/wiki_pages/chow_chow"
+        },
+        {
+          "label": "ダックスフント",
+          "tag": "dachshund",
+          "link": "https://danbooru.donmai.us/wiki_pages/dachshund"
+        },
+        {
+          "label": "ダルメシアン",
+          "tag": "dalmatian",
+          "link": "https://danbooru.donmai.us/wiki_pages/dalmatian"
+        },
+        {
+          "label": "ドーベルマン",
+          "tag": "dobermann",
+          "link": "https://danbooru.donmai.us/wiki_pages/dobermann"
+        },
+        {
+          "label": "イングリッシュ・スプリンガー・スパニエル",
+          "tag": "english_springer_spaniel",
+          "link": "https://danbooru.donmai.us/wiki_pages/english_springer_spaniel"
+        },
+        {
+          "label": "ジャーマンシェパード",
+          "tag": "german_shepherd",
+          "link": "https://danbooru.donmai.us/wiki_pages/german_shepherd"
+        },
+        {
+          "label": "ゴールデンレトリバー",
+          "tag": "golden_retriever",
+          "link": "https://danbooru.donmai.us/wiki_pages/golden_retriever"
+        },
+        {
+          "label": "グレート・デーン",
+          "tag": "great_dane",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_dane"
+        },
+        {
+          "label": "グレイハウンド",
+          "tag": "greyhound",
+          "link": "https://danbooru.donmai.us/wiki_pages/greyhound"
+        },
+        {
+          "label": "ハスキー",
+          "tag": "husky",
+          "link": "https://danbooru.donmai.us/wiki_pages/husky"
+        },
+        {
+          "label": "アイリッシュセッター",
+          "tag": "irish_setter",
+          "link": "https://danbooru.donmai.us/wiki_pages/irish_setter"
+        },
+        {
+          "label": "日本スピッツ",
+          "tag": "japanese_spitz",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_spitz"
+        },
+        {
+          "label": "紀州犬",
+          "tag": "kishu_ken",
+          "link": "https://danbooru.donmai.us/wiki_pages/kishu_ken"
+        },
+        {
+          "label": "マルチーズ",
+          "tag": "maltese",
+          "link": "https://danbooru.donmai.us/wiki_pages/maltese"
+        },
+        {
+          "label": "マスティフ",
+          "tag": "mastiff",
+          "link": "https://danbooru.donmai.us/wiki_pages/mastiff"
+        },
+        {
+          "label": "オールド・イングリッシュ・シープドッグ",
+          "tag": "old_english_sheepdog",
+          "link": "https://danbooru.donmai.us/wiki_pages/old_english_sheepdog"
+        },
+        {
+          "label": "パピヨン",
+          "tag": "papillon_%28dog%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/papillon_%28dog%29"
+        },
+        {
+          "label": "ポメラニアン",
+          "tag": "pomeranian_%28dog%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pomeranian_%28dog%29"
+        },
+        {
+          "label": "プードル",
+          "tag": "poodle",
+          "link": "https://danbooru.donmai.us/wiki_pages/poodle"
+        },
+        {
+          "label": "パグ",
+          "tag": "pug",
+          "link": "https://danbooru.donmai.us/wiki_pages/pug"
+        },
+        {
+          "label": "シュナウザー",
+          "tag": "schnauzer",
+          "link": "https://danbooru.donmai.us/wiki_pages/schnauzer"
+        },
+        {
+          "label": "シャーペイ",
+          "tag": "shar_pei",
+          "link": "https://danbooru.donmai.us/wiki_pages/shar_pei"
+        },
+        {
+          "label": "柴犬",
+          "tag": "shiba_inu",
+          "link": "https://danbooru.donmai.us/wiki_pages/shiba_inu"
+        },
+        {
+          "label": "セントバーナード",
+          "tag": "st_bernard",
+          "link": "https://danbooru.donmai.us/wiki_pages/st_bernard"
+        },
+        {
+          "label": "ウェルシュ・コーギー",
+          "tag": "welsh_corgi",
+          "link": "https://danbooru.donmai.us/wiki_pages/welsh_corgi"
+        },
+        {
+          "label": "ヨークシャーテリア",
+          "tag": "yorkshire_terrier",
+          "link": "https://danbooru.donmai.us/wiki_pages/yorkshire_terrier"
+        }
+      ]
+    },
+    {
+      "セクション名": "似た動物",
+      "タグ一覧": [
+        {
+          "label": "リカオン",
+          "tag": "african_wild_dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/african_wild_dog"
+        },
+        {
+          "label": "コヨーテ",
+          "tag": "coyote",
+          "link": "https://danbooru.donmai.us/wiki_pages/coyote"
+        },
+        {
+          "label": "ドール",
+          "tag": "dhole",
+          "link": "https://danbooru.donmai.us/wiki_pages/dhole"
+        },
+        {
+          "label": "ディンゴ",
+          "tag": "dingo",
+          "link": "https://danbooru.donmai.us/wiki_pages/dingo"
+        },
+        {
+          "label": "キツネ",
+          "tag": "fox",
+          "link": "https://danbooru.donmai.us/wiki_pages/fox"
+        },
+        {
+          "label": "ジャッカル",
+          "tag": "jackal",
+          "link": "https://danbooru.donmai.us/wiki_pages/jackal"
+        },
+        {
+          "label": "タテガミオオカミ",
+          "tag": "maned_wolf",
+          "link": "https://danbooru.donmai.us/wiki_pages/maned_wolf"
+        },
+        {
+          "label": "狼",
+          "tag": "wolf",
+          "link": "https://danbooru.donmai.us/wiki_pages/wolf"
+        }
+      ]
+    },
+    {
+      "セクション名": "犬のキャラクター",
+      "タグ一覧": [
+        {
+          "label": "アレクサンダー",
+          "tag": "alexander_%28fma%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/alexander_%28fma%29"
+        },
+        {
+          "label": "鋼の錬金術師",
+          "tag": "fullmetal_alchemist",
+          "link": "https://danbooru.donmai.us/wiki_pages/fullmetal_alchemist"
+        },
+        {
+          "label": "アンジェロ",
+          "tag": "angelo_%28ff8%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/angelo_%28ff8%29"
+        },
+        {
+          "label": "ファイナルファンタジーVIII",
+          "tag": "final_fantasy_viii",
+          "link": "https://danbooru.donmai.us/wiki_pages/final_fantasy_viii"
+        },
+        {
+          "label": "ビー",
+          "tag": "bee_%28dragon_ball%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bee_%28dragon_ball%29"
+        },
+        {
+          "label": "ドラゴンボール",
+          "tag": "dragon_ball",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragon_ball"
+        },
+        {
+          "label": "ブラックハヤテ",
+          "tag": "black_hayate",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_hayate"
+        },
+        {
+          "label": "鋼の錬金術師",
+          "tag": "fullmetal_alchemist",
+          "link": "https://danbooru.donmai.us/wiki_pages/fullmetal_alchemist"
+        },
+        {
+          "label": "ボルト",
+          "tag": "bolt_%28bolt%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolt_%28bolt%29"
+        },
+        {
+          "label": "ボルト",
+          "tag": "bolt_%28movie%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolt_%28movie%29"
+        },
+        {
+          "label": "ボニー",
+          "tag": "boney",
+          "link": "https://danbooru.donmai.us/wiki_pages/boney"
+        },
+        {
+          "label": "マザー3",
+          "tag": "mother_3",
+          "link": "https://danbooru.donmai.us/wiki_pages/mother_3"
+        },
+        {
+          "label": "Brown",
+          "tag": "brown_%28rule_of_rose%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_%28rule_of_rose%29"
+        },
+        {
+          "label": "Rule of Rose",
+          "tag": "rule_of_rose",
+          "link": "https://danbooru.donmai.us/wiki_pages/rule_of_rose"
+        },
+        {
+          "label": "Cherry",
+          "tag": "cherry_%28lucky_star%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cherry_%28lucky_star%29"
+        },
+        {
+          "label": "らき☆すた",
+          "tag": "lucky_star",
+          "link": "https://danbooru.donmai.us/wiki_pages/lucky_star"
+        },
+        {
+          "label": "Chobi",
+          "tag": "chobi_%28pixiv%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/chobi_%28pixiv%29"
+        },
+        {
+          "label": "Pixiv",
+          "tag": "pixiv",
+          "link": "https://danbooru.donmai.us/wiki_pages/pixiv"
+        },
+        {
+          "label": "Cinnamon",
+          "tag": "cinnamon_%28hatena%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cinnamon_%28hatena%29"
+        },
+        {
+          "label": "Den",
+          "tag": "den_%28fma%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/den_%28fma%29"
+        },
+        {
+          "label": "鋼の錬金術師",
+          "tag": "fullmetal_alchemist",
+          "link": "https://danbooru.donmai.us/wiki_pages/fullmetal_alchemist"
+        },
+        {
+          "label": "Dug",
+          "tag": "dug_%28up%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dug_%28up%29"
+        },
+        {
+          "label": "Up",
+          "tag": "up_%28disney%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/up_%28disney%29"
+        },
+        {
+          "label": "アイン",
+          "tag": "ein_%28cowboy_bebop%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ein_%28cowboy_bebop%29"
+        },
+        {
+          "label": "カウボーイビバップ",
+          "tag": "cowboy_bebop",
+          "link": "https://danbooru.donmai.us/wiki_pages/cowboy_bebop"
+        },
+        {
+          "label": "Enekk",
+          "tag": "enekk",
+          "link": "https://danbooru.donmai.us/wiki_pages/enekk"
+        },
+        {
+          "label": "狼と香辛料",
+          "tag": "spice_and_wolf",
+          "link": "https://danbooru.donmai.us/wiki_pages/spice_and_wolf"
+        },
+        {
+          "label": "Frusciante",
+          "tag": "frusciante",
+          "link": "https://danbooru.donmai.us/wiki_pages/frusciante"
+        },
+        {
+          "label": "苺ましまろ",
+          "tag": "ichigo_mashimaro",
+          "link": "https://danbooru.donmai.us/wiki_pages/ichigo_mashimaro"
+        },
+        {
+          "label": "Hamo",
+          "tag": "hamo_%28dog%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hamo_%28dog%29"
+        },
+        {
+          "label": "Vocaloid",
+          "tag": "vocaloid",
+          "link": "https://danbooru.donmai.us/wiki_pages/vocaloid"
+        },
+        {
+          "label": "ヒン",
+          "tag": "heen",
+          "link": "https://danbooru.donmai.us/wiki_pages/heen"
+        },
+        {
+          "label": "ハウルの動く城",
+          "tag": "howl_no_ugoku_shiro",
+          "link": "https://danbooru.donmai.us/wiki_pages/howl_no_ugoku_shiro"
+        },
+        {
+          "label": "ヒューイ",
+          "tag": "hewie",
+          "link": "https://danbooru.donmai.us/wiki_pages/hewie"
+        },
+        {
+          "label": "デメント",
+          "tag": "demento",
+          "link": "https://danbooru.donmai.us/wiki_pages/demento"
+        },
+        {
+          "label": "Inumi",
+          "tag": "inumi",
+          "link": "https://danbooru.donmai.us/wiki_pages/inumi"
+        },
+        {
+          "label": "Idolmaster",
+          "tag": "idolmaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/idolmaster"
+        },
+        {
+          "label": "King",
+          "tag": "king_%28mother_2%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/king_%28mother_2%29"
+        },
+        {
+          "label": "Mother 2",
+          "tag": "mother_2",
+          "link": "https://danbooru.donmai.us/wiki_pages/mother_2"
+        },
+        {
+          "label": "Leader",
+          "tag": "leader_%28honey_and_clover%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/leader_%28honey_and_clover%29"
+        },
+        {
+          "label": "ハチミツとクローバー",
+          "tag": "honey_and_clover",
+          "link": "https://danbooru.donmai.us/wiki_pages/honey_and_clover"
+        },
+        {
+          "label": "メンチ",
+          "tag": "menchi",
+          "link": "https://danbooru.donmai.us/wiki_pages/menchi"
+        },
+        {
+          "label": "エクセル・サーガ",
+          "tag": "excel_saga",
+          "link": "https://danbooru.donmai.us/wiki_pages/excel_saga"
+        },
+        {
+          "label": "ミサイル（ゴーストトリック）",
+          "tag": "missile_%28ghost_trick%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/missile_%28ghost_trick%29"
+        },
+        {
+          "label": "ゴーストトリック",
+          "tag": "ghost_trick",
+          "link": "https://danbooru.donmai.us/wiki_pages/ghost_trick"
+        },
+        {
+          "label": "ミサイル（逆転裁判）",
+          "tag": "missile_%28ace_attorney%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/missile_%28ace_attorney%29"
+        },
+        {
+          "label": "逆転裁判",
+          "tag": "ace_attorney",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_attorney"
+        },
+        {
+          "label": "ポテト",
+          "tag": "potato_%28air%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/potato_%28air%29"
+        },
+        {
+          "label": "Air",
+          "tag": "air_%28visual_novel%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/air_%28visual_novel%29"
+        },
+        {
+          "label": "Roku",
+          "tag": "roku_%28kakushigoto%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/roku_%28kakushigoto%29"
+        },
+        {
+          "label": "Kakushigoto",
+          "tag": "kakushigoto",
+          "link": "https://danbooru.donmai.us/wiki_pages/kakushigoto"
+        },
+        {
+          "label": "Satake",
+          "tag": "satake_%28ichigo_mashimaro%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/satake_%28ichigo_mashimaro%29"
+        },
+        {
+          "label": "苺ましまろ",
+          "tag": "ichigo_mashimaro",
+          "link": "https://danbooru.donmai.us/wiki_pages/ichigo_mashimaro"
+        },
+        {
+          "label": "スクービー・ドゥー",
+          "tag": "scooby-doo_%28character%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/scooby-doo_%28character%29"
+        },
+        {
+          "label": "Scooby-Doo",
+          "tag": "scooby-doo",
+          "link": "https://danbooru.donmai.us/wiki_pages/scooby-doo"
+        },
+        {
+          "label": "シロ",
+          "tag": "shiro_%28shin-chan%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shiro_%28shin-chan%29"
+        },
+        {
+          "label": "クレヨンしんちゃん",
+          "tag": "crayon_shin-chan",
+          "link": "https://danbooru.donmai.us/wiki_pages/crayon_shin-chan"
+        },
+        {
+          "label": "スヌーピー",
+          "tag": "snoopy",
+          "link": "https://danbooru.donmai.us/wiki_pages/snoopy"
+        },
+        {
+          "label": "Peanuts",
+          "tag": "peanuts_%28comic%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/peanuts_%28comic%29"
+        },
+        {
+          "label": "忠吉さん",
+          "tag": "tadakichi-san",
+          "link": "https://danbooru.donmai.us/wiki_pages/tadakichi-san"
+        },
+        {
+          "label": "あずまんが大王",
+          "tag": "azumanga_daioh",
+          "link": "https://danbooru.donmai.us/wiki_pages/azumanga_daioh"
+        },
+        {
+          "label": "Tobimaru",
+          "tag": "tobimaru_%28stranger%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tobimaru_%28stranger%29"
+        },
+        {
+          "label": "Stranger Mukou Hadan",
+          "tag": "stranger_mukou_hadan",
+          "link": "https://danbooru.donmai.us/wiki_pages/stranger_mukou_hadan"
+        },
+        {
+          "label": "Toto",
+          "tag": "toto_%28the_wizard_of_oz%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/toto_%28the_wizard_of_oz%29"
+        },
+        {
+          "label": "The Wizard of Oz",
+          "tag": "the_wizard_of_oz",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_wizard_of_oz"
+        },
+        {
+          "label": "Umetarou (ookami)",
+          "tag": "umetarou_%28ookami%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/umetarou_%28ookami%29"
+        },
+        {
+          "label": "大神",
+          "tag": "ookami_%28game%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ookami_%28game%29"
+        },
+        {
+          "label": "Yonakuni",
+          "tag": "yonakuni",
+          "link": "https://danbooru.donmai.us/wiki_pages/yonakuni"
+        },
+        {
+          "label": "Maria Holic",
+          "tag": "maria_holic",
+          "link": "https://danbooru.donmai.us/wiki_pages/maria_holic"
+        },
+        {
+          "label": "Wanta",
+          "tag": "wanta",
+          "link": "https://danbooru.donmai.us/wiki_pages/wanta"
+        },
+        {
+          "label": "Elfen Lied",
+          "tag": "elfen_lied",
+          "link": "https://danbooru.donmai.us/wiki_pages/elfen_lied"
+        },
+        {
+          "label": "Zwei",
+          "tag": "zwei_%28rwby%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/zwei_%28rwby%29"
+        },
+        {
+          "label": "RWBY",
+          "tag": "rwby",
+          "link": "https://danbooru.donmai.us/wiki_pages/rwby"
+        }
+      ]
+    },
+    {
+      "セクション名": "架空の犬",
+      "タグ一覧": [
+        {
+          "label": "赤丸",
+          "tag": "akamaru_%28naruto%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/akamaru_%28naruto%29"
+        },
+        {
+          "label": "NARUTO",
+          "tag": "naruto_%28classic%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/naruto_%28classic%29"
+        },
+        {
+          "label": "アマテラス",
+          "tag": "amaterasu_%28ookami%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/amaterasu_%28ookami%29"
+        },
+        {
+          "label": "大神",
+          "tag": "ookami_%28game%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ookami_%28game%29"
+        },
+        {
+          "label": "ボンド",
+          "tag": "bond_%28spy_x_family%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bond_%28spy_x_family%29"
+        },
+        {
+          "label": "Spy x Family",
+          "tag": "spy_x_family",
+          "link": "https://danbooru.donmai.us/wiki_pages/spy_x_family"
+        },
+        {
+          "label": "ケルベロス",
+          "tag": "cerberus",
+          "link": "https://danbooru.donmai.us/wiki_pages/cerberus"
+        },
+        {
+          "label": "ギリシャ神話",
+          "tag": "greek_mythology",
+          "link": "https://danbooru.donmai.us/wiki_pages/greek_mythology"
+        },
+        {
+          "label": "デンスケ",
+          "tag": "densuke_%28dennou_coil%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/densuke_%28dennou_coil%29"
+        },
+        {
+          "label": "電脳コイル",
+          "tag": "dennou_coil",
+          "link": "https://danbooru.donmai.us/wiki_pages/dennou_coil"
+        },
+        {
+          "label": "Friender",
+          "tag": "friender",
+          "link": "https://danbooru.donmai.us/wiki_pages/friender"
+        },
+        {
+          "label": "Robot Hunter Casshern",
+          "tag": "robot_hunter_casshern",
+          "link": "https://danbooru.donmai.us/wiki_pages/robot_hunter_casshern"
+        },
+        {
+          "label": "イギー",
+          "tag": "iggy_%28jojo%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/iggy_%28jojo%29"
+        },
+        {
+          "label": "ジョジョの奇妙な冒険",
+          "tag": "jojo_no_kimyou_na_bouken",
+          "link": "https://danbooru.donmai.us/wiki_pages/jojo_no_kimyou_na_bouken"
+        },
+        {
+          "label": "The Fool",
+          "tag": "the_fool_%28stand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_fool_%28stand%29"
+        },
+        {
+          "label": "ジョジョの奇妙な冒険",
+          "tag": "jojo_no_kimyou_na_bouken",
+          "link": "https://danbooru.donmai.us/wiki_pages/jojo_no_kimyou_na_bouken"
+        },
+        {
+          "label": "Inuo",
+          "tag": "inuo",
+          "link": "https://danbooru.donmai.us/wiki_pages/inuo"
+        },
+        {
+          "label": "Sketchbook Full Colors",
+          "tag": "sketchbook_full_colors",
+          "link": "https://danbooru.donmai.us/wiki_pages/sketchbook_full_colors"
+        },
+        {
+          "label": "Jake the Dog",
+          "tag": "jake_the_dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/jake_the_dog"
+        },
+        {
+          "label": "K-9",
+          "tag": "k-9_%28doctor_who%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/k-9_%28doctor_who%29"
+        },
+        {
+          "label": "Doctor Who",
+          "tag": "doctor_who",
+          "link": "https://danbooru.donmai.us/wiki_pages/doctor_who"
+        },
+        {
+          "label": "コロマル",
+          "tag": "koromaru_%28persona%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/koromaru_%28persona%29"
+        },
+        {
+          "label": "ペルソナ3",
+          "tag": "persona_3",
+          "link": "https://danbooru.donmai.us/wiki_pages/persona_3"
+        },
+        {
+          "label": "メンチ",
+          "tag": "menchi",
+          "link": "https://danbooru.donmai.us/wiki_pages/menchi"
+        },
+        {
+          "label": "エクセル・サーガ",
+          "tag": "excel_saga",
+          "link": "https://danbooru.donmai.us/wiki_pages/excel_saga"
+        },
+        {
+          "label": "Naga",
+          "tag": "naga_%28avatar%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/naga_%28avatar%29"
+        },
+        {
+          "label": "The Legend of Korra",
+          "tag": "the_legend_of_korra",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_legend_of_korra"
+        },
+        {
+          "label": "Noishe",
+          "tag": "noishe",
+          "link": "https://danbooru.donmai.us/wiki_pages/noishe"
+        },
+        {
+          "label": "Tales of Symphonia",
+          "tag": "tales_of_symphonia",
+          "link": "https://danbooru.donmai.us/wiki_pages/tales_of_symphonia"
+        },
+        {
+          "label": "プライミッツ・マーダー",
+          "tag": "primate_murder",
+          "link": "https://danbooru.donmai.us/wiki_pages/primate_murder"
+        },
+        {
+          "label": "月姫",
+          "tag": "tsukihime",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsukihime"
+        },
+        {
+          "label": "レピード",
+          "tag": "repede_%28tales%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/repede_%28tales%29"
+        },
+        {
+          "label": "テイルズ オブ ヴェスペリア",
+          "tag": "tales_of_vesperia",
+          "link": "https://danbooru.donmai.us/wiki_pages/tales_of_vesperia"
+        },
+        {
+          "label": "ラッシュ",
+          "tag": "rush_%28mega_man%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rush_%28mega_man%29"
+        },
+        {
+          "label": "ロックマン",
+          "tag": "mega_man_%28classic%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mega_man_%28classic%29"
+        },
+        {
+          "label": "定春",
+          "tag": "sadaharu",
+          "link": "https://danbooru.donmai.us/wiki_pages/sadaharu"
+        },
+        {
+          "label": "銀魂",
+          "tag": "gintama",
+          "link": "https://danbooru.donmai.us/wiki_pages/gintama"
+        },
+        {
+          "label": "ヴァル",
+          "tag": "val_%28otogi-juushi_akazukin%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/val_%28otogi-juushi_akazukin%29"
+        },
+        {
+          "label": "おとぎ銃士 赤ずきん",
+          "tag": "otogi-juushi_akazukin",
+          "link": "https://danbooru.donmai.us/wiki_pages/otogi-juushi_akazukin"
+        },
+        {
+          "label": "ザフィーラ",
+          "tag": "zafira",
+          "link": "https://danbooru.donmai.us/wiki_pages/zafira"
+        },
+        {
+          "label": "魔法少女リリカルなのは",
+          "tag": "mahou_shoujo_lyrical_nanoha",
+          "link": "https://danbooru.donmai.us/wiki_pages/mahou_shoujo_lyrical_nanoha"
+        },
+        {
+          "label": "ゼロ",
+          "tag": "zero_%28nbc%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/zero_%28nbc%29"
+        },
+        {
+          "label": "ナイトメアー・ビフォア・クリスマス",
+          "tag": "the_nightmare_before_christmas",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_nightmare_before_christmas"
+        }
+      ]
+    },
+    {
+      "セクション名": "犬をモチーフにしたポケモン",
+      "タグ一覧": [
+        {
+          "label": "アブソル",
+          "tag": "absol",
+          "link": "https://danbooru.donmai.us/wiki_pages/absol"
+        },
+        {
+          "label": "イーブイ",
+          "tag": "eevee",
+          "link": "https://danbooru.donmai.us/wiki_pages/eevee"
+        },
+        {
+          "label": "ラクライ",
+          "tag": "electrike",
+          "link": "https://danbooru.donmai.us/wiki_pages/electrike"
+        },
+        {
+          "label": "ライボルト",
+          "tag": "manectric",
+          "link": "https://danbooru.donmai.us/wiki_pages/manectric"
+        },
+        {
+          "label": "エンテイ",
+          "tag": "entei",
+          "link": "https://danbooru.donmai.us/wiki_pages/entei"
+        },
+        {
+          "label": "パピモッチ",
+          "tag": "fidough",
+          "link": "https://danbooru.donmai.us/wiki_pages/fidough"
+        },
+        {
+          "label": "バウッツェル",
+          "tag": "dachsbun",
+          "link": "https://danbooru.donmai.us/wiki_pages/dachsbun"
+        },
+        {
+          "label": "トリミアン",
+          "tag": "furfrou",
+          "link": "https://danbooru.donmai.us/wiki_pages/furfrou"
+        },
+        {
+          "label": "ボチ",
+          "tag": "greavard",
+          "link": "https://danbooru.donmai.us/wiki_pages/greavard"
+        },
+        {
+          "label": "ハカドッグ",
+          "tag": "houndstone",
+          "link": "https://danbooru.donmai.us/wiki_pages/houndstone"
+        },
+        {
+          "label": "ガーディ",
+          "tag": "growlithe",
+          "link": "https://danbooru.donmai.us/wiki_pages/growlithe"
+        },
+        {
+          "label": "ウインディ",
+          "tag": "arcanine",
+          "link": "https://danbooru.donmai.us/wiki_pages/arcanine"
+        },
+        {
+          "label": "ヒスイガーディ",
+          "tag": "hisuian_growlithe",
+          "link": "https://danbooru.donmai.us/wiki_pages/hisuian_growlithe"
+        },
+        {
+          "label": "ヒスイウインディ",
+          "tag": "hisuian_arcanine",
+          "link": "https://danbooru.donmai.us/wiki_pages/hisuian_arcanine"
+        },
+        {
+          "label": "デルビル",
+          "tag": "houndour",
+          "link": "https://danbooru.donmai.us/wiki_pages/houndour"
+        },
+        {
+          "label": "ヘルガー",
+          "tag": "houndoom",
+          "link": "https://danbooru.donmai.us/wiki_pages/houndoom"
+        },
+        {
+          "label": "ヨーテリー",
+          "tag": "lillipup",
+          "link": "https://danbooru.donmai.us/wiki_pages/lillipup"
+        },
+        {
+          "label": "ハーデリア",
+          "tag": "herdier",
+          "link": "https://danbooru.donmai.us/wiki_pages/herdier"
+        },
+        {
+          "label": "ムーランド",
+          "tag": "stoutland",
+          "link": "https://danbooru.donmai.us/wiki_pages/stoutland"
+        },
+        {
+          "label": "オラチフ",
+          "tag": "maschiff",
+          "link": "https://danbooru.donmai.us/wiki_pages/maschiff"
+        },
+        {
+          "label": "マフィティフ",
+          "tag": "mabosstiff",
+          "link": "https://danbooru.donmai.us/wiki_pages/mabosstiff"
+        },
+        {
+          "label": "イイネイヌ",
+          "tag": "okidogi",
+          "link": "https://danbooru.donmai.us/wiki_pages/okidogi"
+        },
+        {
+          "label": "ポチエナ",
+          "tag": "poochyena",
+          "link": "https://danbooru.donmai.us/wiki_pages/poochyena"
+        },
+        {
+          "label": "グラエナ",
+          "tag": "mightyena",
+          "link": "https://danbooru.donmai.us/wiki_pages/mightyena"
+        },
+        {
+          "label": "ライコウ",
+          "tag": "raikou",
+          "link": "https://danbooru.donmai.us/wiki_pages/raikou"
+        },
+        {
+          "label": "リオル",
+          "tag": "riolu",
+          "link": "https://danbooru.donmai.us/wiki_pages/riolu"
+        },
+        {
+          "label": "イワンコ",
+          "tag": "rockruff",
+          "link": "https://danbooru.donmai.us/wiki_pages/rockruff"
+        },
+        {
+          "label": "ルガルガン",
+          "tag": "lycanroc",
+          "link": "https://danbooru.donmai.us/wiki_pages/lycanroc"
+        },
+        {
+          "label": "シェイミ",
+          "tag": "shaymin",
+          "link": "https://danbooru.donmai.us/wiki_pages/shaymin"
+        },
+        {
+          "label": "ドーブル",
+          "tag": "smeargle",
+          "link": "https://danbooru.donmai.us/wiki_pages/smeargle"
+        },
+        {
+          "label": "ブルー",
+          "tag": "snubbull",
+          "link": "https://danbooru.donmai.us/wiki_pages/snubbull"
+        },
+        {
+          "label": "グランブル",
+          "tag": "granbull",
+          "link": "https://danbooru.donmai.us/wiki_pages/granbull"
+        },
+        {
+          "label": "スイクン",
+          "tag": "suicune",
+          "link": "https://danbooru.donmai.us/wiki_pages/suicune"
+        },
+        {
+          "label": "ワンパチ",
+          "tag": "yamper",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamper"
+        },
+        {
+          "label": "パルスワン",
+          "tag": "boltund",
+          "link": "https://danbooru.donmai.us/wiki_pages/boltund"
+        },
+        {
+          "label": "ゾルア",
+          "tag": "zorua",
+          "link": "https://danbooru.donmai.us/wiki_pages/zorua"
+        }
+      ]
+    },
+    {
+      "セクション名": "ぬいぐるみ・玩具の犬",
+      "タグ一覧": [
+        {
+          "label": "ぬいぐるみ",
+          "tag": "stuffed_animal",
+          "link": "https://danbooru.donmai.us/wiki_pages/stuffed_animal"
+        },
+        {
+          "label": "おもちゃ",
+          "tag": "toy",
+          "link": "https://danbooru.donmai.us/wiki_pages/toy"
+        },
+        {
+          "label": "バイクちゃん",
+          "tag": "bike-chan",
+          "link": "https://danbooru.donmai.us/wiki_pages/bike-chan"
+        },
+        {
+          "label": "Serial Experiments Lain",
+          "tag": "serial_experiments_lain",
+          "link": "https://danbooru.donmai.us/wiki_pages/serial_experiments_lain"
+        },
+        {
+          "label": "クンクン",
+          "tag": "kunkun",
+          "link": "https://danbooru.donmai.us/wiki_pages/kunkun"
+        },
+        {
+          "label": "ローゼンメイデン",
+          "tag": "rozen_maiden",
+          "link": "https://danbooru.donmai.us/wiki_pages/rozen_maiden"
+        },
+        {
+          "label": "いおりょぎ",
+          "tag": "ioryogi",
+          "link": "https://danbooru.donmai.us/wiki_pages/ioryogi"
+        },
+        {
+          "label": "小鳩",
+          "tag": "kobato.",
+          "link": "https://danbooru.donmai.us/wiki_pages/kobato."
+        },
+        {
+          "label": "まろみ",
+          "tag": "maromi",
+          "link": "https://danbooru.donmai.us/wiki_pages/maromi"
+        },
+        {
+          "label": "妄想代理人",
+          "tag": "mousou_dairinin",
+          "link": "https://danbooru.donmai.us/wiki_pages/mousou_dairinin"
+        }
+      ]
+    },
+    {
+      "セクション名": "擬人化された犬",
+      "タグ一覧": [
+        {
+          "label": "グーフィー",
+          "tag": "goofy",
+          "link": "https://danbooru.donmai.us/wiki_pages/goofy"
+        },
+        {
+          "label": "ディズニー",
+          "tag": "disney",
+          "link": "https://danbooru.donmai.us/wiki_pages/disney"
+        },
+        {
+          "label": "狛村左陣",
+          "tag": "komamura_sajin",
+          "link": "https://danbooru.donmai.us/wiki_pages/komamura_sajin"
+        },
+        {
+          "label": "BLEACH",
+          "tag": "bleach",
+          "link": "https://danbooru.donmai.us/wiki_pages/bleach"
+        },
+        {
+          "label": "レッサー・ドッグ",
+          "tag": "lesser_dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/lesser_dog"
+        },
+        {
+          "label": "アンダーテール",
+          "tag": "undertale",
+          "link": "https://danbooru.donmai.us/wiki_pages/undertale"
+        }
+      ]
+    }
+  ]
+}

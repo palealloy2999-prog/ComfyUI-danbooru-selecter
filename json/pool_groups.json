@@ -1,0 +1,757 @@
+{
+  "カテゴリID": "pool_groups",
+  "カテゴリ名": "プールグループ",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=pool_groups",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "プール機能の説明",
+          "tag": "help%3Apools",
+          "link": "https://danbooru.donmai.us/wiki_pages/help%3Apools"
+        },
+        {
+          "label": "プールグループ：奇妙なもの",
+          "tag": "pool_group%3Astrange",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Astrange"
+        },
+        {
+          "label": "プールグループ：性・恋愛",
+          "tag": "pool_group%3Asex",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Asex"
+        },
+        {
+          "label": "プールグループ",
+          "tag": "pool_groups",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_groups"
+        }
+      ]
+    },
+    {
+      "セクション名": "絵師向けの学習資料",
+      "タグ一覧": [
+        {
+          "label": "プールグループ:教育",
+          "tag": "pool_group%3Aeducational",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Aeducational"
+        }
+      ]
+    },
+    {
+      "セクション名": "絵柄・作者",
+      "タグ一覧": [
+        {
+          "label": "プールグループ:スタイル",
+          "tag": "pool_group%3Astyle",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Astyle"
+        }
+      ]
+    },
+    {
+      "セクション名": "画像の特徴・問題点",
+      "タグ一覧": [
+        {
+          "label": "プールグループ:メタ",
+          "tag": "pool_group%3Ameta",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Ameta"
+        }
+      ]
+    },
+    {
+      "セクション名": "テキスト：投稿に書かれている内容",
+      "タグ一覧": [
+        {
+          "label": "プールグループ:テキスト",
+          "tag": "pool_group%3Atext",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Atext"
+        }
+      ]
+    },
+    {
+      "セクション名": "性・恋愛・愛情",
+      "タグ一覧": [
+        {
+          "label": "プールグループ：性・恋愛",
+          "tag": "pool_group%3Asex",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Asex"
+        }
+      ]
+    },
+    {
+      "セクション名": "身体・衣服",
+      "タグ一覧": [
+        {
+          "label": "プールグループ：身体",
+          "tag": "pool_group%3Abody",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Abody"
+        }
+      ]
+    },
+    {
+      "セクション名": "奇妙なもの・怖いもの",
+      "タグ一覧": [
+        {
+          "label": "プールグループ：奇妙なもの",
+          "tag": "pool_group%3Astrange",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Astrange"
+        }
+      ]
+    },
+    {
+      "セクション名": "表情・反応・態度",
+      "タグ一覧": [
+        {
+          "label": "プールグループ：表情",
+          "tag": "pool_group%3Aexpression",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Aexpression"
+        }
+      ]
+    },
+    {
+      "セクション名": "素晴らしい",
+      "タグ一覧": [
+        {
+          "label": "アクションショット",
+          "tag": "Action shots",
+          "link": "https://danbooru.donmai.us/pools/1574"
+        },
+        {
+          "label": "素晴らしいメカ",
+          "tag": "Awesome Mecha",
+          "link": "https://danbooru.donmai.us/pools/834"
+        },
+        {
+          "label": "イケてる",
+          "tag": "Badass",
+          "link": "https://danbooru.donmai.us/pools/1277"
+        },
+        {
+          "label": "ダイナミックエントリー",
+          "tag": "Dynamic Entry",
+          "link": "https://danbooru.donmai.us/pools/2350"
+        },
+        {
+          "label": "エピック",
+          "tag": "Epic",
+          "link": "https://danbooru.donmai.us/pools/16488"
+        },
+        {
+          "label": "フィニッシュムーブ",
+          "tag": "Finishing Moves",
+          "link": "https://danbooru.donmai.us/pools/1058"
+        },
+        {
+          "label": "GARthering",
+          "tag": "GARthering",
+          "link": "https://danbooru.donmai.us/pools/2194"
+        },
+        {
+          "label": "私は王だ!",
+          "tag": "I Am the King!",
+          "link": "https://danbooru.donmai.us/pools/1753"
+        },
+        {
+          "label": "私には力がある",
+          "tag": "I Have the Power",
+          "link": "https://danbooru.donmai.us/pools/3350"
+        },
+        {
+          "label": "もっとダッカ!!",
+          "tag": "More Dakka!!",
+          "link": "https://danbooru.donmai.us/pools/1388"
+        },
+        {
+          "label": "オーバーキル",
+          "tag": "OVERKILL",
+          "link": "https://danbooru.donmai.us/pools/1390"
+        },
+        {
+          "label": "PAWNCH!!!",
+          "tag": "PAWNCH!!!",
+          "link": "https://danbooru.donmai.us/pools/1311"
+        },
+        {
+          "label": "引用できる会話",
+          "tag": "Quotable Dialogue",
+          "link": "https://danbooru.donmai.us/pools/2961"
+        },
+        {
+          "label": "ローグズギャラリー",
+          "tag": "Rogues' Gallery",
+          "link": "https://danbooru.donmai.us/pools/1450"
+        },
+        {
+          "label": "死に至るまで",
+          "tag": "To the Death",
+          "link": "https://danbooru.donmai.us/pools/1384"
+        },
+        {
+          "label": "常に数は劣るが、銃火力では負けない",
+          "tag": "Always Outnumbered - Never Outgunned",
+          "link": "https://danbooru.donmai.us/pools/11415"
+        },
+        {
+          "label": "平凡なものが素晴らしいものになる",
+          "tag": "Mundane Made Awesome",
+          "link": "https://danbooru.donmai.us/pools/2005"
+        },
+        {
+          "label": "ポケモン：シロガネやまのレッド",
+          "tag": "Pokemon - Red at Mt. Silver",
+          "link": "https://danbooru.donmai.us/pools/4149"
+        },
+        {
+          "label": "東方 - うつほのファンシーキャノン",
+          "tag": "Touhou - Utsuho's Fancy Cannon",
+          "link": "https://danbooru.donmai.us/pools/2318"
+        }
+      ]
+    },
+    {
+      "セクション名": "考えさせるもの",
+      "タグ一覧": [
+        {
+          "label": "ほとんど心が痛む",
+          "tag": "Almost Heart-Breaking",
+          "link": "https://danbooru.donmai.us/pools/4990"
+        },
+        {
+          "label": "心温まる",
+          "tag": "Almost Heart-Warming",
+          "link": "https://danbooru.donmai.us/pools/2278"
+        },
+        {
+          "label": "賢い",
+          "tag": "Clever",
+          "link": "https://danbooru.donmai.us/pools/330"
+        },
+        {
+          "label": "クリエイティブ",
+          "tag": "Creative",
+          "link": "https://danbooru.donmai.us/pools/2657"
+        },
+        {
+          "label": "深い思考",
+          "tag": "Deep Thought",
+          "link": "https://danbooru.donmai.us/pools/1565"
+        },
+        {
+          "label": "本末転倒",
+          "tag": "Defeating The Purpose",
+          "link": "https://danbooru.donmai.us/pools/4116"
+        },
+        {
+          "label": "Fund It!",
+          "tag": "Fund It!",
+          "link": "https://danbooru.donmai.us/pools/1636"
+        },
+        {
+          "label": "引用とメッセージ",
+          "tag": "Quotes and Messages",
+          "link": "https://danbooru.donmai.us/pools/1475"
+        },
+        {
+          "label": "冗長性",
+          "tag": "Redundancy",
+          "link": "https://danbooru.donmai.us/pools/2181"
+        },
+        {
+          "label": "考察の材料",
+          "tag": "Speculation Fuel",
+          "link": "https://danbooru.donmai.us/pools/1844"
+        },
+        {
+          "label": "バカみたいに賢い",
+          "tag": "Stupidly Clever",
+          "link": "https://danbooru.donmai.us/pools/3545"
+        },
+        {
+          "label": "見たことのない素晴らしさ!",
+          "tag": "Unseen Awesomeness!",
+          "link": "https://danbooru.donmai.us/pools/3435"
+        },
+        {
+          "label": "ポケモン - ポケモン図鑑",
+          "tag": "Pokemon - Pokedex Says",
+          "link": "https://danbooru.donmai.us/pools/4130"
+        }
+      ]
+    },
+    {
+      "セクション名": "愛らしい、または心温まる",
+      "タグ一覧": [
+        {
+          "label": "最高にかわいい",
+          "tag": "Badass Adorable",
+          "link": "https://danbooru.donmai.us/pools/2380"
+        },
+        {
+          "label": "悶えるほどかわいい",
+          "tag": "Disgustingly Adorable",
+          "link": "https://danbooru.donmai.us/pools/903"
+        },
+        {
+          "label": "意外にかわいい",
+          "tag": "Unexpectedly Adorable",
+          "link": "https://danbooru.donmai.us/pools/5396"
+        },
+        {
+          "label": "不幸かわいい",
+          "tag": "Unhappy Adorable",
+          "link": "https://danbooru.donmai.us/pools/3822"
+        },
+        {
+          "label": "さようなら",
+          "tag": "Goodbye",
+          "link": "https://danbooru.donmai.us/pools/2224"
+        },
+        {
+          "label": "心温まる",
+          "tag": "Heart-Warming",
+          "link": "https://danbooru.donmai.us/pools/756"
+        },
+        {
+          "label": "一人で寝るのが怖い",
+          "tag": "Scared to Sleep Alone",
+          "link": "https://danbooru.donmai.us/pools/1528"
+        }
+      ]
+    },
+    {
+      "セクション名": "悲しい体験",
+      "タグ一覧": [
+        {
+          "label": "ああ、かわいそうな悪役",
+          "tag": "Alas Poor Villain",
+          "link": "https://danbooru.donmai.us/pools/2255"
+        },
+        {
+          "label": "悲痛な",
+          "tag": "Heart-Breaking",
+          "link": "https://danbooru.donmai.us/pools/1446"
+        },
+        {
+          "label": "助けて…",
+          "tag": "Save Me...",
+          "link": "https://danbooru.donmai.us/pools/2574"
+        },
+        {
+          "label": "生涯の傷",
+          "tag": "Scarred for Life",
+          "link": "https://danbooru.donmai.us/pools/1691"
+        },
+        {
+          "label": "魂を打ち砕くほど憂鬱",
+          "tag": "Soul-Crushingly Depressing",
+          "link": "https://danbooru.donmai.us/pools/439"
+        },
+        {
+          "label": "長寿の悲劇",
+          "tag": "Tragedy of Long Life",
+          "link": "https://danbooru.donmai.us/pools/1626"
+        },
+        {
+          "label": "不公平",
+          "tag": "Unfair",
+          "link": "https://danbooru.donmai.us/pools/1972"
+        }
+      ]
+    },
+    {
+      "セクション名": "キャラクターにとって危険",
+      "タグ一覧": [
+        {
+          "label": "自分の墓を掘る",
+          "tag": "Digging Your Own Grave",
+          "link": "https://danbooru.donmai.us/pools/1246"
+        },
+        {
+          "label": "不釣り合いな報復",
+          "tag": "Disproportionate Retribution",
+          "link": "https://danbooru.donmai.us/pools/2693"
+        },
+        {
+          "label": "痛くないですか?",
+          "tag": "Doesn't That Hurt?",
+          "link": "https://danbooru.donmai.us/pools/4292"
+        },
+        {
+          "label": "恐ろしい食べ物",
+          "tag": "Food of Doom",
+          "link": "https://danbooru.donmai.us/pools/1679"
+        },
+        {
+          "label": "ハニートラップ",
+          "tag": "Honey Trap",
+          "link": "https://danbooru.donmai.us/pools/2486"
+        },
+        {
+          "label": "迫り来る破滅",
+          "tag": "Impending Doom",
+          "link": "https://danbooru.donmai.us/pools/4248"
+        },
+        {
+          "label": "そんなことはするなと言っただろう",
+          "tag": "Told You Not to Do That",
+          "link": "https://danbooru.donmai.us/pools/1561"
+        },
+        {
+          "label": "予想外に邪悪",
+          "tag": "Unexpectedly Evil",
+          "link": "https://danbooru.donmai.us/pools/1532"
+        }
+      ]
+    },
+    {
+      "セクション名": "緻密な描写",
+      "タグ一覧": [
+        {
+          "label": "正確に描かれた動物",
+          "tag": "Accurately Depicted Animals",
+          "link": "https://danbooru.donmai.us/pools/11054"
+        },
+        {
+          "label": "美しい動物たち",
+          "tag": "Beautiful Animals",
+          "link": "https://danbooru.donmai.us/pools/8183"
+        },
+        {
+          "label": "Blingin'",
+          "tag": "Blingin'",
+          "link": "https://danbooru.donmai.us/pools/2116"
+        },
+        {
+          "label": "カオス",
+          "tag": "Chaos",
+          "link": "https://danbooru.donmai.us/pools/2355"
+        },
+        {
+          "label": "コレクション",
+          "tag": "Collection",
+          "link": "https://danbooru.donmai.us/pools/4112"
+        },
+        {
+          "label": "陰影表現の技法",
+          "tag": "Expert Shading",
+          "link": "https://danbooru.donmai.us/pools/3574"
+        },
+        {
+          "label": "精巧な武器",
+          "tag": "Exquisite Weaponry",
+          "link": "https://danbooru.donmai.us/pools/2142"
+        },
+        {
+          "label": "上品な服",
+          "tag": "Exquisite Clothes",
+          "link": "https://danbooru.donmai.us/pools/4983"
+        },
+        {
+          "label": "極上下着",
+          "tag": "Exquisite Underwear",
+          "link": "https://danbooru.donmai.us/pools/5172"
+        },
+        {
+          "label": "食欲をそそる食べ物の描写",
+          "tag": "Food Porn",
+          "link": "https://danbooru.donmai.us/pools/874"
+        },
+        {
+          "label": "グランドスケール",
+          "tag": "Grand Scale",
+          "link": "https://danbooru.donmai.us/pools/1886"
+        },
+        {
+          "label": "充実した内装",
+          "tag": "Loaded Interior",
+          "link": "https://danbooru.donmai.us/pools/3292"
+        },
+        {
+          "label": "美しい風景の描写",
+          "tag": "Scenery Porn",
+          "link": "https://danbooru.donmai.us/pools/3020"
+        },
+        {
+          "label": "精巧な静物画",
+          "tag": "Intricate Still Life Artwork",
+          "link": "https://danbooru.donmai.us/pools/3306"
+        }
+      ]
+    },
+    {
+      "セクション名": "迷惑なキャラクター",
+      "タグ一覧": [
+        {
+          "label": "栄光の瞬間を台無しにする",
+          "tag": "Ruining the Glorious Moment",
+          "link": "https://danbooru.donmai.us/pools/1666"
+        },
+        {
+          "label": "あなたは助けになっていない!",
+          "tag": "You're Not Helping!",
+          "link": "https://danbooru.donmai.us/pools/2584"
+        },
+        {
+          "label": "マドカ - くそっ、キュゥべえ！",
+          "tag": "Madoka - God Damn It, Kyubey!",
+          "link": "https://danbooru.donmai.us/pools/3595"
+        },
+        {
+          "label": "東方 - くそー、てゐ!",
+          "tag": "Touhou - God Damn It, Tewi!",
+          "link": "https://danbooru.donmai.us/pools/3396"
+        },
+        {
+          "label": "東方 - くそっ、ゆかり！",
+          "tag": "Touhou - God Damn It, Yukari!",
+          "link": "https://danbooru.donmai.us/pools/1970"
+        },
+        {
+          "label": "東方 - パパラッチ射命丸文",
+          "tag": "Touhou - Paparazzi Shameimaru Aya",
+          "link": "https://danbooru.donmai.us/pools/2529"
+        },
+        {
+          "label": "ウマ娘 - God Damn It Golshi!",
+          "tag": "Umamusume - God Damn It Golshi!",
+          "link": "https://danbooru.donmai.us/pools/17305"
+        }
+      ]
+    },
+    {
+      "セクション名": "家族・友人などの人間関係",
+      "タグ一覧": [
+        {
+          "label": "ブロマンス",
+          "tag": "Bromance",
+          "link": "https://danbooru.donmai.us/pools/3461"
+        },
+        {
+          "label": "自分の家族は選べない",
+          "tag": "Can't Choose Your Own Family",
+          "link": "https://danbooru.donmai.us/pools/3404"
+        },
+        {
+          "label": "家族の絆",
+          "tag": "Family Bonding",
+          "link": "https://danbooru.donmai.us/pools/2140"
+        },
+        {
+          "label": "フレンドリーモンスター",
+          "tag": "Friendly Monsters",
+          "link": "https://danbooru.donmai.us/pools/2296"
+        }
+      ]
+    },
+    {
+      "セクション名": "能力の使い方",
+      "タグ一覧": [
+        {
+          "label": "リミッターアクセサリ",
+          "tag": "Limiter Accessories",
+          "link": "https://danbooru.donmai.us/pools/3738"
+        },
+        {
+          "label": "権力の濫用",
+          "tag": "Perversion of Powers",
+          "link": "https://danbooru.donmai.us/pools/4234"
+        },
+        {
+          "label": "東方 - よくやった、ゆかり！",
+          "tag": "Touhou - Good Work, Yukari!",
+          "link": "https://danbooru.donmai.us/pools/4099"
+        },
+        {
+          "label": "ポータルで考える",
+          "tag": "Thinking with Portals",
+          "link": "https://danbooru.donmai.us/pools/1399"
+        }
+      ]
+    },
+    {
+      "セクション名": "過去を思い出す",
+      "タグ一覧": [
+        {
+          "label": "ノスタルジア",
+          "tag": "Nostalgia",
+          "link": "https://danbooru.donmai.us/pools/660"
+        },
+        {
+          "label": "後から考えると面白い",
+          "tag": "Hilarious in Hindsight",
+          "link": "https://danbooru.donmai.us/pools/1706"
+        },
+        {
+          "label": "後から考えると厳しい",
+          "tag": "Harsher in Hindsight",
+          "link": "https://danbooru.donmai.us/pools/4467"
+        },
+        {
+          "label": "追悼",
+          "tag": "In Memory Of",
+          "link": "https://danbooru.donmai.us/pools/1318"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他・未分類",
+      "タグ一覧": [
+        {
+          "label": "恨めしい天気",
+          "tag": "Damn You, Weather!",
+          "link": "https://danbooru.donmai.us/pools/2514"
+        },
+        {
+          "label": "食用動物",
+          "tag": "Food Animals",
+          "link": "https://danbooru.donmai.us/pools/15188"
+        },
+        {
+          "label": "東西の出会い",
+          "tag": "East Meets West",
+          "link": "https://danbooru.donmai.us/pools/1791"
+        },
+        {
+          "label": "日本侵攻",
+          "tag": "Invasion of Japan",
+          "link": "https://danbooru.donmai.us/pools/3711"
+        },
+        {
+          "label": "About Time - Saw It Coming",
+          "tag": "About Time - Saw It Coming",
+          "link": "https://danbooru.donmai.us/pools/4661"
+        },
+        {
+          "label": "反射された世界",
+          "tag": "Reflected Worlds",
+          "link": "https://danbooru.donmai.us/pools/3209"
+        },
+        {
+          "label": "日常の一コマ",
+          "tag": "Slice of Life",
+          "link": "https://danbooru.donmai.us/pools/2810"
+        },
+        {
+          "label": "柔らかくて快適",
+          "tag": "Soft and Comfy",
+          "link": "https://danbooru.donmai.us/pools/1518"
+        },
+        {
+          "label": "荷物が到着しました",
+          "tag": "Your Shipment Has Arrived",
+          "link": "https://danbooru.donmai.us/pools/3780"
+        }
+      ]
+    },
+    {
+      "セクション名": "ミーム/画像レスポンス",
+      "タグ一覧": [
+        {
+          "label": "Pixiv ミーム - ボトル ミーム",
+          "tag": "Pixiv Meme - Bottle Meme",
+          "link": "https://danbooru.donmai.us/pools/1096"
+        },
+        {
+          "label": "Pixiv - 私の好きなキャラクター10人のうち8人",
+          "tag": "Pixiv - 8 of My 10 Favorite Characters",
+          "link": "https://danbooru.donmai.us/pools/1864"
+        },
+        {
+          "label": "絵師の1年間の上達記録",
+          "tag": "One Year Artist Progress Record",
+          "link": "https://danbooru.donmai.us/pools/2609"
+        },
+        {
+          "label": "Pixiv - 奥さんにバカ呼ばわりされる",
+          "tag": "Pixiv - Being Called an Idiot by Your Wife",
+          "link": "https://danbooru.donmai.us/pools/1400"
+        },
+        {
+          "label": "妻交換プロフィール",
+          "tag": "Wife Swapping Profiles",
+          "link": "https://danbooru.donmai.us/pools/1001"
+        },
+        {
+          "label": "私のバッグの中身",
+          "tag": "The Contents of My Bag",
+          "link": "https://danbooru.donmai.us/pools/4356"
+        }
+      ]
+    },
+    {
+      "セクション名": "特定作品のプール",
+      "タグ一覧": [
+        {
+          "label": "プールグループ:ポケモン",
+          "tag": "pool_group%3Apokemon",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Apokemon"
+        },
+        {
+          "label": "プールグループ:東方",
+          "tag": "pool_group%3Atouhou",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_group%3Atouhou"
+        },
+        {
+          "label": "マドカ - みんなキュゥべえが嫌い",
+          "tag": "Madoka - Everybody Hates Kyubey",
+          "link": "https://danbooru.donmai.us/pools/2939"
+        },
+        {
+          "label": "マドカ - くそっ、キュゥべえ！",
+          "tag": "Madoka - God Damn It, Kyubey!",
+          "link": "https://danbooru.donmai.us/pools/3595"
+        },
+        {
+          "label": "マドカ - キュゥべえの真の姿",
+          "tag": "Madoka - Kyubey's True Form",
+          "link": "https://danbooru.donmai.us/pools/3316"
+        },
+        {
+          "label": "まどか：孤独なマミ",
+          "tag": "Madoka - Lonely Mami",
+          "link": "https://danbooru.donmai.us/pools/4220"
+        },
+        {
+          "label": "まどか - 変態ほむら",
+          "tag": "Madoka - Perverted Homura",
+          "link": "https://danbooru.donmai.us/pools/3171"
+        },
+        {
+          "label": "東方 - 鵺の真の姿",
+          "tag": "Touhou - Nue's True Form",
+          "link": "https://danbooru.donmai.us/pools/10509"
+        },
+        {
+          "label": "ゆるゆり - \\アカリン!!//",
+          "tag": "Yuru Yuri - \\Akarin!!//",
+          "link": "https://danbooru.donmai.us/pools/3986"
+        }
+      ]
+    },
+    {
+      "セクション名": "雑誌のプール",
+      "タグ一覧": [
+        {
+          "label": "電撃萌王の号一覧",
+          "tag": "list_of_dengeki_moeoh_issues",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_dengeki_moeoh_issues"
+        },
+        {
+          "label": "メガミマガジンの号一覧",
+          "tag": "list_of_megami_issues",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_megami_issues"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
+}

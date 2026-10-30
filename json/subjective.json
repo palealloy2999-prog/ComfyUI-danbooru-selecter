@@ -1,0 +1,237 @@
+{
+  "カテゴリID": "subjective",
+  "カテゴリ名": "主観的な評価",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Asubjective",
+  "セクション一覧": [
+    {
+      "セクション名": "一般的な主観タグ",
+      "タグ一覧": [
+        {
+          "label": "魅力的",
+          "tag": "attractive",
+          "link": "https://danbooru.donmai.us/wiki_pages/attractive"
+        },
+        {
+          "label": "素晴らしい",
+          "tag": "awesome",
+          "link": "https://danbooru.donmai.us/wiki_pages/awesome"
+        },
+        {
+          "label": "美しい",
+          "tag": "beautiful",
+          "link": "https://danbooru.donmai.us/wiki_pages/beautiful"
+        },
+        {
+          "label": "子供っぽい",
+          "tag": "childish",
+          "link": "https://danbooru.donmai.us/wiki_pages/childish"
+        },
+        {
+          "label": "色",
+          "tag": "color",
+          "link": "https://danbooru.donmai.us/wiki_pages/color"
+        },
+        {
+          "label": "格好いい",
+          "tag": "cool",
+          "link": "https://danbooru.donmai.us/wiki_pages/cool"
+        },
+        {
+          "label": "かわいい",
+          "tag": "cute",
+          "link": "https://danbooru.donmai.us/wiki_pages/cute"
+        },
+        {
+          "label": "愛らしい",
+          "tag": "adorable",
+          "link": "https://danbooru.donmai.us/wiki_pages/adorable"
+        },
+        {
+          "label": "かわいい",
+          "tag": "kawaii",
+          "link": "https://danbooru.donmai.us/wiki_pages/kawaii"
+        },
+        {
+          "label": "すごい",
+          "tag": "epic",
+          "link": "https://danbooru.donmai.us/wiki_pages/epic"
+        },
+        {
+          "label": "エロチック",
+          "tag": "erotic",
+          "link": "https://danbooru.donmai.us/wiki_pages/erotic"
+        },
+        {
+          "label": "良い",
+          "tag": "good",
+          "link": "https://danbooru.donmai.us/wiki_pages/good"
+        },
+        {
+          "label": "素晴らしい",
+          "tag": "great",
+          "link": "https://danbooru.donmai.us/wiki_pages/great"
+        },
+        {
+          "label": "素敵",
+          "tag": "gorgeous",
+          "link": "https://danbooru.donmai.us/wiki_pages/gorgeous"
+        },
+        {
+          "label": "ハンサム",
+          "tag": "handsome",
+          "link": "https://danbooru.donmai.us/wiki_pages/handsome"
+        },
+        {
+          "label": "無力",
+          "tag": "helpless",
+          "link": "https://danbooru.donmai.us/wiki_pages/helpless"
+        },
+        {
+          "label": "変態",
+          "tag": "hentai",
+          "link": "https://danbooru.donmai.us/wiki_pages/hentai"
+        },
+        {
+          "label": "エッチ",
+          "tag": "ecchi",
+          "link": "https://danbooru.donmai.us/wiki_pages/ecchi"
+        },
+        {
+          "label": "わいせつな",
+          "tag": "lewd",
+          "link": "https://danbooru.donmai.us/wiki_pages/lewd"
+        },
+        {
+          "label": "愛",
+          "tag": "love",
+          "link": "https://danbooru.donmai.us/wiki_pages/love"
+        },
+        {
+          "label": "完璧",
+          "tag": "perfect",
+          "link": "https://danbooru.donmai.us/wiki_pages/perfect"
+        },
+        {
+          "label": "かわいい",
+          "tag": "pretty",
+          "link": "https://danbooru.donmai.us/wiki_pages/pretty"
+        },
+        {
+          "label": "セクシー",
+          "tag": "sexy",
+          "link": "https://danbooru.donmai.us/wiki_pages/sexy"
+        },
+        {
+          "label": "つまみたくなる",
+          "tag": "squeezable",
+          "link": "https://danbooru.donmai.us/wiki_pages/squeezable"
+        },
+        {
+          "label": "厚い",
+          "tag": "thick",
+          "link": "https://danbooru.donmai.us/wiki_pages/thick"
+        },
+        {
+          "label": "むっちりした",
+          "tag": "thicc",
+          "link": "https://danbooru.donmai.us/wiki_pages/thicc"
+        },
+        {
+          "label": "暴力的な",
+          "tag": "violent",
+          "link": "https://danbooru.donmai.us/wiki_pages/violent"
+        },
+        {
+          "label": "VIP品質",
+          "tag": "vip_quality",
+          "link": "https://danbooru.donmai.us/wiki_pages/vip_quality"
+        },
+        {
+          "label": "健全",
+          "tag": "wholesome",
+          "link": "https://danbooru.donmai.us/wiki_pages/wholesome"
+        }
+      ]
+    },
+    {
+      "セクション名": "例外",
+      "タグ一覧": [
+        {
+          "label": "カラフル",
+          "tag": "colorful",
+          "link": "https://danbooru.donmai.us/wiki_pages/colorful"
+        },
+        {
+          "label": "素晴らしい",
+          "tag": "fabulous",
+          "link": "https://danbooru.donmai.us/wiki_pages/fabulous"
+        },
+        {
+          "label": "ふわふわ",
+          "tag": "fluffy",
+          "link": "https://danbooru.donmai.us/wiki_pages/fluffy"
+        },
+        {
+          "label": "男らしい",
+          "tag": "manly",
+          "link": "https://danbooru.donmai.us/wiki_pages/manly"
+        },
+        {
+          "label": "萌え",
+          "tag": "moe_%28phrase%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/moe_%28phrase%29"
+        },
+        {
+          "label": "究極の萌え",
+          "tag": "ultimate_moe",
+          "link": "https://danbooru.donmai.us/wiki_pages/ultimate_moe"
+        },
+        {
+          "label": "母性的な",
+          "tag": "motherly",
+          "link": "https://danbooru.donmai.us/wiki_pages/motherly"
+        },
+        {
+          "label": "当たり前の指摘",
+          "tag": "obvious_statement",
+          "link": "https://danbooru.donmai.us/wiki_pages/obvious_statement"
+        },
+        {
+          "label": "恥ずかしさ",
+          "tag": "shame",
+          "link": "https://danbooru.donmai.us/wiki_pages/shame"
+        },
+        {
+          "label": "強い",
+          "tag": "strong",
+          "link": "https://danbooru.donmai.us/wiki_pages/strong"
+        },
+        {
+          "label": "多すぎる",
+          "tag": "too_many",
+          "link": "https://danbooru.donmai.us/wiki_pages/too_many"
+        },
+        {
+          "label": "文字通りすぎる",
+          "tag": "too_literal",
+          "link": "https://danbooru.donmai.us/wiki_pages/too_literal"
+        },
+        {
+          "label": "長すぎる",
+          "tag": "too_long",
+          "link": "https://danbooru.donmai.us/wiki_pages/too_long"
+        },
+        {
+          "label": "真実",
+          "tag": "truth",
+          "link": "https://danbooru.donmai.us/wiki_pages/truth"
+        },
+        {
+          "label": "何これ",
+          "tag": "what",
+          "link": "https://danbooru.donmai.us/wiki_pages/what"
+        }
+      ]
+    }
+  ]
+}

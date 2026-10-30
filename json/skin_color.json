@@ -1,0 +1,157 @@
+﻿{
+    "カテゴリID":  "skin_color",
+    "カテゴリ名":  "肌の色",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Askin_color",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "通常の色",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "褐色の肌",
+                                         "tag":  "dark_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dark_skin"
+                                     },
+                                     {
+                                         "label":  "肌の色が濃い女性",
+                                         "tag":  "dark-skinned_female",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dark-skinned_female"
+                                     },
+                                     {
+                                         "label":  "肌の色が濃い男性",
+                                         "tag":  "dark-skinned_male",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dark-skinned_male"
+                                     },
+                                     {
+                                         "label":  "濃い褐色の肌",
+                                         "tag":  "very_dark_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/very_dark_skin"
+                                     },
+                                     {
+                                         "label":  "青白い肌",
+                                         "tag":  "pale_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pale_skin"
+                                     },
+                                     {
+                                         "label":  "日焼け",
+                                         "tag":  "tan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tan"
+                                     },
+                                     {
+                                         "label":  "日焼け跡",
+                                         "tag":  "tanlines",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tanlines"
+                                     },
+                                     {
+                                         "label":  "日焼けタトゥー",
+                                         "tag":  "tan_tattoo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tan_tattoo"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "特殊な肌色",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "黒い肌",
+                                         "tag":  "black_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_skin"
+                                     },
+                                     {
+                                         "label":  "青い肌",
+                                         "tag":  "blue_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_skin"
+                                     },
+                                     {
+                                         "label":  "緑色の肌",
+                                         "tag":  "green_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_skin"
+                                     },
+                                     {
+                                         "label":  "灰色の肌",
+                                         "tag":  "grey_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_skin"
+                                     },
+                                     {
+                                         "label":  "オレンジ色の肌",
+                                         "tag":  "orange_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_skin"
+                                     },
+                                     {
+                                         "label":  "ピンク色の肌",
+                                         "tag":  "pink_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_skin"
+                                     },
+                                     {
+                                         "label":  "紫色の肌",
+                                         "tag":  "purple_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple_skin"
+                                     },
+                                     {
+                                         "label":  "赤い肌",
+                                         "tag":  "red_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_skin"
+                                     },
+                                     {
+                                         "label":  "銀色の肌",
+                                         "tag":  "silver_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/silver_skin"
+                                     },
+                                     {
+                                         "label":  "白い肌",
+                                         "tag":  "white_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_skin"
+                                     },
+                                     {
+                                         "label":  "黄色い肌",
+                                         "tag":  "yellow_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_skin"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "材質による肌の違い",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "金属の肌",
+                                         "tag":  "metal_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/metal_skin"
+                                     },
+                                     {
+                                         "label":  "プラスチックの肌",
+                                         "tag":  "plastic_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plastic_skin"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "関連タグ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "特殊な色の肌",
+                                         "tag":  "colored_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/colored_skin"
+                                     },
+                                     {
+                                         "label":  "光沢のある肌",
+                                         "tag":  "shiny_skin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shiny_skin"
+                                     },
+                                     {
+                                         "label":  "体の赤み",
+                                         "tag":  "body_blush",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/body_blush"
+                                     },
+                                     {
+                                         "label":  "タググループ：色",
+                                         "tag":  "tag_group%3Acolors",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Acolors"
+                                     },
+                                     {
+                                         "label":  "タググループ：髪の色",
+                                         "tag":  "tag_group%3Ahair_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_color"
+                                     }
+                                 ]
+                    }
+                ]
+}

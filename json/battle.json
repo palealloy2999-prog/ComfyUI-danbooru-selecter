@@ -1,0 +1,102 @@
+{
+  "カテゴリID": "battle",
+  "カテゴリ名": "戦闘",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=battle",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "戦闘",
+          "tag": "fighting",
+          "link": "https://danbooru.donmai.us/wiki_pages/fighting"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "空中戦",
+          "tag": "aerial_battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/aerial_battle"
+        },
+        {
+          "label": "戦闘後",
+          "tag": "after_battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/after_battle"
+        },
+        {
+          "label": "集団戦",
+          "tag": "group_battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/group_battle"
+        },
+        {
+          "label": "海戦",
+          "tag": "naval_battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/naval_battle"
+        },
+        {
+          "label": "決闘",
+          "tag": "duel",
+          "link": "https://danbooru.donmai.us/wiki_pages/duel"
+        },
+        {
+          "label": "クロスカウンター",
+          "tag": "crosscounter",
+          "link": "https://danbooru.donmai.us/wiki_pages/crosscounter"
+        },
+        {
+          "label": "衝突",
+          "tag": "clash",
+          "link": "https://danbooru.donmai.us/wiki_pages/clash"
+        },
+        {
+          "label": "戦争",
+          "tag": "war",
+          "link": "https://danbooru.donmai.us/wiki_pages/war"
+        },
+        {
+          "label": "兵士",
+          "tag": "soldier",
+          "link": "https://danbooru.donmai.us/wiki_pages/soldier"
+        },
+        {
+          "label": "軍隊",
+          "tag": "military",
+          "link": "https://danbooru.donmai.us/wiki_pages/military"
+        },
+        {
+          "label": "遮蔽物に隠れる",
+          "tag": "taking_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/taking_cover"
+        },
+        {
+          "label": "攻撃を受ける",
+          "tag": "under_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/under_fire"
+        },
+        {
+          "label": "空中戦",
+          "tag": "aerial_battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/aerial_battle"
+        },
+        {
+          "label": "集団戦",
+          "tag": "group_battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/group_battle"
+        },
+        {
+          "label": "海戦",
+          "tag": "naval_battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/naval_battle"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

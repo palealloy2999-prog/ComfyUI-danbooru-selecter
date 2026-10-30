@@ -1,0 +1,507 @@
+{
+  "カテゴリID": "dress",
+  "カテゴリ名": "ドレス",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Adress",
+  "セクション一覧": [
+    {
+      "セクション名": "基本",
+      "タグ一覧": [
+        {
+          "label": "ドレス",
+          "tag": "dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress"
+        }
+      ]
+    },
+    {
+      "セクション名": "動作・状態",
+      "タグ一覧": [
+        {
+          "label": "ドレスをめくる",
+          "tag": "dress_flip",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_flip"
+        },
+        {
+          "label": "ドレスを掴む",
+          "tag": "dress_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_grab"
+        },
+        {
+          "label": "ドレスを持ち上げる",
+          "tag": "dress_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_lift"
+        },
+        {
+          "label": "ドレスを引っ張る",
+          "tag": "dress_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_pull"
+        },
+        {
+          "label": "ドレスを引っ張る",
+          "tag": "dress_tug",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_tug"
+        },
+        {
+          "label": "前の開いたドレス",
+          "tag": "open_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_dress"
+        },
+        {
+          "label": "スカートバスケット",
+          "tag": "skirt_basket",
+          "link": "https://danbooru.donmai.us/wiki_pages/skirt_basket"
+        },
+        {
+          "label": "縛られたドレス",
+          "tag": "tied_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/tied_dress"
+        },
+        {
+          "label": "破れたドレス",
+          "tag": "torn_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_dress"
+        },
+        {
+          "label": "濡れたドレス",
+          "tag": "wet_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_dress"
+        }
+      ]
+    },
+    {
+      "セクション名": "色",
+      "タグ一覧": [
+        {
+          "label": "水色のドレス",
+          "tag": "aqua_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_dress"
+        },
+        {
+          "label": "黒いドレス",
+          "tag": "black_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_dress"
+        },
+        {
+          "label": "青いドレス",
+          "tag": "blue_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_dress"
+        },
+        {
+          "label": "茶色のドレス",
+          "tag": "brown_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_dress"
+        },
+        {
+          "label": "緑のドレス",
+          "tag": "green_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_dress"
+        },
+        {
+          "label": "グレーのドレス",
+          "tag": "grey_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_dress"
+        },
+        {
+          "label": "オレンジ色のドレス",
+          "tag": "orange_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_dress"
+        },
+        {
+          "label": "ピンクのドレス",
+          "tag": "pink_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_dress"
+        },
+        {
+          "label": "紫色のドレス",
+          "tag": "purple_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_dress"
+        },
+        {
+          "label": "赤いドレス",
+          "tag": "red_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_dress"
+        },
+        {
+          "label": "白いドレス",
+          "tag": "white_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_dress"
+        },
+        {
+          "label": "黄色のドレス",
+          "tag": "yellow_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_dress"
+        }
+      ]
+    },
+    {
+      "セクション名": "複数色",
+      "タグ一覧": [
+        {
+          "label": "色とりどりのドレス",
+          "tag": "multicolored_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_dress"
+        },
+        {
+          "label": "ツートンドレス",
+          "tag": "two-tone_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-tone_dress"
+        },
+        {
+          "label": "両面ドレス",
+          "tag": "two-sided_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-sided_dress"
+        }
+      ]
+    },
+    {
+      "セクション名": "模様・プリント",
+      "タグ一覧": [
+        {
+          "label": "アーガイルドレス",
+          "tag": "argyle_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/argyle_dress"
+        },
+        {
+          "label": "チェック柄のドレス",
+          "tag": "checkered_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_dress"
+        },
+        {
+          "label": "フラッグドレス",
+          "tag": "flag_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/flag_dress"
+        },
+        {
+          "label": "チェック柄のドレス",
+          "tag": "plaid_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/plaid_dress"
+        },
+        {
+          "label": "水玉模様のドレス",
+          "tag": "polka_dot_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot_dress"
+        },
+        {
+          "label": "プリントドレス",
+          "tag": "print_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_dress"
+        },
+        {
+          "label": "ストライプのドレス",
+          "tag": "striped_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_dress"
+        },
+        {
+          "label": "縦縞のドレス",
+          "tag": "vertical-striped_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/vertical-striped_dress"
+        },
+        {
+          "label": "ピンストライプのドレス",
+          "tag": "pinstripe_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/pinstripe_dress"
+        }
+      ]
+    },
+    {
+      "セクション名": "丈",
+      "タグ一覧": [
+        {
+          "label": "ロングドレス",
+          "tag": "long_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_dress"
+        },
+        {
+          "label": "ミディアムドレス",
+          "tag": "medium_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/medium_dress"
+        },
+        {
+          "label": "ショートドレス",
+          "tag": "short_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/short_dress"
+        },
+        {
+          "label": "マイクロドレス",
+          "tag": "microdress",
+          "link": "https://danbooru.donmai.us/wiki_pages/microdress"
+        }
+      ]
+    },
+    {
+      "セクション名": "形・装飾",
+      "タグ一覧": [
+        {
+          "label": "装甲付きのドレス",
+          "tag": "armored_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/armored_dress"
+        },
+        {
+          "label": "背中が開いたドレス",
+          "tag": "backless_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/backless_dress"
+        },
+        {
+          "label": "クリノリン",
+          "tag": "crinoline",
+          "link": "https://danbooru.donmai.us/wiki_pages/crinoline"
+        },
+        {
+          "label": "襟付きドレス",
+          "tag": "collared_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_dress"
+        },
+        {
+          "label": "フリルドレス",
+          "tag": "frilled_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/frilled_dress"
+        },
+        {
+          "label": "毛皮の縁取りのドレス",
+          "tag": "fur-trimmed_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/fur-trimmed_dress"
+        },
+        {
+          "label": "グリッタードレス",
+          "tag": "glitter_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/glitter_dress"
+        },
+        {
+          "label": "半袖",
+          "tag": "half-dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/half-dress"
+        },
+        {
+          "label": "ホルターネックドレス",
+          "tag": "halter_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/halter_dress"
+        },
+        {
+          "label": "ハイレグドレス",
+          "tag": "highleg_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/highleg_dress"
+        },
+        {
+          "label": "ハイロースカート",
+          "tag": "high-low_skirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/high-low_skirt"
+        },
+        {
+          "label": "ホッブルドレス",
+          "tag": "hobble_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/hobble_dress"
+        },
+        {
+          "label": "ありえないドレス",
+          "tag": "impossible_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/impossible_dress"
+        },
+        {
+          "label": "レース縁のドレス",
+          "tag": "lace-trimmed_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace-trimmed_dress"
+        },
+        {
+          "label": "ラテックスドレス",
+          "tag": "latex_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/latex_dress"
+        },
+        {
+          "label": "重ね着ドレス",
+          "tag": "layered_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/layered_dress"
+        },
+        {
+          "label": "オフショルダードレス",
+          "tag": "off-shoulder_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/off-shoulder_dress"
+        },
+        {
+          "label": "プリーツドレス",
+          "tag": "pleated_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/pleated_dress"
+        },
+        {
+          "label": "深いネックライン",
+          "tag": "plunging_neckline",
+          "link": "https://danbooru.donmai.us/wiki_pages/plunging_neckline"
+        },
+        {
+          "label": "リブドレス",
+          "tag": "ribbed_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbed_dress"
+        },
+        {
+          "label": "リボントリムのドレス",
+          "tag": "ribbon-trimmed_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_dress"
+        },
+        {
+          "label": "サイドスリット",
+          "tag": "side_slit",
+          "link": "https://danbooru.donmai.us/wiki_pages/side_slit"
+        },
+        {
+          "label": "ぴんと張ったドレス",
+          "tag": "taut_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/taut_dress"
+        },
+        {
+          "label": "シースルードレス",
+          "tag": "see-through_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/see-through_dress"
+        },
+        {
+          "label": "ノースリーブドレス",
+          "tag": "sleeveless_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_dress"
+        },
+        {
+          "label": "ストラップレスドレス",
+          "tag": "strapless_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/strapless_dress"
+        }
+      ]
+    },
+    {
+      "セクション名": "種類",
+      "タグ一覧": [
+        {
+          "label": "ケーキドレス",
+          "tag": "cake_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/cake_dress"
+        },
+        {
+          "label": "チャイナドレス",
+          "tag": "china_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/china_dress"
+        },
+        {
+          "label": "コートドレス",
+          "tag": "coat_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/coat_dress"
+        },
+        {
+          "label": "カクテルドレス",
+          "tag": "cocktail_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/cocktail_dress"
+        },
+        {
+          "label": "デニムドレス",
+          "tag": "denim_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/denim_dress"
+        },
+        {
+          "label": "ディアンドル",
+          "tag": "dirndl",
+          "link": "https://danbooru.donmai.us/wiki_pages/dirndl"
+        },
+        {
+          "label": "イブニングドレス",
+          "tag": "evening_gown",
+          "link": "https://danbooru.donmai.us/wiki_pages/evening_gown"
+        },
+        {
+          "label": "みずのはごろも（ドラゴンクエスト）",
+          "tag": "flowing_dress_%28dq%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/flowing_dress_%28dq%29"
+        },
+        {
+          "label": "喪服",
+          "tag": "funeral_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/funeral_dress"
+        },
+        {
+          "label": "ガウン",
+          "tag": "gown",
+          "link": "https://danbooru.donmai.us/wiki_pages/gown"
+        },
+        {
+          "label": "マーメイドドレス",
+          "tag": "mermaid_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/mermaid_dress"
+        },
+        {
+          "label": "ネグリジェ",
+          "tag": "negligee",
+          "link": "https://danbooru.donmai.us/wiki_pages/negligee"
+        },
+        {
+          "label": "ナイトガウン",
+          "tag": "nightgown",
+          "link": "https://danbooru.donmai.us/wiki_pages/nightgown"
+        },
+        {
+          "label": "ペンシルドレス",
+          "tag": "pencil_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/pencil_dress"
+        },
+        {
+          "label": "エプロンドレス",
+          "tag": "pinafore_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/pinafore_dress"
+        },
+        {
+          "label": "セーラードレス",
+          "tag": "sailor_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailor_dress"
+        },
+        {
+          "label": "サンタドレス",
+          "tag": "santa_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/santa_dress"
+        },
+        {
+          "label": "サンドレス",
+          "tag": "sundress",
+          "link": "https://danbooru.donmai.us/wiki_pages/sundress"
+        },
+        {
+          "label": "セータードレス",
+          "tag": "sweater_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/sweater_dress"
+        },
+        {
+          "label": "テニスドレス",
+          "tag": "tennis_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/tennis_dress"
+        },
+        {
+          "label": "テントドレス",
+          "tag": "tent_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/tent_dress"
+        },
+        {
+          "label": "トラペーズドレス",
+          "tag": "trapeze_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/trapeze_dress"
+        },
+        {
+          "label": "チューブドレス",
+          "tag": "tube_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/tube_dress"
+        },
+        {
+          "label": "アオザイ",
+          "tag": "ao_dai",
+          "link": "https://danbooru.donmai.us/wiki_pages/ao_dai"
+        },
+        {
+          "label": "ウェディングドレス",
+          "tag": "wedding_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/wedding_dress"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：服装",
+          "tag": "tag_group%3Aattire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+        }
+      ]
+    }
+  ]
+}

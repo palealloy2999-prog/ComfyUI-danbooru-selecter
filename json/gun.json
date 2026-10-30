@@ -1,0 +1,467 @@
+{
+  "カテゴリID": "gun",
+  "カテゴリ名": "銃",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=gun",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "武器",
+          "tag": "weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon"
+        },
+        {
+          "label": "弾丸",
+          "tag": "bullet",
+          "link": "https://danbooru.donmai.us/wiki_pages/bullet"
+        },
+        {
+          "label": "SF",
+          "tag": "science_fiction",
+          "link": "https://danbooru.donmai.us/wiki_pages/science_fiction"
+        },
+        {
+          "label": "エネルギー銃",
+          "tag": "energy_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/energy_gun"
+        }
+      ]
+    },
+    {
+      "セクション名": "種類",
+      "タグ一覧": [
+        {
+          "label": "ハンドガン",
+          "tag": "handgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/handgun"
+        },
+        {
+          "label": "リボルバー",
+          "tag": "revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/revolver"
+        },
+        {
+          "label": "機関銃",
+          "tag": "machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/machine_gun"
+        },
+        {
+          "label": "軽機関銃",
+          "tag": "light_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/light_machine_gun"
+        },
+        {
+          "label": "重機関銃",
+          "tag": "heavy_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/heavy_machine_gun"
+        },
+        {
+          "label": "ライフル",
+          "tag": "rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/rifle"
+        },
+        {
+          "label": "アサルトライフル",
+          "tag": "assault_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/assault_rifle"
+        },
+        {
+          "label": "バトルライフル",
+          "tag": "battle_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/battle_rifle"
+        },
+        {
+          "label": "スナイパーライフル",
+          "tag": "sniper_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/sniper_rifle"
+        },
+        {
+          "label": "対物ライフル",
+          "tag": "anti-materiel_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-materiel_rifle"
+        },
+        {
+          "label": "ショットガン",
+          "tag": "shotgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/shotgun"
+        },
+        {
+          "label": "サブマシンガン",
+          "tag": "submachine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/submachine_gun"
+        }
+      ]
+    },
+    {
+      "セクション名": "メカニズム",
+      "タグ一覧": [
+        {
+          "label": "ボルトアクション",
+          "tag": "bolt_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolt_action"
+        },
+        {
+          "label": "ブルパップ",
+          "tag": "bullpup",
+          "link": "https://danbooru.donmai.us/wiki_pages/bullpup"
+        },
+        {
+          "label": "フリントロック",
+          "tag": "flintlock",
+          "link": "https://danbooru.donmai.us/wiki_pages/flintlock"
+        },
+        {
+          "label": "中折れ式",
+          "tag": "break_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/break_action"
+        },
+        {
+          "label": "レバーアクション",
+          "tag": "lever_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/lever_action"
+        },
+        {
+          "label": "ポンプアクション",
+          "tag": "pump_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/pump_action"
+        },
+        {
+          "label": "火縄銃",
+          "tag": "matchlock",
+          "link": "https://danbooru.donmai.us/wiki_pages/matchlock"
+        },
+        {
+          "label": "リボルバー",
+          "tag": "revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/revolver"
+        },
+        {
+          "label": "キャップロック",
+          "tag": "caplock",
+          "link": "https://danbooru.donmai.us/wiki_pages/caplock"
+        },
+        {
+          "label": "ホイールロック",
+          "tag": "wheellock",
+          "link": "https://danbooru.donmai.us/wiki_pages/wheellock"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクセサリー",
+      "タグ一覧": [
+        {
+          "label": "ホルスター",
+          "tag": "holster",
+          "link": "https://danbooru.donmai.us/wiki_pages/holster"
+        },
+        {
+          "label": "レーザーサイト",
+          "tag": "laser_sight",
+          "link": "https://danbooru.donmai.us/wiki_pages/laser_sight"
+        },
+        {
+          "label": "サプレッサー",
+          "tag": "suppressor",
+          "link": "https://danbooru.donmai.us/wiki_pages/suppressor"
+        },
+        {
+          "label": "照準スコープ",
+          "tag": "scope",
+          "link": "https://danbooru.donmai.us/wiki_pages/scope"
+        },
+        {
+          "label": "ガンスリング",
+          "tag": "gun_sling",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun_sling"
+        }
+      ]
+    },
+    {
+      "セクション名": "弾薬",
+      "タグ一覧": [
+        {
+          "label": "弾薬",
+          "tag": "ammunition",
+          "link": "https://danbooru.donmai.us/wiki_pages/ammunition"
+        },
+        {
+          "label": "弾薬箱",
+          "tag": "ammunition_box",
+          "link": "https://danbooru.donmai.us/wiki_pages/ammunition_box"
+        },
+        {
+          "label": "弾丸",
+          "tag": "bullet",
+          "link": "https://danbooru.donmai.us/wiki_pages/bullet"
+        },
+        {
+          "label": "カートリッジ",
+          "tag": "cartridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/cartridge"
+        },
+        {
+          "label": "クリップ",
+          "tag": "clip_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/clip_%28weapon%29"
+        },
+        {
+          "label": "弾倉",
+          "tag": "magazine_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/magazine_%28weapon%29"
+        },
+        {
+          "label": "拡張マガジン",
+          "tag": "extended_magazine",
+          "link": "https://danbooru.donmai.us/wiki_pages/extended_magazine"
+        },
+        {
+          "label": "薬莢",
+          "tag": "shell_casing",
+          "link": "https://danbooru.donmai.us/wiki_pages/shell_casing"
+        },
+        {
+          "label": "排莢",
+          "tag": "casing_ejection",
+          "link": "https://danbooru.donmai.us/wiki_pages/casing_ejection"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクション",
+      "タグ一覧": [
+        {
+          "label": "Cクランプ",
+          "tag": "c-clamp",
+          "link": "https://danbooru.donmai.us/wiki_pages/c-clamp"
+        },
+        {
+          "label": "二刀流",
+          "tag": "dual_wielding",
+          "link": "https://danbooru.donmai.us/wiki_pages/dual_wielding"
+        },
+        {
+          "label": "銃を持つ",
+          "tag": "holding_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_gun"
+        },
+        {
+          "label": "狙いを定める",
+          "tag": "aiming",
+          "link": "https://danbooru.donmai.us/wiki_pages/aiming"
+        },
+        {
+          "label": "こちらを狙う",
+          "tag": "aiming_at_viewer",
+          "link": "https://danbooru.donmai.us/wiki_pages/aiming_at_viewer"
+        },
+        {
+          "label": "発砲",
+          "tag": "firing",
+          "link": "https://danbooru.donmai.us/wiki_pages/firing"
+        },
+        {
+          "label": "排莢",
+          "tag": "casing_ejection",
+          "link": "https://danbooru.donmai.us/wiki_pages/casing_ejection"
+        },
+        {
+          "label": "こちらに向けて発砲",
+          "tag": "firing_at_viewer",
+          "link": "https://danbooru.donmai.us/wiki_pages/firing_at_viewer"
+        },
+        {
+          "label": "マズルフラッシュ（銃口の発火）",
+          "tag": "muzzle_flash",
+          "link": "https://danbooru.donmai.us/wiki_pages/muzzle_flash"
+        },
+        {
+          "label": "銃口から煙",
+          "tag": "smoking_barrel",
+          "link": "https://danbooru.donmai.us/wiki_pages/smoking_barrel"
+        },
+        {
+          "label": "銃を突きつけられて",
+          "tag": "at_gunpoint",
+          "link": "https://danbooru.donmai.us/wiki_pages/at_gunpoint"
+        },
+        {
+          "label": "口に銃",
+          "tag": "gun_in_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun_in_mouth"
+        },
+        {
+          "label": "銃を頭に突きつける",
+          "tag": "gun_to_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun_to_head"
+        },
+        {
+          "label": "引き金に指を掛けない持ち方",
+          "tag": "trigger_discipline",
+          "link": "https://danbooru.donmai.us/wiki_pages/trigger_discipline"
+        },
+        {
+          "label": "引き金に指をかける",
+          "tag": "finger_on_trigger",
+          "link": "https://danbooru.donmai.us/wiki_pages/finger_on_trigger"
+        },
+        {
+          "label": "人を銃の支えにする",
+          "tag": "human_bipod",
+          "link": "https://danbooru.donmai.us/wiki_pages/human_bipod"
+        },
+        {
+          "label": "互いに銃を向け合う膠着状態",
+          "tag": "mexican_standoff",
+          "link": "https://danbooru.donmai.us/wiki_pages/mexican_standoff"
+        },
+        {
+          "label": "ロシアンルーレット",
+          "tag": "russian_roulette",
+          "link": "https://danbooru.donmai.us/wiki_pages/russian_roulette"
+        },
+        {
+          "label": "遮蔽物に隠れる",
+          "tag": "taking_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/taking_cover"
+        },
+        {
+          "label": "攻撃を受ける",
+          "tag": "under_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/under_fire"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "ボウガン",
+          "tag": "bowgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowgun"
+        },
+        {
+          "label": "指銃",
+          "tag": "finger_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/finger_gun"
+        },
+        {
+          "label": "光線銃",
+          "tag": "ray_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/ray_gun"
+        },
+        {
+          "label": "武器のリスト",
+          "tag": "list_of_weapons",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_weapons"
+        },
+        {
+          "label": "銃器",
+          "tag": "firearm",
+          "link": "https://danbooru.donmai.us/wiki_pages/firearm"
+        },
+        {
+          "label": "銃",
+          "tag": "guns",
+          "link": "https://danbooru.donmai.us/wiki_pages/guns"
+        },
+        {
+          "label": "タグの別名",
+          "tag": "help:tag_aliases",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_aliases"
+        },
+        {
+          "label": "武器",
+          "tag": "weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        },
+        {
+          "label": "アンティーク銃器",
+          "tag": "antique_firearm",
+          "link": "https://danbooru.donmai.us/wiki_pages/antique_firearm"
+        },
+        {
+          "label": "ボルトアクション",
+          "tag": "bolt_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolt_action"
+        },
+        {
+          "label": "ブルパップ",
+          "tag": "bullpup",
+          "link": "https://danbooru.donmai.us/wiki_pages/bullpup"
+        },
+        {
+          "label": "背中の銃",
+          "tag": "gun_on_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun_on_back"
+        },
+        {
+          "label": "ハンドガン",
+          "tag": "handgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/handgun"
+        },
+        {
+          "label": "銃を持つ",
+          "tag": "holding_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_gun"
+        },
+        {
+          "label": "レバーアクション",
+          "tag": "lever_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/lever_action"
+        },
+        {
+          "label": "機関銃",
+          "tag": "machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/machine_gun"
+        },
+        {
+          "label": "魔法のマスケット銃（まどか☆マギカ）",
+          "tag": "magical_musket_(madoka_magica)",
+          "link": "https://danbooru.donmai.us/wiki_pages/magical_musket_(madoka_magica)"
+        },
+        {
+          "label": "複数銃身の銃",
+          "tag": "multiple-barrel_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple-barrel_gun"
+        },
+        {
+          "label": "マスケット銃",
+          "tag": "musket",
+          "link": "https://danbooru.donmai.us/wiki_pages/musket"
+        },
+        {
+          "label": "リボルバー",
+          "tag": "revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/revolver"
+        },
+        {
+          "label": "ライフル",
+          "tag": "rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/rifle"
+        },
+        {
+          "label": "ショットガン",
+          "tag": "shotgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/shotgun"
+        },
+        {
+          "label": "サブマシンガン",
+          "tag": "submachine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/submachine_gun"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

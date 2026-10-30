@@ -1,0 +1,57 @@
+{
+  "カテゴリID": "back",
+  "カテゴリ名": "背中",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=back",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "尻",
+          "tag": "ass",
+          "link": "https://danbooru.donmai.us/wiki_pages/ass"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "背中を強調",
+          "tag": "back_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/back_focus"
+        },
+        {
+          "label": "露出した背中",
+          "tag": "bare_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/bare_back"
+        },
+        {
+          "label": "腰のえくぼ",
+          "tag": "dimples_of_venus",
+          "link": "https://danbooru.donmai.us/wiki_pages/dimples_of_venus"
+        },
+        {
+          "label": "後ろから",
+          "tag": "from_behind",
+          "link": "https://danbooru.donmai.us/wiki_pages/from_behind"
+        },
+        {
+          "label": "背中の正中溝",
+          "tag": "median_furrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/median_furrow"
+        },
+        {
+          "label": "背中を強調",
+          "tag": "back_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/back_focus"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

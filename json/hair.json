@@ -1,0 +1,552 @@
+﻿{
+    "カテゴリID":  "hair",
+    "カテゴリ名":  "髪",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Ahair",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "ヘアスタイルとカラー",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：髪の色",
+                                         "tag":  "tag_group%3Ahair_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_color"
+                                     },
+                                     {
+                                         "label":  "タググループ：ヘアスタイル",
+                                         "tag":  "tag_group%3Ahair_styles",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "アクション",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "髪を噛む",
+                                         "tag":  "biting_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/biting_hair"
+                                     },
+                                     {
+                                         "label":  "髪を食べる",
+                                         "tag":  "eating_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/eating_hair"
+                                     },
+                                     {
+                                         "label":  "他人の髪をつかむ",
+                                         "tag":  "grabbing_another%27s_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grabbing_another%27s_hair"
+                                     },
+                                     {
+                                         "label":  "髪の手入れ",
+                                         "tag":  "hairdressing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairdressing"
+                                     },
+                                     {
+                                         "label":  "髪を編む",
+                                         "tag":  "braiding_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/braiding_hair"
+                                     },
+                                     {
+                                         "label":  "髪を切る",
+                                         "tag":  "cutting_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cutting_hair"
+                                     },
+                                     {
+                                         "label":  "他人の髪を切る",
+                                         "tag":  "cutting_another%27s_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cutting_another%27s_hair"
+                                     },
+                                     {
+                                         "label":  "自分で髪を切る",
+                                         "tag":  "cutting_own_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cutting_own_hair"
+                                     },
+                                     {
+                                         "label":  "髪をブラッシングする",
+                                         "tag":  "brushing_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brushing_hair"
+                                     },
+                                     {
+                                         "label":  "他人の髪を梳かす",
+                                         "tag":  "brushing_another%27s_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brushing_another%27s_hair"
+                                     },
+                                     {
+                                         "label":  "自分の髪をブラッシングする",
+                                         "tag":  "brushing_own_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brushing_own_hair"
+                                     },
+                                     {
+                                         "label":  "失恋ヘアカット",
+                                         "tag":  "heartbreak_haircut",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heartbreak_haircut"
+                                     },
+                                     {
+                                         "label":  "髪を結ぶ",
+                                         "tag":  "tying_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tying_hair"
+                                     },
+                                     {
+                                         "label":  "自分の髪に手を入れる",
+                                         "tag":  "hand_in_own_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_in_own_hair"
+                                     },
+                                     {
+                                         "label":  "髪を整える",
+                                         "tag":  "adjusting_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_hair"
+                                     },
+                                     {
+                                         "label":  "髪を束ねる",
+                                         "tag":  "bunching_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bunching_hair"
+                                     },
+                                     {
+                                         "label":  "髪をかき上げる",
+                                         "tag":  "hair_flip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_flip"
+                                     },
+                                     {
+                                         "label":  "他人の髪をつかむ",
+                                         "tag":  "grabbing_another%27s_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grabbing_another%27s_hair"
+                                     },
+                                     {
+                                         "label":  "髪をまとめる",
+                                         "tag":  "tucking_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tucking_hair"
+                                     },
+                                     {
+                                         "label":  "自分の髪を掴む",
+                                         "tag":  "holding_own_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_own_hair"
+                                     },
+                                     {
+                                         "label":  "他人の髪を掴む",
+                                         "tag":  "holding_another%27s_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_another%27s_hair"
+                                     },
+                                     {
+                                         "label":  "髪を乱す",
+                                         "tag":  "ruffling_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ruffling_hair"
+                                     },
+                                     {
+                                         "label":  "髪を指でくるくる巻く",
+                                         "tag":  "twirling_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/twirling_hair"
+                                     },
+                                     {
+                                         "label":  "髪を弄ぶ",
+                                         "tag":  "playing_with_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/playing_with_hair"
+                                     },
+                                     {
+                                         "label":  "他人の髪を弄ぶ",
+                                         "tag":  "playing_with_another%27s_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/playing_with_another%27s_hair"
+                                     },
+                                     {
+                                         "label":  "自分の髪で遊ぶ",
+                                         "tag":  "playing_with_own_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/playing_with_own_hair"
+                                     },
+                                     {
+                                         "label":  "ヘアジョブ",
+                                         "tag":  "hairjob",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairjob"
+                                     },
+                                     {
+                                         "label":  "他人の髪を舐める",
+                                         "tag":  "licking_another%27s_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/licking_another%27s_hair"
+                                     },
+                                     {
+                                         "label":  "髪にキス",
+                                         "tag":  "kissing_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kissing_hair"
+                                     },
+                                     {
+                                         "label":  "髪の匂いを嗅ぐ",
+                                         "tag":  "smelling_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/smelling_hair"
+                                     },
+                                     {
+                                         "label":  "髪を鞭打つ",
+                                         "tag":  "whipping_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/whipping_hair"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ヘアケア用品",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ヘアブラシ",
+                                         "tag":  "hair_brush",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_brush"
+                                     },
+                                     {
+                                         "label":  "ヘアドライヤー",
+                                         "tag":  "hair_dryer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_dryer"
+                                     },
+                                     {
+                                         "label":  "シャンプー",
+                                         "tag":  "shampoo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shampoo"
+                                     },
+                                     {
+                                         "label":  "ヘアローラー",
+                                         "tag":  "hair_rollers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_rollers"
+                                     },
+                                     {
+                                         "label":  "カール用ヘアアイロン",
+                                         "tag":  "curling_iron",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/curling_iron"
+                                     },
+                                     {
+                                         "label":  "ストレートアイロン",
+                                         "tag":  "hair_straightener",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_straightener"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ヘアアクセサリー",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "髪を貫く矢",
+                                         "tag":  "arrow_through_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arrow_through_hair"
+                                     },
+                                     {
+                                         "label":  "お団子カバー",
+                                         "tag":  "bun_cover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bun_cover"
+                                     },
+                                     {
+                                         "label":  "ヘアポッド",
+                                         "tag":  "hairpods",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairpods"
+                                     },
+                                     {
+                                         "label":  "櫛",
+                                         "tag":  "comb",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/comb"
+                                     },
+                                     {
+                                         "label":  "ヘアエクステンション",
+                                         "tag":  "hair_extensions",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_extensions"
+                                     },
+                                     {
+                                         "label":  "サイバーロックス",
+                                         "tag":  "cyberlox",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cyberlox"
+                                     },
+                                     {
+                                         "label":  "髪飾り",
+                                         "tag":  "hair_ornament",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_ornament"
+                                     },
+                                     {
+                                         "label":  "ヘアベル",
+                                         "tag":  "hair_bell",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_bell"
+                                     },
+                                     {
+                                         "label":  "ヘアゴム",
+                                         "tag":  "hair_bobbles",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_bobbles"
+                                     },
+                                     {
+                                         "label":  "髪の蝶結びリボン",
+                                         "tag":  "hair_bow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_bow"
+                                     },
+                                     {
+                                         "label":  "髪のリボン",
+                                         "tag":  "hair_ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_ribbon"
+                                     },
+                                     {
+                                         "label":  "ヘアクリップ",
+                                         "tag":  "hairclip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairclip"
+                                     },
+                                     {
+                                         "label":  "ヘアピン",
+                                         "tag":  "hairpin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairpin"
+                                     },
+                                     {
+                                         "label":  "髪の花飾り",
+                                         "tag":  "hair_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_flower"
+                                     },
+                                     {
+                                         "label":  "ヘアチューブ",
+                                         "tag":  "hair_tubes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_tubes"
+                                     },
+                                     {
+                                         "label":  "フリルヘアチューブ",
+                                         "tag":  "frilled_hair_tubes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frilled_hair_tubes"
+                                     },
+                                     {
+                                         "label":  "シングルヘアチューブ",
+                                         "tag":  "single_hair_tube",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_hair_tube"
+                                     },
+                                     {
+                                         "label":  "かんざし",
+                                         "tag":  "kanzashi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kanzashi"
+                                     },
+                                     {
+                                         "label":  "ヘアスティック",
+                                         "tag":  "hair_stick",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_stick"
+                                     },
+                                     {
+                                         "label":  "髪留めゴム",
+                                         "tag":  "hair_tie",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_tie"
+                                     },
+                                     {
+                                         "label":  "ヘアバンド",
+                                         "tag":  "hairband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairband"
+                                     },
+                                     {
+                                         "label":  "髪の毛の武器",
+                                         "tag":  "hair_weapon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_weapon"
+                                     },
+                                     {
+                                         "label":  "ヘッドバンド",
+                                         "tag":  "headband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headband"
+                                     },
+                                     {
+                                         "label":  "髪にナイフ",
+                                         "tag":  "knife_in_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knife_in_hair"
+                                     },
+                                     {
+                                         "label":  "シュシュ",
+                                         "tag":  "scrunchie",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scrunchie"
+                                     },
+                                     {
+                                         "label":  "かつら",
+                                         "tag":  "wig",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wig"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "顔のひげ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "顔のひげ",
+                                         "tag":  "facial_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/facial_hair"
+                                     },
+                                     {
+                                         "label":  "あごひげ",
+                                         "tag":  "beard",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/beard"
+                                     },
+                                     {
+                                         "label":  "ひげを生やした少女",
+                                         "tag":  "bearded_girl",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bearded_girl"
+                                     },
+                                     {
+                                         "label":  "山羊ひげ",
+                                         "tag":  "goatee",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/goatee"
+                                     },
+                                     {
+                                         "label":  "口ひげ",
+                                         "tag":  "mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mustache"
+                                     },
+                                     {
+                                         "label":  "つけひげ",
+                                         "tag":  "fake_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_mustache"
+                                     },
+                                     {
+                                         "label":  "無精ひげ",
+                                         "tag":  "stubble",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stubble"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ファンタジー",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "雲の髪",
+                                         "tag":  "cloud_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cloud_hair"
+                                     },
+                                     {
+                                         "label":  "チョコレートでできた髪",
+                                         "tag":  "chocolate_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chocolate_hair"
+                                     },
+                                     {
+                                         "label":  "クリスタルヘア",
+                                         "tag":  "crystal_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crystal_hair"
+                                     },
+                                     {
+                                         "label":  "エネルギーヘア",
+                                         "tag":  "energy_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/energy_hair"
+                                     },
+                                     {
+                                         "label":  "羽毛",
+                                         "tag":  "feather_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/feather_hair"
+                                     },
+                                     {
+                                         "label":  "燃えるような髪",
+                                         "tag":  "fiery_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fiery_hair"
+                                     },
+                                     {
+                                         "label":  "食べ物モチーフの髪型",
+                                         "tag":  "food-themed_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/food-themed_hair"
+                                     },
+                                     {
+                                         "label":  "輝く髪",
+                                         "tag":  "glowing_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glowing_hair"
+                                     },
+                                     {
+                                         "label":  "腸でできた髪",
+                                         "tag":  "intestine_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/intestine_hair"
+                                     },
+                                     {
+                                         "label":  "液体ヘア",
+                                         "tag":  "liquid_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/liquid_hair"
+                                     },
+                                     {
+                                         "label":  "機械毛",
+                                         "tag":  "mechanical_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanical_hair"
+                                     },
+                                     {
+                                         "label":  "植物でできた髪",
+                                         "tag":  "plant_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_hair"
+                                     },
+                                     {
+                                         "label":  "物をつかめる髪",
+                                         "tag":  "prehensile_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/prehensile_hair"
+                                     },
+                                     {
+                                         "label":  "ヘリコプターヘア",
+                                         "tag":  "helicopter_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/helicopter_hair"
+                                     },
+                                     {
+                                         "label":  "触手毛",
+                                         "tag":  "tentacle_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tentacle_hair"
+                                     },
+                                     {
+                                         "label":  "生きている髪",
+                                         "tag":  "living_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/living_hair"
+                                     },
+                                     {
+                                         "label":  "蛇でできた髪",
+                                         "tag":  "snake_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/snake_hair"
+                                     },
+                                     {
+                                         "label":  "星のような髪",
+                                         "tag":  "starry_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/starry_hair"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "髪の毛に血がついた",
+                                         "tag":  "blood_in_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blood_in_hair"
+                                     },
+                                     {
+                                         "label":  "髪に精液",
+                                         "tag":  "cum_on_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cum_on_hair"
+                                     },
+                                     {
+                                         "label":  "焼けた髪",
+                                         "tag":  "burnt_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/burnt_hair"
+                                     },
+                                     {
+                                         "label":  "抜けた髪",
+                                         "tag":  "detached_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/detached_hair"
+                                     },
+                                     {
+                                         "label":  "切断された髪",
+                                         "tag":  "severed_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/severed_hair"
+                                     },
+                                     {
+                                         "label":  "表情豊かな髪",
+                                         "tag":  "expressive_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/expressive_hair"
+                                     },
+                                     {
+                                         "label":  "浮かぶ髪",
+                                         "tag":  "floating_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/floating_hair"
+                                     },
+                                     {
+                                         "label":  "自分の口の中に髪の毛が入っている",
+                                         "tag":  "hair_in_own_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_in_own_mouth"
+                                     },
+                                     {
+                                         "label":  "広がった髪",
+                                         "tag":  "hair_spread_out",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_spread_out"
+                                     },
+                                     {
+                                         "label":  "うなじの一本毛",
+                                         "tag":  "lone_nape_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lone_nape_hair"
+                                     },
+                                     {
+                                         "label":  "抜け毛",
+                                         "tag":  "loose_hair_strand",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/loose_hair_strand"
+                                     },
+                                     {
+                                         "label":  "濡れた髪",
+                                         "tag":  "wet_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wet_hair"
+                                     }
+                                 ]
+                    }
+                ]
+}

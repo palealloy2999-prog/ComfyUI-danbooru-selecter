@@ -1,0 +1,342 @@
+{
+  "カテゴリID": "list_of_game_activities",
+  "カテゴリ名": "遊び・ゲーム一覧",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=list_of_game_activities",
+  "セクション一覧": [
+    {
+      "セクション名": "手遊び / その他",
+      "タグ一覧": [
+        {
+          "label": "あやとり",
+          "tag": "cat%27s_cradle",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat%27s_cradle"
+        },
+        {
+          "label": "デコピン",
+          "tag": "forehead_flick",
+          "link": "https://danbooru.donmai.us/wiki_pages/forehead_flick"
+        },
+        {
+          "label": "じゃんけん",
+          "tag": "rock_paper_scissors",
+          "link": "https://danbooru.donmai.us/wiki_pages/rock_paper_scissors"
+        },
+        {
+          "label": "ペン回し",
+          "tag": "pen_spinning",
+          "link": "https://danbooru.donmai.us/wiki_pages/pen_spinning"
+        }
+      ]
+    },
+    {
+      "セクション名": "カードゲーム / その他",
+      "タグ一覧": [
+        {
+          "label": "カードゲーム",
+          "tag": "card_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_game"
+        },
+        {
+          "label": "花札",
+          "tag": "hanafuda",
+          "link": "https://danbooru.donmai.us/wiki_pages/hanafuda"
+        },
+        {
+          "label": "トランプ",
+          "tag": "playing_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_card"
+        },
+        {
+          "label": "ソリティア",
+          "tag": "solitaire",
+          "link": "https://danbooru.donmai.us/wiki_pages/solitaire"
+        },
+        {
+          "label": "タロット",
+          "tag": "tarot",
+          "link": "https://danbooru.donmai.us/wiki_pages/tarot"
+        },
+        {
+          "label": "ウノ",
+          "tag": "uno_%28game%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uno_%28game%29"
+        },
+        {
+          "label": "タググループ：カード",
+          "tag": "tag_group%3Acards",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acards"
+        }
+      ]
+    },
+    {
+      "セクション名": "パズルゲーム / その他",
+      "タグ一覧": [
+        {
+          "label": "クロスワードパズル",
+          "tag": "crossword_puzzle",
+          "link": "https://danbooru.donmai.us/wiki_pages/crossword_puzzle"
+        },
+        {
+          "label": "ジェンガ",
+          "tag": "jenga",
+          "link": "https://danbooru.donmai.us/wiki_pages/jenga"
+        },
+        {
+          "label": "知恵の輪",
+          "tag": "metal_puzzle",
+          "link": "https://danbooru.donmai.us/wiki_pages/metal_puzzle"
+        },
+        {
+          "label": "パズル",
+          "tag": "puzzle",
+          "link": "https://danbooru.donmai.us/wiki_pages/puzzle"
+        },
+        {
+          "label": "ジグソーパズル",
+          "tag": "jigsaw_puzzle",
+          "link": "https://danbooru.donmai.us/wiki_pages/jigsaw_puzzle"
+        },
+        {
+          "label": "スライディングパズル",
+          "tag": "sliding_puzzle",
+          "link": "https://danbooru.donmai.us/wiki_pages/sliding_puzzle"
+        },
+        {
+          "label": "ルービックキューブ",
+          "tag": "rubik%27s_cube",
+          "link": "https://danbooru.donmai.us/wiki_pages/rubik%27s_cube"
+        }
+      ]
+    },
+    {
+      "セクション名": "機械式ゲーム",
+      "タグ一覧": [
+        {
+          "label": "クレーンゲーム",
+          "tag": "crane_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/crane_game"
+        },
+        {
+          "label": "パチンコ",
+          "tag": "pachinko",
+          "link": "https://danbooru.donmai.us/wiki_pages/pachinko"
+        },
+        {
+          "label": "黒ひげ危機一発",
+          "tag": "pop-up_pirate",
+          "link": "https://danbooru.donmai.us/wiki_pages/pop-up_pirate"
+        },
+        {
+          "label": "ビデオゲーム",
+          "tag": "video_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/video_game"
+        },
+        {
+          "label": "タググループ：ビデオゲーム",
+          "tag": "tag_group%3Avideo_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Avideo_game"
+        },
+        {
+          "label": "モグラ叩き",
+          "tag": "whac-a-mole",
+          "link": "https://danbooru.donmai.us/wiki_pages/whac-a-mole"
+        }
+      ]
+    },
+    {
+      "セクション名": "ボードゲーム",
+      "タグ一覧": [
+        {
+          "label": "ボードゲーム",
+          "tag": "board_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/board_game"
+        },
+        {
+          "label": "チェス",
+          "tag": "chess",
+          "link": "https://danbooru.donmai.us/wiki_pages/chess"
+        },
+        {
+          "label": "囲碁",
+          "tag": "go_%28board_game%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/go_%28board_game%29"
+        },
+        {
+          "label": "麻雀",
+          "tag": "mahjong",
+          "link": "https://danbooru.donmai.us/wiki_pages/mahjong"
+        },
+        {
+          "label": "モノポリー",
+          "tag": "monopoly",
+          "link": "https://danbooru.donmai.us/wiki_pages/monopoly"
+        },
+        {
+          "label": "リバーシ",
+          "tag": "reversi",
+          "link": "https://danbooru.donmai.us/wiki_pages/reversi"
+        },
+        {
+          "label": "将棋",
+          "tag": "shogi",
+          "link": "https://danbooru.donmai.us/wiki_pages/shogi"
+        },
+        {
+          "label": "テーブルトップRPG",
+          "tag": "tabletop_rpg",
+          "link": "https://danbooru.donmai.us/wiki_pages/tabletop_rpg"
+        },
+        {
+          "label": "三目並べ",
+          "tag": "tic-tac-toe",
+          "link": "https://danbooru.donmai.us/wiki_pages/tic-tac-toe"
+        }
+      ]
+    },
+    {
+      "セクション名": "グループ活動 / その他",
+      "タグ一覧": [
+        {
+          "label": "サバイバルゲーム",
+          "tag": "airsoft",
+          "link": "https://danbooru.donmai.us/wiki_pages/airsoft"
+        },
+        {
+          "label": "だるまさんがころんだ",
+          "tag": "daruma-san_ga_koronda",
+          "link": "https://danbooru.donmai.us/wiki_pages/daruma-san_ga_koronda"
+        },
+        {
+          "label": "金魚すくい",
+          "tag": "goldfish_scooping",
+          "link": "https://danbooru.donmai.us/wiki_pages/goldfish_scooping"
+        },
+        {
+          "label": "羽根つき",
+          "tag": "hanetsuki",
+          "link": "https://danbooru.donmai.us/wiki_pages/hanetsuki"
+        },
+        {
+          "label": "かくれんぼ",
+          "tag": "hide_and_seek",
+          "link": "https://danbooru.donmai.us/wiki_pages/hide_and_seek"
+        },
+        {
+          "label": "石けり遊び",
+          "tag": "hopscotch",
+          "link": "https://danbooru.donmai.us/wiki_pages/hopscotch"
+        },
+        {
+          "label": "縄跳び",
+          "tag": "jump_rope",
+          "link": "https://danbooru.donmai.us/wiki_pages/jump_rope"
+        },
+        {
+          "label": "ダブルダッチ",
+          "tag": "double_dutch",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_dutch"
+        },
+        {
+          "label": "けん玉",
+          "tag": "kendama",
+          "link": "https://danbooru.donmai.us/wiki_pages/kendama"
+        },
+        {
+          "label": "騎馬戦",
+          "tag": "kibasen",
+          "link": "https://danbooru.donmai.us/wiki_pages/kibasen"
+        },
+        {
+          "label": "王様ゲーム",
+          "tag": "king_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/king_game"
+        },
+        {
+          "label": "蛙跳び",
+          "tag": "leap_frog",
+          "link": "https://danbooru.donmai.us/wiki_pages/leap_frog"
+        },
+        {
+          "label": "帯スピン",
+          "tag": "obi_spin",
+          "link": "https://danbooru.donmai.us/wiki_pages/obi_spin"
+        },
+        {
+          "label": "ペイントボール",
+          "tag": "paintball",
+          "link": "https://danbooru.donmai.us/wiki_pages/paintball"
+        },
+        {
+          "label": "ゲームをする",
+          "tag": "playing_games",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_games"
+        },
+        {
+          "label": "スポーツをする",
+          "tag": "playing_sports",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_sports"
+        },
+        {
+          "label": "オリンピック",
+          "tag": "olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/olympics"
+        },
+        {
+          "label": "タググループ：スポーツ",
+          "tag": "tag_group%3Asports",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asports"
+        },
+        {
+          "label": "レース",
+          "tag": "racing",
+          "link": "https://danbooru.donmai.us/wiki_pages/racing"
+        },
+        {
+          "label": "宝探し",
+          "tag": "scavenger_hunt",
+          "link": "https://danbooru.donmai.us/wiki_pages/scavenger_hunt"
+        },
+        {
+          "label": "綱引き",
+          "tag": "tug_of_war",
+          "link": "https://danbooru.donmai.us/wiki_pages/tug_of_war"
+        },
+        {
+          "label": "ツイスター",
+          "tag": "twister",
+          "link": "https://danbooru.donmai.us/wiki_pages/twister"
+        }
+      ]
+    },
+    {
+      "セクション名": "場所 / オブジェクト",
+      "タグ一覧": [
+        {
+          "label": "ゲームセンター",
+          "tag": "arcade",
+          "link": "https://danbooru.donmai.us/wiki_pages/arcade"
+        },
+        {
+          "label": "カード",
+          "tag": "card",
+          "link": "https://danbooru.donmai.us/wiki_pages/card"
+        },
+        {
+          "label": "カジノ",
+          "tag": "casino",
+          "link": "https://danbooru.donmai.us/wiki_pages/casino"
+        },
+        {
+          "label": "カジノチップ",
+          "tag": "casino_token",
+          "link": "https://danbooru.donmai.us/wiki_pages/casino_token"
+        },
+        {
+          "label": "サイコロ",
+          "tag": "dice",
+          "link": "https://danbooru.donmai.us/wiki_pages/dice"
+        }
+      ]
+    }
+  ]
+}

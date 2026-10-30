@@ -1,0 +1,382 @@
+{
+  "カテゴリID": "fire",
+  "カテゴリ名": "火・炎",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Afire",
+  "セクション一覧": [
+    {
+      "セクション名": "主要",
+      "タグ一覧": [
+        {
+          "label": "火",
+          "tag": "fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire"
+        }
+      ]
+    },
+    {
+      "セクション名": "火の形態",
+      "タグ一覧": [
+        {
+          "label": "キャンプファイヤー",
+          "tag": "campfire",
+          "link": "https://danbooru.donmai.us/wiki_pages/campfire"
+        },
+        {
+          "label": "火の玉",
+          "tag": "fireball",
+          "link": "https://danbooru.donmai.us/wiki_pages/fireball"
+        },
+        {
+          "label": "花火",
+          "tag": "fireworks",
+          "link": "https://danbooru.donmai.us/wiki_pages/fireworks"
+        },
+        {
+          "label": "ホタル",
+          "tag": "fireflies",
+          "link": "https://danbooru.donmai.us/wiki_pages/fireflies"
+        },
+        {
+          "label": "火",
+          "tag": "fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire"
+        }
+      ]
+    },
+    {
+      "セクション名": "火でできた体の部分",
+      "タグ一覧": [
+        {
+          "label": "炎でできた体",
+          "tag": "fire_body",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire_body"
+        },
+        {
+          "label": "胸に火",
+          "tag": "fire_on_chest",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire_on_chest"
+        },
+        {
+          "label": "燃えるような髪",
+          "tag": "fiery_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/fiery_hair"
+        },
+        {
+          "label": "燃える尾",
+          "tag": "fiery_tail",
+          "link": "https://danbooru.donmai.us/wiki_pages/fiery_tail"
+        },
+        {
+          "label": "燃える翼",
+          "tag": "fiery_wings",
+          "link": "https://danbooru.donmai.us/wiki_pages/fiery_wings"
+        },
+        {
+          "label": "先端が燃える尻尾",
+          "tag": "flame-tipped_tail",
+          "link": "https://danbooru.donmai.us/wiki_pages/flame-tipped_tail"
+        }
+      ]
+    },
+    {
+      "セクション名": "あまり一般的ではない火の色",
+      "タグ一覧": [
+        {
+          "label": "黒い炎",
+          "tag": "black_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_fire"
+        },
+        {
+          "label": "青い炎",
+          "tag": "blue_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_fire"
+        },
+        {
+          "label": "緑の火",
+          "tag": "green_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_fire"
+        },
+        {
+          "label": "ピンクの火",
+          "tag": "pink_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_fire"
+        },
+        {
+          "label": "紫色の火",
+          "tag": "purple_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_fire"
+        },
+        {
+          "label": "白い火",
+          "tag": "white_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_fire"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクション",
+      "タグ一覧": [
+        {
+          "label": "放火",
+          "tag": "arson",
+          "link": "https://danbooru.donmai.us/wiki_pages/arson"
+        },
+        {
+          "label": "燃えている建物",
+          "tag": "burning_building",
+          "link": "https://danbooru.donmai.us/wiki_pages/burning_building"
+        },
+        {
+          "label": "火を吐く",
+          "tag": "breathing_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/breathing_fire"
+        },
+        {
+          "label": "燃焼",
+          "tag": "burning",
+          "link": "https://danbooru.donmai.us/wiki_pages/burning"
+        },
+        {
+          "label": "燃えている写真",
+          "tag": "burning_photo",
+          "link": "https://danbooru.donmai.us/wiki_pages/burning_photo"
+        },
+        {
+          "label": "料理",
+          "tag": "cooking",
+          "link": "https://danbooru.donmai.us/wiki_pages/cooking"
+        },
+        {
+          "label": "グリル",
+          "tag": "grilling",
+          "link": "https://danbooru.donmai.us/wiki_pages/grilling"
+        },
+        {
+          "label": "火葬",
+          "tag": "cremation",
+          "link": "https://danbooru.donmai.us/wiki_pages/cremation"
+        },
+        {
+          "label": "爆発",
+          "tag": "explosion",
+          "link": "https://danbooru.donmai.us/wiki_pages/explosion"
+        },
+        {
+          "label": "火起こし",
+          "tag": "firemaking",
+          "link": "https://danbooru.donmai.us/wiki_pages/firemaking"
+        },
+        {
+          "label": "フレアリング",
+          "tag": "flaring",
+          "link": "https://danbooru.donmai.us/wiki_pages/flaring"
+        },
+        {
+          "label": "炎を操る能力",
+          "tag": "pyrokinesis",
+          "link": "https://danbooru.donmai.us/wiki_pages/pyrokinesis"
+        },
+        {
+          "label": "喫煙",
+          "tag": "smoking",
+          "link": "https://danbooru.donmai.us/wiki_pages/smoking"
+        },
+        {
+          "label": "山火事",
+          "tag": "wildfire",
+          "link": "https://danbooru.donmai.us/wiki_pages/wildfire"
+        }
+      ]
+    },
+    {
+      "セクション名": "火に関連する物体",
+      "タグ一覧": [
+        {
+          "label": "アルコールバーナー",
+          "tag": "alcohol_burner",
+          "link": "https://danbooru.donmai.us/wiki_pages/alcohol_burner"
+        },
+        {
+          "label": "バーナー",
+          "tag": "blowtorch",
+          "link": "https://danbooru.donmai.us/wiki_pages/blowtorch"
+        },
+        {
+          "label": "ブンゼンバーナー",
+          "tag": "bunsen_burner",
+          "link": "https://danbooru.donmai.us/wiki_pages/bunsen_burner"
+        },
+        {
+          "label": "火鉢",
+          "tag": "brazier",
+          "link": "https://danbooru.donmai.us/wiki_pages/brazier"
+        },
+        {
+          "label": "キャンドル",
+          "tag": "candle",
+          "link": "https://danbooru.donmai.us/wiki_pages/candle"
+        },
+        {
+          "label": "木炭",
+          "tag": "charcoal",
+          "link": "https://danbooru.donmai.us/wiki_pages/charcoal"
+        },
+        {
+          "label": "石炭",
+          "tag": "coal",
+          "link": "https://danbooru.donmai.us/wiki_pages/coal"
+        },
+        {
+          "label": "消火器",
+          "tag": "fire_extinguisher",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire_extinguisher"
+        },
+        {
+          "label": "消火栓",
+          "tag": "fire_hydrant",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire_hydrant"
+        },
+        {
+          "label": "暖炉",
+          "tag": "fireplace",
+          "link": "https://danbooru.donmai.us/wiki_pages/fireplace"
+        },
+        {
+          "label": "フレア",
+          "tag": "flare",
+          "link": "https://danbooru.donmai.us/wiki_pages/flare"
+        },
+        {
+          "label": "炉",
+          "tag": "furnace",
+          "link": "https://danbooru.donmai.us/wiki_pages/furnace"
+        },
+        {
+          "label": "火薬",
+          "tag": "gunpowder",
+          "link": "https://danbooru.donmai.us/wiki_pages/gunpowder"
+        },
+        {
+          "label": "グリル",
+          "tag": "grill",
+          "link": "https://danbooru.donmai.us/wiki_pages/grill"
+        },
+        {
+          "label": "ランタン",
+          "tag": "lantern",
+          "link": "https://danbooru.donmai.us/wiki_pages/lantern"
+        },
+        {
+          "label": "ライター",
+          "tag": "lighter",
+          "link": "https://danbooru.donmai.us/wiki_pages/lighter"
+        },
+        {
+          "label": "棒状のライター",
+          "tag": "wand_lighter",
+          "link": "https://danbooru.donmai.us/wiki_pages/wand_lighter"
+        },
+        {
+          "label": "ジッポーライター",
+          "tag": "zippo_lighter",
+          "link": "https://danbooru.donmai.us/wiki_pages/zippo_lighter"
+        },
+        {
+          "label": "マッチ",
+          "tag": "matches",
+          "link": "https://danbooru.donmai.us/wiki_pages/matches"
+        },
+        {
+          "label": "マッチ箱",
+          "tag": "matchbox",
+          "link": "https://danbooru.donmai.us/wiki_pages/matchbox"
+        },
+        {
+          "label": "オーブン",
+          "tag": "oven",
+          "link": "https://danbooru.donmai.us/wiki_pages/oven"
+        },
+        {
+          "label": "レンガ窯",
+          "tag": "brick_oven",
+          "link": "https://danbooru.donmai.us/wiki_pages/brick_oven"
+        },
+        {
+          "label": "レンジ",
+          "tag": "stove",
+          "link": "https://danbooru.donmai.us/wiki_pages/stove"
+        },
+        {
+          "label": "たいまつ",
+          "tag": "torch",
+          "link": "https://danbooru.donmai.us/wiki_pages/torch"
+        }
+      ]
+    },
+    {
+      "セクション名": "兵器",
+      "タグ一覧": [
+        {
+          "label": "火炎放射器",
+          "tag": "flamethrower",
+          "link": "https://danbooru.donmai.us/wiki_pages/flamethrower"
+        },
+        {
+          "label": "火炎瓶",
+          "tag": "molotov_cocktail",
+          "link": "https://danbooru.donmai.us/wiki_pages/molotov_cocktail"
+        },
+        {
+          "label": "テルミット手榴弾",
+          "tag": "thermite_grenade",
+          "link": "https://danbooru.donmai.us/wiki_pages/thermite_grenade"
+        },
+        {
+          "label": "白リン",
+          "tag": "white_phosphorus",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_phosphorus"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "火傷の跡",
+          "tag": "burn_scar",
+          "link": "https://danbooru.donmai.us/wiki_pages/burn_scar"
+        },
+        {
+          "label": "火の花",
+          "tag": "fire_flower",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire_flower"
+        },
+        {
+          "label": "炎のプリント",
+          "tag": "flame_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/flame_print"
+        },
+        {
+          "label": "可燃性シンボル",
+          "tag": "flammable_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/flammable_symbol"
+        },
+        {
+          "label": "溶岩",
+          "tag": "lava",
+          "link": "https://danbooru.donmai.us/wiki_pages/lava"
+        },
+        {
+          "label": "炎がない",
+          "tag": "no_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_fire"
+        },
+        {
+          "label": "火花",
+          "tag": "sparks",
+          "link": "https://danbooru.donmai.us/wiki_pages/sparks"
+        }
+      ]
+    }
+  ]
+}

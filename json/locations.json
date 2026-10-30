@@ -1,0 +1,1372 @@
+{
+  "カテゴリID": "locations",
+  "カテゴリ名": "場所",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Alocations",
+  "セクション一覧": [
+    {
+      "セクション名": "屋内",
+      "タグ一覧": [
+        {
+          "label": "屋内",
+          "tag": "indoors",
+          "link": "https://danbooru.donmai.us/wiki_pages/indoors"
+        },
+        {
+          "label": "舞踏室",
+          "tag": "ballroom",
+          "link": "https://danbooru.donmai.us/wiki_pages/ballroom"
+        },
+        {
+          "label": "バスルーム",
+          "tag": "bathroom",
+          "link": "https://danbooru.donmai.us/wiki_pages/bathroom"
+        },
+        {
+          "label": "バスタブ",
+          "tag": "bathtub",
+          "link": "https://danbooru.donmai.us/wiki_pages/bathtub"
+        },
+        {
+          "label": "トイレの個室",
+          "tag": "toilet_stall",
+          "link": "https://danbooru.donmai.us/wiki_pages/toilet_stall"
+        },
+        {
+          "label": "シャワー（場所）",
+          "tag": "shower_%28place%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shower_%28place%29"
+        },
+        {
+          "label": "寝室",
+          "tag": "bedroom",
+          "link": "https://danbooru.donmai.us/wiki_pages/bedroom"
+        },
+        {
+          "label": "ホテルの部屋",
+          "tag": "hotel_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/hotel_room"
+        },
+        {
+          "label": "散らかった部屋",
+          "tag": "messy_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/messy_room"
+        },
+        {
+          "label": "オタク部屋",
+          "tag": "otaku_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/otaku_room"
+        },
+        {
+          "label": "カフェテリア",
+          "tag": "cafeteria",
+          "link": "https://danbooru.donmai.us/wiki_pages/cafeteria"
+        },
+        {
+          "label": "更衣室",
+          "tag": "changing_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/changing_room"
+        },
+        {
+          "label": "教室",
+          "tag": "classroom",
+          "link": "https://danbooru.donmai.us/wiki_pages/classroom"
+        },
+        {
+          "label": "部室",
+          "tag": "clubroom",
+          "link": "https://danbooru.donmai.us/wiki_pages/clubroom"
+        },
+        {
+          "label": "温室・サンルーム",
+          "tag": "conservatory",
+          "link": "https://danbooru.donmai.us/wiki_pages/conservatory"
+        },
+        {
+          "label": "法廷",
+          "tag": "courtroom",
+          "link": "https://danbooru.donmai.us/wiki_pages/courtroom"
+        },
+        {
+          "label": "ダイニングルーム",
+          "tag": "dining_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/dining_room"
+        },
+        {
+          "label": "更衣室",
+          "tag": "dressing_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/dressing_room"
+        },
+        {
+          "label": "ダンジョン",
+          "tag": "dungeon",
+          "link": "https://danbooru.donmai.us/wiki_pages/dungeon"
+        },
+        {
+          "label": "刑務所の独房",
+          "tag": "prison_cell",
+          "link": "https://danbooru.donmai.us/wiki_pages/prison_cell"
+        },
+        {
+          "label": "試着室",
+          "tag": "fitting_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/fitting_room"
+        },
+        {
+          "label": "ジム",
+          "tag": "gym",
+          "link": "https://danbooru.donmai.us/wiki_pages/gym"
+        },
+        {
+          "label": "ロッカールーム",
+          "tag": "locker_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/locker_room"
+        },
+        {
+          "label": "体育倉庫",
+          "tag": "gym_storeroom",
+          "link": "https://danbooru.donmai.us/wiki_pages/gym_storeroom"
+        },
+        {
+          "label": "医務室・保健室",
+          "tag": "infirmary",
+          "link": "https://danbooru.donmai.us/wiki_pages/infirmary"
+        },
+        {
+          "label": "台所",
+          "tag": "kitchen",
+          "link": "https://danbooru.donmai.us/wiki_pages/kitchen"
+        },
+        {
+          "label": "研究室",
+          "tag": "laboratory",
+          "link": "https://danbooru.donmai.us/wiki_pages/laboratory"
+        },
+        {
+          "label": "図書館",
+          "tag": "library",
+          "link": "https://danbooru.donmai.us/wiki_pages/library"
+        },
+        {
+          "label": "リビングルーム",
+          "tag": "living_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/living_room"
+        },
+        {
+          "label": "オフィス",
+          "tag": "office",
+          "link": "https://danbooru.donmai.us/wiki_pages/office"
+        },
+        {
+          "label": "キュービクル",
+          "tag": "cubicle",
+          "link": "https://danbooru.donmai.us/wiki_pages/cubicle"
+        },
+        {
+          "label": "プール",
+          "tag": "pool",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool"
+        },
+        {
+          "label": "ステージ",
+          "tag": "stage",
+          "link": "https://danbooru.donmai.us/wiki_pages/stage"
+        },
+        {
+          "label": "職員室",
+          "tag": "staff_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/staff_room"
+        },
+        {
+          "label": "保管室",
+          "tag": "storage_room",
+          "link": "https://danbooru.donmai.us/wiki_pages/storage_room"
+        },
+        {
+          "label": "武器庫",
+          "tag": "armory",
+          "link": "https://danbooru.donmai.us/wiki_pages/armory"
+        },
+        {
+          "label": "クローゼット",
+          "tag": "closet",
+          "link": "https://danbooru.donmai.us/wiki_pages/closet"
+        },
+        {
+          "label": "作業場",
+          "tag": "workshop",
+          "link": "https://danbooru.donmai.us/wiki_pages/workshop"
+        }
+      ]
+    },
+    {
+      "セクション名": "屋外",
+      "タグ一覧": [
+        {
+          "label": "屋外",
+          "tag": "outdoors",
+          "link": "https://danbooru.donmai.us/wiki_pages/outdoors"
+        }
+      ]
+    },
+    {
+      "セクション名": "自然環境",
+      "タグ一覧": [
+        {
+          "label": "砂浜・海辺",
+          "tag": "beach",
+          "link": "https://danbooru.donmai.us/wiki_pages/beach"
+        },
+        {
+          "label": "海岸",
+          "tag": "shore",
+          "link": "https://danbooru.donmai.us/wiki_pages/shore"
+        },
+        {
+          "label": "峡谷",
+          "tag": "canyon",
+          "link": "https://danbooru.donmai.us/wiki_pages/canyon"
+        },
+        {
+          "label": "洞窟",
+          "tag": "cave",
+          "link": "https://danbooru.donmai.us/wiki_pages/cave"
+        },
+        {
+          "label": "崖",
+          "tag": "cliff",
+          "link": "https://danbooru.donmai.us/wiki_pages/cliff"
+        },
+        {
+          "label": "砂漠",
+          "tag": "desert",
+          "link": "https://danbooru.donmai.us/wiki_pages/desert"
+        },
+        {
+          "label": "オアシス",
+          "tag": "oasis",
+          "link": "https://danbooru.donmai.us/wiki_pages/oasis"
+        },
+        {
+          "label": "森",
+          "tag": "forest",
+          "link": "https://danbooru.donmai.us/wiki_pages/forest"
+        },
+        {
+          "label": "竹林",
+          "tag": "bamboo_forest",
+          "link": "https://danbooru.donmai.us/wiki_pages/bamboo_forest"
+        },
+        {
+          "label": "氷河",
+          "tag": "glacier",
+          "link": "https://danbooru.donmai.us/wiki_pages/glacier"
+        },
+        {
+          "label": "丘",
+          "tag": "hill",
+          "link": "https://danbooru.donmai.us/wiki_pages/hill"
+        },
+        {
+          "label": "島",
+          "tag": "island",
+          "link": "https://danbooru.donmai.us/wiki_pages/island"
+        },
+        {
+          "label": "浮島",
+          "tag": "floating_island",
+          "link": "https://danbooru.donmai.us/wiki_pages/floating_island"
+        },
+        {
+          "label": "ジャングル",
+          "tag": "jungle",
+          "link": "https://danbooru.donmai.us/wiki_pages/jungle"
+        },
+        {
+          "label": "牧草地",
+          "tag": "meadow",
+          "link": "https://danbooru.donmai.us/wiki_pages/meadow"
+        },
+        {
+          "label": "山",
+          "tag": "mountain",
+          "link": "https://danbooru.donmai.us/wiki_pages/mountain"
+        },
+        {
+          "label": "火山",
+          "tag": "volcano",
+          "link": "https://danbooru.donmai.us/wiki_pages/volcano"
+        },
+        {
+          "label": "自然",
+          "tag": "nature",
+          "link": "https://danbooru.donmai.us/wiki_pages/nature"
+        },
+        {
+          "label": "公園",
+          "tag": "park",
+          "link": "https://danbooru.donmai.us/wiki_pages/park"
+        },
+        {
+          "label": "遊び場",
+          "tag": "playground",
+          "link": "https://danbooru.donmai.us/wiki_pages/playground"
+        },
+        {
+          "label": "駐車場",
+          "tag": "parking_lot",
+          "link": "https://danbooru.donmai.us/wiki_pages/parking_lot"
+        },
+        {
+          "label": "平原",
+          "tag": "plain",
+          "link": "https://danbooru.donmai.us/wiki_pages/plain"
+        },
+        {
+          "label": "サバンナ",
+          "tag": "savannah",
+          "link": "https://danbooru.donmai.us/wiki_pages/savannah"
+        },
+        {
+          "label": "湿地",
+          "tag": "wetland",
+          "link": "https://danbooru.donmai.us/wiki_pages/wetland"
+        },
+        {
+          "label": "水",
+          "tag": "water",
+          "link": "https://danbooru.donmai.us/wiki_pages/water"
+        },
+        {
+          "label": "間欠泉",
+          "tag": "geyser",
+          "link": "https://danbooru.donmai.us/wiki_pages/geyser"
+        },
+        {
+          "label": "湖",
+          "tag": "lake",
+          "link": "https://danbooru.donmai.us/wiki_pages/lake"
+        },
+        {
+          "label": "海",
+          "tag": "ocean",
+          "link": "https://danbooru.donmai.us/wiki_pages/ocean"
+        },
+        {
+          "label": "海底",
+          "tag": "seafloor",
+          "link": "https://danbooru.donmai.us/wiki_pages/seafloor"
+        },
+        {
+          "label": "池",
+          "tag": "pond",
+          "link": "https://danbooru.donmai.us/wiki_pages/pond"
+        },
+        {
+          "label": "川",
+          "tag": "river",
+          "link": "https://danbooru.donmai.us/wiki_pages/river"
+        },
+        {
+          "label": "小川",
+          "tag": "stream",
+          "link": "https://danbooru.donmai.us/wiki_pages/stream"
+        },
+        {
+          "label": "滝",
+          "tag": "waterfall",
+          "link": "https://danbooru.donmai.us/wiki_pages/waterfall"
+        },
+        {
+          "label": "荒れ地",
+          "tag": "wasteland",
+          "link": "https://danbooru.donmai.us/wiki_pages/wasteland"
+        }
+      ]
+    },
+    {
+      "セクション名": "人工の場所",
+      "タグ一覧": [
+        {
+          "label": "飛行場",
+          "tag": "airfield",
+          "link": "https://danbooru.donmai.us/wiki_pages/airfield"
+        },
+        {
+          "label": "滑走路",
+          "tag": "runway",
+          "link": "https://danbooru.donmai.us/wiki_pages/runway"
+        },
+        {
+          "label": "遊園地",
+          "tag": "amusement_park",
+          "link": "https://danbooru.donmai.us/wiki_pages/amusement_park"
+        },
+        {
+          "label": "メリーゴーラウンド",
+          "tag": "carousel",
+          "link": "https://danbooru.donmai.us/wiki_pages/carousel"
+        },
+        {
+          "label": "観覧車",
+          "tag": "ferris_wheel",
+          "link": "https://danbooru.donmai.us/wiki_pages/ferris_wheel"
+        },
+        {
+          "label": "ジェットコースター",
+          "tag": "roller_coaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/roller_coaster"
+        },
+        {
+          "label": "水道橋",
+          "tag": "aqueduct",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqueduct"
+        },
+        {
+          "label": "橋",
+          "tag": "bridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/bridge"
+        },
+        {
+          "label": "ロープ橋",
+          "tag": "rope_bridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/rope_bridge"
+        },
+        {
+          "label": "木製の橋",
+          "tag": "wooden_bridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/wooden_bridge"
+        },
+        {
+          "label": "運河",
+          "tag": "canal",
+          "link": "https://danbooru.donmai.us/wiki_pages/canal"
+        },
+        {
+          "label": "都市",
+          "tag": "city",
+          "link": "https://danbooru.donmai.us/wiki_pages/city"
+        },
+        {
+          "label": "水上都市",
+          "tag": "floating_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/floating_city"
+        },
+        {
+          "label": "田舎",
+          "tag": "rural",
+          "link": "https://danbooru.donmai.us/wiki_pages/rural"
+        },
+        {
+          "label": "町",
+          "tag": "town",
+          "link": "https://danbooru.donmai.us/wiki_pages/town"
+        },
+        {
+          "label": "村",
+          "tag": "village",
+          "link": "https://danbooru.donmai.us/wiki_pages/village"
+        },
+        {
+          "label": "ダム",
+          "tag": "dam",
+          "link": "https://danbooru.donmai.us/wiki_pages/dam"
+        },
+        {
+          "label": "ドック",
+          "tag": "dock",
+          "link": "https://danbooru.donmai.us/wiki_pages/dock"
+        },
+        {
+          "label": "乾ドック",
+          "tag": "drydock",
+          "link": "https://danbooru.donmai.us/wiki_pages/drydock"
+        },
+        {
+          "label": "造船所",
+          "tag": "shipyard",
+          "link": "https://danbooru.donmai.us/wiki_pages/shipyard"
+        },
+        {
+          "label": "庭",
+          "tag": "garden",
+          "link": "https://danbooru.donmai.us/wiki_pages/garden"
+        },
+        {
+          "label": "墓地",
+          "tag": "graveyard",
+          "link": "https://danbooru.donmai.us/wiki_pages/graveyard"
+        },
+        {
+          "label": "桟橋",
+          "tag": "jetty",
+          "link": "https://danbooru.donmai.us/wiki_pages/jetty"
+        },
+        {
+          "label": "畑",
+          "tag": "field",
+          "link": "https://danbooru.donmai.us/wiki_pages/field"
+        },
+        {
+          "label": "花畑",
+          "tag": "flower_field",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower_field"
+        },
+        {
+          "label": "田んぼ",
+          "tag": "rice_paddy",
+          "link": "https://danbooru.donmai.us/wiki_pages/rice_paddy"
+        },
+        {
+          "label": "小麦畑",
+          "tag": "wheat_field",
+          "link": "https://danbooru.donmai.us/wiki_pages/wheat_field"
+        },
+        {
+          "label": "噴水",
+          "tag": "fountain",
+          "link": "https://danbooru.donmai.us/wiki_pages/fountain"
+        },
+        {
+          "label": "港",
+          "tag": "harbor",
+          "link": "https://danbooru.donmai.us/wiki_pages/harbor"
+        },
+        {
+          "label": "市場",
+          "tag": "market",
+          "link": "https://danbooru.donmai.us/wiki_pages/market"
+        },
+        {
+          "label": "市場の屋台",
+          "tag": "market_stall",
+          "link": "https://danbooru.donmai.us/wiki_pages/market_stall"
+        },
+        {
+          "label": "桟橋",
+          "tag": "pier",
+          "link": "https://danbooru.donmai.us/wiki_pages/pier"
+        },
+        {
+          "label": "電話ボックス",
+          "tag": "phone_booth",
+          "link": "https://danbooru.donmai.us/wiki_pages/phone_booth"
+        },
+        {
+          "label": "プール",
+          "tag": "pool",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool"
+        },
+        {
+          "label": "プールサイド",
+          "tag": "poolside",
+          "link": "https://danbooru.donmai.us/wiki_pages/poolside"
+        },
+        {
+          "label": "ウォーターパーク",
+          "tag": "waterpark",
+          "link": "https://danbooru.donmai.us/wiki_pages/waterpark"
+        },
+        {
+          "label": "鉄道の線路",
+          "tag": "railroad_tracks",
+          "link": "https://danbooru.donmai.us/wiki_pages/railroad_tracks"
+        },
+        {
+          "label": "踏み切り",
+          "tag": "railroad_crossing",
+          "link": "https://danbooru.donmai.us/wiki_pages/railroad_crossing"
+        },
+        {
+          "label": "道",
+          "tag": "road",
+          "link": "https://danbooru.donmai.us/wiki_pages/road"
+        },
+        {
+          "label": "路地",
+          "tag": "alley",
+          "link": "https://danbooru.donmai.us/wiki_pages/alley"
+        },
+        {
+          "label": "横断歩道",
+          "tag": "crosswalk",
+          "link": "https://danbooru.donmai.us/wiki_pages/crosswalk"
+        },
+        {
+          "label": "未舗装道路",
+          "tag": "dirt_road",
+          "link": "https://danbooru.donmai.us/wiki_pages/dirt_road"
+        },
+        {
+          "label": "高速道路",
+          "tag": "highway",
+          "link": "https://danbooru.donmai.us/wiki_pages/highway"
+        },
+        {
+          "label": "小道",
+          "tag": "path",
+          "link": "https://danbooru.donmai.us/wiki_pages/path"
+        },
+        {
+          "label": "歩道",
+          "tag": "sidewalk",
+          "link": "https://danbooru.donmai.us/wiki_pages/sidewalk"
+        },
+        {
+          "label": "石畳の歩道",
+          "tag": "stone_walkway",
+          "link": "https://danbooru.donmai.us/wiki_pages/stone_walkway"
+        },
+        {
+          "label": "通り",
+          "tag": "street",
+          "link": "https://danbooru.donmai.us/wiki_pages/street"
+        },
+        {
+          "label": "サッカー場",
+          "tag": "soccer_field",
+          "link": "https://danbooru.donmai.us/wiki_pages/soccer_field"
+        },
+        {
+          "label": "ランニングトラック",
+          "tag": "running_track",
+          "link": "https://danbooru.donmai.us/wiki_pages/running_track"
+        },
+        {
+          "label": "塹壕",
+          "tag": "trench",
+          "link": "https://danbooru.donmai.us/wiki_pages/trench"
+        },
+        {
+          "label": "トンネル",
+          "tag": "tunnel",
+          "link": "https://danbooru.donmai.us/wiki_pages/tunnel"
+        },
+        {
+          "label": "井戸",
+          "tag": "well",
+          "link": "https://danbooru.donmai.us/wiki_pages/well"
+        },
+        {
+          "label": "動物園",
+          "tag": "zoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/zoo"
+        }
+      ]
+    },
+    {
+      "セクション名": "建物",
+      "タグ一覧": [
+        {
+          "label": "建物",
+          "tag": "building",
+          "link": "https://danbooru.donmai.us/wiki_pages/building"
+        },
+        {
+          "label": "空港",
+          "tag": "airport",
+          "link": "https://danbooru.donmai.us/wiki_pages/airport"
+        },
+        {
+          "label": "管制塔",
+          "tag": "control_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/control_tower"
+        },
+        {
+          "label": "格納庫",
+          "tag": "hangar",
+          "link": "https://danbooru.donmai.us/wiki_pages/hangar"
+        },
+        {
+          "label": "滑走路",
+          "tag": "runway",
+          "link": "https://danbooru.donmai.us/wiki_pages/runway"
+        },
+        {
+          "label": "アパート",
+          "tag": "apartment",
+          "link": "https://danbooru.donmai.us/wiki_pages/apartment"
+        },
+        {
+          "label": "水族館",
+          "tag": "aquarium",
+          "link": "https://danbooru.donmai.us/wiki_pages/aquarium"
+        },
+        {
+          "label": "ゲームセンター",
+          "tag": "arcade",
+          "link": "https://danbooru.donmai.us/wiki_pages/arcade"
+        },
+        {
+          "label": "バー",
+          "tag": "bar_%28place%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bar_%28place%29"
+        },
+        {
+          "label": "居酒屋",
+          "tag": "izakaya",
+          "link": "https://danbooru.donmai.us/wiki_pages/izakaya"
+        },
+        {
+          "label": "居酒屋",
+          "tag": "tavern",
+          "link": "https://danbooru.donmai.us/wiki_pages/tavern"
+        },
+        {
+          "label": "納屋",
+          "tag": "barn",
+          "link": "https://danbooru.donmai.us/wiki_pages/barn"
+        },
+        {
+          "label": "バンカー",
+          "tag": "bunker",
+          "link": "https://danbooru.donmai.us/wiki_pages/bunker"
+        },
+        {
+          "label": "バス停",
+          "tag": "bus_stop",
+          "link": "https://danbooru.donmai.us/wiki_pages/bus_stop"
+        },
+        {
+          "label": "ボウリング場",
+          "tag": "bowling_alley",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowling_alley"
+        },
+        {
+          "label": "カフェ",
+          "tag": "cafe",
+          "link": "https://danbooru.donmai.us/wiki_pages/cafe"
+        },
+        {
+          "label": "カジノ",
+          "tag": "casino",
+          "link": "https://danbooru.donmai.us/wiki_pages/casino"
+        },
+        {
+          "label": "城",
+          "tag": "castle",
+          "link": "https://danbooru.donmai.us/wiki_pages/castle"
+        },
+        {
+          "label": "浮かぶ城",
+          "tag": "floating_castle",
+          "link": "https://danbooru.donmai.us/wiki_pages/floating_castle"
+        },
+        {
+          "label": "教会",
+          "tag": "church",
+          "link": "https://danbooru.donmai.us/wiki_pages/church"
+        },
+        {
+          "label": "建設現場",
+          "tag": "construction_site",
+          "link": "https://danbooru.donmai.us/wiki_pages/construction_site"
+        },
+        {
+          "label": "大会",
+          "tag": "convention",
+          "link": "https://danbooru.donmai.us/wiki_pages/convention"
+        },
+        {
+          "label": "ガレージ",
+          "tag": "garage",
+          "link": "https://danbooru.donmai.us/wiki_pages/garage"
+        },
+        {
+          "label": "ガソリンスタンド",
+          "tag": "gas_station",
+          "link": "https://danbooru.donmai.us/wiki_pages/gas_station"
+        },
+        {
+          "label": "ガゼボ",
+          "tag": "gazebo",
+          "link": "https://danbooru.donmai.us/wiki_pages/gazebo"
+        },
+        {
+          "label": "温室",
+          "tag": "greenhouse",
+          "link": "https://danbooru.donmai.us/wiki_pages/greenhouse"
+        },
+        {
+          "label": "ジム",
+          "tag": "gym",
+          "link": "https://danbooru.donmai.us/wiki_pages/gym"
+        },
+        {
+          "label": "病院",
+          "tag": "hospital",
+          "link": "https://danbooru.donmai.us/wiki_pages/hospital"
+        },
+        {
+          "label": "家",
+          "tag": "house",
+          "link": "https://danbooru.donmai.us/wiki_pages/house"
+        },
+        {
+          "label": "ホテル",
+          "tag": "hotel",
+          "link": "https://danbooru.donmai.us/wiki_pages/hotel"
+        },
+        {
+          "label": "小屋",
+          "tag": "hut",
+          "link": "https://danbooru.donmai.us/wiki_pages/hut"
+        },
+        {
+          "label": "工業用",
+          "tag": "industrial",
+          "link": "https://danbooru.donmai.us/wiki_pages/industrial"
+        },
+        {
+          "label": "工場",
+          "tag": "factory",
+          "link": "https://danbooru.donmai.us/wiki_pages/factory"
+        },
+        {
+          "label": "製油所",
+          "tag": "refinery",
+          "link": "https://danbooru.donmai.us/wiki_pages/refinery"
+        },
+        {
+          "label": "発電所",
+          "tag": "power_plant",
+          "link": "https://danbooru.donmai.us/wiki_pages/power_plant"
+        },
+        {
+          "label": "原子力発電所",
+          "tag": "nuclear_powerplant",
+          "link": "https://danbooru.donmai.us/wiki_pages/nuclear_powerplant"
+        },
+        {
+          "label": "冷却塔",
+          "tag": "cooling_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/cooling_tower"
+        },
+        {
+          "label": "倉庫",
+          "tag": "warehouse",
+          "link": "https://danbooru.donmai.us/wiki_pages/warehouse"
+        },
+        {
+          "label": "図書館",
+          "tag": "library",
+          "link": "https://danbooru.donmai.us/wiki_pages/library"
+        },
+        {
+          "label": "灯台",
+          "tag": "lighthouse",
+          "link": "https://danbooru.donmai.us/wiki_pages/lighthouse"
+        },
+        {
+          "label": "モール",
+          "tag": "mall",
+          "link": "https://danbooru.donmai.us/wiki_pages/mall"
+        },
+        {
+          "label": "巨大構造物",
+          "tag": "megastructure",
+          "link": "https://danbooru.donmai.us/wiki_pages/megastructure"
+        },
+        {
+          "label": "宇宙エレベーター",
+          "tag": "space_elevator",
+          "link": "https://danbooru.donmai.us/wiki_pages/space_elevator"
+        },
+        {
+          "label": "軍事基地",
+          "tag": "military_base",
+          "link": "https://danbooru.donmai.us/wiki_pages/military_base"
+        },
+        {
+          "label": "モスク",
+          "tag": "mosque",
+          "link": "https://danbooru.donmai.us/wiki_pages/mosque"
+        },
+        {
+          "label": "博物館",
+          "tag": "museum",
+          "link": "https://danbooru.donmai.us/wiki_pages/museum"
+        },
+        {
+          "label": "アートギャラリー",
+          "tag": "art_gallery",
+          "link": "https://danbooru.donmai.us/wiki_pages/art_gallery"
+        },
+        {
+          "label": "ナイトクラブ",
+          "tag": "nightclub",
+          "link": "https://danbooru.donmai.us/wiki_pages/nightclub"
+        },
+        {
+          "label": "天文台",
+          "tag": "observatory",
+          "link": "https://danbooru.donmai.us/wiki_pages/observatory"
+        },
+        {
+          "label": "オフィス",
+          "tag": "office",
+          "link": "https://danbooru.donmai.us/wiki_pages/office"
+        },
+        {
+          "label": "温泉",
+          "tag": "onsen",
+          "link": "https://danbooru.donmai.us/wiki_pages/onsen"
+        },
+        {
+          "label": "パゴダ",
+          "tag": "pagoda",
+          "link": "https://danbooru.donmai.us/wiki_pages/pagoda"
+        },
+        {
+          "label": "プラネタリウム",
+          "tag": "planetarium",
+          "link": "https://danbooru.donmai.us/wiki_pages/planetarium"
+        },
+        {
+          "label": "刑務所",
+          "tag": "prison",
+          "link": "https://danbooru.donmai.us/wiki_pages/prison"
+        },
+        {
+          "label": "レストラン",
+          "tag": "restaurant",
+          "link": "https://danbooru.donmai.us/wiki_pages/restaurant"
+        },
+        {
+          "label": "屋上",
+          "tag": "rooftop",
+          "link": "https://danbooru.donmai.us/wiki_pages/rooftop"
+        },
+        {
+          "label": "遺跡",
+          "tag": "ruins",
+          "link": "https://danbooru.donmai.us/wiki_pages/ruins"
+        },
+        {
+          "label": "学校",
+          "tag": "school",
+          "link": "https://danbooru.donmai.us/wiki_pages/school"
+        },
+        {
+          "label": "スケートリンク",
+          "tag": "skating_rink",
+          "link": "https://danbooru.donmai.us/wiki_pages/skating_rink"
+        },
+        {
+          "label": "小屋",
+          "tag": "shack",
+          "link": "https://danbooru.donmai.us/wiki_pages/shack"
+        },
+        {
+          "label": "神社",
+          "tag": "shrine",
+          "link": "https://danbooru.donmai.us/wiki_pages/shrine"
+        },
+        {
+          "label": "店",
+          "tag": "shop",
+          "link": "https://danbooru.donmai.us/wiki_pages/shop"
+        },
+        {
+          "label": "ベーカリー",
+          "tag": "bakery",
+          "link": "https://danbooru.donmai.us/wiki_pages/bakery"
+        },
+        {
+          "label": "書店",
+          "tag": "bookstore",
+          "link": "https://danbooru.donmai.us/wiki_pages/bookstore"
+        },
+        {
+          "label": "コンビニエンスストア",
+          "tag": "convenience_store",
+          "link": "https://danbooru.donmai.us/wiki_pages/convenience_store"
+        },
+        {
+          "label": "花屋",
+          "tag": "flower_shop",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower_shop"
+        },
+        {
+          "label": "薬局",
+          "tag": "pharmacy",
+          "link": "https://danbooru.donmai.us/wiki_pages/pharmacy"
+        },
+        {
+          "label": "サロン",
+          "tag": "salon",
+          "link": "https://danbooru.donmai.us/wiki_pages/salon"
+        },
+        {
+          "label": "セックスショップ",
+          "tag": "sex_shop",
+          "link": "https://danbooru.donmai.us/wiki_pages/sex_shop"
+        },
+        {
+          "label": "スーパーマーケット",
+          "tag": "supermarket",
+          "link": "https://danbooru.donmai.us/wiki_pages/supermarket"
+        },
+        {
+          "label": "武器屋",
+          "tag": "weapon_shop",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_shop"
+        },
+        {
+          "label": "超高層ビル",
+          "tag": "skyscraper",
+          "link": "https://danbooru.donmai.us/wiki_pages/skyscraper"
+        },
+        {
+          "label": "スタジアム",
+          "tag": "stadium",
+          "link": "https://danbooru.donmai.us/wiki_pages/stadium"
+        },
+        {
+          "label": "アリーナ",
+          "tag": "arena",
+          "link": "https://danbooru.donmai.us/wiki_pages/arena"
+        },
+        {
+          "label": "高床式住宅",
+          "tag": "stilt_house",
+          "link": "https://danbooru.donmai.us/wiki_pages/stilt_house"
+        },
+        {
+          "label": "寺",
+          "tag": "temple",
+          "link": "https://danbooru.donmai.us/wiki_pages/temple"
+        },
+        {
+          "label": "劇場",
+          "tag": "theater",
+          "link": "https://danbooru.donmai.us/wiki_pages/theater"
+        },
+        {
+          "label": "円形劇場",
+          "tag": "amphitheater",
+          "link": "https://danbooru.donmai.us/wiki_pages/amphitheater"
+        },
+        {
+          "label": "映画館",
+          "tag": "movie_theater",
+          "link": "https://danbooru.donmai.us/wiki_pages/movie_theater"
+        },
+        {
+          "label": "タワー",
+          "tag": "tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/tower"
+        },
+        {
+          "label": "鐘楼",
+          "tag": "bell_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/bell_tower"
+        },
+        {
+          "label": "時計塔",
+          "tag": "clock_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/clock_tower"
+        },
+        {
+          "label": "監視塔",
+          "tag": "watchtower",
+          "link": "https://danbooru.donmai.us/wiki_pages/watchtower"
+        },
+        {
+          "label": "ミナレット",
+          "tag": "minaret",
+          "link": "https://danbooru.donmai.us/wiki_pages/minaret"
+        },
+        {
+          "label": "駅",
+          "tag": "train_station",
+          "link": "https://danbooru.donmai.us/wiki_pages/train_station"
+        },
+        {
+          "label": "ツリーハウス",
+          "tag": "treehouse",
+          "link": "https://danbooru.donmai.us/wiki_pages/treehouse"
+        },
+        {
+          "label": "風車",
+          "tag": "windmill",
+          "link": "https://danbooru.donmai.us/wiki_pages/windmill"
+        }
+      ]
+    },
+    {
+      "セクション名": "エースコンバット",
+      "タグ一覧": [
+        {
+          "label": "エースコンバット",
+          "tag": "ace_combat",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_combat"
+        },
+        {
+          "label": "ストーンヘンジ塔ネットワーク",
+          "tag": "stonehenge_turret_network",
+          "link": "https://danbooru.donmai.us/wiki_pages/stonehenge_turret_network"
+        }
+      ]
+    },
+    {
+      "セクション名": "ドラゴンボール",
+      "タグ一覧": [
+        {
+          "label": "ドラゴンボール",
+          "tag": "dragon_ball",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragon_ball"
+        },
+        {
+          "label": "ナメック星",
+          "tag": "namek",
+          "link": "https://danbooru.donmai.us/wiki_pages/namek"
+        },
+        {
+          "label": "カメハウス",
+          "tag": "kame_house",
+          "link": "https://danbooru.donmai.us/wiki_pages/kame_house"
+        }
+      ]
+    },
+    {
+      "セクション名": "北斗の拳",
+      "タグ一覧": [
+        {
+          "label": "北斗の拳",
+          "tag": "hokuto_no_ken",
+          "link": "https://danbooru.donmai.us/wiki_pages/hokuto_no_ken"
+        },
+        {
+          "label": "聖帝十字陵",
+          "tag": "seitei_jujiryou",
+          "link": "https://danbooru.donmai.us/wiki_pages/seitei_jujiryou"
+        }
+      ]
+    },
+    {
+      "セクション名": "ソードアート・オンライン",
+      "タグ一覧": [
+        {
+          "label": "ソードアート・オンライン",
+          "tag": "sword_art_online",
+          "link": "https://danbooru.donmai.us/wiki_pages/sword_art_online"
+        },
+        {
+          "label": "アインクラッド",
+          "tag": "aincrad",
+          "link": "https://danbooru.donmai.us/wiki_pages/aincrad"
+        }
+      ]
+    },
+    {
+      "セクション名": "東方",
+      "タグ一覧": [
+        {
+          "label": "東方",
+          "tag": "touhou",
+          "link": "https://danbooru.donmai.us/wiki_pages/touhou"
+        },
+        {
+          "label": "地霊殿",
+          "tag": "chireiden",
+          "link": "https://danbooru.donmai.us/wiki_pages/chireiden"
+        },
+        {
+          "label": "永遠亭",
+          "tag": "eientei",
+          "link": "https://danbooru.donmai.us/wiki_pages/eientei"
+        },
+        {
+          "label": "魔法の森",
+          "tag": "forest_of_magic",
+          "link": "https://danbooru.donmai.us/wiki_pages/forest_of_magic"
+        },
+        {
+          "label": "旧都",
+          "tag": "former_capital",
+          "link": "https://danbooru.donmai.us/wiki_pages/former_capital"
+        },
+        {
+          "label": "太陽の畑",
+          "tag": "garden_of_the_sun",
+          "link": "https://danbooru.donmai.us/wiki_pages/garden_of_the_sun"
+        },
+        {
+          "label": "白玉楼",
+          "tag": "hakugyokurou",
+          "link": "https://danbooru.donmai.us/wiki_pages/hakugyokurou"
+        },
+        {
+          "label": "博麗神社",
+          "tag": "hakurei_shrine",
+          "link": "https://danbooru.donmai.us/wiki_pages/hakurei_shrine"
+        },
+        {
+          "label": "法界",
+          "tag": "hokkai",
+          "link": "https://danbooru.donmai.us/wiki_pages/hokkai"
+        },
+        {
+          "label": "香霖堂",
+          "tag": "kourindou",
+          "link": "https://danbooru.donmai.us/wiki_pages/kourindou"
+        },
+        {
+          "label": "魔界",
+          "tag": "makai_%28touhou%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/makai_%28touhou%29"
+        },
+        {
+          "label": "霧の湖",
+          "tag": "misty_lake",
+          "link": "https://danbooru.donmai.us/wiki_pages/misty_lake"
+        },
+        {
+          "label": "守矢神社",
+          "tag": "moriya_shrine",
+          "link": "https://danbooru.donmai.us/wiki_pages/moriya_shrine"
+        },
+        {
+          "label": "命蓮寺",
+          "tag": "myouren_temple",
+          "link": "https://danbooru.donmai.us/wiki_pages/myouren_temple"
+        },
+        {
+          "label": "名もなき丘",
+          "tag": "nameless_hill",
+          "link": "https://danbooru.donmai.us/wiki_pages/nameless_hill"
+        },
+        {
+          "label": "聖輦船",
+          "tag": "palanquin_ship",
+          "link": "https://danbooru.donmai.us/wiki_pages/palanquin_ship"
+        },
+        {
+          "label": "紅魔館",
+          "tag": "scarlet_devil_mansion",
+          "link": "https://danbooru.donmai.us/wiki_pages/scarlet_devil_mansion"
+        },
+        {
+          "label": "輝針城",
+          "tag": "shining_needle_castle",
+          "link": "https://danbooru.donmai.us/wiki_pages/shining_needle_castle"
+        },
+        {
+          "label": "ヴワル図書館",
+          "tag": "voile",
+          "link": "https://danbooru.donmai.us/wiki_pages/voile"
+        },
+        {
+          "label": "妖怪の山",
+          "tag": "youkai_mountain",
+          "link": "https://danbooru.donmai.us/wiki_pages/youkai_mountain"
+        },
+        {
+          "label": "神霊廟",
+          "tag": "divine_spirit_mausoleum",
+          "link": "https://danbooru.donmai.us/wiki_pages/divine_spirit_mausoleum"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "建築",
+          "tag": "architecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/architecture"
+        },
+        {
+          "label": "都市景観",
+          "tag": "cityscape",
+          "link": "https://danbooru.donmai.us/wiki_pages/cityscape"
+        },
+        {
+          "label": "風景",
+          "tag": "landscape",
+          "link": "https://danbooru.donmai.us/wiki_pages/landscape"
+        },
+        {
+          "label": "宇宙",
+          "tag": "space",
+          "link": "https://danbooru.donmai.us/wiki_pages/space"
+        },
+        {
+          "label": "小惑星",
+          "tag": "asteroid",
+          "link": "https://danbooru.donmai.us/wiki_pages/asteroid"
+        },
+        {
+          "label": "月",
+          "tag": "moon",
+          "link": "https://danbooru.donmai.us/wiki_pages/moon"
+        },
+        {
+          "label": "惑星",
+          "tag": "planet",
+          "link": "https://danbooru.donmai.us/wiki_pages/planet"
+        },
+        {
+          "label": "宇宙ステーション",
+          "tag": "space_station",
+          "link": "https://danbooru.donmai.us/wiki_pages/space_station"
+        },
+        {
+          "label": "車内",
+          "tag": "vehicle_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/vehicle_interior"
+        },
+        {
+          "label": "飛行機の内部",
+          "tag": "airplane_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/airplane_interior"
+        },
+        {
+          "label": "バスの内装",
+          "tag": "bus_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/bus_interior"
+        },
+        {
+          "label": "車内",
+          "tag": "car_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/car_interior"
+        },
+        {
+          "label": "コックピット",
+          "tag": "cockpit",
+          "link": "https://danbooru.donmai.us/wiki_pages/cockpit"
+        },
+        {
+          "label": "宇宙船内部",
+          "tag": "spacecraft_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/spacecraft_interior"
+        },
+        {
+          "label": "戦車の内部",
+          "tag": "tank_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank_interior"
+        },
+        {
+          "label": "電車内",
+          "tag": "train_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/train_interior"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "場所の特定依頼",
+          "tag": "location_request",
+          "link": "https://danbooru.donmai.us/wiki_pages/location_request"
+        },
+        {
+          "label": "タググループ：実在の場所",
+          "tag": "tag_group%3Areal_world_locations",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Areal_world_locations"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "カテゴリID": "list_of_helicopters",
+  "カテゴリ名": "ヘリコプター一覧",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=list_of_helicopters",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "ヘリコプター",
+          "tag": "helicopter",
+          "link": "https://danbooru.donmai.us/wiki_pages/helicopter"
+        }
+      ]
+    },
+    {
+      "セクション名": "ロシア/ソビエト連邦",
+      "タグ一覧": [
+        {
+          "label": "カモフ Ka-27",
+          "tag": "kamov_ka-27",
+          "link": "https://danbooru.donmai.us/wiki_pages/kamov_ka-27"
+        },
+        {
+          "label": "カモフ Ka-50",
+          "tag": "kamov_ka-50",
+          "link": "https://danbooru.donmai.us/wiki_pages/kamov_ka-50"
+        },
+        {
+          "label": "カモフ Ka-52",
+          "tag": "kamov_ka-52",
+          "link": "https://danbooru.donmai.us/wiki_pages/kamov_ka-52"
+        },
+        {
+          "label": "Mi-4",
+          "tag": "mi-4",
+          "link": "https://danbooru.donmai.us/wiki_pages/mi-4"
+        },
+        {
+          "label": "Mi-8",
+          "tag": "mi-8",
+          "link": "https://danbooru.donmai.us/wiki_pages/mi-8"
+        },
+        {
+          "label": "Mi-17",
+          "tag": "mi-17",
+          "link": "https://danbooru.donmai.us/wiki_pages/mi-17"
+        },
+        {
+          "label": "Mi-24",
+          "tag": "mi-24",
+          "link": "https://danbooru.donmai.us/wiki_pages/mi-24"
+        },
+        {
+          "label": "Mi-26",
+          "tag": "mi-26",
+          "link": "https://danbooru.donmai.us/wiki_pages/mi-26"
+        },
+        {
+          "label": "Mi-28",
+          "tag": "mi-28",
+          "link": "https://danbooru.donmai.us/wiki_pages/mi-28"
+        }
+      ]
+    },
+    {
+      "セクション名": "アメリカ合衆国",
+      "タグ一覧": [
+        {
+          "label": "AH-1 コブラ",
+          "tag": "ah-1_cobra",
+          "link": "https://danbooru.donmai.us/wiki_pages/ah-1_cobra"
+        },
+        {
+          "label": "AH-64 アパッチ",
+          "tag": "ah-64_apache",
+          "link": "https://danbooru.donmai.us/wiki_pages/ah-64_apache"
+        },
+        {
+          "label": "CH-46 シーナイト",
+          "tag": "ch-46_sea_knight",
+          "link": "https://danbooru.donmai.us/wiki_pages/ch-46_sea_knight"
+        },
+        {
+          "label": "CH-47 チヌーク",
+          "tag": "ch-47_chinook",
+          "link": "https://danbooru.donmai.us/wiki_pages/ch-47_chinook"
+        },
+        {
+          "label": "CH-53",
+          "tag": "ch-53",
+          "link": "https://danbooru.donmai.us/wiki_pages/ch-53"
+        },
+        {
+          "label": "ピアセッキ H-21",
+          "tag": "piasecki_h-21",
+          "link": "https://danbooru.donmai.us/wiki_pages/piasecki_h-21"
+        },
+        {
+          "label": "ピアセッキHUPレトリーバー",
+          "tag": "piasecki_hup_retriever",
+          "link": "https://danbooru.donmai.us/wiki_pages/piasecki_hup_retriever"
+        },
+        {
+          "label": "UH-1 イロコイ",
+          "tag": "uh-1_iroquois",
+          "link": "https://danbooru.donmai.us/wiki_pages/uh-1_iroquois"
+        },
+        {
+          "label": "UH-60 ブラックホーク",
+          "tag": "uh-60_blackhawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/uh-60_blackhawk"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "航空機",
+          "tag": "aircraft",
+          "link": "https://danbooru.donmai.us/wiki_pages/aircraft"
+        },
+        {
+          "label": "オートジャイロ",
+          "tag": "autogyro",
+          "link": "https://danbooru.donmai.us/wiki_pages/autogyro"
+        },
+        {
+          "label": "軍隊",
+          "tag": "military",
+          "link": "https://danbooru.donmai.us/wiki_pages/military"
+        },
+        {
+          "label": "飛行機一覧",
+          "tag": "list_of_airplanes",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_airplanes"
+        },
+        {
+          "label": "タググループ：テクノロジー",
+          "tag": "tag_group%3Atechnology",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Atechnology"
+        },
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
+}

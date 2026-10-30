@@ -1,0 +1,217 @@
+﻿{
+    "カテゴリID":  "mustache",
+    "カテゴリ名":  "口ひげ",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=mustache",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "顔のひげ",
+                                         "tag":  "facial_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/facial_hair"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "太さ・長さ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "口ひげの無精ひげ",
+                                         "tag":  "mustache_stubble",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mustache_stubble"
+                                     },
+                                     {
+                                         "label":  "細い口ひげ",
+                                         "tag":  "pencil_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pencil_mustache"
+                                     },
+                                     {
+                                         "label":  "太い口ひげ",
+                                         "tag":  "thick_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thick_mustache"
+                                     },
+                                     {
+                                         "label":  "長い口ひげ",
+                                         "tag":  "long_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/long_mustache"
+                                     },
+                                     {
+                                         "label":  "非常に長い口ひげ",
+                                         "tag":  "very_long_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/very_long_mustache"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "スタイル",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ハンドルバー型の口ひげ",
+                                         "tag":  "handlebar_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/handlebar_mustache"
+                                     },
+                                     {
+                                         "label":  "フー・マンチュ（口ひげ）",
+                                         "tag":  "fu_manchu_%28mustache%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fu_manchu_%28mustache%29"
+                                     },
+                                     {
+                                         "label":  "ちょびひげ",
+                                         "tag":  "toothbrush_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/toothbrush_mustache"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "つけ髭",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "つけひげ",
+                                         "tag":  "fake_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_mustache"
+                                     },
+                                     {
+                                         "label":  "髪を口ひげに見立てる",
+                                         "tag":  "hair_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_mustache"
+                                     },
+                                     {
+                                         "label":  "鉛筆を口ひげに見立てる",
+                                         "tag":  "pencil_as_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pencil_as_mustache"
+                                     },
+                                     {
+                                         "label":  "口ひげ状に付いたミルク",
+                                         "tag":  "milk_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/milk_mustache"
+                                     },
+                                     {
+                                         "label":  "口ひげ状に付いた泡",
+                                         "tag":  "foam_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/foam_mustache"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "編み込んだ口ひげ",
+                                         "tag":  "braided_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/braided_mustache"
+                                     },
+                                     {
+                                         "label":  "口ひげプリント",
+                                         "tag":  "mustache_print",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mustache_print"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "動作",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "口ひげを持つ",
+                                         "tag":  "holding_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_mustache"
+                                     },
+                                     {
+                                         "label":  "口ひげに触れる",
+                                         "tag":  "touching_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/touching_mustache"
+                                     },
+                                     {
+                                         "label":  "口ひげをひねる",
+                                         "tag":  "twirling_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/twirling_mustache"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "顔のひげ",
+                                         "tag":  "facial_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/facial_hair"
+                                     },
+                                     {
+                                         "label":  "あごひげ",
+                                         "tag":  "beard",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/beard"
+                                     },
+                                     {
+                                         "label":  "山羊ひげ",
+                                         "tag":  "goatee",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/goatee"
+                                     },
+                                     {
+                                         "label":  "無精ひげ",
+                                         "tag":  "stubble",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stubble"
+                                     },
+                                     {
+                                         "label":  "ひげ差分",
+                                         "tag":  "alternate_facial_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_facial_hair"
+                                     },
+                                     {
+                                         "label":  "口ひげ",
+                                         "tag":  "moustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/moustache"
+                                     },
+                                     {
+                                         "label":  "タグの別名",
+                                         "tag":  "help:tag_aliases",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/help:tag_aliases"
+                                     },
+                                     {
+                                         "label":  "顔のひげ",
+                                         "tag":  "facial_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/facial_hair"
+                                     },
+                                     {
+                                         "label":  "タグの包含関係",
+                                         "tag":  "help:tag_implications",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+                                     },
+                                     {
+                                         "label":  "編み込んだ口ひげ",
+                                         "tag":  "braided_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/braided_mustache"
+                                     },
+                                     {
+                                         "label":  "ハンドルバー型の口ひげ",
+                                         "tag":  "handlebar_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/handlebar_mustache"
+                                     },
+                                     {
+                                         "label":  "長い口ひげ",
+                                         "tag":  "long_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/long_mustache"
+                                     },
+                                     {
+                                         "label":  "細い口ひげ",
+                                         "tag":  "pencil_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pencil_mustache"
+                                     },
+                                     {
+                                         "label":  "太い口ひげ",
+                                         "tag":  "thick_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thick_mustache"
+                                     },
+                                     {
+                                         "label":  "ちょびひげ",
+                                         "tag":  "toothbrush_mustache",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/toothbrush_mustache"
+                                     },
+                                     {
+                                         "label":  "タグの包含関係",
+                                         "tag":  "help:tag_implications",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+                                     }
+                                 ]
+                    }
+                ]
+}

@@ -1,0 +1,972 @@
+{
+  "カテゴリID": "list_of_animals",
+  "カテゴリ名": "動物一覧",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=list_of_animals",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "動物",
+          "tag": "animal",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal"
+        }
+      ]
+    },
+    {
+      "セクション名": "カテゴリー",
+      "タグ一覧": [
+        {
+          "label": "鳥",
+          "tag": "bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/bird"
+        },
+        {
+          "label": "虫",
+          "tag": "bug",
+          "link": "https://danbooru.donmai.us/wiki_pages/bug"
+        },
+        {
+          "label": "猫",
+          "tag": "cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat"
+        },
+        {
+          "label": "甲殻類",
+          "tag": "crustacean",
+          "link": "https://danbooru.donmai.us/wiki_pages/crustacean"
+        },
+        {
+          "label": "犬",
+          "tag": "dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog"
+        },
+        {
+          "label": "魚",
+          "tag": "fish",
+          "link": "https://danbooru.donmai.us/wiki_pages/fish"
+        },
+        {
+          "label": "虫",
+          "tag": "bug",
+          "link": "https://danbooru.donmai.us/wiki_pages/bug"
+        },
+        {
+          "label": "鯨",
+          "tag": "whale",
+          "link": "https://danbooru.donmai.us/wiki_pages/whale"
+        }
+      ]
+    },
+    {
+      "セクション名": "昆虫・その他の小型節足動物",
+      "タグ一覧": [
+        {
+          "label": "アリ",
+          "tag": "ant",
+          "link": "https://danbooru.donmai.us/wiki_pages/ant"
+        },
+        {
+          "label": "蜂",
+          "tag": "bee",
+          "link": "https://danbooru.donmai.us/wiki_pages/bee"
+        },
+        {
+          "label": "甲虫",
+          "tag": "beetle",
+          "link": "https://danbooru.donmai.us/wiki_pages/beetle"
+        },
+        {
+          "label": "蝶",
+          "tag": "butterfly",
+          "link": "https://danbooru.donmai.us/wiki_pages/butterfly"
+        },
+        {
+          "label": "イモムシ",
+          "tag": "caterpillar",
+          "link": "https://danbooru.donmai.us/wiki_pages/caterpillar"
+        },
+        {
+          "label": "ムカデ",
+          "tag": "centipede",
+          "link": "https://danbooru.donmai.us/wiki_pages/centipede"
+        },
+        {
+          "label": "蝉",
+          "tag": "cicada",
+          "link": "https://danbooru.donmai.us/wiki_pages/cicada"
+        },
+        {
+          "label": "ゴキブリ",
+          "tag": "cockroach",
+          "link": "https://danbooru.donmai.us/wiki_pages/cockroach"
+        },
+        {
+          "label": "コオロギ",
+          "tag": "cricket",
+          "link": "https://danbooru.donmai.us/wiki_pages/cricket"
+        },
+        {
+          "label": "カマドウマ",
+          "tag": "cave_cricket",
+          "link": "https://danbooru.donmai.us/wiki_pages/cave_cricket"
+        },
+        {
+          "label": "トンボ",
+          "tag": "dragonfly",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragonfly"
+        },
+        {
+          "label": "ホタル",
+          "tag": "firefly",
+          "link": "https://danbooru.donmai.us/wiki_pages/firefly"
+        },
+        {
+          "label": "ホタル",
+          "tag": "fireflies",
+          "link": "https://danbooru.donmai.us/wiki_pages/fireflies"
+        },
+        {
+          "label": "ハエ",
+          "tag": "fly",
+          "link": "https://danbooru.donmai.us/wiki_pages/fly"
+        },
+        {
+          "label": "バッタ",
+          "tag": "grasshopper",
+          "link": "https://danbooru.donmai.us/wiki_pages/grasshopper"
+        },
+        {
+          "label": "てんとう虫",
+          "tag": "ladybug",
+          "link": "https://danbooru.donmai.us/wiki_pages/ladybug"
+        },
+        {
+          "label": "ロイコクロリジウム・パラドクスム",
+          "tag": "leucochloridium_paradoxum",
+          "link": "https://danbooru.donmai.us/wiki_pages/leucochloridium_paradoxum"
+        },
+        {
+          "label": "ヤスデ",
+          "tag": "millipede",
+          "link": "https://danbooru.donmai.us/wiki_pages/millipede"
+        },
+        {
+          "label": "蚊",
+          "tag": "mosquito",
+          "link": "https://danbooru.donmai.us/wiki_pages/mosquito"
+        },
+        {
+          "label": "蛾",
+          "tag": "moth",
+          "link": "https://danbooru.donmai.us/wiki_pages/moth"
+        },
+        {
+          "label": "ダンゴムシ",
+          "tag": "pillbug",
+          "link": "https://danbooru.donmai.us/wiki_pages/pillbug"
+        },
+        {
+          "label": "スズメバチ",
+          "tag": "wasp",
+          "link": "https://danbooru.donmai.us/wiki_pages/wasp"
+        },
+        {
+          "label": "クモ類",
+          "tag": "arachnid",
+          "link": "https://danbooru.donmai.us/wiki_pages/arachnid"
+        },
+        {
+          "label": "スパイダー",
+          "tag": "spider",
+          "link": "https://danbooru.donmai.us/wiki_pages/spider"
+        },
+        {
+          "label": "スコーピオン",
+          "tag": "scorpion",
+          "link": "https://danbooru.donmai.us/wiki_pages/scorpion"
+        },
+        {
+          "label": "ラクダグモ",
+          "tag": "camel_spider",
+          "link": "https://danbooru.donmai.us/wiki_pages/camel_spider"
+        },
+        {
+          "label": "ウデムシ",
+          "tag": "amblypygi",
+          "link": "https://danbooru.donmai.us/wiki_pages/amblypygi"
+        },
+        {
+          "label": "幼虫",
+          "tag": "larva",
+          "link": "https://danbooru.donmai.us/wiki_pages/larva"
+        },
+        {
+          "label": "ウジ",
+          "tag": "maggot",
+          "link": "https://danbooru.donmai.us/wiki_pages/maggot"
+        }
+      ]
+    },
+    {
+      "セクション名": "鳥",
+      "タグ一覧": [
+        {
+          "label": "タググループ：鳥",
+          "tag": "tag_group%3Abirds",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abirds"
+        }
+      ]
+    },
+    {
+      "セクション名": "猫",
+      "タグ一覧": [
+        {
+          "label": "黒猫",
+          "tag": "black_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_cat"
+        },
+        {
+          "label": "ブラックパンサー",
+          "tag": "black_panther",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_panther"
+        },
+        {
+          "label": "子猫",
+          "tag": "kitten",
+          "link": "https://danbooru.donmai.us/wiki_pages/kitten"
+        },
+        {
+          "label": "チーター",
+          "tag": "cheetah",
+          "link": "https://danbooru.donmai.us/wiki_pages/cheetah"
+        },
+        {
+          "label": "ヒョウ",
+          "tag": "leopard",
+          "link": "https://danbooru.donmai.us/wiki_pages/leopard"
+        },
+        {
+          "label": "ライオン",
+          "tag": "lion",
+          "link": "https://danbooru.donmai.us/wiki_pages/lion"
+        },
+        {
+          "label": "虎",
+          "tag": "tiger",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiger"
+        },
+        {
+          "label": "タググループ：猫",
+          "tag": "tag_group%3Acats",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acats"
+        }
+      ]
+    },
+    {
+      "セクション名": "犬",
+      "タグ一覧": [
+        {
+          "label": "子犬",
+          "tag": "puppy",
+          "link": "https://danbooru.donmai.us/wiki_pages/puppy"
+        },
+        {
+          "label": "狼",
+          "tag": "wolf",
+          "link": "https://danbooru.donmai.us/wiki_pages/wolf"
+        },
+        {
+          "label": "タググループ：犬",
+          "tag": "tag_group%3Adogs",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Adogs"
+        }
+      ]
+    },
+    {
+      "セクション名": "爬虫類/両生類",
+      "タグ一覧": [
+        {
+          "label": "クロコダイル",
+          "tag": "crocodile",
+          "link": "https://danbooru.donmai.us/wiki_pages/crocodile"
+        },
+        {
+          "label": "蛙",
+          "tag": "frog",
+          "link": "https://danbooru.donmai.us/wiki_pages/frog"
+        },
+        {
+          "label": "オタマジャクシ",
+          "tag": "tadpole",
+          "link": "https://danbooru.donmai.us/wiki_pages/tadpole"
+        },
+        {
+          "label": "イグアナ",
+          "tag": "iguana",
+          "link": "https://danbooru.donmai.us/wiki_pages/iguana"
+        },
+        {
+          "label": "トカゲ",
+          "tag": "lizard",
+          "link": "https://danbooru.donmai.us/wiki_pages/lizard"
+        },
+        {
+          "label": "エリマキトカゲ",
+          "tag": "frill-necked_lizard",
+          "link": "https://danbooru.donmai.us/wiki_pages/frill-necked_lizard"
+        },
+        {
+          "label": "蛇",
+          "tag": "snake",
+          "link": "https://danbooru.donmai.us/wiki_pages/snake"
+        },
+        {
+          "label": "カメ",
+          "tag": "turtle",
+          "link": "https://danbooru.donmai.us/wiki_pages/turtle"
+        },
+        {
+          "label": "サラマンダー",
+          "tag": "salamander",
+          "link": "https://danbooru.donmai.us/wiki_pages/salamander"
+        },
+        {
+          "label": "アホロートル",
+          "tag": "axolotl",
+          "link": "https://danbooru.donmai.us/wiki_pages/axolotl"
+        },
+        {
+          "label": "ヘルベンダー",
+          "tag": "hellbender",
+          "link": "https://danbooru.donmai.us/wiki_pages/hellbender"
+        }
+      ]
+    },
+    {
+      "セクション名": "魚",
+      "タグ一覧": [
+        {
+          "label": "アリゲーターガー",
+          "tag": "alligator_gar",
+          "link": "https://danbooru.donmai.us/wiki_pages/alligator_gar"
+        },
+        {
+          "label": "エンゼルフィッシュ",
+          "tag": "angelfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/angelfish"
+        },
+        {
+          "label": "アンコウ",
+          "tag": "anglerfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/anglerfish"
+        },
+        {
+          "label": "アラパイマ",
+          "tag": "arapaima",
+          "link": "https://danbooru.donmai.us/wiki_pages/arapaima"
+        },
+        {
+          "label": "アロワナ",
+          "tag": "arowana",
+          "link": "https://danbooru.donmai.us/wiki_pages/arowana"
+        },
+        {
+          "label": "ビチル",
+          "tag": "bichir",
+          "link": "https://danbooru.donmai.us/wiki_pages/bichir"
+        },
+        {
+          "label": "チョウチョウウオ",
+          "tag": "butterflyfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/butterflyfish"
+        },
+        {
+          "label": "ナマズ",
+          "tag": "catfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/catfish"
+        },
+        {
+          "label": "鯉",
+          "tag": "carp",
+          "link": "https://danbooru.donmai.us/wiki_pages/carp"
+        },
+        {
+          "label": "金魚",
+          "tag": "goldfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/goldfish"
+        },
+        {
+          "label": "鯉",
+          "tag": "koi",
+          "link": "https://danbooru.donmai.us/wiki_pages/koi"
+        },
+        {
+          "label": "カクレクマノミ",
+          "tag": "clownfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/clownfish"
+        },
+        {
+          "label": "シーラカンス",
+          "tag": "coelacanth",
+          "link": "https://danbooru.donmai.us/wiki_pages/coelacanth"
+        },
+        {
+          "label": "ダンクルオステウス",
+          "tag": "dunkleosteus",
+          "link": "https://danbooru.donmai.us/wiki_pages/dunkleosteus"
+        },
+        {
+          "label": "うなぎ",
+          "tag": "eel",
+          "link": "https://danbooru.donmai.us/wiki_pages/eel"
+        },
+        {
+          "label": "ヒョウウナギ",
+          "tag": "leopard_eel",
+          "link": "https://danbooru.donmai.us/wiki_pages/leopard_eel"
+        },
+        {
+          "label": "ウツボ",
+          "tag": "moray_eel",
+          "link": "https://danbooru.donmai.us/wiki_pages/moray_eel"
+        },
+        {
+          "label": "トビウオ",
+          "tag": "flying_fish",
+          "link": "https://danbooru.donmai.us/wiki_pages/flying_fish"
+        },
+        {
+          "label": "ヤツメウナギ",
+          "tag": "lamprey",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamprey"
+        },
+        {
+          "label": "リーフィーシードラゴン",
+          "tag": "leafy_seadragon",
+          "link": "https://danbooru.donmai.us/wiki_pages/leafy_seadragon"
+        },
+        {
+          "label": "マンタ",
+          "tag": "manta_ray",
+          "link": "https://danbooru.donmai.us/wiki_pages/manta_ray"
+        },
+        {
+          "label": "ダツ",
+          "tag": "needlefish",
+          "link": "https://danbooru.donmai.us/wiki_pages/needlefish"
+        },
+        {
+          "label": "リュウグウノツカイ",
+          "tag": "oarfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/oarfish"
+        },
+        {
+          "label": "油魚",
+          "tag": "oilfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/oilfish"
+        },
+        {
+          "label": "フグ",
+          "tag": "puffer_fish",
+          "link": "https://danbooru.donmai.us/wiki_pages/puffer_fish"
+        },
+        {
+          "label": "バショウカジキ",
+          "tag": "sailfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailfish"
+        },
+        {
+          "label": "サンマ",
+          "tag": "saury",
+          "link": "https://danbooru.donmai.us/wiki_pages/saury"
+        },
+        {
+          "label": "ノコギリエイ",
+          "tag": "sawfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/sawfish"
+        },
+        {
+          "label": "タツノオトシゴ",
+          "tag": "seahorse",
+          "link": "https://danbooru.donmai.us/wiki_pages/seahorse"
+        },
+        {
+          "label": "サメ",
+          "tag": "shark",
+          "link": "https://danbooru.donmai.us/wiki_pages/shark"
+        },
+        {
+          "label": "エデストゥス",
+          "tag": "edestus",
+          "link": "https://danbooru.donmai.us/wiki_pages/edestus"
+        },
+        {
+          "label": "ミツキザメ",
+          "tag": "goblin_shark",
+          "link": "https://danbooru.donmai.us/wiki_pages/goblin_shark"
+        },
+        {
+          "label": "ホホジロザメ",
+          "tag": "great_white_shark",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_white_shark"
+        },
+        {
+          "label": "シュモクザメ",
+          "tag": "hammerhead_shark",
+          "link": "https://danbooru.donmai.us/wiki_pages/hammerhead_shark"
+        },
+        {
+          "label": "ヘリコプリオン",
+          "tag": "helicoprion",
+          "link": "https://danbooru.donmai.us/wiki_pages/helicoprion"
+        },
+        {
+          "label": "ノコギリザメ",
+          "tag": "saw_shark",
+          "link": "https://danbooru.donmai.us/wiki_pages/saw_shark"
+        },
+        {
+          "label": "ジンベイザメ",
+          "tag": "whale_shark",
+          "link": "https://danbooru.donmai.us/wiki_pages/whale_shark"
+        },
+        {
+          "label": "ベタ",
+          "tag": "siamese_fighting_fish",
+          "link": "https://danbooru.donmai.us/wiki_pages/siamese_fighting_fish"
+        },
+        {
+          "label": "メカジキ",
+          "tag": "swordfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/swordfish"
+        },
+        {
+          "label": "マンボウ",
+          "tag": "ocean_sunfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/ocean_sunfish"
+        },
+        {
+          "label": "クロハギ",
+          "tag": "surgeonfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/surgeonfish"
+        },
+        {
+          "label": "ナンヨウハギ",
+          "tag": "regal_blue_tang",
+          "link": "https://danbooru.donmai.us/wiki_pages/regal_blue_tang"
+        },
+        {
+          "label": "キバハギ",
+          "tag": "yellow_tang",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_tang"
+        },
+        {
+          "label": "マグロ",
+          "tag": "tuna",
+          "link": "https://danbooru.donmai.us/wiki_pages/tuna"
+        }
+      ]
+    },
+    {
+      "セクション名": "鯨",
+      "タグ一覧": [
+        {
+          "label": "シロイルカ",
+          "tag": "beluga_whale",
+          "link": "https://danbooru.donmai.us/wiki_pages/beluga_whale"
+        },
+        {
+          "label": "シロナガスクジラ",
+          "tag": "blue_whale",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_whale"
+        },
+        {
+          "label": "イルカ",
+          "tag": "dolphin",
+          "link": "https://danbooru.donmai.us/wiki_pages/dolphin"
+        },
+        {
+          "label": "ザトウクジラ",
+          "tag": "humpback_whale",
+          "link": "https://danbooru.donmai.us/wiki_pages/humpback_whale"
+        },
+        {
+          "label": "イッカク",
+          "tag": "narwhal",
+          "link": "https://danbooru.donmai.us/wiki_pages/narwhal"
+        },
+        {
+          "label": "シャチ",
+          "tag": "orca",
+          "link": "https://danbooru.donmai.us/wiki_pages/orca"
+        }
+      ]
+    },
+    {
+      "セクション名": "甲殻類",
+      "タグ一覧": [
+        {
+          "label": "カニ",
+          "tag": "crab",
+          "link": "https://danbooru.donmai.us/wiki_pages/crab"
+        },
+        {
+          "label": "ザリガニ",
+          "tag": "crayfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/crayfish"
+        },
+        {
+          "label": "ヤドカリ",
+          "tag": "hermit_crab",
+          "link": "https://danbooru.donmai.us/wiki_pages/hermit_crab"
+        },
+        {
+          "label": "カブトガニ",
+          "tag": "horseshoe_crab",
+          "link": "https://danbooru.donmai.us/wiki_pages/horseshoe_crab"
+        },
+        {
+          "label": "等脚類",
+          "tag": "isopod",
+          "link": "https://danbooru.donmai.us/wiki_pages/isopod"
+        },
+        {
+          "label": "シモトア・エクシグア",
+          "tag": "cymothoa_exigua",
+          "link": "https://danbooru.donmai.us/wiki_pages/cymothoa_exigua"
+        },
+        {
+          "label": "ロブスター",
+          "tag": "lobster",
+          "link": "https://danbooru.donmai.us/wiki_pages/lobster"
+        },
+        {
+          "label": "エビ",
+          "tag": "shrimp",
+          "link": "https://danbooru.donmai.us/wiki_pages/shrimp"
+        }
+      ]
+    },
+    {
+      "セクション名": "水生無脊椎動物",
+      "タグ一覧": [
+        {
+          "label": "アワビ",
+          "tag": "abalone",
+          "link": "https://danbooru.donmai.us/wiki_pages/abalone"
+        },
+        {
+          "label": "ハマグリ",
+          "tag": "clam",
+          "link": "https://danbooru.donmai.us/wiki_pages/clam"
+        },
+        {
+          "label": "サンゴ",
+          "tag": "coral",
+          "link": "https://danbooru.donmai.us/wiki_pages/coral"
+        },
+        {
+          "label": "コウイカ",
+          "tag": "cuttlefish",
+          "link": "https://danbooru.donmai.us/wiki_pages/cuttlefish"
+        },
+        {
+          "label": "タコ",
+          "tag": "octopus",
+          "link": "https://danbooru.donmai.us/wiki_pages/octopus"
+        },
+        {
+          "label": "カキ",
+          "tag": "oyster",
+          "link": "https://danbooru.donmai.us/wiki_pages/oyster"
+        },
+        {
+          "label": "イソギンチャク",
+          "tag": "sea_anemone",
+          "link": "https://danbooru.donmai.us/wiki_pages/sea_anemone"
+        },
+        {
+          "label": "ナマコ",
+          "tag": "sea_cucumber",
+          "link": "https://danbooru.donmai.us/wiki_pages/sea_cucumber"
+        },
+        {
+          "label": "ウミウシ",
+          "tag": "sea_slug",
+          "link": "https://danbooru.donmai.us/wiki_pages/sea_slug"
+        },
+        {
+          "label": "ウニ",
+          "tag": "sea_urchin",
+          "link": "https://danbooru.donmai.us/wiki_pages/sea_urchin"
+        },
+        {
+          "label": "イカ",
+          "tag": "squid",
+          "link": "https://danbooru.donmai.us/wiki_pages/squid"
+        },
+        {
+          "label": "ヒトデ",
+          "tag": "starfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/starfish"
+        }
+      ]
+    },
+    {
+      "セクション名": "カンブリア紀の動物",
+      "タグ一覧": [
+        {
+          "label": "アノマロカリス",
+          "tag": "anomalocaris",
+          "link": "https://danbooru.donmai.us/wiki_pages/anomalocaris"
+        },
+        {
+          "label": "ハルキゲニア",
+          "tag": "hallucigenia",
+          "link": "https://danbooru.donmai.us/wiki_pages/hallucigenia"
+        },
+        {
+          "label": "オパビニア",
+          "tag": "opabinia",
+          "link": "https://danbooru.donmai.us/wiki_pages/opabinia"
+        },
+        {
+          "label": "パンブデルリオン",
+          "tag": "pambdelurion",
+          "link": "https://danbooru.donmai.us/wiki_pages/pambdelurion"
+        },
+        {
+          "label": "シダゾーン",
+          "tag": "xidazoon",
+          "link": "https://danbooru.donmai.us/wiki_pages/xidazoon"
+        }
+      ]
+    },
+    {
+      "セクション名": "齧歯類・小型哺乳類",
+      "タグ一覧": [
+        {
+          "label": "ビーバー",
+          "tag": "beaver",
+          "link": "https://danbooru.donmai.us/wiki_pages/beaver"
+        },
+        {
+          "label": "カピバラ",
+          "tag": "capybara",
+          "link": "https://danbooru.donmai.us/wiki_pages/capybara"
+        },
+        {
+          "label": "シマリス",
+          "tag": "chipmunk",
+          "link": "https://danbooru.donmai.us/wiki_pages/chipmunk"
+        },
+        {
+          "label": "フェレット",
+          "tag": "ferret",
+          "link": "https://danbooru.donmai.us/wiki_pages/ferret"
+        },
+        {
+          "label": "モルモット",
+          "tag": "guinea_pig",
+          "link": "https://danbooru.donmai.us/wiki_pages/guinea_pig"
+        },
+        {
+          "label": "ハムスター",
+          "tag": "hamster",
+          "link": "https://danbooru.donmai.us/wiki_pages/hamster"
+        },
+        {
+          "label": "ねずみ",
+          "tag": "mouse_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mouse_%28animal%29"
+        },
+        {
+          "label": "ハダカデバネズミ",
+          "tag": "naked_mole_rat",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_mole_rat"
+        },
+        {
+          "label": "リス",
+          "tag": "squirrel",
+          "link": "https://danbooru.donmai.us/wiki_pages/squirrel"
+        },
+        {
+          "label": "イタチ",
+          "tag": "weasel",
+          "link": "https://danbooru.donmai.us/wiki_pages/weasel"
+        }
+      ]
+    },
+    {
+      "セクション名": "大型動物",
+      "タグ一覧": [
+        {
+          "label": "アルパカ",
+          "tag": "alpaca",
+          "link": "https://danbooru.donmai.us/wiki_pages/alpaca"
+        },
+        {
+          "label": "クマ",
+          "tag": "bear",
+          "link": "https://danbooru.donmai.us/wiki_pages/bear"
+        },
+        {
+          "label": "雄牛",
+          "tag": "bull",
+          "link": "https://danbooru.donmai.us/wiki_pages/bull"
+        },
+        {
+          "label": "牛",
+          "tag": "cow",
+          "link": "https://danbooru.donmai.us/wiki_pages/cow"
+        },
+        {
+          "label": "鹿",
+          "tag": "deer",
+          "link": "https://danbooru.donmai.us/wiki_pages/deer"
+        },
+        {
+          "label": "象",
+          "tag": "elephant",
+          "link": "https://danbooru.donmai.us/wiki_pages/elephant"
+        },
+        {
+          "label": "キリン",
+          "tag": "giraffe",
+          "link": "https://danbooru.donmai.us/wiki_pages/giraffe"
+        },
+        {
+          "label": "ゴリラ",
+          "tag": "gorilla",
+          "link": "https://danbooru.donmai.us/wiki_pages/gorilla"
+        },
+        {
+          "label": "馬",
+          "tag": "horse",
+          "link": "https://danbooru.donmai.us/wiki_pages/horse"
+        },
+        {
+          "label": "カンガルー",
+          "tag": "kangaroo",
+          "link": "https://danbooru.donmai.us/wiki_pages/kangaroo"
+        },
+        {
+          "label": "マンモス",
+          "tag": "mammoth",
+          "link": "https://danbooru.donmai.us/wiki_pages/mammoth"
+        },
+        {
+          "label": "パンダ",
+          "tag": "panda",
+          "link": "https://danbooru.donmai.us/wiki_pages/panda"
+        }
+      ]
+    },
+    {
+      "セクション名": "小型/中型動物",
+      "タグ一覧": [
+        {
+          "label": "イノシシ",
+          "tag": "boar",
+          "link": "https://danbooru.donmai.us/wiki_pages/boar"
+        },
+        {
+          "label": "ハリモグラ",
+          "tag": "echidna_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/echidna_%28animal%29"
+        },
+        {
+          "label": "キツネ",
+          "tag": "fox",
+          "link": "https://danbooru.donmai.us/wiki_pages/fox"
+        },
+        {
+          "label": "アカギツネ",
+          "tag": "red_fox",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_fox"
+        },
+        {
+          "label": "ヤギ",
+          "tag": "goat",
+          "link": "https://danbooru.donmai.us/wiki_pages/goat"
+        },
+        {
+          "label": "ハリネズミ",
+          "tag": "hedgehog",
+          "link": "https://danbooru.donmai.us/wiki_pages/hedgehog"
+        },
+        {
+          "label": "猿",
+          "tag": "monkey",
+          "link": "https://danbooru.donmai.us/wiki_pages/monkey"
+        },
+        {
+          "label": "カモノハシ",
+          "tag": "platypus",
+          "link": "https://danbooru.donmai.us/wiki_pages/platypus"
+        },
+        {
+          "label": "豚",
+          "tag": "pig",
+          "link": "https://danbooru.donmai.us/wiki_pages/pig"
+        },
+        {
+          "label": "子豚",
+          "tag": "piglet",
+          "link": "https://danbooru.donmai.us/wiki_pages/piglet"
+        },
+        {
+          "label": "ウサギ",
+          "tag": "rabbit",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit"
+        },
+        {
+          "label": "アンゴラウサギ",
+          "tag": "angora_rabbit",
+          "link": "https://danbooru.donmai.us/wiki_pages/angora_rabbit"
+        },
+        {
+          "label": "羊",
+          "tag": "sheep",
+          "link": "https://danbooru.donmai.us/wiki_pages/sheep"
+        },
+        {
+          "label": "子羊",
+          "tag": "lamb",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamb"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "人間はいない",
+          "tag": "no_humans",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_humans"
+        },
+        {
+          "label": "動物化",
+          "tag": "animalization",
+          "link": "https://danbooru.donmai.us/wiki_pages/animalization"
+        },
+        {
+          "label": "複数の犬",
+          "tag": "multiple_dogs",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_dogs"
+        },
+        {
+          "label": "猫が多すぎる",
+          "tag": "too_many_cats",
+          "link": "https://danbooru.donmai.us/wiki_pages/too_many_cats"
+        },
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "カテゴリID": "hands",
+  "カテゴリ名": "手",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Ahands",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "持つ",
+          "tag": "holding",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding"
+        }
+      ]
+    },
+    {
+      "セクション名": "自分の肩から上に手を当てる",
+      "タグ一覧": [
+        {
+          "label": "眼鏡の調整",
+          "tag": "adjusting_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_eyewear"
+        },
+        {
+          "label": "自分の耳に手を当てる",
+          "tag": "hand_on_own_ear",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_ear"
+        },
+        {
+          "label": "自分の頭に手を当てる",
+          "tag": "hand_on_own_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_head"
+        },
+        {
+          "label": "自分の顔に手を当てる",
+          "tag": "hand_on_own_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_face"
+        },
+        {
+          "label": "自分の額に手を当てる",
+          "tag": "hand_on_own_forehead",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_forehead"
+        },
+        {
+          "label": "自分の頬に手を当てる",
+          "tag": "hand_on_own_cheek",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_cheek"
+        },
+        {
+          "label": "自分の顎に手を当てる",
+          "tag": "hand_on_own_chin",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_chin"
+        },
+        {
+          "label": "手で頭を支える",
+          "tag": "head_rest",
+          "link": "https://danbooru.donmai.us/wiki_pages/head_rest"
+        },
+        {
+          "label": "帽子に手を添える",
+          "tag": "hand_on_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_headwear"
+        }
+      ]
+    },
+    {
+      "セクション名": "自分の上半身に手を当てる（乳房以外）",
+      "タグ一覧": [
+        {
+          "label": "自分の首に手を当てる",
+          "tag": "hand_on_own_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_neck"
+        },
+        {
+          "label": "自分の胸に手を当てる",
+          "tag": "hand_on_own_chest",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_chest"
+        },
+        {
+          "label": "自分の肩に手を当てる",
+          "tag": "hand_on_own_shoulder",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_shoulder"
+        },
+        {
+          "label": "自分のお腹に手を当てる",
+          "tag": "hand_on_own_stomach",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_stomach"
+        },
+        {
+          "label": "自分の腕に手を当てる",
+          "tag": "hand_on_own_arm",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_arm"
+        },
+        {
+          "label": "自分の肘に手を当てる",
+          "tag": "hand_on_own_elbow",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_elbow"
+        }
+      ]
+    },
+    {
+      "セクション名": "胸に手を当てる",
+      "タグ一覧": [
+        {
+          "label": "胸抱き",
+          "tag": "breast_hold",
+          "link": "https://danbooru.donmai.us/wiki_pages/breast_hold"
+        },
+        {
+          "label": "自分の胸をつかむ",
+          "tag": "grabbing_own_breast",
+          "link": "https://danbooru.donmai.us/wiki_pages/grabbing_own_breast"
+        },
+        {
+          "label": "相手の胸をつかむ",
+          "tag": "grabbing_another%27s_breast",
+          "link": "https://danbooru.donmai.us/wiki_pages/grabbing_another%27s_breast"
+        },
+        {
+          "label": "平らな胸をつかむ",
+          "tag": "flat_chest_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/flat_chest_grab"
+        },
+        {
+          "label": "相手の手を導いて胸を触らせる",
+          "tag": "guided_breast_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/guided_breast_grab"
+        },
+        {
+          "label": "胸を持ち上げる",
+          "tag": "breast_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/breast_lift"
+        },
+        {
+          "label": "胸突き",
+          "tag": "breast_poke",
+          "link": "https://danbooru.donmai.us/wiki_pages/breast_poke"
+        },
+        {
+          "label": "胸を寄せ合う",
+          "tag": "breasts_squeezed_together",
+          "link": "https://danbooru.donmai.us/wiki_pages/breasts_squeezed_together"
+        },
+        {
+          "label": "胸を押さえる",
+          "tag": "breast_suppress",
+          "link": "https://danbooru.donmai.us/wiki_pages/breast_suppress"
+        },
+        {
+          "label": "体をまさぐる",
+          "tag": "groping",
+          "link": "https://danbooru.donmai.us/wiki_pages/groping"
+        },
+        {
+          "label": "胸の間に腕を置く",
+          "tag": "arm_between_breasts",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_between_breasts"
+        },
+        {
+          "label": "ブラジャーの中に手を入れる",
+          "tag": "hand_in_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_in_bra"
+        },
+        {
+          "label": "乳首をつまむ",
+          "tag": "nipple_tweak",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_tweak"
+        }
+      ]
+    },
+    {
+      "セクション名": "下半身に手を当てる",
+      "タグ一覧": [
+        {
+          "label": "相手の腰に片手を添える",
+          "tag": "hand_on_another%27s_waist",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_waist"
+        },
+        {
+          "label": "相手の腰に両手を添える",
+          "tag": "hands_on_another%27s_waist",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_another%27s_waist"
+        },
+        {
+          "label": "相手の腰に片手を添える",
+          "tag": "hand_on_another%27s_waist",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_waist"
+        },
+        {
+          "label": "相手の腰に両手を添える",
+          "tag": "hands_on_another%27s_waist",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_another%27s_waist"
+        },
+        {
+          "label": "自分の股間に手を当てる",
+          "tag": "hand_on_own_crotch",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_crotch"
+        },
+        {
+          "label": "他人の股間に手を当てる",
+          "tag": "hand_on_another%27s_crotch",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_crotch"
+        },
+        {
+          "label": "自分の股間に手を当てる",
+          "tag": "hands_on_own_crotch",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_own_crotch"
+        },
+        {
+          "label": "他人の股間に手を当てる",
+          "tag": "hands_on_another%27s_crotch",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_another%27s_crotch"
+        },
+        {
+          "label": "自分の尻に手を当てる",
+          "tag": "hand_on_own_ass",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_ass"
+        },
+        {
+          "label": "他人の尻に手をやる",
+          "tag": "hand_on_another%27s_ass",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_ass"
+        },
+        {
+          "label": "自分の腰に手を当てる",
+          "tag": "hand_on_own_hip",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_hip"
+        },
+        {
+          "label": "他人の腰に手を当てる",
+          "tag": "hand_on_another%27s_hip",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_hip"
+        },
+        {
+          "label": "自分の腰に手を当てる",
+          "tag": "hands_on_own_hips",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_own_hips"
+        },
+        {
+          "label": "他人の腰に手を当てる",
+          "tag": "hands_on_another%27s_hips",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_another%27s_hips"
+        },
+        {
+          "label": "自分の足に手を置く",
+          "tag": "hand_on_own_leg",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_leg"
+        },
+        {
+          "label": "他人の足に手を置く",
+          "tag": "hand_on_another%27s_leg",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_leg"
+        },
+        {
+          "label": "自分の足に手を置く",
+          "tag": "hands_on_own_legs",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_own_legs"
+        },
+        {
+          "label": "他人の足に手を置く",
+          "tag": "hands_on_another%27s_leg",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_another%27s_leg"
+        },
+        {
+          "label": "自分の太ももに手を置く",
+          "tag": "hand_on_own_thigh",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_thigh"
+        },
+        {
+          "label": "他人の太ももに手を置く",
+          "tag": "hand_on_another%27s_thigh",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_thigh"
+        },
+        {
+          "label": "自分の太ももに手を置く",
+          "tag": "hands_on_own_thighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_own_thighs"
+        },
+        {
+          "label": "他人の太ももに手を置く",
+          "tag": "hands_on_another%27s_thighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_another%27s_thighs"
+        },
+        {
+          "label": "自分の膝に手を置く",
+          "tag": "hand_on_own_knee",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_knee"
+        },
+        {
+          "label": "他人の膝に手を置く",
+          "tag": "hand_on_another%27s_knee",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_knee"
+        },
+        {
+          "label": "自分の膝に手を置く",
+          "tag": "hands_on_own_knees",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_own_knees"
+        },
+        {
+          "label": "他人の膝に手を置く",
+          "tag": "hands_on_another%27s_knees",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_another%27s_knees"
+        },
+        {
+          "label": "脚の間に手を置く",
+          "tag": "hand_between_legs",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_between_legs"
+        }
+      ]
+    },
+    {
+      "セクション名": "足・他の手に手を添える",
+      "タグ一覧": [
+        {
+          "label": "自分の足に手を乗せる",
+          "tag": "hand_on_own_foot",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_foot"
+        },
+        {
+          "label": "他人の足に手を乗せる",
+          "tag": "hand_on_another%27s_foot",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_foot"
+        },
+        {
+          "label": "自分の足に手を乗せる",
+          "tag": "hands_on_own_feet",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_own_feet"
+        },
+        {
+          "label": "足に手を乗せる",
+          "tag": "hands_on_feet",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_feet"
+        },
+        {
+          "label": "手をつなぐ",
+          "tag": "holding_hands",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_hands"
+        },
+        {
+          "label": "相手の手に手を重ねる",
+          "tag": "hand_on_another%27s_hand",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_hand"
+        }
+      ]
+    },
+    {
+      "セクション名": "ポケットに手を入れる",
+      "タグ一覧": [
+        {
+          "label": "ポケットに片手を入れる",
+          "tag": "hand_in_pocket",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_in_pocket"
+        },
+        {
+          "label": "ポケットに両手を入れる",
+          "tag": "hands_in_pockets",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_in_pockets"
+        },
+        {
+          "label": "ポケットに片手を入れる",
+          "tag": "hand_in_pocket",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_in_pocket"
+        },
+        {
+          "label": "ポケットに両手を入れる",
+          "tag": "hands_in_pockets",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_in_pockets"
+        }
+      ]
+    },
+    {
+      "セクション名": "相手の頭・首に手を添える",
+      "タグ一覧": [
+        {
+          "label": "他人の髪を整える",
+          "tag": "adjusting_another%27s_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_another%27s_hair"
+        },
+        {
+          "label": "他人の耳に手を当てる",
+          "tag": "hand_on_another%27s_ear",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_ear"
+        },
+        {
+          "label": "他人の頭に手を乗せる",
+          "tag": "hand_on_another%27s_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_head"
+        },
+        {
+          "label": "頭をなでる",
+          "tag": "headpat",
+          "link": "https://danbooru.donmai.us/wiki_pages/headpat"
+        },
+        {
+          "label": "他人の顔に手を当てる",
+          "tag": "hand_on_another%27s_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_face"
+        },
+        {
+          "label": "他人の頬に手を当てる",
+          "tag": "hand_on_another%27s_cheek",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_cheek"
+        },
+        {
+          "label": "頬をつねる",
+          "tag": "cheek_pinch",
+          "link": "https://danbooru.donmai.us/wiki_pages/cheek_pinch"
+        },
+        {
+          "label": "頬を突く",
+          "tag": "cheek_poking",
+          "link": "https://danbooru.donmai.us/wiki_pages/cheek_poking"
+        },
+        {
+          "label": "頬を押しつぶす",
+          "tag": "cheek_squash",
+          "link": "https://danbooru.donmai.us/wiki_pages/cheek_squash"
+        },
+        {
+          "label": "他人の顎に手を当てる",
+          "tag": "hand_on_another%27s_chin",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_chin"
+        },
+        {
+          "label": "相手の首に手を添える",
+          "tag": "hand_on_another%27s_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_neck"
+        },
+        {
+          "label": "首を絞める",
+          "tag": "strangling",
+          "link": "https://danbooru.donmai.us/wiki_pages/strangling"
+        }
+      ]
+    },
+    {
+      "セクション名": "相手の肩から下に手を添える",
+      "タグ一覧": [
+        {
+          "label": "肩に腕を回す",
+          "tag": "arm_around_shoulder",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_around_shoulder"
+        },
+        {
+          "label": "他人の腕に手を置く",
+          "tag": "hand_on_another%27s_arm",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_arm"
+        },
+        {
+          "label": "他人の背中に手を置く",
+          "tag": "hand_on_another%27s_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_back"
+        },
+        {
+          "label": "背中を軽く叩く",
+          "tag": "patting_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/patting_back"
+        },
+        {
+          "label": "他人の胸に手を当てる",
+          "tag": "hand_on_another%27s_chest",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_chest"
+        },
+        {
+          "label": "相手の肩に手を添える",
+          "tag": "hand_on_another%27s_shoulder",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_shoulder"
+        },
+        {
+          "label": "他人のお腹に手を当てる",
+          "tag": "hand_on_another%27s_stomach",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_stomach"
+        }
+      ]
+    },
+    {
+      "セクション名": "奇妙な手",
+      "タグ一覧": [
+        {
+          "label": "手にある目",
+          "tag": "hand_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_eye"
+        },
+        {
+          "label": "手にある口",
+          "tag": "hand_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_mouth"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "手のひら",
+          "tag": "palms",
+          "link": "https://danbooru.donmai.us/wiki_pages/palms"
+        },
+        {
+          "label": "タググループ：ジェスチャー",
+          "tag": "tag_group%3Agestures",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Agestures"
+        },
+        {
+          "label": "タググループ：姿勢",
+          "tag": "tag_group%3Aposture",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aposture"
+        }
+      ]
+    }
+  ]
+}

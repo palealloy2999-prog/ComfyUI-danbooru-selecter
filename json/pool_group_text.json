@@ -1,0 +1,87 @@
+{
+  "カテゴリID": "pool_group%3Atext",
+  "カテゴリ名": "プールグループ:テキスト",
+  "カテゴリリンク": "https://danbooru.donmai.us/wiki_pages/pool_group%3Atext",
+  "セクション一覧": [
+    {
+      "セクション名": "性的な会話",
+      "タグ一覧": [
+        {
+          "label": "性についての説明",
+          "tag": "The birds and the bees",
+          "link": "https://danbooru.donmai.us/pools/3238"
+        },
+        {
+          "label": "セックスしようよ、だって…",
+          "tag": "Let's have sex, because...",
+          "link": "https://danbooru.donmai.us/pools/4233"
+        },
+        {
+          "label": "罰はセックス",
+          "tag": "The punishment is sex",
+          "link": "https://danbooru.donmai.us/pools/4224"
+        },
+        {
+          "label": "私の価値のない恋人",
+          "tag": "My worthless lover",
+          "link": "https://danbooru.donmai.us/pools/4312"
+        },
+        {
+          "label": "性的婉曲表現",
+          "tag": "Sexual Euphemism",
+          "link": "https://danbooru.donmai.us/pools/4218"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他のプール",
+      "タグ一覧": [
+        {
+          "label": "漢字の別の読み方",
+          "tag": "Alternate kanji readings",
+          "link": "https://danbooru.donmai.us/pools/1527"
+        },
+        {
+          "label": "詳しい背景設定",
+          "tag": "Detailed Backstories",
+          "link": "https://danbooru.donmai.us/pools/4603"
+        },
+        {
+          "label": "極端な誤用英語",
+          "tag": "Extreme Engrish",
+          "link": "https://danbooru.donmai.us/pools/2213"
+        },
+        {
+          "label": "モンスター娘図鑑",
+          "tag": "Monster Girl Encyclopedia",
+          "link": "https://danbooru.donmai.us/pools/2206"
+        },
+        {
+          "label": "引用できる会話",
+          "tag": "Quotable Dialogue",
+          "link": "https://danbooru.donmai.us/pools/2961"
+        },
+        {
+          "label": "引用とメッセージ",
+          "tag": "Quotes and messages",
+          "link": "https://danbooru.donmai.us/pools/1475"
+        },
+        {
+          "label": "変わった擬音",
+          "tag": "Unconventional SFX",
+          "link": "https://danbooru.donmai.us/pools/1537"
+        },
+        {
+          "label": "言葉遣いに注意",
+          "tag": "Watch Your Language",
+          "link": "https://danbooru.donmai.us/pools/2403"
+        },
+        {
+          "label": "細部への指摘",
+          "tag": "Pointing Out the Details",
+          "link": "https://danbooru.donmai.us/pools/5942"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "カテゴリID": "pool_group%3Astyle",
+  "カテゴリ名": "プールグループ:スタイル",
+  "カテゴリリンク": "https://danbooru.donmai.us/wiki_pages/pool_group%3Astyle",
+  "セクション一覧": [
+    {
+      "セクション名": "特定の作者・作品に由来する絵柄",
+      "タグ一覧": [
+        {
+          "label": "pixivの友人絵師の絵柄パロディ",
+          "tag": "Style Parody of Pixiv Friend Artists",
+          "link": "https://danbooru.donmai.us/pools/2736"
+        },
+        {
+          "label": "ポケモンスペシャルアニメ",
+          "tag": "Pokemon Special Anime",
+          "link": "https://danbooru.donmai.us/pools/813"
+        },
+        {
+          "label": "ヨーダスタイル",
+          "tag": "Yoda style",
+          "link": "https://danbooru.donmai.us/pools/2518"
+        }
+      ]
+    },
+    {
+      "セクション名": "他の作者・作品のキャラクターを描く",
+      "タグ一覧": [
+        {
+          "label": "他の絵師のオリジナルキャラクターを描く",
+          "tag": "Artist Draw Other Originals",
+          "link": "https://danbooru.donmai.us/pools/2256"
+        },
+        {
+          "label": "人気絵師による他作品のキャラクター",
+          "tag": "Popular Artists Draw Other Copyrights",
+          "link": "https://danbooru.donmai.us/pools/1338"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他のプール",
+      "タグ一覧": [
+        {
+          "label": "さまざまな絵柄",
+          "tag": "Different Styles",
+          "link": "https://danbooru.donmai.us/pools/739"
+        }
+      ]
+    }
+  ]
+}

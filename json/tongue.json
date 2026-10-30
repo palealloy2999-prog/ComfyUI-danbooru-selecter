@@ -1,0 +1,112 @@
+{
+  "カテゴリID": "tongue",
+  "カテゴリ名": "舌",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tongue",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "舌を出す",
+          "tag": "tongue_out",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongue_out"
+        },
+        {
+          "label": "長い舌",
+          "tag": "long_tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_tongue"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "舐める",
+          "tag": "licking",
+          "link": "https://danbooru.donmai.us/wiki_pages/licking"
+        },
+        {
+          "label": "長い舌",
+          "tag": "long_tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_tongue"
+        },
+        {
+          "label": "舌を出す",
+          "tag": "tongue_out",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongue_out"
+        },
+        {
+          "label": ":p",
+          "tag": "%3Ap",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3Ap"
+        },
+        {
+          "label": ";p",
+          "tag": "%3Bp",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3Bp"
+        },
+        {
+          "label": ":q",
+          "tag": "%3Aq",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3Aq"
+        },
+        {
+          "label": ";q",
+          "tag": "%3Bq",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3Bq"
+        },
+        {
+          "label": "舌ピアス",
+          "tag": "tongue_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongue_piercing"
+        },
+        {
+          "label": "舌が凍り付いて離れない",
+          "tag": "tongue_stuck_frozen",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongue_stuck_frozen"
+        },
+        {
+          "label": "タググループ：体の部位",
+          "tag": "tag_group%3Abody_parts",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abody_parts"
+        },
+        {
+          "label": "舌",
+          "tag": "tongues",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongues"
+        },
+        {
+          "label": "タグの別名",
+          "tag": "help:tag_aliases",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_aliases"
+        },
+        {
+          "label": "二股の舌",
+          "tag": "forked_tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/forked_tongue"
+        },
+        {
+          "label": "長い舌",
+          "tag": "long_tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_tongue"
+        },
+        {
+          "label": "舌をつかむ",
+          "tag": "tongue_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongue_grab"
+        },
+        {
+          "label": "舌を出す",
+          "tag": "tongue_out",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongue_out"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

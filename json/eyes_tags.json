@@ -1,0 +1,1172 @@
+{
+  "カテゴリID": "eyes_tags",
+  "カテゴリ名": "目・瞳",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aeyes_tags",
+  "セクション一覧": [
+    {
+      "セクション名": "虹彩の色",
+      "タグ一覧": [
+        {
+          "label": "水色の目",
+          "tag": "aqua_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_eyes"
+        },
+        {
+          "label": "黒い目",
+          "tag": "black_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_eyes"
+        },
+        {
+          "label": "青い目",
+          "tag": "blue_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_eyes"
+        },
+        {
+          "label": "茶色の目",
+          "tag": "brown_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_eyes"
+        },
+        {
+          "label": "緑色の目",
+          "tag": "green_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_eyes"
+        },
+        {
+          "label": "灰色の目",
+          "tag": "grey_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_eyes"
+        },
+        {
+          "label": "オレンジ色の目",
+          "tag": "orange_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_eyes"
+        },
+        {
+          "label": "紫色の目",
+          "tag": "purple_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_eyes"
+        },
+        {
+          "label": "ピンクの目",
+          "tag": "pink_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_eyes"
+        },
+        {
+          "label": "赤い目",
+          "tag": "red_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_eyes"
+        },
+        {
+          "label": "白い虹彩",
+          "tag": "white_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_eyes"
+        },
+        {
+          "label": "黄色い目",
+          "tag": "yellow_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_eyes"
+        }
+      ]
+    },
+    {
+      "セクション名": "複数色の虹彩",
+      "タグ一覧": [
+        {
+          "label": "虹彩異色症",
+          "tag": "heterochromia",
+          "link": "https://danbooru.donmai.us/wiki_pages/heterochromia"
+        },
+        {
+          "label": "色とりどりの目",
+          "tag": "multicolored_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_eyes"
+        },
+        {
+          "label": "グラデーションアイ",
+          "tag": "gradient_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/gradient_eyes"
+        },
+        {
+          "label": "ツートンカラーの目",
+          "tag": "two-tone_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-tone_eyes"
+        },
+        {
+          "label": "虹色の目",
+          "tag": "rainbow_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/rainbow_eyes"
+        }
+      ]
+    },
+    {
+      "セクション名": "虹彩の形",
+      "タグ一覧": [
+        {
+          "label": "@_@",
+          "tag": "%40_%40",
+          "link": "https://danbooru.donmai.us/wiki_pages/%40_%40"
+        },
+        {
+          "label": "不揃いな虹彩",
+          "tag": "mismatched_irises",
+          "link": "https://danbooru.donmai.us/wiki_pages/mismatched_irises"
+        },
+        {
+          "label": "横線で描かれた目",
+          "tag": "dashed_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/dashed_eyes"
+        },
+        {
+          "label": "パックマンの目",
+          "tag": "pac-man_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/pac-man_eyes"
+        },
+        {
+          "label": "目の周りに輪っかがある",
+          "tag": "ringed_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/ringed_eyes"
+        },
+        {
+          "label": "曲がりくねった目",
+          "tag": "squiggle_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/squiggle_eyes"
+        }
+      ]
+    },
+    {
+      "セクション名": "瞳孔の色",
+      "タグ一覧": [
+        {
+          "label": "水色の瞳孔",
+          "tag": "aqua_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_pupils"
+        },
+        {
+          "label": "青い瞳孔",
+          "tag": "blue_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_pupils"
+        },
+        {
+          "label": "茶色の瞳孔",
+          "tag": "brown_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_pupils"
+        },
+        {
+          "label": "緑色の瞳孔",
+          "tag": "green_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_pupils"
+        },
+        {
+          "label": "灰色の瞳孔",
+          "tag": "grey_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_pupils"
+        },
+        {
+          "label": "オレンジ色の瞳孔",
+          "tag": "orange_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_pupils"
+        },
+        {
+          "label": "ピンクの瞳孔",
+          "tag": "pink_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_pupils"
+        },
+        {
+          "label": "紫色の瞳孔",
+          "tag": "purple_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_pupils"
+        },
+        {
+          "label": "赤い瞳孔",
+          "tag": "red_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_pupils"
+        },
+        {
+          "label": "白い瞳孔",
+          "tag": "white_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_pupils"
+        },
+        {
+          "label": "黄色い瞳孔",
+          "tag": "yellow_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_pupils"
+        }
+      ]
+    },
+    {
+      "セクション名": "瞳孔の形",
+      "タグ一覧": [
+        {
+          "label": "縮瞳",
+          "tag": "constricted_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/constricted_pupils"
+        },
+        {
+          "label": "瞳孔が拡張した",
+          "tag": "dilated_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/dilated_pupils"
+        },
+        {
+          "label": "複数の瞳孔",
+          "tag": "extra_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/extra_pupils"
+        },
+        {
+          "label": "横長の瞳孔",
+          "tag": "horizontal_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/horizontal_pupils"
+        },
+        {
+          "label": "瞳孔なし",
+          "tag": "no_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_pupils"
+        },
+        {
+          "label": "細長い瞳孔",
+          "tag": "slit_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/slit_pupils"
+        },
+        {
+          "label": "シンボル型の瞳孔",
+          "tag": "symbol-shaped_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/symbol-shaped_pupils"
+        },
+        {
+          "label": "ダイヤモンド型の瞳孔",
+          "tag": "diamond-shaped_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/diamond-shaped_pupils"
+        },
+        {
+          "label": "花のような瞳孔",
+          "tag": "flower-shaped_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower-shaped_pupils"
+        },
+        {
+          "label": "ハート型の瞳孔",
+          "tag": "heart-shaped_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart-shaped_pupils"
+        },
+        {
+          "label": "星型の瞳孔",
+          "tag": "star-shaped_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/star-shaped_pupils"
+        },
+        {
+          "label": "丸い瞳孔",
+          "tag": "solid_circle_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/solid_circle_pupils"
+        },
+        {
+          "label": "十字型の瞳孔",
+          "tag": "cross-shaped_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross-shaped_pupils"
+        },
+        {
+          "label": "X字型の瞳孔",
+          "tag": "x-shaped_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-shaped_pupils"
+        },
+        {
+          "label": "雪の結晶型の瞳孔",
+          "tag": "snowflakes-shaped_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/snowflakes-shaped_pupils"
+        },
+        {
+          "label": "パワーシンボル型の瞳孔",
+          "tag": "power_symbol-shaped_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/power_symbol-shaped_pupils"
+        },
+        {
+          "label": "十字線の瞳孔",
+          "tag": "crosshair_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/crosshair_pupils"
+        },
+        {
+          "label": "瞳孔の不一致",
+          "tag": "mismatched_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/mismatched_pupils"
+        }
+      ]
+    },
+    {
+      "セクション名": "強膜",
+      "タグ一覧": [
+        {
+          "label": "青い強膜",
+          "tag": "blue_sclera",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_sclera"
+        },
+        {
+          "label": "黒色の強膜",
+          "tag": "black_sclera",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_sclera"
+        },
+        {
+          "label": "空白の目",
+          "tag": "blank_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/blank_eyes"
+        },
+        {
+          "label": "充血した目",
+          "tag": "bloodshot_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/bloodshot_eyes"
+        },
+        {
+          "label": "緑色の強膜",
+          "tag": "green_sclera",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_sclera"
+        },
+        {
+          "label": "不一致な強膜",
+          "tag": "mismatched_sclera",
+          "link": "https://danbooru.donmai.us/wiki_pages/mismatched_sclera"
+        },
+        {
+          "label": "強膜なし",
+          "tag": "no_sclera",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_sclera"
+        },
+        {
+          "label": "オレンジ色の強膜",
+          "tag": "orange_sclera",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_sclera"
+        },
+        {
+          "label": "赤い強膜",
+          "tag": "red_sclera",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_sclera"
+        },
+        {
+          "label": "黄色の強膜",
+          "tag": "yellow_sclera",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_sclera"
+        }
+      ]
+    },
+    {
+      "セクション名": "目の周り",
+      "タグ一覧": [
+        {
+          "label": "目の下のクマ",
+          "tag": "bags_under_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/bags_under_eyes"
+        },
+        {
+          "label": "涙袋",
+          "tag": "aegyo_sal",
+          "link": "https://danbooru.donmai.us/wiki_pages/aegyo_sal"
+        },
+        {
+          "label": "目の周囲のあざ",
+          "tag": "bruised_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/bruised_eye"
+        },
+        {
+          "label": "燃えるような目",
+          "tag": "flaming_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/flaming_eyes"
+        },
+        {
+          "label": "光る目",
+          "tag": "glowing_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/glowing_eyes"
+        },
+        {
+          "label": "光る目",
+          "tag": "glowing_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/glowing_eye"
+        }
+      ]
+    },
+    {
+      "セクション名": "動物的または非人間的な目",
+      "タグ一覧": [
+        {
+          "label": "ボタンの目",
+          "tag": "button_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/button_eyes"
+        },
+        {
+          "label": "頭足動物の目",
+          "tag": "cephalopod_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/cephalopod_eyes"
+        },
+        {
+          "label": "複眼",
+          "tag": "compound_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/compound_eyes"
+        },
+        {
+          "label": "横長の瞳孔",
+          "tag": "horizontal_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/horizontal_pupils"
+        },
+        {
+          "label": "レンズアイ",
+          "tag": "lens_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/lens_eye"
+        },
+        {
+          "label": "ピクセルアイ",
+          "tag": "pixel_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/pixel_eyes"
+        }
+      ]
+    },
+    {
+      "セクション名": "デフォルメされた目",
+      "タグ一覧": [
+        {
+          "label": "飛び出た目",
+          "tag": "bulging_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/bulging_eyes"
+        },
+        {
+          "label": "目が飛び出る",
+          "tag": "eye_pop",
+          "link": "https://danbooru.donmai.us/wiki_pages/eye_pop"
+        },
+        {
+          "label": "狂気の目",
+          "tag": "crazy_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/crazy_eyes"
+        },
+        {
+          "label": "空っぽの目",
+          "tag": "empty_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/empty_eyes"
+        },
+        {
+          "label": "横線で描かれた目",
+          "tag": "dashed_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/dashed_eyes"
+        },
+        {
+          "label": "ハート型の目",
+          "tag": "heart-shaped_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart-shaped_eyes"
+        },
+        {
+          "label": "ノノワ",
+          "tag": "nonowa",
+          "link": "https://danbooru.donmai.us/wiki_pages/nonowa"
+        },
+        {
+          "label": "丸い目",
+          "tag": "solid_circle_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/solid_circle_eyes"
+        },
+        {
+          "label": "o_o",
+          "tag": "o_o",
+          "link": "https://danbooru.donmai.us/wiki_pages/o_o"
+        },
+        {
+          "label": "塗りつぶした楕円の目",
+          "tag": "solid_oval_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/solid_oval_eyes"
+        },
+        {
+          "label": "0_0",
+          "tag": "0_0",
+          "link": "https://danbooru.donmai.us/wiki_pages/0_0"
+        },
+        {
+          "label": "螺旋のみの目",
+          "tag": "spiral-only_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/spiral-only_eyes"
+        },
+        {
+          "label": "ジト目",
+          "tag": "jitome",
+          "link": "https://danbooru.donmai.us/wiki_pages/jitome"
+        },
+        {
+          "label": "タレメ",
+          "tag": "tareme",
+          "link": "https://danbooru.donmai.us/wiki_pages/tareme"
+        },
+        {
+          "label": "釣り目",
+          "tag": "tsurime",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsurime"
+        },
+        {
+          "label": "三白眼",
+          "tag": "sanpaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/sanpaku"
+        },
+        {
+          "label": "輝く目",
+          "tag": "sparkling_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/sparkling_eyes"
+        }
+      ]
+    },
+    {
+      "セクション名": "シリーズ特有の目",
+      "タグ一覧": [
+        {
+          "label": "ギアス",
+          "tag": "geass",
+          "link": "https://danbooru.donmai.us/wiki_pages/geass"
+        },
+        {
+          "label": "コードギアス",
+          "tag": "code_geass",
+          "link": "https://danbooru.donmai.us/wiki_pages/code_geass"
+        },
+        {
+          "label": "ギアス",
+          "tag": "geass",
+          "link": "https://danbooru.donmai.us/wiki_pages/geass"
+        },
+        {
+          "label": "コードギアス",
+          "tag": "code_geass",
+          "link": "https://danbooru.donmai.us/wiki_pages/code_geass"
+        },
+        {
+          "label": "写輪眼",
+          "tag": "sharingan",
+          "link": "https://danbooru.donmai.us/wiki_pages/sharingan"
+        },
+        {
+          "label": "NARUTO",
+          "tag": "naruto_%28classic%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/naruto_%28classic%29"
+        },
+        {
+          "label": "写輪眼",
+          "tag": "sharingan",
+          "link": "https://danbooru.donmai.us/wiki_pages/sharingan"
+        },
+        {
+          "label": "NARUTO",
+          "tag": "naruto_%28classic%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/naruto_%28classic%29"
+        },
+        {
+          "label": "万華鏡写輪眼",
+          "tag": "mangekyou_sharingan",
+          "link": "https://danbooru.donmai.us/wiki_pages/mangekyou_sharingan"
+        },
+        {
+          "label": "輪廻眼",
+          "tag": "rinnegan",
+          "link": "https://danbooru.donmai.us/wiki_pages/rinnegan"
+        },
+        {
+          "label": "白眼（NARUTO）",
+          "tag": "byakugan",
+          "link": "https://danbooru.donmai.us/wiki_pages/byakugan"
+        },
+        {
+          "label": "NARUTO",
+          "tag": "naruto_%28classic%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/naruto_%28classic%29"
+        },
+        {
+          "label": "白眼（NARUTO）",
+          "tag": "byakugan",
+          "link": "https://danbooru.donmai.us/wiki_pages/byakugan"
+        },
+        {
+          "label": "NARUTO",
+          "tag": "naruto_%28classic%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/naruto_%28classic%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "目の反射",
+          "tag": "eye_reflection",
+          "link": "https://danbooru.donmai.us/wiki_pages/eye_reflection"
+        },
+        {
+          "label": "目の中の文字",
+          "tag": "text_in_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/text_in_eyes"
+        }
+      ]
+    },
+    {
+      "セクション名": "目の数",
+      "タグ一覧": [
+        {
+          "label": "片目の欠損",
+          "tag": "missing_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/missing_eye"
+        },
+        {
+          "label": "片目",
+          "tag": "one-eyed",
+          "link": "https://danbooru.donmai.us/wiki_pages/one-eyed"
+        },
+        {
+          "label": "第三の目",
+          "tag": "third_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/third_eye"
+        },
+        {
+          "label": "余分な目",
+          "tag": "extra_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/extra_eyes"
+        },
+        {
+          "label": "目がない",
+          "tag": "no_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_eyes"
+        }
+      ]
+    },
+    {
+      "セクション名": "顔文字風の目・表情",
+      "タグ一覧": [
+        {
+          "label": ">_<",
+          "tag": "%3E_%3C",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3E_%3C"
+        },
+        {
+          "label": "x3",
+          "tag": "x3",
+          "link": "https://danbooru.donmai.us/wiki_pages/x3"
+        },
+        {
+          "label": "XD",
+          "tag": "xd",
+          "link": "https://danbooru.donmai.us/wiki_pages/xd"
+        },
+        {
+          "label": "DX",
+          "tag": "dx",
+          "link": "https://danbooru.donmai.us/wiki_pages/dx"
+        },
+        {
+          "label": "o_o",
+          "tag": "o_o",
+          "link": "https://danbooru.donmai.us/wiki_pages/o_o"
+        },
+        {
+          "label": "0_0",
+          "tag": "0_0",
+          "link": "https://danbooru.donmai.us/wiki_pages/0_0"
+        },
+        {
+          "label": "3_3",
+          "tag": "3_3",
+          "link": "https://danbooru.donmai.us/wiki_pages/3_3"
+        },
+        {
+          "label": "6_9",
+          "tag": "6_9",
+          "link": "https://danbooru.donmai.us/wiki_pages/6_9"
+        },
+        {
+          "label": "@_@",
+          "tag": "%40_%40",
+          "link": "https://danbooru.donmai.us/wiki_pages/%40_%40"
+        },
+        {
+          "label": "^_^",
+          "tag": "%5E_%5E",
+          "link": "https://danbooru.donmai.us/wiki_pages/%5E_%5E"
+        },
+        {
+          "label": "|_|",
+          "tag": "9848",
+          "link": "https://danbooru.donmai.us/wiki_pages/9848"
+        },
+        {
+          "label": "=_=",
+          "tag": "%3D_%3D",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3D_%3D"
+        },
+        {
+          "label": "+_+",
+          "tag": "%2B_%2B",
+          "link": "https://danbooru.donmai.us/wiki_pages/%2B_%2B"
+        },
+        {
+          "label": "._.",
+          "tag": "._.",
+          "link": "https://danbooru.donmai.us/wiki_pages/._."
+        },
+        {
+          "label": "<o>_<o>",
+          "tag": "%3Co%3E_%3Co%3E",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3Co%3E_%3Co%3E"
+        },
+        {
+          "label": "<|>_<|>",
+          "tag": "%3C%7C%3E_%3C%7C%3E",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3C%7C%3E_%3C%7C%3E"
+        }
+      ]
+    },
+    {
+      "セクション名": "目を閉じた状態",
+      "タグ一覧": [
+        {
+          "label": "まばたき",
+          "tag": "blinking",
+          "link": "https://danbooru.donmai.us/wiki_pages/blinking"
+        },
+        {
+          "label": "目を閉じて",
+          "tag": "closed_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/closed_eyes"
+        },
+        {
+          "label": "ひるむ",
+          "tag": "wince",
+          "link": "https://danbooru.donmai.us/wiki_pages/wince"
+        },
+        {
+          "label": "片目を閉じて",
+          "tag": "one_eye_closed",
+          "link": "https://danbooru.donmai.us/wiki_pages/one_eye_closed"
+        },
+        {
+          "label": ";<",
+          "tag": "%3B%3C",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3B%3C"
+        },
+        {
+          "label": ";>",
+          "tag": "%3B%3E",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3B%3E"
+        },
+        {
+          "label": ";p",
+          "tag": "%3Bp",
+          "link": "https://danbooru.donmai.us/wiki_pages/%3Bp"
+        }
+      ]
+    },
+    {
+      "セクション名": "目のアクセサリー; 目を覆う",
+      "タグ一覧": [
+        {
+          "label": "自分の目を覆う",
+          "tag": "covering_own_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_own_eyes"
+        },
+        {
+          "label": "目を覆う髪",
+          "tag": "hair_over_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_over_eyes"
+        },
+        {
+          "label": "片目を覆う髪",
+          "tag": "hair_over_one_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_over_one_eye"
+        },
+        {
+          "label": "片目を覆う包帯",
+          "tag": "bandage_over_one_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandage_over_one_eye"
+        },
+        {
+          "label": "目隠し",
+          "tag": "blindfold",
+          "link": "https://danbooru.donmai.us/wiki_pages/blindfold"
+        },
+        {
+          "label": "目を覆う帽子",
+          "tag": "hat_over_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_over_eyes"
+        },
+        {
+          "label": "眼帯",
+          "tag": "eyepatch",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyepatch"
+        },
+        {
+          "label": "睫毛",
+          "tag": "eyelashes",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyelashes"
+        },
+        {
+          "label": "色付きのまつげ",
+          "tag": "colored_eyelashes",
+          "link": "https://danbooru.donmai.us/wiki_pages/colored_eyelashes"
+        },
+        {
+          "label": "つけまつげ",
+          "tag": "fake_eyelashes",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_eyelashes"
+        },
+        {
+          "label": "髪を通して見える目",
+          "tag": "eyes_visible_through_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyes_visible_through_hair"
+        },
+        {
+          "label": "眼鏡",
+          "tag": "glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/glasses"
+        },
+        {
+          "label": "化粧",
+          "tag": "makeup",
+          "link": "https://danbooru.donmai.us/wiki_pages/makeup"
+        },
+        {
+          "label": "アイライナー",
+          "tag": "eyeliner",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyeliner"
+        },
+        {
+          "label": "アイシャドウ",
+          "tag": "eyeshadow",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyeshadow"
+        },
+        {
+          "label": "マスカラ",
+          "tag": "mascara",
+          "link": "https://danbooru.donmai.us/wiki_pages/mascara"
+        }
+      ]
+    },
+    {
+      "セクション名": "視線",
+      "タグ一覧": [
+        {
+          "label": "アイコンタクト",
+          "tag": "eye_contact",
+          "link": "https://danbooru.donmai.us/wiki_pages/eye_contact"
+        },
+        {
+          "label": "遠くを見る",
+          "tag": "looking_afar",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_afar"
+        },
+        {
+          "label": "周りを見回す",
+          "tag": "looking_around",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_around"
+        },
+        {
+          "label": "他の人を見ている",
+          "tag": "looking_at_another",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_another"
+        },
+        {
+          "label": "胸を見る",
+          "tag": "looking_at_breasts",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_breasts"
+        },
+        {
+          "label": "手を見て",
+          "tag": "looking_at_hand",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_hand"
+        },
+        {
+          "label": "手を見る",
+          "tag": "looking_at_hands",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_hands"
+        },
+        {
+          "label": "鏡を見る",
+          "tag": "looking_at_mirror",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_mirror"
+        },
+        {
+          "label": "携帯電話を見ている",
+          "tag": "looking_at_phone",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_phone"
+        },
+        {
+          "label": "自分を見つめる",
+          "tag": "looking_at_self",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_self"
+        },
+        {
+          "label": "こちらを見る",
+          "tag": "looking_at_viewer",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_viewer"
+        },
+        {
+          "label": "ペニスを見る",
+          "tag": "looking_at_penis",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_penis"
+        },
+        {
+          "label": "女性器を見る",
+          "tag": "looking_at_pussy",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_pussy"
+        },
+        {
+          "label": "股間を見る",
+          "tag": "looking_at_crotch",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_at_crotch"
+        },
+        {
+          "label": "遠くを見る",
+          "tag": "looking_afar",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_afar"
+        },
+        {
+          "label": "振り返って",
+          "tag": "looking_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_back"
+        },
+        {
+          "label": "見下ろして",
+          "tag": "looking_down",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_down"
+        },
+        {
+          "label": "外を眺める",
+          "tag": "looking_outside",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_outside"
+        },
+        {
+          "label": "眼鏡の上越しに見る",
+          "tag": "looking_over_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_over_eyewear"
+        },
+        {
+          "label": "自分の足を通して見る",
+          "tag": "looking_through_own_legs",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_through_own_legs"
+        },
+        {
+          "label": "横を見る",
+          "tag": "looking_to_the_side",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_to_the_side"
+        },
+        {
+          "label": "見上げる",
+          "tag": "looking_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_up"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他 / アクション",
+      "タグ一覧": [
+        {
+          "label": "あかんべえ",
+          "tag": "akanbe",
+          "link": "https://danbooru.donmai.us/wiki_pages/akanbe"
+        },
+        {
+          "label": "義眼",
+          "tag": "artificial_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/artificial_eye"
+        },
+        {
+          "label": "ガラスの目",
+          "tag": "glass_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/glass_eye"
+        },
+        {
+          "label": "機械の目",
+          "tag": "mechanical_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/mechanical_eye"
+        },
+        {
+          "label": "非対称の目",
+          "tag": "asymmetrical_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/asymmetrical_eyes"
+        },
+        {
+          "label": "目をそらす",
+          "tag": "averting_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/averting_eyes"
+        },
+        {
+          "label": "大きな目",
+          "tag": "big_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/big_eyes"
+        },
+        {
+          "label": "盲目",
+          "tag": "blind",
+          "link": "https://danbooru.donmai.us/wiki_pages/blind"
+        },
+        {
+          "label": "部分的に失明した",
+          "tag": "partially_blind",
+          "link": "https://danbooru.donmai.us/wiki_pages/partially_blind"
+        },
+        {
+          "label": "斜視",
+          "tag": "cross-eyed",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross-eyed"
+        },
+        {
+          "label": "描き足された目",
+          "tag": "drawn_on_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/drawn_on_eyes"
+        },
+        {
+          "label": "眼球",
+          "tag": "eyeball",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyeball"
+        },
+        {
+          "label": "アイビーム",
+          "tag": "eye_beam",
+          "link": "https://danbooru.donmai.us/wiki_pages/eye_beam"
+        },
+        {
+          "label": "目の突き",
+          "tag": "eye_poke",
+          "link": "https://danbooru.donmai.us/wiki_pages/eye_poke"
+        },
+        {
+          "label": "目が飛び出る",
+          "tag": "eye_pop",
+          "link": "https://danbooru.donmai.us/wiki_pages/eye_pop"
+        },
+        {
+          "label": "視線の軌跡",
+          "tag": "eye_trail",
+          "link": "https://danbooru.donmai.us/wiki_pages/eye_trail"
+        },
+        {
+          "label": "ぎょろ目",
+          "tag": "googly_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/googly_eyes"
+        },
+        {
+          "label": "半目",
+          "tag": "half-closed_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/half-closed_eyes"
+        },
+        {
+          "label": "目を細めた",
+          "tag": "narrowed_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/narrowed_eyes"
+        },
+        {
+          "label": "弱視",
+          "tag": "lazy_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/lazy_eye"
+        },
+        {
+          "label": "ペルソナアイズ",
+          "tag": "persona_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/persona_eyes"
+        },
+        {
+          "label": "懇願する目",
+          "tag": "pleading_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/pleading_eyes"
+        },
+        {
+          "label": "目を回す",
+          "tag": "rolling_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/rolling_eyes"
+        },
+        {
+          "label": "手で日差しを遮る",
+          "tag": "shading_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/shading_eyes"
+        },
+        {
+          "label": "横目で見る",
+          "tag": "sideways_glance",
+          "link": "https://danbooru.donmai.us/wiki_pages/sideways_glance"
+        },
+        {
+          "label": "目を細める",
+          "tag": "squinting",
+          "link": "https://danbooru.donmai.us/wiki_pages/squinting"
+        },
+        {
+          "label": "見つめる",
+          "tag": "staring",
+          "link": "https://danbooru.donmai.us/wiki_pages/staring"
+        },
+        {
+          "label": "目元が不均一",
+          "tag": "uneven_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/uneven_eyes"
+        },
+        {
+          "label": "異常に開いた目",
+          "tag": "unusually_open_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/unusually_open_eyes"
+        },
+        {
+          "label": "上を向いた目",
+          "tag": "upturned_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/upturned_eyes"
+        },
+        {
+          "label": "外斜視",
+          "tag": "wall-eyed",
+          "link": "https://danbooru.donmai.us/wiki_pages/wall-eyed"
+        },
+        {
+          "label": "目を大きく見開いて",
+          "tag": "wide-eyed",
+          "link": "https://danbooru.donmai.us/wiki_pages/wide-eyed"
+        },
+        {
+          "label": "ひるむ",
+          "tag": "wince",
+          "link": "https://danbooru.donmai.us/wiki_pages/wince"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：顔・表情",
+          "tag": "tag_group%3Aface_tags",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aface_tags"
+        },
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "色付きのまつげ",
+          "tag": "colored_eyelashes",
+          "link": "https://danbooru.donmai.us/wiki_pages/colored_eyelashes"
+        },
+        {
+          "label": "左右のまつ毛が違う",
+          "tag": "mismatched_eyelashes",
+          "link": "https://danbooru.donmai.us/wiki_pages/mismatched_eyelashes"
+        },
+        {
+          "label": "まつげ飾り",
+          "tag": "eyelash_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyelash_ornament"
+        },
+        {
+          "label": "長いまつげ",
+          "tag": "long_eyelashes",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_eyelashes"
+        },
+        {
+          "label": "マスカラ",
+          "tag": "mascara",
+          "link": "https://danbooru.donmai.us/wiki_pages/mascara"
+        },
+        {
+          "label": "太いまつげ",
+          "tag": "thick_eyelashes",
+          "link": "https://danbooru.donmai.us/wiki_pages/thick_eyelashes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4812 @@
+{
+  "カテゴリID": "list_of_weapons",
+  "カテゴリ名": "武器一覧",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=list_of_weapons",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "武器",
+          "tag": "weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon"
+        }
+      ]
+    },
+    {
+      "セクション名": "火砲",
+      "タグ一覧": [
+        {
+          "label": "火砲",
+          "tag": "artillery",
+          "link": "https://danbooru.donmai.us/wiki_pages/artillery"
+        },
+        {
+          "label": "対空砲",
+          "tag": "anti-aircraft_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-aircraft_gun"
+        },
+        {
+          "label": "88 フラック",
+          "tag": "88_flak",
+          "link": "https://danbooru.donmai.us/wiki_pages/88_flak"
+        }
+      ]
+    },
+    {
+      "セクション名": "爆弾",
+      "タグ一覧": [
+        {
+          "label": "爆弾",
+          "tag": "bomb",
+          "link": "https://danbooru.donmai.us/wiki_pages/bomb"
+        },
+        {
+          "label": "航空爆弾",
+          "tag": "aerial_bomb",
+          "link": "https://danbooru.donmai.us/wiki_pages/aerial_bomb"
+        },
+        {
+          "label": "爆雷",
+          "tag": "depth_charge",
+          "link": "https://danbooru.donmai.us/wiki_pages/depth_charge"
+        },
+        {
+          "label": "ダイナマイト",
+          "tag": "dynamite",
+          "link": "https://danbooru.donmai.us/wiki_pages/dynamite"
+        },
+        {
+          "label": "ファットマン（フォールアウト）",
+          "tag": "fat_man_%28fallout%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fat_man_%28fallout%29"
+        },
+        {
+          "label": "核兵器",
+          "tag": "nuclear_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/nuclear_weapon"
+        },
+        {
+          "label": "パイプ爆弾",
+          "tag": "pipe_bomb",
+          "link": "https://danbooru.donmai.us/wiki_pages/pipe_bomb"
+        },
+        {
+          "label": "時限爆弾",
+          "tag": "time_bomb",
+          "link": "https://danbooru.donmai.us/wiki_pages/time_bomb"
+        },
+        {
+          "label": "TNT",
+          "tag": "tnt",
+          "link": "https://danbooru.donmai.us/wiki_pages/tnt"
+        }
+      ]
+    },
+    {
+      "セクション名": "大砲",
+      "タグ一覧": [
+        {
+          "label": "大砲",
+          "tag": "cannon",
+          "link": "https://danbooru.donmai.us/wiki_pages/cannon"
+        },
+        {
+          "label": "腕の砲",
+          "tag": "arm_cannon",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_cannon"
+        },
+        {
+          "label": "サイコガン",
+          "tag": "psychogun",
+          "link": "https://danbooru.donmai.us/wiki_pages/psychogun"
+        },
+        {
+          "label": "衛星砲",
+          "tag": "satellite_cannon",
+          "link": "https://danbooru.donmai.us/wiki_pages/satellite_cannon"
+        }
+      ]
+    },
+    {
+      "セクション名": "手榴弾",
+      "タグ一覧": [
+        {
+          "label": "手榴弾",
+          "tag": "grenade",
+          "link": "https://danbooru.donmai.us/wiki_pages/grenade"
+        },
+        {
+          "label": "F-1手榴弾",
+          "tag": "f-1_grenade_%28soviet%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-1_grenade_%28soviet%29"
+        },
+        {
+          "label": "M26手榴弾",
+          "tag": "m26_grenade",
+          "link": "https://danbooru.donmai.us/wiki_pages/m26_grenade"
+        },
+        {
+          "label": "M67",
+          "tag": "m67",
+          "link": "https://danbooru.donmai.us/wiki_pages/m67"
+        },
+        {
+          "label": "Mk2手榴弾",
+          "tag": "mk2_grenade",
+          "link": "https://danbooru.donmai.us/wiki_pages/mk2_grenade"
+        },
+        {
+          "label": "RG-42",
+          "tag": "rg-42",
+          "link": "https://danbooru.donmai.us/wiki_pages/rg-42"
+        },
+        {
+          "label": "棒手榴弾",
+          "tag": "stick_grenade",
+          "link": "https://danbooru.donmai.us/wiki_pages/stick_grenade"
+        },
+        {
+          "label": "集束手榴弾",
+          "tag": "bundled_charge",
+          "link": "https://danbooru.donmai.us/wiki_pages/bundled_charge"
+        },
+        {
+          "label": "RGD-33",
+          "tag": "rgd-33",
+          "link": "https://danbooru.donmai.us/wiki_pages/rgd-33"
+        },
+        {
+          "label": "スティールハンドグラネート",
+          "tag": "stielhandgranate",
+          "link": "https://danbooru.donmai.us/wiki_pages/stielhandgranate"
+        },
+        {
+          "label": "テルミット手榴弾",
+          "tag": "thermite_grenade",
+          "link": "https://danbooru.donmai.us/wiki_pages/thermite_grenade"
+        }
+      ]
+    },
+    {
+      "セクション名": "地雷・機雷",
+      "タグ一覧": [
+        {
+          "label": "地雷",
+          "tag": "mine_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mine_%28weapon%29"
+        },
+        {
+          "label": "対戦車地雷",
+          "tag": "anti-tank_mine",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-tank_mine"
+        },
+        {
+          "label": "突進地雷",
+          "tag": "lunge_mine",
+          "link": "https://danbooru.donmai.us/wiki_pages/lunge_mine"
+        },
+        {
+          "label": "M18クレイモア",
+          "tag": "claymore_%28mine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/claymore_%28mine%29"
+        },
+        {
+          "label": "機雷",
+          "tag": "naval_mine",
+          "link": "https://danbooru.donmai.us/wiki_pages/naval_mine"
+        }
+      ]
+    },
+    {
+      "セクション名": "迫撃砲",
+      "タグ一覧": [
+        {
+          "label": "迫撃砲",
+          "tag": "mortar_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mortar_%28weapon%29"
+        },
+        {
+          "label": "2b14 ポドノス 5",
+          "tag": "2b14_podnos_5",
+          "link": "https://danbooru.donmai.us/wiki_pages/2b14_podnos_5"
+        },
+        {
+          "label": "ニーモルタル",
+          "tag": "knee_mortar",
+          "link": "https://danbooru.donmai.us/wiki_pages/knee_mortar"
+        },
+        {
+          "label": "スピゴットモルタル",
+          "tag": "spigot_mortar",
+          "link": "https://danbooru.donmai.us/wiki_pages/spigot_mortar"
+        }
+      ]
+    },
+    {
+      "セクション名": "発射装置とミサイル兵器",
+      "タグ一覧": [
+        {
+          "label": "ハイドラ70",
+          "tag": "hydra_70",
+          "link": "https://danbooru.donmai.us/wiki_pages/hydra_70"
+        },
+        {
+          "label": "ミサイル",
+          "tag": "missile",
+          "link": "https://danbooru.donmai.us/wiki_pages/missile"
+        }
+      ]
+    },
+    {
+      "セクション名": "グレネードランチャー",
+      "タグ一覧": [
+        {
+          "label": "グレネードランチャー",
+          "tag": "grenade_launcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/grenade_launcher"
+        },
+        {
+          "label": "AGS-30",
+          "tag": "ags-30",
+          "link": "https://danbooru.donmai.us/wiki_pages/ags-30"
+        },
+        {
+          "label": "チャイナレイク",
+          "tag": "china_lake",
+          "link": "https://danbooru.donmai.us/wiki_pages/china_lake"
+        },
+        {
+          "label": "デネル PAW-20",
+          "tag": "denel_paw-20",
+          "link": "https://danbooru.donmai.us/wiki_pages/denel_paw-20"
+        },
+        {
+          "label": "H&K GMG",
+          "tag": "h%26k_gmg",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_gmg"
+        },
+        {
+          "label": "M79",
+          "tag": "m79",
+          "link": "https://danbooru.donmai.us/wiki_pages/m79"
+        },
+        {
+          "label": "Mk19",
+          "tag": "mk19_grenade_launcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/mk19_grenade_launcher"
+        },
+        {
+          "label": "ミルコルMGL",
+          "tag": "milkor_mgl",
+          "link": "https://danbooru.donmai.us/wiki_pages/milkor_mgl"
+        },
+        {
+          "label": "アンダーバレルグレネードランチャー",
+          "tag": "underbarrel_grenade_launcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/underbarrel_grenade_launcher"
+        },
+        {
+          "label": "GP-25",
+          "tag": "gp-25",
+          "link": "https://danbooru.donmai.us/wiki_pages/gp-25"
+        },
+        {
+          "label": "H&K AG36",
+          "tag": "h%26k_ag36",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_ag36"
+        },
+        {
+          "label": "H&K HK69",
+          "tag": "h%26k_hk69",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk69"
+        },
+        {
+          "label": "M203",
+          "tag": "m203",
+          "link": "https://danbooru.donmai.us/wiki_pages/m203"
+        }
+      ]
+    },
+    {
+      "セクション名": "ロケットランチャーと無反動砲",
+      "タグ一覧": [
+        {
+          "label": "ロケットランチャー",
+          "tag": "rocket_launcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/rocket_launcher"
+        },
+        {
+          "label": "カール・グスタフ",
+          "tag": "carl_gustaf_recoilless_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/carl_gustaf_recoilless_rifle"
+        },
+        {
+          "label": "9K32 ストレラ-2",
+          "tag": "strela-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/strela-2"
+        },
+        {
+          "label": "AT4",
+          "tag": "at4",
+          "link": "https://danbooru.donmai.us/wiki_pages/at4"
+        },
+        {
+          "label": "FGM-148 ジャベリン",
+          "tag": "fgm-148_javelin",
+          "link": "https://danbooru.donmai.us/wiki_pages/fgm-148_javelin"
+        },
+        {
+          "label": "FIM-92 スティンガー",
+          "tag": "fim-92_stinger",
+          "link": "https://danbooru.donmai.us/wiki_pages/fim-92_stinger"
+        },
+        {
+          "label": "M1バズーカ",
+          "tag": "m1_bazooka",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1_bazooka"
+        },
+        {
+          "label": "M20スーパーバズーカ",
+          "tag": "m20_super_bazooka",
+          "link": "https://danbooru.donmai.us/wiki_pages/m20_super_bazooka"
+        },
+        {
+          "label": "M72 ロー",
+          "tag": "m72_law",
+          "link": "https://danbooru.donmai.us/wiki_pages/m72_law"
+        },
+        {
+          "label": "MIM-104 パトリオット",
+          "tag": "mim-104_patriot",
+          "link": "https://danbooru.donmai.us/wiki_pages/mim-104_patriot"
+        },
+        {
+          "label": "パンツァーファウスト",
+          "tag": "panzerfaust",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzerfaust"
+        },
+        {
+          "label": "パンツァーファウスト3",
+          "tag": "panzerfaust_3",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzerfaust_3"
+        },
+        {
+          "label": "パンツァーシュレック",
+          "tag": "panzerschreck",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzerschreck"
+        },
+        {
+          "label": "RPG（携帯式対戦車兵器）",
+          "tag": "rpg_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rpg_%28weapon%29"
+        },
+        {
+          "label": "RPG-7",
+          "tag": "rpg-7",
+          "link": "https://danbooru.donmai.us/wiki_pages/rpg-7"
+        },
+        {
+          "label": "RPG-29",
+          "tag": "rpg-29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rpg-29"
+        },
+        {
+          "label": "TOW対戦車ミサイル",
+          "tag": "tow_atgm",
+          "link": "https://danbooru.donmai.us/wiki_pages/tow_atgm"
+        }
+      ]
+    },
+    {
+      "セクション名": "多連装ロケットランチャー",
+      "タグ一覧": [
+        {
+          "label": "多連装ロケットランチャー",
+          "tag": "multishot_rocket_launcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/multishot_rocket_launcher"
+        },
+        {
+          "label": "M202 フラッシュ",
+          "tag": "m202_flash",
+          "link": "https://danbooru.donmai.us/wiki_pages/m202_flash"
+        }
+      ]
+    },
+    {
+      "セクション名": "銃器",
+      "タグ一覧": [
+        {
+          "label": "銃",
+          "tag": "gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun"
+        }
+      ]
+    },
+    {
+      "セクション名": "古式銃",
+      "タグ一覧": [
+        {
+          "label": "アンティーク銃器",
+          "tag": "antique_firearm",
+          "link": "https://danbooru.donmai.us/wiki_pages/antique_firearm"
+        },
+        {
+          "label": "火縄銃",
+          "tag": "arquebus",
+          "link": "https://danbooru.donmai.us/wiki_pages/arquebus"
+        },
+        {
+          "label": "ブランダーバス",
+          "tag": "blunderbuss",
+          "link": "https://danbooru.donmai.us/wiki_pages/blunderbuss"
+        },
+        {
+          "label": "デリンジャー",
+          "tag": "derringer",
+          "link": "https://danbooru.donmai.us/wiki_pages/derringer"
+        },
+        {
+          "label": "ファイアロック",
+          "tag": "firelock",
+          "link": "https://danbooru.donmai.us/wiki_pages/firelock"
+        },
+        {
+          "label": "キャップロック",
+          "tag": "caplock",
+          "link": "https://danbooru.donmai.us/wiki_pages/caplock"
+        },
+        {
+          "label": "フリントロック",
+          "tag": "flintlock",
+          "link": "https://danbooru.donmai.us/wiki_pages/flintlock"
+        },
+        {
+          "label": "ジェザイル",
+          "tag": "jezail",
+          "link": "https://danbooru.donmai.us/wiki_pages/jezail"
+        },
+        {
+          "label": "火縄銃",
+          "tag": "matchlock",
+          "link": "https://danbooru.donmai.us/wiki_pages/matchlock"
+        },
+        {
+          "label": "マスケット銃",
+          "tag": "musket",
+          "link": "https://danbooru.donmai.us/wiki_pages/musket"
+        }
+      ]
+    },
+    {
+      "セクション名": "ハンドガン",
+      "タグ一覧": [
+        {
+          "label": "ハンドガン",
+          "tag": "handgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/handgun"
+        }
+      ]
+    },
+    {
+      "セクション名": "リボルバー",
+      "タグ一覧": [
+        {
+          "label": "リボルバー",
+          "tag": "revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/revolver"
+        },
+        {
+          "label": "チアッパ・ライノ",
+          "tag": "chiappa_rhino",
+          "link": "https://danbooru.donmai.us/wiki_pages/chiappa_rhino"
+        },
+        {
+          "label": "コルト 1851 ネイビー",
+          "tag": "colt_1851_navy",
+          "link": "https://danbooru.donmai.us/wiki_pages/colt_1851_navy"
+        },
+        {
+          "label": "コルト 1860 アーミー",
+          "tag": "colt_1860_army",
+          "link": "https://danbooru.donmai.us/wiki_pages/colt_1860_army"
+        },
+        {
+          "label": "コルト・バントライン",
+          "tag": "colt_buntline",
+          "link": "https://danbooru.donmai.us/wiki_pages/colt_buntline"
+        },
+        {
+          "label": "コルト・パイソン",
+          "tag": "colt_python",
+          "link": "https://danbooru.donmai.us/wiki_pages/colt_python"
+        },
+        {
+          "label": "コルト シングルアクション アーミー",
+          "tag": "colt_single_action_army",
+          "link": "https://danbooru.donmai.us/wiki_pages/colt_single_action_army"
+        },
+        {
+          "label": "ルマット",
+          "tag": "lemat_revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/lemat_revolver"
+        },
+        {
+          "label": "ナガンM1895",
+          "tag": "nagant_m1895",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagant_m1895"
+        },
+        {
+          "label": "OTs-38 ステッキン",
+          "tag": "ots-38_stechkin",
+          "link": "https://danbooru.donmai.us/wiki_pages/ots-38_stechkin"
+        },
+        {
+          "label": "ペッパーボックスリボルバー",
+          "tag": "pepperbox_revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/pepperbox_revolver"
+        },
+        {
+          "label": "レミントン ニューモデル",
+          "tag": "remington_new_model",
+          "link": "https://danbooru.donmai.us/wiki_pages/remington_new_model"
+        },
+        {
+          "label": "スミス＆ウェッソン モデル29",
+          "tag": "s%26w_m29",
+          "link": "https://danbooru.donmai.us/wiki_pages/s%26w_m29"
+        },
+        {
+          "label": "スミス＆ウェッソン モデル500",
+          "tag": "s%26w_500",
+          "link": "https://danbooru.donmai.us/wiki_pages/s%26w_500"
+        },
+        {
+          "label": "短銃身リボルバー",
+          "tag": "snubnosed_revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/snubnosed_revolver"
+        },
+        {
+          "label": "二十六年式拳銃",
+          "tag": "type_26_revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_26_revolver"
+        },
+        {
+          "label": "ウェブリーリボルバー",
+          "tag": "webley_revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/webley_revolver"
+        },
+        {
+          "label": "ウェブリー＝フォスベリー自動回転式拳銃",
+          "tag": "webley-fosbery_automatic_revolver",
+          "link": "https://danbooru.donmai.us/wiki_pages/webley-fosbery_automatic_revolver"
+        }
+      ]
+    },
+    {
+      "セクション名": "自動拳銃・マシンピストル",
+      "タグ一覧": [
+        {
+          "label": "AMT ハードボーラー ロングスライド",
+          "tag": "amt_hardballer_longslide",
+          "link": "https://danbooru.donmai.us/wiki_pages/amt_hardballer_longslide"
+        },
+        {
+          "label": "AMTオートマグ",
+          "tag": "amt_automag",
+          "link": "https://danbooru.donmai.us/wiki_pages/amt_automag"
+        },
+        {
+          "label": "アーセナルのストライクワン",
+          "tag": "arsenal_strike_one",
+          "link": "https://danbooru.donmai.us/wiki_pages/arsenal_strike_one"
+        },
+        {
+          "label": "オートマグ",
+          "tag": "automag",
+          "link": "https://danbooru.donmai.us/wiki_pages/automag"
+        },
+        {
+          "label": "B&T USW",
+          "tag": "b%26t_usw",
+          "link": "https://danbooru.donmai.us/wiki_pages/b%26t_usw"
+        },
+        {
+          "label": "ベレッタ90two",
+          "tag": "beretta_90two",
+          "link": "https://danbooru.donmai.us/wiki_pages/beretta_90two"
+        },
+        {
+          "label": "ベレッタ92",
+          "tag": "beretta_92",
+          "link": "https://danbooru.donmai.us/wiki_pages/beretta_92"
+        },
+        {
+          "label": "ベレッタ93R",
+          "tag": "beretta_93r",
+          "link": "https://danbooru.donmai.us/wiki_pages/beretta_93r"
+        },
+        {
+          "label": "ベレッタ モデル38",
+          "tag": "beretta_model_38",
+          "link": "https://danbooru.donmai.us/wiki_pages/beretta_model_38"
+        },
+        {
+          "label": "ベレッタPX4",
+          "tag": "beretta_px4",
+          "link": "https://danbooru.donmai.us/wiki_pages/beretta_px4"
+        },
+        {
+          "label": "ブラウニング ハイパワー",
+          "tag": "browning_hi-power",
+          "link": "https://danbooru.donmai.us/wiki_pages/browning_hi-power"
+        },
+        {
+          "label": "コルト ダブルイーグル",
+          "tag": "colt_double_eagle",
+          "link": "https://danbooru.donmai.us/wiki_pages/colt_double_eagle"
+        },
+        {
+          "label": "CZ 75",
+          "tag": "cz_75",
+          "link": "https://danbooru.donmai.us/wiki_pages/cz_75"
+        },
+        {
+          "label": "FK BRNOフィールドピストル",
+          "tag": "fk_brno_field_pistol",
+          "link": "https://danbooru.donmai.us/wiki_pages/fk_brno_field_pistol"
+        },
+        {
+          "label": "大宇K5",
+          "tag": "daewoo_k5",
+          "link": "https://danbooru.donmai.us/wiki_pages/daewoo_k5"
+        },
+        {
+          "label": "デザートイーグル",
+          "tag": "desert_eagle",
+          "link": "https://danbooru.donmai.us/wiki_pages/desert_eagle"
+        },
+        {
+          "label": "FN ファイブセブン",
+          "tag": "fn_five-seven",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_five-seven"
+        },
+        {
+          "label": "FNモデル1903",
+          "tag": "fn_model_1903",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_model_1903"
+        },
+        {
+          "label": "FNモデル1910",
+          "tag": "fn_model_1910",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_model_1910"
+        },
+        {
+          "label": "FP-45 リベレーター",
+          "tag": "fp-45_liberator",
+          "link": "https://danbooru.donmai.us/wiki_pages/fp-45_liberator"
+        },
+        {
+          "label": "グロック",
+          "tag": "glock",
+          "link": "https://danbooru.donmai.us/wiki_pages/glock"
+        },
+        {
+          "label": "GSh-18",
+          "tag": "gsh-18",
+          "link": "https://danbooru.donmai.us/wiki_pages/gsh-18"
+        },
+        {
+          "label": "H&K HK45",
+          "tag": "h%26k_hk45",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk45"
+        },
+        {
+          "label": "H&K マーク 23",
+          "tag": "h%26k_mark_23",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_mark_23"
+        },
+        {
+          "label": "H&K P11",
+          "tag": "h%26k_p11",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_p11"
+        },
+        {
+          "label": "H&K P2000",
+          "tag": "h%26k_p2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_p2000"
+        },
+        {
+          "label": "H&K P30",
+          "tag": "h%26k_p30",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_p30"
+        },
+        {
+          "label": "H&K P7",
+          "tag": "h%26k_p7",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_p7"
+        },
+        {
+          "label": "H&K USP",
+          "tag": "h%26k_usp",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_usp"
+        },
+        {
+          "label": "H&K VP70",
+          "tag": "h%26k_vp70",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_vp70"
+        },
+        {
+          "label": "H&K VP9",
+          "tag": "h%26k_vp9",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_vp9"
+        },
+        {
+          "label": "HS2000",
+          "tag": "hs2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/hs2000"
+        },
+        {
+          "label": "IWI ジェリコ 941",
+          "tag": "iwi_jericho_941",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwi_jericho_941"
+        },
+        {
+          "label": "ルガーP08",
+          "tag": "luger_p08",
+          "link": "https://danbooru.donmai.us/wiki_pages/luger_p08"
+        },
+        {
+          "label": "MAB PA-15",
+          "tag": "mab_pa-15",
+          "link": "https://danbooru.donmai.us/wiki_pages/mab_pa-15"
+        },
+        {
+          "label": "M1911",
+          "tag": "m1911",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1911"
+        },
+        {
+          "label": "デトニクス コンバットマスター",
+          "tag": "detonics_combatmaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/detonics_combatmaster"
+        },
+        {
+          "label": "グリズリー・ウィン・マガジン",
+          "tag": "grizzly_win_mag",
+          "link": "https://danbooru.donmai.us/wiki_pages/grizzly_win_mag"
+        },
+        {
+          "label": "M45 メウソック",
+          "tag": "m45_meusoc",
+          "link": "https://danbooru.donmai.us/wiki_pages/m45_meusoc"
+        },
+        {
+          "label": "マカロフPM",
+          "tag": "makarov_pm",
+          "link": "https://danbooru.donmai.us/wiki_pages/makarov_pm"
+        },
+        {
+          "label": "モーゼルC96",
+          "tag": "mauser_c96",
+          "link": "https://danbooru.donmai.us/wiki_pages/mauser_c96"
+        },
+        {
+          "label": "モーゼルHSc",
+          "tag": "mauser_hsc",
+          "link": "https://danbooru.donmai.us/wiki_pages/mauser_hsc"
+        },
+        {
+          "label": "MP-443 グラーフ",
+          "tag": "mp-443_grach",
+          "link": "https://danbooru.donmai.us/wiki_pages/mp-443_grach"
+        },
+        {
+          "label": "MP-448 スカイフ",
+          "tag": "mp-448_skyph",
+          "link": "https://danbooru.donmai.us/wiki_pages/mp-448_skyph"
+        },
+        {
+          "label": "NAAガーディアン380",
+          "tag": "naa_guardian_380",
+          "link": "https://danbooru.donmai.us/wiki_pages/naa_guardian_380"
+        },
+        {
+          "label": "南部14型",
+          "tag": "nambu_type_14",
+          "link": "https://danbooru.donmai.us/wiki_pages/nambu_type_14"
+        },
+        {
+          "label": "QSZ-92",
+          "tag": "qsz-92",
+          "link": "https://danbooru.donmai.us/wiki_pages/qsz-92"
+        },
+        {
+          "label": "PBピストル",
+          "tag": "pb_pistol",
+          "link": "https://danbooru.donmai.us/wiki_pages/pb_pistol"
+        },
+        {
+          "label": "PSSサイレントピストル",
+          "tag": "pss_silent_pistol",
+          "link": "https://danbooru.donmai.us/wiki_pages/pss_silent_pistol"
+        },
+        {
+          "label": "ルガー LCP",
+          "tag": "ruger_lcp",
+          "link": "https://danbooru.donmai.us/wiki_pages/ruger_lcp"
+        },
+        {
+          "label": "ルガーP95",
+          "tag": "ruger_p95",
+          "link": "https://danbooru.donmai.us/wiki_pages/ruger_p95"
+        },
+        {
+          "label": "スミス＆ウェッソン M&P",
+          "tag": "s%26w_m%26p",
+          "link": "https://danbooru.donmai.us/wiki_pages/s%26w_m%26p"
+        },
+        {
+          "label": "セルジュコフSPS",
+          "tag": "serdyukov_sps",
+          "link": "https://danbooru.donmai.us/wiki_pages/serdyukov_sps"
+        },
+        {
+          "label": "シグ P210",
+          "tag": "sig_p210",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_p210"
+        },
+        {
+          "label": "SIG P220とP226",
+          "tag": "sig_p220%2Fp226",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_p220%2Fp226"
+        },
+        {
+          "label": "SIG P228とP229",
+          "tag": "sig_p228%2Fp229",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_p228%2Fp229"
+        },
+        {
+          "label": "ステッキキンAPS",
+          "tag": "stechkin_aps",
+          "link": "https://danbooru.donmai.us/wiki_pages/stechkin_aps"
+        },
+        {
+          "label": "シュタイアーGB",
+          "tag": "steyr_gb",
+          "link": "https://danbooru.donmai.us/wiki_pages/steyr_gb"
+        },
+        {
+          "label": "シュタイアーM1912",
+          "tag": "steyr_m1912",
+          "link": "https://danbooru.donmai.us/wiki_pages/steyr_m1912"
+        },
+        {
+          "label": "トカレフTT-33",
+          "tag": "tokarev_tt-33",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokarev_tt-33"
+        },
+        {
+          "label": "ワルサーP38",
+          "tag": "walther_p38",
+          "link": "https://danbooru.donmai.us/wiki_pages/walther_p38"
+        },
+        {
+          "label": "ワルサーP5",
+          "tag": "walther_p5",
+          "link": "https://danbooru.donmai.us/wiki_pages/walther_p5"
+        },
+        {
+          "label": "ワルサーP99",
+          "tag": "walther_p99",
+          "link": "https://danbooru.donmai.us/wiki_pages/walther_p99"
+        },
+        {
+          "label": "ワルサーPP",
+          "tag": "walther_ppk",
+          "link": "https://danbooru.donmai.us/wiki_pages/walther_ppk"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "B&T VP9",
+          "tag": "b%26t_vp9",
+          "link": "https://danbooru.donmai.us/wiki_pages/b%26t_vp9"
+        },
+        {
+          "label": "信号銃",
+          "tag": "flare_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/flare_gun"
+        },
+        {
+          "label": "シュトゥルムピストーレ",
+          "tag": "sturmpistole",
+          "link": "https://danbooru.donmai.us/wiki_pages/sturmpistole"
+        },
+        {
+          "label": "オブレズ",
+          "tag": "obrez",
+          "link": "https://danbooru.donmai.us/wiki_pages/obrez"
+        },
+        {
+          "label": "トンプソン／センター コンテンダー",
+          "tag": "thompson%2Fcenter_contender",
+          "link": "https://danbooru.donmai.us/wiki_pages/thompson%2Fcenter_contender"
+        },
+        {
+          "label": "トリプルアクションサンダー",
+          "tag": "triple_action_thunder",
+          "link": "https://danbooru.donmai.us/wiki_pages/triple_action_thunder"
+        },
+        {
+          "label": "ウェルロッド",
+          "tag": "welrod",
+          "link": "https://danbooru.donmai.us/wiki_pages/welrod"
+        }
+      ]
+    },
+    {
+      "セクション名": "機関銃",
+      "タグ一覧": [
+        {
+          "label": "機関銃",
+          "tag": "machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/machine_gun"
+        }
+      ]
+    },
+    {
+      "セクション名": "重機関銃",
+      "タグ一覧": [
+        {
+          "label": "重機関銃",
+          "tag": "heavy_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/heavy_machine_gun"
+        },
+        {
+          "label": "ブローニングM2",
+          "tag": "browning_m2",
+          "link": "https://danbooru.donmai.us/wiki_pages/browning_m2"
+        },
+        {
+          "label": "DShK",
+          "tag": "dshk",
+          "link": "https://danbooru.donmai.us/wiki_pages/dshk"
+        },
+        {
+          "label": "コード 6P50",
+          "tag": "kord_6p50",
+          "link": "https://danbooru.donmai.us/wiki_pages/kord_6p50"
+        },
+        {
+          "label": "NSV",
+          "tag": "nsv",
+          "link": "https://danbooru.donmai.us/wiki_pages/nsv"
+        },
+        {
+          "label": "92式（重機関銃）",
+          "tag": "type_92_%28heavy_machine_gun%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_92_%28heavy_machine_gun%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "軽機関銃",
+      "タグ一覧": [
+        {
+          "label": "軽機関銃",
+          "tag": "light_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/light_machine_gun"
+        },
+        {
+          "label": "ブレンLMG",
+          "tag": "bren_lmg",
+          "link": "https://danbooru.donmai.us/wiki_pages/bren_lmg"
+        },
+        {
+          "label": "セトメ・アメリ",
+          "tag": "cetme_ameli",
+          "link": "https://danbooru.donmai.us/wiki_pages/cetme_ameli"
+        },
+        {
+          "label": "ショーシャ",
+          "tag": "chauchat",
+          "link": "https://danbooru.donmai.us/wiki_pages/chauchat"
+        },
+        {
+          "label": "大宇K3",
+          "tag": "daewoo_k3",
+          "link": "https://danbooru.donmai.us/wiki_pages/daewoo_k3"
+        },
+        {
+          "label": "DP-27",
+          "tag": "dp-27",
+          "link": "https://danbooru.donmai.us/wiki_pages/dp-27"
+        },
+        {
+          "label": "FM 24/29",
+          "tag": "fm_24%2F29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fm_24%2F29"
+        },
+        {
+          "label": "FNミニミ",
+          "tag": "fn_minimi",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_minimi"
+        },
+        {
+          "label": "M249ソー",
+          "tag": "m249_saw",
+          "link": "https://danbooru.donmai.us/wiki_pages/m249_saw"
+        },
+        {
+          "label": "H&K HK23",
+          "tag": "h%26k_hk23",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk23"
+        },
+        {
+          "label": "H&K MG36",
+          "tag": "h%26k_mg36",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_mg36"
+        },
+        {
+          "label": "H&K MG4",
+          "tag": "h%26k_mg4",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_mg4"
+        },
+        {
+          "label": "IMIガリルARM",
+          "tag": "imi_galil",
+          "link": "https://danbooru.donmai.us/wiki_pages/imi_galil"
+        },
+        {
+          "label": "IWIネゲブ",
+          "tag": "iwi_negev",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwi_negev"
+        },
+        {
+          "label": "KK 62",
+          "tag": "kk_62",
+          "link": "https://danbooru.donmai.us/wiki_pages/kk_62"
+        },
+        {
+          "label": "ナイツ・アーマメント・カンパニー LAMG",
+          "tag": "kac_lamg",
+          "link": "https://danbooru.donmai.us/wiki_pages/kac_lamg"
+        },
+        {
+          "label": "ラハティ-サロランタ M/26",
+          "tag": "lahti-saloranta_m%2F26",
+          "link": "https://danbooru.donmai.us/wiki_pages/lahti-saloranta_m%2F26"
+        },
+        {
+          "label": "ルイス銃",
+          "tag": "lewis_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/lewis_gun"
+        },
+        {
+          "label": "M1918 バー",
+          "tag": "m1918_bar",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1918_bar"
+        },
+        {
+          "label": "M1941 ジョンソン軽機関銃",
+          "tag": "m1941_johnson_lmg",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1941_johnson_lmg"
+        },
+        {
+          "label": "マドセン機関銃",
+          "tag": "madsen_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/madsen_machine_gun"
+        },
+        {
+          "label": "88式軽機関銃",
+          "tag": "type_88_lmg",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_88_lmg"
+        },
+        {
+          "label": "RPD",
+          "tag": "rpd",
+          "link": "https://danbooru.donmai.us/wiki_pages/rpd"
+        },
+        {
+          "label": "RPK",
+          "tag": "rpk",
+          "link": "https://danbooru.donmai.us/wiki_pages/rpk"
+        },
+        {
+          "label": "RPK-74",
+          "tag": "rpk-74",
+          "link": "https://danbooru.donmai.us/wiki_pages/rpk-74"
+        },
+        {
+          "label": "RPK-16",
+          "tag": "rpk-16",
+          "link": "https://danbooru.donmai.us/wiki_pages/rpk-16"
+        },
+        {
+          "label": "ストーナー 63",
+          "tag": "stoner_63",
+          "link": "https://danbooru.donmai.us/wiki_pages/stoner_63"
+        },
+        {
+          "label": "11式軽機関銃",
+          "tag": "type_11_light_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_11_light_machine_gun"
+        },
+        {
+          "label": "九六式軽機関銃",
+          "tag": "type_96_light_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_96_light_machine_gun"
+        },
+        {
+          "label": "九九式軽機関銃",
+          "tag": "type_99_light_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_99_light_machine_gun"
+        },
+        {
+          "label": "バルメット M78/83",
+          "tag": "valmet_m78%2F83",
+          "link": "https://danbooru.donmai.us/wiki_pages/valmet_m78%2F83"
+        },
+        {
+          "label": "ZB-26",
+          "tag": "zb-26",
+          "link": "https://danbooru.donmai.us/wiki_pages/zb-26"
+        }
+      ]
+    },
+    {
+      "セクション名": "中型および汎用機関銃",
+      "タグ一覧": [
+        {
+          "label": "AA-52",
+          "tag": "aa-52",
+          "link": "https://danbooru.donmai.us/wiki_pages/aa-52"
+        },
+        {
+          "label": "AEK-999",
+          "tag": "aek-999",
+          "link": "https://danbooru.donmai.us/wiki_pages/aek-999"
+        },
+        {
+          "label": "ブローニングM1919",
+          "tag": "browning_m1919",
+          "link": "https://danbooru.donmai.us/wiki_pages/browning_m1919"
+        },
+        {
+          "label": "FNエボリス",
+          "tag": "fn_evolys",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_evolys"
+        },
+        {
+          "label": "FN MAG",
+          "tag": "fn_mag",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_mag"
+        },
+        {
+          "label": "H&K HK21",
+          "tag": "h%26k_hk21",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk21"
+        },
+        {
+          "label": "H&K MG5",
+          "tag": "h%26k_mg5",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_mg5"
+        },
+        {
+          "label": "M60",
+          "tag": "m60_%28machine_gun%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/m60_%28machine_gun%29"
+        },
+        {
+          "label": "マキシムガン",
+          "tag": "maxim_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/maxim_gun"
+        },
+        {
+          "label": "MG34",
+          "tag": "mg34",
+          "link": "https://danbooru.donmai.us/wiki_pages/mg34"
+        },
+        {
+          "label": "MG42",
+          "tag": "mg42",
+          "link": "https://danbooru.donmai.us/wiki_pages/mg42"
+        },
+        {
+          "label": "MG3",
+          "tag": "mg3",
+          "link": "https://danbooru.donmai.us/wiki_pages/mg3"
+        },
+        {
+          "label": "Mk48",
+          "tag": "mk48",
+          "link": "https://danbooru.donmai.us/wiki_pages/mk48"
+        },
+        {
+          "label": "IMIネゲブNG-7",
+          "tag": "imi_negev_ng-7",
+          "link": "https://danbooru.donmai.us/wiki_pages/imi_negev_ng-7"
+        },
+        {
+          "label": "PK",
+          "tag": "pk_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/pk_machine_gun"
+        },
+        {
+          "label": "PKM",
+          "tag": "pkm",
+          "link": "https://danbooru.donmai.us/wiki_pages/pkm"
+        },
+        {
+          "label": "PKPペチェネグ",
+          "tag": "pkp_pecheneg",
+          "link": "https://danbooru.donmai.us/wiki_pages/pkp_pecheneg"
+        },
+        {
+          "label": "住友 NTK-62",
+          "tag": "sumitomo_ntk-62",
+          "link": "https://danbooru.donmai.us/wiki_pages/sumitomo_ntk-62"
+        },
+        {
+          "label": "80式機関銃",
+          "tag": "type_80_machine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_80_machine_gun"
+        },
+        {
+          "label": "ベクター SS-77",
+          "tag": "vektor_ss-77",
+          "link": "https://danbooru.donmai.us/wiki_pages/vektor_ss-77"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の機関銃",
+      "タグ一覧": [
+        {
+          "label": "オートキャノン",
+          "tag": "autocannon",
+          "link": "https://danbooru.donmai.us/wiki_pages/autocannon"
+        },
+        {
+          "label": "ガトリング砲",
+          "tag": "gatling_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/gatling_gun"
+        },
+        {
+          "label": "GAU-8 アベンジャー",
+          "tag": "gau-8",
+          "link": "https://danbooru.donmai.us/wiki_pages/gau-8"
+        },
+        {
+          "label": "M134ミニガン",
+          "tag": "m134_minigun",
+          "link": "https://danbooru.donmai.us/wiki_pages/m134_minigun"
+        },
+        {
+          "label": "M167 VADS",
+          "tag": "m167_vads",
+          "link": "https://danbooru.donmai.us/wiki_pages/m167_vads"
+        }
+      ]
+    },
+    {
+      "セクション名": "ライフル",
+      "タグ一覧": [
+        {
+          "label": "ライフル",
+          "tag": "rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/rifle"
+        }
+      ]
+    },
+    {
+      "セクション名": "対物ライフル",
+      "タグ一覧": [
+        {
+          "label": "対物ライフル",
+          "tag": "anti-materiel_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-materiel_rifle"
+        },
+        {
+          "label": "AI AW-50",
+          "tag": "ai_aw-50",
+          "link": "https://danbooru.donmai.us/wiki_pages/ai_aw-50"
+        },
+        {
+          "label": "AI AX50",
+          "tag": "ai_ax_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/ai_ax_rifle"
+        },
+        {
+          "label": "AR-50",
+          "tag": "ar-50",
+          "link": "https://danbooru.donmai.us/wiki_pages/ar-50"
+        },
+        {
+          "label": "バレットM82",
+          "tag": "barrett_m82",
+          "link": "https://danbooru.donmai.us/wiki_pages/barrett_m82"
+        },
+        {
+          "label": "ボーイズ対戦車ライフル",
+          "tag": "boys_anti_tank_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/boys_anti_tank_rifle"
+        },
+        {
+          "label": "DSR-50",
+          "tag": "dsr-50",
+          "link": "https://danbooru.donmai.us/wiki_pages/dsr-50"
+        },
+        {
+          "label": "ゲパルト GM6 リンクス",
+          "tag": "gepard_gm6_lynx",
+          "link": "https://danbooru.donmai.us/wiki_pages/gepard_gm6_lynx"
+        },
+        {
+          "label": "ゲパルトM1",
+          "tag": "gepard_m1",
+          "link": "https://danbooru.donmai.us/wiki_pages/gepard_m1"
+        },
+        {
+          "label": "KSVK 12.7",
+          "tag": "ksvk_12.7",
+          "link": "https://danbooru.donmai.us/wiki_pages/ksvk_12.7"
+        },
+        {
+          "label": "ラハティ L-39",
+          "tag": "lahti_l-39",
+          "link": "https://danbooru.donmai.us/wiki_pages/lahti_l-39"
+        },
+        {
+          "label": "NTW-20",
+          "tag": "ntw-20",
+          "link": "https://danbooru.donmai.us/wiki_pages/ntw-20"
+        },
+        {
+          "label": "モーゼル戦車銃M1918",
+          "tag": "mauser_tankgewehr_m1918",
+          "link": "https://danbooru.donmai.us/wiki_pages/mauser_tankgewehr_m1918"
+        },
+        {
+          "label": "マクミランTAC-50",
+          "tag": "mcmillan_tac-50",
+          "link": "https://danbooru.donmai.us/wiki_pages/mcmillan_tac-50"
+        },
+        {
+          "label": "OSV-96",
+          "tag": "osv-96",
+          "link": "https://danbooru.donmai.us/wiki_pages/osv-96"
+        },
+        {
+          "label": "パンツァービュッヒセ 39",
+          "tag": "panzerbuchse_39",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzerbuchse_39"
+        },
+        {
+          "label": "PGM ヘカテ II",
+          "tag": "pgm_hecate_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/pgm_hecate_ii"
+        },
+        {
+          "label": "PTRD-41",
+          "tag": "ptrd-41",
+          "link": "https://danbooru.donmai.us/wiki_pages/ptrd-41"
+        },
+        {
+          "label": "PTRS-41",
+          "tag": "ptrs-41",
+          "link": "https://danbooru.donmai.us/wiki_pages/ptrs-41"
+        },
+        {
+          "label": "QBU-10",
+          "tag": "qbu-10",
+          "link": "https://danbooru.donmai.us/wiki_pages/qbu-10"
+        },
+        {
+          "label": "ソロトゥルン_S-18/100",
+          "tag": "solothurn_s-18%2F100",
+          "link": "https://danbooru.donmai.us/wiki_pages/solothurn_s-18%2F100"
+        },
+        {
+          "label": "シュタイアー HS .50",
+          "tag": "steyr_hs_.50",
+          "link": "https://danbooru.donmai.us/wiki_pages/steyr_hs_.50"
+        },
+        {
+          "label": "シュタイアー IWS 2000",
+          "tag": "steyr_iws_2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/steyr_iws_2000"
+        },
+        {
+          "label": "ヴィクロップ VKS/VSSK",
+          "tag": "vychlop_vks%2Fvssk",
+          "link": "https://danbooru.donmai.us/wiki_pages/vychlop_vks%2Fvssk"
+        }
+      ]
+    },
+    {
+      "セクション名": "アサルトライフル",
+      "タグ一覧": [
+        {
+          "label": "アサルトライフル",
+          "tag": "assault_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/assault_rifle"
+        },
+        {
+          "label": "AK-47",
+          "tag": "ak-47",
+          "link": "https://danbooru.donmai.us/wiki_pages/ak-47"
+        },
+        {
+          "label": "AKS-47",
+          "tag": "aks-47",
+          "link": "https://danbooru.donmai.us/wiki_pages/aks-47"
+        },
+        {
+          "label": "AK-74",
+          "tag": "ak-74",
+          "link": "https://danbooru.donmai.us/wiki_pages/ak-74"
+        },
+        {
+          "label": "AKS-74",
+          "tag": "aks-74",
+          "link": "https://danbooru.donmai.us/wiki_pages/aks-74"
+        },
+        {
+          "label": "AKS-74U",
+          "tag": "aks-74u",
+          "link": "https://danbooru.donmai.us/wiki_pages/aks-74u"
+        },
+        {
+          "label": "AK-102",
+          "tag": "ak-102",
+          "link": "https://danbooru.donmai.us/wiki_pages/ak-102"
+        },
+        {
+          "label": "AK-105",
+          "tag": "ak-105",
+          "link": "https://danbooru.donmai.us/wiki_pages/ak-105"
+        },
+        {
+          "label": "AK-107",
+          "tag": "ak-107",
+          "link": "https://danbooru.donmai.us/wiki_pages/ak-107"
+        },
+        {
+          "label": "AK-12",
+          "tag": "ak-12",
+          "link": "https://danbooru.donmai.us/wiki_pages/ak-12"
+        },
+        {
+          "label": "AK-15",
+          "tag": "ak-15",
+          "link": "https://danbooru.donmai.us/wiki_pages/ak-15"
+        },
+        {
+          "label": "AN-94",
+          "tag": "an-94",
+          "link": "https://danbooru.donmai.us/wiki_pages/an-94"
+        },
+        {
+          "label": "AKM",
+          "tag": "akm",
+          "link": "https://danbooru.donmai.us/wiki_pages/akm"
+        },
+        {
+          "label": "AKMS",
+          "tag": "akms",
+          "link": "https://danbooru.donmai.us/wiki_pages/akms"
+        },
+        {
+          "label": "AKMSU",
+          "tag": "akmsu",
+          "link": "https://danbooru.donmai.us/wiki_pages/akmsu"
+        },
+        {
+          "label": "APSライフル",
+          "tag": "aps_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/aps_rifle"
+        },
+        {
+          "label": "AR-18",
+          "tag": "ar-18",
+          "link": "https://danbooru.donmai.us/wiki_pages/ar-18"
+        },
+        {
+          "label": "AS VAL",
+          "tag": "as_val",
+          "link": "https://danbooru.donmai.us/wiki_pages/as_val"
+        },
+        {
+          "label": "アダプティブ・コンバット・ライフル",
+          "tag": "adaptive_combat_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/adaptive_combat_rifle"
+        },
+        {
+          "label": "B&T APC556",
+          "tag": "b%26t_apc556",
+          "link": "https://danbooru.donmai.us/wiki_pages/b%26t_apc556"
+        },
+        {
+          "label": "ベレッタ AR70/90",
+          "tag": "beretta_ar70%2F90",
+          "link": "https://danbooru.donmai.us/wiki_pages/beretta_ar70%2F90"
+        },
+        {
+          "label": "CZ 805 ブレン",
+          "tag": "cz_805_bren",
+          "link": "https://danbooru.donmai.us/wiki_pages/cz_805_bren"
+        },
+        {
+          "label": "大宇K1",
+          "tag": "daewoo_k1",
+          "link": "https://danbooru.donmai.us/wiki_pages/daewoo_k1"
+        },
+        {
+          "label": "大宇K11",
+          "tag": "daewoo_k11",
+          "link": "https://danbooru.donmai.us/wiki_pages/daewoo_k11"
+        },
+        {
+          "label": "大宇K2",
+          "tag": "daewoo_k2",
+          "link": "https://danbooru.donmai.us/wiki_pages/daewoo_k2"
+        },
+        {
+          "label": "EM-2",
+          "tag": "em-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/em-2"
+        },
+        {
+          "label": "FADアサルトライフル",
+          "tag": "fad_assault_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/fad_assault_rifle"
+        },
+        {
+          "label": "ファマス",
+          "tag": "famas",
+          "link": "https://danbooru.donmai.us/wiki_pages/famas"
+        },
+        {
+          "label": "FN CAL",
+          "tag": "fn_cal",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_cal"
+        },
+        {
+          "label": "FN F2000",
+          "tag": "fn_f2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_f2000"
+        },
+        {
+          "label": "FN FNC",
+          "tag": "fn_fnc",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_fnc"
+        },
+        {
+          "label": "Ak 5",
+          "tag": "ak_5",
+          "link": "https://danbooru.donmai.us/wiki_pages/ak_5"
+        },
+        {
+          "label": "FB MSBS グロット",
+          "tag": "fb_msbs_grot",
+          "link": "https://danbooru.donmai.us/wiki_pages/fb_msbs_grot"
+        },
+        {
+          "label": "FN SCAR",
+          "tag": "fn_scar",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_scar"
+        },
+        {
+          "label": "FN SCAR 16",
+          "tag": "fn_scar_16",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_scar_16"
+        },
+        {
+          "label": "FX-05 シウコアトル",
+          "tag": "fx-05_xiuhcoatl",
+          "link": "https://danbooru.donmai.us/wiki_pages/fx-05_xiuhcoatl"
+        },
+        {
+          "label": "H&K G11",
+          "tag": "h%26k_g11",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_g11"
+        },
+        {
+          "label": "H&K G36",
+          "tag": "h%26k_g36",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_g36"
+        },
+        {
+          "label": "H&K G36C",
+          "tag": "h%26k_g36c",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_g36c"
+        },
+        {
+          "label": "H&K G41",
+          "tag": "h%26k_g41",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_g41"
+        },
+        {
+          "label": "H&K HK33",
+          "tag": "h%26k_hk33",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk33"
+        },
+        {
+          "label": "H&K HK53",
+          "tag": "h%26k_hk53",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk53"
+        },
+        {
+          "label": "H&K HK416",
+          "tag": "h%26k_hk416",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk416"
+        },
+        {
+          "label": "H&K HK433",
+          "tag": "h%26k_hk433",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk433"
+        },
+        {
+          "label": "H&K XM8",
+          "tag": "h%26k_xm8",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_xm8"
+        },
+        {
+          "label": "豊和89式",
+          "tag": "howa_type_89",
+          "link": "https://danbooru.donmai.us/wiki_pages/howa_type_89"
+        },
+        {
+          "label": "IMIガリルAR、MAR＆SAR",
+          "tag": "imi_galil",
+          "link": "https://danbooru.donmai.us/wiki_pages/imi_galil"
+        },
+        {
+          "label": "IWI ガリル ACE",
+          "tag": "galil_ace",
+          "link": "https://danbooru.donmai.us/wiki_pages/galil_ace"
+        },
+        {
+          "label": "IWI タヴォル",
+          "tag": "iwi_tavor",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwi_tavor"
+        },
+        {
+          "label": "IWI X95",
+          "tag": "iwi_x95",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwi_x95"
+        },
+        {
+          "label": "L85",
+          "tag": "l85",
+          "link": "https://danbooru.donmai.us/wiki_pages/l85"
+        },
+        {
+          "label": "LR-300",
+          "tag": "lr-300",
+          "link": "https://danbooru.donmai.us/wiki_pages/lr-300"
+        },
+        {
+          "label": "M16",
+          "tag": "m16",
+          "link": "https://danbooru.donmai.us/wiki_pages/m16"
+        },
+        {
+          "label": "M16A1",
+          "tag": "m16a1",
+          "link": "https://danbooru.donmai.us/wiki_pages/m16a1"
+        },
+        {
+          "label": "M16A2",
+          "tag": "m16a2",
+          "link": "https://danbooru.donmai.us/wiki_pages/m16a2"
+        },
+        {
+          "label": "M16A4",
+          "tag": "m16a4",
+          "link": "https://danbooru.donmai.us/wiki_pages/m16a4"
+        },
+        {
+          "label": "M4カービン",
+          "tag": "m4_carbine",
+          "link": "https://danbooru.donmai.us/wiki_pages/m4_carbine"
+        },
+        {
+          "label": "MKb42",
+          "tag": "mkb42",
+          "link": "https://danbooru.donmai.us/wiki_pages/mkb42"
+        },
+        {
+          "label": "OTs-12 ティス",
+          "tag": "ots-12",
+          "link": "https://danbooru.donmai.us/wiki_pages/ots-12"
+        },
+        {
+          "label": "OTs-14 グローザ",
+          "tag": "ots-14_groza",
+          "link": "https://danbooru.donmai.us/wiki_pages/ots-14_groza"
+        },
+        {
+          "label": "QBZ-03",
+          "tag": "qbz-03",
+          "link": "https://danbooru.donmai.us/wiki_pages/qbz-03"
+        },
+        {
+          "label": "QBZ-95",
+          "tag": "qbz-95",
+          "link": "https://danbooru.donmai.us/wiki_pages/qbz-95"
+        },
+        {
+          "label": "SIG 516",
+          "tag": "sig_516",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_516"
+        },
+        {
+          "label": "シグ556",
+          "tag": "sig_556",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_556"
+        },
+        {
+          "label": "シグMCX",
+          "tag": "sig_mcx",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_mcx"
+        },
+        {
+          "label": "シグ SG550",
+          "tag": "sig_sg550",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_sg550"
+        },
+        {
+          "label": "シグ SG552",
+          "tag": "sig_sg552",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_sg552"
+        },
+        {
+          "label": "シュタイアーACR",
+          "tag": "steyr_acr",
+          "link": "https://danbooru.donmai.us/wiki_pages/steyr_acr"
+        },
+        {
+          "label": "シュタイアーAUG",
+          "tag": "steyr_aug",
+          "link": "https://danbooru.donmai.us/wiki_pages/steyr_aug"
+        },
+        {
+          "label": "StG44",
+          "tag": "stg44",
+          "link": "https://danbooru.donmai.us/wiki_pages/stg44"
+        },
+        {
+          "label": "StG45",
+          "tag": "stg45",
+          "link": "https://danbooru.donmai.us/wiki_pages/stg45"
+        },
+        {
+          "label": "T65アサルトライフル",
+          "tag": "t65_assault_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/t65_assault_rifle"
+        },
+        {
+          "label": "T91アサルトライフル",
+          "tag": "t91_assault_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/t91_assault_rifle"
+        },
+        {
+          "label": "56式突撃銃",
+          "tag": "type_56_assault_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_56_assault_rifle"
+        },
+        {
+          "label": "63式突撃銃",
+          "tag": "type_63_assault_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_63_assault_rifle"
+        },
+        {
+          "label": "ベクター CR-21",
+          "tag": "vektor_cr-21",
+          "link": "https://danbooru.donmai.us/wiki_pages/vektor_cr-21"
+        },
+        {
+          "label": "XM29 OICW",
+          "tag": "xm29_oicw",
+          "link": "https://danbooru.donmai.us/wiki_pages/xm29_oicw"
+        },
+        {
+          "label": "ザスタバ M21",
+          "tag": "zastava_m21",
+          "link": "https://danbooru.donmai.us/wiki_pages/zastava_m21"
+        },
+        {
+          "label": "ザスタバ M70",
+          "tag": "zastava_m70",
+          "link": "https://danbooru.donmai.us/wiki_pages/zastava_m70"
+        }
+      ]
+    },
+    {
+      "セクション名": "バトルライフル",
+      "タグ一覧": [
+        {
+          "label": "バトルライフル",
+          "tag": "battle_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/battle_rifle"
+        },
+        {
+          "label": "AR-10",
+          "tag": "ar-10",
+          "link": "https://danbooru.donmai.us/wiki_pages/ar-10"
+        },
+        {
+          "label": "ASh-12.7",
+          "tag": "ash-12.7",
+          "link": "https://danbooru.donmai.us/wiki_pages/ash-12.7"
+        },
+        {
+          "label": "CETME モデル 58",
+          "tag": "cetme_model_58",
+          "link": "https://danbooru.donmai.us/wiki_pages/cetme_model_58"
+        },
+        {
+          "label": "フェドロフ・アヴトマート",
+          "tag": "fedorov_avtomat",
+          "link": "https://danbooru.donmai.us/wiki_pages/fedorov_avtomat"
+        },
+        {
+          "label": "FG42",
+          "tag": "fg42",
+          "link": "https://danbooru.donmai.us/wiki_pages/fg42"
+        },
+        {
+          "label": "FN FAL",
+          "tag": "fn_fal",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_fal"
+        },
+        {
+          "label": "FN SCAR 17",
+          "tag": "fn_scar_17",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_scar_17"
+        },
+        {
+          "label": "H&K G28",
+          "tag": "h%26k_g28",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_g28"
+        },
+        {
+          "label": "H&K G3",
+          "tag": "h%26k_g3",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_g3"
+        },
+        {
+          "label": "H&K HK51",
+          "tag": "h%26k_hk51",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk51"
+        },
+        {
+          "label": "H&K HK417",
+          "tag": "h%26k_hk417",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_hk417"
+        },
+        {
+          "label": "64式小銃",
+          "tag": "howa_type_64",
+          "link": "https://danbooru.donmai.us/wiki_pages/howa_type_64"
+        },
+        {
+          "label": "M14",
+          "tag": "m14",
+          "link": "https://danbooru.donmai.us/wiki_pages/m14"
+        },
+        {
+          "label": "シグ SG510",
+          "tag": "sig_sg510",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_sg510"
+        }
+      ]
+    },
+    {
+      "セクション名": "ボルトアクション（従来型）",
+      "タグ一覧": [
+        {
+          "label": "ボルトアクション",
+          "tag": "bolt_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolt_action"
+        },
+        {
+          "label": "有坂",
+          "tag": "arisaka",
+          "link": "https://danbooru.donmai.us/wiki_pages/arisaka"
+        },
+        {
+          "label": "ベルダンライフル",
+          "tag": "berdan_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/berdan_rifle"
+        },
+        {
+          "label": "ベルティエ銃",
+          "tag": "berthier_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/berthier_rifle"
+        },
+        {
+          "label": "デ・リスルカービン",
+          "tag": "de_lisle_carbine",
+          "link": "https://danbooru.donmai.us/wiki_pages/de_lisle_carbine"
+        },
+        {
+          "label": "リー・エンフィールド",
+          "tag": "lee-enfield",
+          "link": "https://danbooru.donmai.us/wiki_pages/lee-enfield"
+        },
+        {
+          "label": "K31",
+          "tag": "k31",
+          "link": "https://danbooru.donmai.us/wiki_pages/k31"
+        },
+        {
+          "label": "クラグ・ヨルゲンセン",
+          "tag": "krag_jorgensen",
+          "link": "https://danbooru.donmai.us/wiki_pages/krag_jorgensen"
+        },
+        {
+          "label": "ルベル モデル 1886",
+          "tag": "lebel_model_1886",
+          "link": "https://danbooru.donmai.us/wiki_pages/lebel_model_1886"
+        },
+        {
+          "label": "M1903 スプリングフィールド",
+          "tag": "m1903_springfield",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1903_springfield"
+        },
+        {
+          "label": "モーゼル98",
+          "tag": "mauser_98",
+          "link": "https://danbooru.donmai.us/wiki_pages/mauser_98"
+        },
+        {
+          "label": "MAS-36",
+          "tag": "mas-36",
+          "link": "https://danbooru.donmai.us/wiki_pages/mas-36"
+        },
+        {
+          "label": "モシン・ナガン",
+          "tag": "mosin-nagant",
+          "link": "https://danbooru.donmai.us/wiki_pages/mosin-nagant"
+        },
+        {
+          "label": "P14 エンフィールド",
+          "tag": "p14_enfield",
+          "link": "https://danbooru.donmai.us/wiki_pages/p14_enfield"
+        },
+        {
+          "label": "レミントン モデル700",
+          "tag": "remington_model_700",
+          "link": "https://danbooru.donmai.us/wiki_pages/remington_model_700"
+        },
+        {
+          "label": "81式カービン",
+          "tag": "type_81_carbine",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_81_carbine"
+        }
+      ]
+    },
+    {
+      "セクション名": "レバーアクション",
+      "タグ一覧": [
+        {
+          "label": "レバーアクション",
+          "tag": "lever_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/lever_action"
+        },
+        {
+          "label": "ヘンリー・ライフル",
+          "tag": "henry_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/henry_rifle"
+        },
+        {
+          "label": "メアーズレッグ",
+          "tag": "mare%27s_leg",
+          "link": "https://danbooru.donmai.us/wiki_pages/mare%27s_leg"
+        },
+        {
+          "label": "ウィンチェスター モデル 1866",
+          "tag": "winchester_model_1866",
+          "link": "https://danbooru.donmai.us/wiki_pages/winchester_model_1866"
+        },
+        {
+          "label": "ウィンチェスター モデル 1894",
+          "tag": "winchester_model_1894",
+          "link": "https://danbooru.donmai.us/wiki_pages/winchester_model_1894"
+        },
+        {
+          "label": "シャープスライフル",
+          "tag": "sharps_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/sharps_rifle"
+        }
+      ]
+    },
+    {
+      "セクション名": "半自動",
+      "タグ一覧": [
+        {
+          "label": "AG42",
+          "tag": "ag42",
+          "link": "https://danbooru.donmai.us/wiki_pages/ag42"
+        },
+        {
+          "label": "AR-15",
+          "tag": "ar-15",
+          "link": "https://danbooru.donmai.us/wiki_pages/ar-15"
+        },
+        {
+          "label": "アーマライト AR-7",
+          "tag": "armalite_ar-7",
+          "link": "https://danbooru.donmai.us/wiki_pages/armalite_ar-7"
+        },
+        {
+          "label": "ゲヴェーア41",
+          "tag": "gewehr_41",
+          "link": "https://danbooru.donmai.us/wiki_pages/gewehr_41"
+        },
+        {
+          "label": "ゲヴェーア43",
+          "tag": "gewehr_43",
+          "link": "https://danbooru.donmai.us/wiki_pages/gewehr_43"
+        },
+        {
+          "label": "H&K SL8",
+          "tag": "h%26k_sl8",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_sl8"
+        },
+        {
+          "label": "ケルテックRFB",
+          "tag": "kel-tec_rfb",
+          "link": "https://danbooru.donmai.us/wiki_pages/kel-tec_rfb"
+        },
+        {
+          "label": "M1カービン",
+          "tag": "m1_carbine",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1_carbine"
+        },
+        {
+          "label": "M1ガーランド",
+          "tag": "m1_garand",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1_garand"
+        },
+        {
+          "label": "ルガー ミニ14",
+          "tag": "ruger_mini-14",
+          "link": "https://danbooru.donmai.us/wiki_pages/ruger_mini-14"
+        },
+        {
+          "label": "サイガ半自動小銃",
+          "tag": "saiga_semi-automatic_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/saiga_semi-automatic_rifle"
+        },
+        {
+          "label": "SKS",
+          "tag": "sks",
+          "link": "https://danbooru.donmai.us/wiki_pages/sks"
+        },
+        {
+          "label": "SVT-38",
+          "tag": "svt-38",
+          "link": "https://danbooru.donmai.us/wiki_pages/svt-38"
+        },
+        {
+          "label": "SVT-40",
+          "tag": "svt-40",
+          "link": "https://danbooru.donmai.us/wiki_pages/svt-40"
+        }
+      ]
+    },
+    {
+      "セクション名": "スナイパーライフル",
+      "タグ一覧": [
+        {
+          "label": "スナイパーライフル",
+          "tag": "sniper_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/sniper_rifle"
+        },
+        {
+          "label": "AI アークティク・ウォーフェア",
+          "tag": "ai_arctic_warfare",
+          "link": "https://danbooru.donmai.us/wiki_pages/ai_arctic_warfare"
+        },
+        {
+          "label": "ブレイザーR93",
+          "tag": "blaser_r93",
+          "link": "https://danbooru.donmai.us/wiki_pages/blaser_r93"
+        },
+        {
+          "label": "チェイタック M200",
+          "tag": "cheytac_m200",
+          "link": "https://danbooru.donmai.us/wiki_pages/cheytac_m200"
+        },
+        {
+          "label": "ドラグノフSVD",
+          "tag": "dragunov_svd",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragunov_svd"
+        },
+        {
+          "label": "ドラグノフSVU",
+          "tag": "dragunov_svu",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragunov_svu"
+        },
+        {
+          "label": "FNバリスタ",
+          "tag": "fn_ballista",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_ballista"
+        },
+        {
+          "label": "FN Mk 20 SSR",
+          "tag": "fn_mk_20_ssr",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_mk_20_ssr"
+        },
+        {
+          "label": "FN SPR A3G",
+          "tag": "fn_spr_a3g",
+          "link": "https://danbooru.donmai.us/wiki_pages/fn_spr_a3g"
+        },
+        {
+          "label": "イウィダン.338",
+          "tag": "iwi_dan_.338",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwi_dan_.338"
+        },
+        {
+          "label": "M110 SASS",
+          "tag": "m110_sass",
+          "link": "https://danbooru.donmai.us/wiki_pages/m110_sass"
+        },
+        {
+          "label": "Mk 14 EBR",
+          "tag": "mk_14_ebr",
+          "link": "https://danbooru.donmai.us/wiki_pages/mk_14_ebr"
+        },
+        {
+          "label": "H&K MSG90",
+          "tag": "h%26k_msg90",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_msg90"
+        },
+        {
+          "label": "H&K PSG1",
+          "tag": "h%26k_psg1",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_psg1"
+        },
+        {
+          "label": "IMI ガリル・ガラッツ",
+          "tag": "imi_galil_galatz",
+          "link": "https://danbooru.donmai.us/wiki_pages/imi_galil_galatz"
+        },
+        {
+          "label": "PSLロマク",
+          "tag": "psl_romak",
+          "link": "https://danbooru.donmai.us/wiki_pages/psl_romak"
+        },
+        {
+          "label": "レミントン MSR",
+          "tag": "remington_msr",
+          "link": "https://danbooru.donmai.us/wiki_pages/remington_msr"
+        },
+        {
+          "label": "SR-25",
+          "tag": "sr-25",
+          "link": "https://danbooru.donmai.us/wiki_pages/sr-25"
+        },
+        {
+          "label": "SV-98",
+          "tag": "sv-98",
+          "link": "https://danbooru.donmai.us/wiki_pages/sv-98"
+        },
+        {
+          "label": "VSS ヴィントレス",
+          "tag": "vss_vintorez",
+          "link": "https://danbooru.donmai.us/wiki_pages/vss_vintorez"
+        },
+        {
+          "label": "ヴィクロップ VKS/VSSK",
+          "tag": "vychlop_vks%2Fvssk",
+          "link": "https://danbooru.donmai.us/wiki_pages/vychlop_vks%2Fvssk"
+        },
+        {
+          "label": "ワルサー WA 2000",
+          "tag": "walther_wa_2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/walther_wa_2000"
+        },
+        {
+          "label": "XM2010 強化スナイパーライフル（ESR）",
+          "tag": "xm2010",
+          "link": "https://danbooru.donmai.us/wiki_pages/xm2010"
+        }
+      ]
+    },
+    {
+      "セクション名": "ショットガン",
+      "タグ一覧": [
+        {
+          "label": "ショットガン",
+          "tag": "shotgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/shotgun"
+        },
+        {
+          "label": "二連式散弾銃",
+          "tag": "double-barreled_shotgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/double-barreled_shotgun"
+        },
+        {
+          "label": "ソードオフショットガン",
+          "tag": "sawed-off_shotgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/sawed-off_shotgun"
+        },
+        {
+          "label": "アンダーバレルショットガン",
+          "tag": "underbarrel_shotgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/underbarrel_shotgun"
+        }
+      ]
+    },
+    {
+      "セクション名": "中折れ式・レバー式・ポンプ式",
+      "タグ一覧": [
+        {
+          "label": "中折れ式",
+          "tag": "break_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/break_action"
+        },
+        {
+          "label": "レバーアクション",
+          "tag": "lever_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/lever_action"
+        },
+        {
+          "label": "ポンプアクション",
+          "tag": "pump_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/pump_action"
+        },
+        {
+          "label": "ファバームSDASS",
+          "tag": "fabarm_sdass",
+          "link": "https://danbooru.donmai.us/wiki_pages/fabarm_sdass"
+        },
+        {
+          "label": "イサカ M37",
+          "tag": "ithaca_m37",
+          "link": "https://danbooru.donmai.us/wiki_pages/ithaca_m37"
+        },
+        {
+          "label": "KS-23",
+          "tag": "ks-23",
+          "link": "https://danbooru.donmai.us/wiki_pages/ks-23"
+        },
+        {
+          "label": "M26-MASS",
+          "tag": "m26-mass",
+          "link": "https://danbooru.donmai.us/wiki_pages/m26-mass"
+        },
+        {
+          "label": "モスバーグ500",
+          "tag": "mossberg_500",
+          "link": "https://danbooru.donmai.us/wiki_pages/mossberg_500"
+        },
+        {
+          "label": "レミントン870",
+          "tag": "remington_870",
+          "link": "https://danbooru.donmai.us/wiki_pages/remington_870"
+        },
+        {
+          "label": "RMB-93",
+          "tag": "rmb-93",
+          "link": "https://danbooru.donmai.us/wiki_pages/rmb-93"
+        },
+        {
+          "label": "スタンダード・マニュファクチャリング DP-12",
+          "tag": "standard_manufacturing_dp-12",
+          "link": "https://danbooru.donmai.us/wiki_pages/standard_manufacturing_dp-12"
+        },
+        {
+          "label": "ウィンチェスター モデル 1897",
+          "tag": "winchester_model_1897",
+          "link": "https://danbooru.donmai.us/wiki_pages/winchester_model_1897"
+        }
+      ]
+    },
+    {
+      "セクション名": "半自動および選択射撃",
+      "タグ一覧": [
+        {
+          "label": "AA-12",
+          "tag": "aa-12",
+          "link": "https://danbooru.donmai.us/wiki_pages/aa-12"
+        },
+        {
+          "label": "ベネリM4",
+          "tag": "benelli_m4",
+          "link": "https://danbooru.donmai.us/wiki_pages/benelli_m4"
+        },
+        {
+          "label": "ブローニングオート5",
+          "tag": "browning_auto_5",
+          "link": "https://danbooru.donmai.us/wiki_pages/browning_auto_5"
+        },
+        {
+          "label": "ファバームSAT-8",
+          "tag": "fabarm_sat-8",
+          "link": "https://danbooru.donmai.us/wiki_pages/fabarm_sat-8"
+        },
+        {
+          "label": "IWI タボール TS12",
+          "tag": "iwi_tavor_ts12",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwi_tavor_ts12"
+        },
+        {
+          "label": "MP-155 アルティマ",
+          "tag": "mp-155",
+          "link": "https://danbooru.donmai.us/wiki_pages/mp-155"
+        },
+        {
+          "label": "サイガ-12",
+          "tag": "saiga-12",
+          "link": "https://danbooru.donmai.us/wiki_pages/saiga-12"
+        },
+        {
+          "label": "SPAS-12",
+          "tag": "spas-12",
+          "link": "https://danbooru.donmai.us/wiki_pages/spas-12"
+        },
+        {
+          "label": "SPAS-15",
+          "tag": "spas-15",
+          "link": "https://danbooru.donmai.us/wiki_pages/spas-15"
+        },
+        {
+          "label": "USAS-12",
+          "tag": "usas-12",
+          "link": "https://danbooru.donmai.us/wiki_pages/usas-12"
+        }
+      ]
+    },
+    {
+      "セクション名": "サブマシンガン",
+      "タグ一覧": [
+        {
+          "label": "サブマシンガン",
+          "tag": "submachine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/submachine_gun"
+        },
+        {
+          "label": "アーセナル・シプカ",
+          "tag": "arsenal_shipka",
+          "link": "https://danbooru.donmai.us/wiki_pages/arsenal_shipka"
+        },
+        {
+          "label": "ベレッタM12",
+          "tag": "beretta_m12",
+          "link": "https://danbooru.donmai.us/wiki_pages/beretta_m12"
+        },
+        {
+          "label": "B&T APC",
+          "tag": "b%26t_apc",
+          "link": "https://danbooru.donmai.us/wiki_pages/b%26t_apc"
+        },
+        {
+          "label": "B&T MP9",
+          "tag": "b%26t_mp9",
+          "link": "https://danbooru.donmai.us/wiki_pages/b%26t_mp9"
+        },
+        {
+          "label": "カリコサブマシンガン",
+          "tag": "calico_smg",
+          "link": "https://danbooru.donmai.us/wiki_pages/calico_smg"
+        },
+        {
+          "label": "CBJ-MS",
+          "tag": "cbj-ms",
+          "link": "https://danbooru.donmai.us/wiki_pages/cbj-ms"
+        },
+        {
+          "label": "コルト 9mmサブマシンガン",
+          "tag": "colt_9mm_smg",
+          "link": "https://danbooru.donmai.us/wiki_pages/colt_9mm_smg"
+        },
+        {
+          "label": "大宇K7",
+          "tag": "daewoo_k7",
+          "link": "https://danbooru.donmai.us/wiki_pages/daewoo_k7"
+        },
+        {
+          "label": "ジャティマティック",
+          "tag": "jatimatic",
+          "link": "https://danbooru.donmai.us/wiki_pages/jatimatic"
+        },
+        {
+          "label": "H&K MP5",
+          "tag": "h%26k_mp5",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_mp5"
+        },
+        {
+          "label": "H&K MP5K",
+          "tag": "h%26k_mp5k",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_mp5k"
+        },
+        {
+          "label": "H&K MP5SD",
+          "tag": "h%26k_mp5sd",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_mp5sd"
+        },
+        {
+          "label": "H&K MP7",
+          "tag": "h%26k_mp7",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_mp7"
+        },
+        {
+          "label": "H&K UMP",
+          "tag": "h%26k_ump",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26k_ump"
+        },
+        {
+          "label": "IWI X95 9mm",
+          "tag": "iwi_x95",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwi_x95"
+        },
+        {
+          "label": "クリスベクター",
+          "tag": "kriss_vector",
+          "link": "https://danbooru.donmai.us/wiki_pages/kriss_vector"
+        },
+        {
+          "label": "ランチェスターサブマシンガン",
+          "tag": "lanchester_smg",
+          "link": "https://danbooru.donmai.us/wiki_pages/lanchester_smg"
+        },
+        {
+          "label": "M3グリースガン",
+          "tag": "m3_submachine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/m3_submachine_gun"
+        },
+        {
+          "label": "M50 ライジング",
+          "tag": "m50_reising",
+          "link": "https://danbooru.donmai.us/wiki_pages/m50_reising"
+        },
+        {
+          "label": "MAC-10とMAC-11",
+          "tag": "mac-10%2F11",
+          "link": "https://danbooru.donmai.us/wiki_pages/mac-10%2F11"
+        },
+        {
+          "label": "マグプル FMG-9",
+          "tag": "magpul_fmg-9",
+          "link": "https://danbooru.donmai.us/wiki_pages/magpul_fmg-9"
+        },
+        {
+          "label": "マグプルPDR",
+          "tag": "magpul_pdr",
+          "link": "https://danbooru.donmai.us/wiki_pages/magpul_pdr"
+        },
+        {
+          "label": "MAT-49",
+          "tag": "mat-49",
+          "link": "https://danbooru.donmai.us/wiki_pages/mat-49"
+        },
+        {
+          "label": "MP3008",
+          "tag": "mp3008",
+          "link": "https://danbooru.donmai.us/wiki_pages/mp3008"
+        },
+        {
+          "label": "MP40",
+          "tag": "mp40",
+          "link": "https://danbooru.donmai.us/wiki_pages/mp40"
+        },
+        {
+          "label": "MP41",
+          "tag": "mp41",
+          "link": "https://danbooru.donmai.us/wiki_pages/mp41"
+        },
+        {
+          "label": "OTs-02 キパリス",
+          "tag": "ots-02_kiparis",
+          "link": "https://danbooru.donmai.us/wiki_pages/ots-02_kiparis"
+        },
+        {
+          "label": "P90",
+          "tag": "p90",
+          "link": "https://danbooru.donmai.us/wiki_pages/p90"
+        },
+        {
+          "label": "PM-63 RAK",
+          "tag": "pm-63_rak",
+          "link": "https://danbooru.donmai.us/wiki_pages/pm-63_rak"
+        },
+        {
+          "label": "PM-84 グラウベリット",
+          "tag": "pm-84_glauberyt",
+          "link": "https://danbooru.donmai.us/wiki_pages/pm-84_glauberyt"
+        },
+        {
+          "label": "PP-19-01 ヴィティアズ",
+          "tag": "pp-19-01_vityaz",
+          "link": "https://danbooru.donmai.us/wiki_pages/pp-19-01_vityaz"
+        },
+        {
+          "label": "PP-19 ビゾン",
+          "tag": "pp-19_bizon",
+          "link": "https://danbooru.donmai.us/wiki_pages/pp-19_bizon"
+        },
+        {
+          "label": "PP-90",
+          "tag": "pp-90",
+          "link": "https://danbooru.donmai.us/wiki_pages/pp-90"
+        },
+        {
+          "label": "PP-90M1",
+          "tag": "pp-90m1",
+          "link": "https://danbooru.donmai.us/wiki_pages/pp-90m1"
+        },
+        {
+          "label": "PP-91 ケドル",
+          "tag": "pp-91_kedr",
+          "link": "https://danbooru.donmai.us/wiki_pages/pp-91_kedr"
+        },
+        {
+          "label": "PP-2000",
+          "tag": "pp-2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/pp-2000"
+        },
+        {
+          "label": "PPD-40",
+          "tag": "ppd-40",
+          "link": "https://danbooru.donmai.us/wiki_pages/ppd-40"
+        },
+        {
+          "label": "PPS-43",
+          "tag": "pps-43",
+          "link": "https://danbooru.donmai.us/wiki_pages/pps-43"
+        },
+        {
+          "label": "PPSh-41",
+          "tag": "ppsh-41",
+          "link": "https://danbooru.donmai.us/wiki_pages/ppsh-41"
+        },
+        {
+          "label": "シグMKMS",
+          "tag": "sig_mkms",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_mkms"
+        },
+        {
+          "label": "シグ MPX",
+          "tag": "sig_mpx",
+          "link": "https://danbooru.donmai.us/wiki_pages/sig_mpx"
+        },
+        {
+          "label": "スコーピオン Vz. 61",
+          "tag": "skorpion_vz._61",
+          "link": "https://danbooru.donmai.us/wiki_pages/skorpion_vz._61"
+        },
+        {
+          "label": "SR-2 ヴェレスク",
+          "tag": "sr-2_veresk",
+          "link": "https://danbooru.donmai.us/wiki_pages/sr-2_veresk"
+        },
+        {
+          "label": "スターリングサブマシンガン",
+          "tag": "sterling_smg",
+          "link": "https://danbooru.donmai.us/wiki_pages/sterling_smg"
+        },
+        {
+          "label": "スターモデルZ62",
+          "tag": "star_model_z62",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_model_z62"
+        },
+        {
+          "label": "シュタイアーAUGパラ",
+          "tag": "steyr_aug_para",
+          "link": "https://danbooru.donmai.us/wiki_pages/steyr_aug_para"
+        },
+        {
+          "label": "ステンガン",
+          "tag": "sten_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/sten_gun"
+        },
+        {
+          "label": "スオミ KP/-31",
+          "tag": "suomi_kp%2F-31",
+          "link": "https://danbooru.donmai.us/wiki_pages/suomi_kp%2F-31"
+        },
+        {
+          "label": "T77サブマシンガン",
+          "tag": "t77_submachine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/t77_submachine_gun"
+        },
+        {
+          "label": "トンプソンサブマシンガン",
+          "tag": "thompson_submachine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/thompson_submachine_gun"
+        },
+        {
+          "label": "100式サブマシンガン",
+          "tag": "type_100_smg",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_100_smg"
+        },
+        {
+          "label": "64式サブマシンガン",
+          "tag": "type_64_smg",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_64_smg"
+        },
+        {
+          "label": "ウジ",
+          "tag": "uzi",
+          "link": "https://danbooru.donmai.us/wiki_pages/uzi"
+        },
+        {
+          "label": "マイクロウージー",
+          "tag": "micro_uzi",
+          "link": "https://danbooru.donmai.us/wiki_pages/micro_uzi"
+        },
+        {
+          "label": "ミニウージー",
+          "tag": "mini_uzi",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_uzi"
+        },
+        {
+          "label": "ヴィニュロンサブマシンガン",
+          "tag": "vigneron_submachine_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/vigneron_submachine_gun"
+        },
+        {
+          "label": "ワルサーMP",
+          "tag": "walther_mp",
+          "link": "https://danbooru.donmai.us/wiki_pages/walther_mp"
+        },
+        {
+          "label": "ザスタバ M56",
+          "tag": "zastava_m56",
+          "link": "https://danbooru.donmai.us/wiki_pages/zastava_m56"
+        }
+      ]
+    },
+    {
+      "セクション名": "指向性エネルギー兵器",
+      "タグ一覧": [
+        {
+          "label": "エネルギー銃",
+          "tag": "energy_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/energy_gun"
+        },
+        {
+          "label": "レーザ",
+          "tag": "laser",
+          "link": "https://danbooru.donmai.us/wiki_pages/laser"
+        },
+        {
+          "label": "レーザーライフル",
+          "tag": "laser_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/laser_rifle"
+        },
+        {
+          "label": "みくるビーム",
+          "tag": "mikuru_beam",
+          "link": "https://danbooru.donmai.us/wiki_pages/mikuru_beam"
+        },
+        {
+          "label": "ビームライフル",
+          "tag": "beam_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/beam_rifle"
+        },
+        {
+          "label": "プラズマライフル",
+          "tag": "plasma_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/plasma_rifle"
+        },
+        {
+          "label": "光線銃",
+          "tag": "ray_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/ray_gun"
+        },
+        {
+          "label": "重力子ビームエミッター",
+          "tag": "graviton_beam_emitter",
+          "link": "https://danbooru.donmai.us/wiki_pages/graviton_beam_emitter"
+        }
+      ]
+    },
+    {
+      "セクション名": "近接武器",
+      "タグ一覧": [
+        {
+          "label": "腕の刃",
+          "tag": "arm_blade",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_blade"
+        },
+        {
+          "label": "斧",
+          "tag": "axe",
+          "link": "https://danbooru.donmai.us/wiki_pages/axe"
+        },
+        {
+          "label": "戦斧",
+          "tag": "battle_axe",
+          "link": "https://danbooru.donmai.us/wiki_pages/battle_axe"
+        },
+        {
+          "label": "両刃斧",
+          "tag": "double-sided_axe",
+          "link": "https://danbooru.donmai.us/wiki_pages/double-sided_axe"
+        },
+        {
+          "label": "マインクラフトの斧",
+          "tag": "minecraft_axe",
+          "link": "https://danbooru.donmai.us/wiki_pages/minecraft_axe"
+        },
+        {
+          "label": "トマホーク",
+          "tag": "tomahawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/tomahawk"
+        },
+        {
+          "label": "鉄球と鎖",
+          "tag": "ball_and_chain_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ball_and_chain_%28weapon%29"
+        },
+        {
+          "label": "スパイク付きボールとチェーン",
+          "tag": "spiked_ball_and_chain",
+          "link": "https://danbooru.donmai.us/wiki_pages/spiked_ball_and_chain"
+        },
+        {
+          "label": "バトン",
+          "tag": "baton_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/baton_%28weapon%29"
+        },
+        {
+          "label": "伸縮式バトン",
+          "tag": "expandable_baton",
+          "link": "https://danbooru.donmai.us/wiki_pages/expandable_baton"
+        },
+        {
+          "label": "銃剣",
+          "tag": "bayonet",
+          "link": "https://danbooru.donmai.us/wiki_pages/bayonet"
+        },
+        {
+          "label": "棒（武器）",
+          "tag": "bo_staff",
+          "link": "https://danbooru.donmai.us/wiki_pages/bo_staff"
+        },
+        {
+          "label": "チェーンブレード",
+          "tag": "chain_blades",
+          "link": "https://danbooru.donmai.us/wiki_pages/chain_blades"
+        },
+        {
+          "label": "棍棒",
+          "tag": "club_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_%28weapon%29"
+        },
+        {
+          "label": "金棒",
+          "tag": "kanabou",
+          "link": "https://danbooru.donmai.us/wiki_pages/kanabou"
+        },
+        {
+          "label": "中国刀",
+          "tag": "dao",
+          "link": "https://danbooru.donmai.us/wiki_pages/dao"
+        },
+        {
+          "label": "両刃",
+          "tag": "double_blade",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_blade"
+        },
+        {
+          "label": "ファルカタ",
+          "tag": "falcata",
+          "link": "https://danbooru.donmai.us/wiki_pages/falcata"
+        },
+        {
+          "label": "ファルシオン（武器）",
+          "tag": "falchion_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/falchion_%28weapon%29"
+        },
+        {
+          "label": "フレイル",
+          "tag": "flail",
+          "link": "https://danbooru.donmai.us/wiki_pages/flail"
+        },
+        {
+          "label": "ガンブレード",
+          "tag": "gunblade",
+          "link": "https://danbooru.donmai.us/wiki_pages/gunblade"
+        },
+        {
+          "label": "ハンマー",
+          "tag": "hammer",
+          "link": "https://danbooru.donmai.us/wiki_pages/hammer"
+        },
+        {
+          "label": "スレッジハンマー",
+          "tag": "sledgehammer",
+          "link": "https://danbooru.donmai.us/wiki_pages/sledgehammer"
+        },
+        {
+          "label": "戦鎚",
+          "tag": "war_hammer",
+          "link": "https://danbooru.donmai.us/wiki_pages/war_hammer"
+        },
+        {
+          "label": "剣（中国の両刃剣）",
+          "tag": "jian_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jian_%28weapon%29"
+        },
+        {
+          "label": "十手",
+          "tag": "jitte",
+          "link": "https://danbooru.donmai.us/wiki_pages/jitte"
+        },
+        {
+          "label": "ジャマダール",
+          "tag": "jamadhar",
+          "link": "https://danbooru.donmai.us/wiki_pages/jamadhar"
+        },
+        {
+          "label": "ナイフ",
+          "tag": "knife",
+          "link": "https://danbooru.donmai.us/wiki_pages/knife"
+        },
+        {
+          "label": "コンバットナイフ",
+          "tag": "combat_knife",
+          "link": "https://danbooru.donmai.us/wiki_pages/combat_knife"
+        },
+        {
+          "label": "短剣",
+          "tag": "dagger",
+          "link": "https://danbooru.donmai.us/wiki_pages/dagger"
+        },
+        {
+          "label": "クリス",
+          "tag": "kris_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kris_%28weapon%29"
+        },
+        {
+          "label": "ククリ",
+          "tag": "kukri",
+          "link": "https://danbooru.donmai.us/wiki_pages/kukri"
+        },
+        {
+          "label": "クナイ",
+          "tag": "kunai",
+          "link": "https://danbooru.donmai.us/wiki_pages/kunai"
+        },
+        {
+          "label": "メイス",
+          "tag": "mace",
+          "link": "https://danbooru.donmai.us/wiki_pages/mace"
+        },
+        {
+          "label": "フランジ付きメイス",
+          "tag": "flanged_mace",
+          "link": "https://danbooru.donmai.us/wiki_pages/flanged_mace"
+        },
+        {
+          "label": "スパイクメイス",
+          "tag": "spiked_mace",
+          "link": "https://danbooru.donmai.us/wiki_pages/spiked_mace"
+        },
+        {
+          "label": "マチェーテ",
+          "tag": "machete",
+          "link": "https://danbooru.donmai.us/wiki_pages/machete"
+        },
+        {
+          "label": "マクアウィトル",
+          "tag": "macuahuitl",
+          "link": "https://danbooru.donmai.us/wiki_pages/macuahuitl"
+        },
+        {
+          "label": "ヌンチャク",
+          "tag": "nunchaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/nunchaku"
+        },
+        {
+          "label": "長柄武器",
+          "tag": "polearm",
+          "link": "https://danbooru.donmai.us/wiki_pages/polearm"
+        },
+        {
+          "label": "バルディッシュ（武器）",
+          "tag": "bardiche_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bardiche_%28weapon%29"
+        },
+        {
+          "label": "鉤爪",
+          "tag": "billhook",
+          "link": "https://danbooru.donmai.us/wiki_pages/billhook"
+        },
+        {
+          "label": "短剣斧",
+          "tag": "dagger_axe",
+          "link": "https://danbooru.donmai.us/wiki_pages/dagger_axe"
+        },
+        {
+          "label": "グレイヴ",
+          "tag": "glaive_%28polearm%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/glaive_%28polearm%29"
+        },
+        {
+          "label": "関刀",
+          "tag": "guan_dao",
+          "link": "https://danbooru.donmai.us/wiki_pages/guan_dao"
+        },
+        {
+          "label": "ハルバード",
+          "tag": "halberd",
+          "link": "https://danbooru.donmai.us/wiki_pages/halberd"
+        },
+        {
+          "label": "なぎまき",
+          "tag": "nagimaki",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagimaki"
+        },
+        {
+          "label": "薙刀",
+          "tag": "naginata",
+          "link": "https://danbooru.donmai.us/wiki_pages/naginata"
+        },
+        {
+          "label": "パルチザン",
+          "tag": "partisan_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/partisan_%28weapon%29"
+        },
+        {
+          "label": "ポールハンマー",
+          "tag": "polehammer",
+          "link": "https://danbooru.donmai.us/wiki_pages/polehammer"
+        },
+        {
+          "label": "サスマタ",
+          "tag": "sasumata",
+          "link": "https://danbooru.donmai.us/wiki_pages/sasumata"
+        },
+        {
+          "label": "鎌",
+          "tag": "scythe",
+          "link": "https://danbooru.donmai.us/wiki_pages/scythe"
+        },
+        {
+          "label": "槍",
+          "tag": "spear",
+          "link": "https://danbooru.donmai.us/wiki_pages/spear"
+        },
+        {
+          "label": "二叉槍",
+          "tag": "bident",
+          "link": "https://danbooru.donmai.us/wiki_pages/bident"
+        },
+        {
+          "label": "方天戟",
+          "tag": "fangtian_ji",
+          "link": "https://danbooru.donmai.us/wiki_pages/fangtian_ji"
+        },
+        {
+          "label": "ランス",
+          "tag": "lance",
+          "link": "https://danbooru.donmai.us/wiki_pages/lance"
+        },
+        {
+          "label": "槍（武器）",
+          "tag": "pike_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pike_%28weapon%29"
+        },
+        {
+          "label": "剣杖",
+          "tag": "swordstaff",
+          "link": "https://danbooru.donmai.us/wiki_pages/swordstaff"
+        },
+        {
+          "label": "トライデント",
+          "tag": "trident",
+          "link": "https://danbooru.donmai.us/wiki_pages/trident"
+        },
+        {
+          "label": "槍",
+          "tag": "yari",
+          "link": "https://danbooru.donmai.us/wiki_pages/yari"
+        },
+        {
+          "label": "十文字槍",
+          "tag": "juumonji_yari",
+          "link": "https://danbooru.donmai.us/wiki_pages/juumonji_yari"
+        },
+        {
+          "label": "サイ",
+          "tag": "sai_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sai_%28weapon%29"
+        },
+        {
+          "label": "鎌",
+          "tag": "sickle",
+          "link": "https://danbooru.donmai.us/wiki_pages/sickle"
+        },
+        {
+          "label": "スイッチアックス",
+          "tag": "switch_axe",
+          "link": "https://danbooru.donmai.us/wiki_pages/switch_axe"
+        },
+        {
+          "label": "剣",
+          "tag": "sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/sword"
+        },
+        {
+          "label": "隠し武器",
+          "tag": "concealed_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/concealed_weapon"
+        },
+        {
+          "label": "カットラス",
+          "tag": "cutlass",
+          "link": "https://danbooru.donmai.us/wiki_pages/cutlass"
+        },
+        {
+          "label": "中国刀",
+          "tag": "dao",
+          "link": "https://danbooru.donmai.us/wiki_pages/dao"
+        },
+        {
+          "label": "大剣",
+          "tag": "greatsword",
+          "link": "https://danbooru.donmai.us/wiki_pages/greatsword"
+        },
+        {
+          "label": "クレイモア（剣）",
+          "tag": "claymore_%28sword%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/claymore_%28sword%29"
+        },
+        {
+          "label": "ツヴァイヘンダー",
+          "tag": "zweihander",
+          "link": "https://danbooru.donmai.us/wiki_pages/zweihander"
+        },
+        {
+          "label": "フランベルジュ",
+          "tag": "flamberge",
+          "link": "https://danbooru.donmai.us/wiki_pages/flamberge"
+        },
+        {
+          "label": "剣（中国の両刃剣）",
+          "tag": "jian_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jian_%28weapon%29"
+        },
+        {
+          "label": "刀",
+          "tag": "katana",
+          "link": "https://danbooru.donmai.us/wiki_pages/katana"
+        },
+        {
+          "label": "直刀",
+          "tag": "chokutou",
+          "link": "https://danbooru.donmai.us/wiki_pages/chokutou"
+        },
+        {
+          "label": "長巻",
+          "tag": "nagamaki",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagamaki"
+        },
+        {
+          "label": "大太刀",
+          "tag": "ootachi",
+          "link": "https://danbooru.donmai.us/wiki_pages/ootachi"
+        },
+        {
+          "label": "太刀",
+          "tag": "tachi_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tachi_%28weapon%29"
+        },
+        {
+          "label": "長剣",
+          "tag": "long_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_sword"
+        },
+        {
+          "label": "エストック（武器）",
+          "tag": "estoc_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/estoc_%28weapon%29"
+        },
+        {
+          "label": "戦争メッサー",
+          "tag": "kriegsmesser",
+          "link": "https://danbooru.donmai.us/wiki_pages/kriegsmesser"
+        },
+        {
+          "label": "シュチェルビエツ",
+          "tag": "szczerbiec",
+          "link": "https://danbooru.donmai.us/wiki_pages/szczerbiec"
+        },
+        {
+          "label": "マインクラフトの剣",
+          "tag": "minecraft_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/minecraft_sword"
+        },
+        {
+          "label": "レイピア",
+          "tag": "rapier",
+          "link": "https://danbooru.donmai.us/wiki_pages/rapier"
+        },
+        {
+          "label": "サーベル",
+          "tag": "saber_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/saber_%28weapon%29"
+        },
+        {
+          "label": "シミター",
+          "tag": "scimitar",
+          "link": "https://danbooru.donmai.us/wiki_pages/scimitar"
+        },
+        {
+          "label": "シャシュカ",
+          "tag": "shashka",
+          "link": "https://danbooru.donmai.us/wiki_pages/shashka"
+        },
+        {
+          "label": "短剣",
+          "tag": "short_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/short_sword"
+        },
+        {
+          "label": "チンクエデア",
+          "tag": "cinquedea",
+          "link": "https://danbooru.donmai.us/wiki_pages/cinquedea"
+        },
+        {
+          "label": "グラディウス",
+          "tag": "gladius",
+          "link": "https://danbooru.donmai.us/wiki_pages/gladius"
+        },
+        {
+          "label": "カッツバルガー",
+          "tag": "katzbalger",
+          "link": "https://danbooru.donmai.us/wiki_pages/katzbalger"
+        },
+        {
+          "label": "小太刀",
+          "tag": "kodachi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kodachi"
+        },
+        {
+          "label": "忍者刀",
+          "tag": "ninjatou",
+          "link": "https://danbooru.donmai.us/wiki_pages/ninjatou"
+        },
+        {
+          "label": "短刀",
+          "tag": "tantou",
+          "link": "https://danbooru.donmai.us/wiki_pages/tantou"
+        },
+        {
+          "label": "ショーテル",
+          "tag": "shotel",
+          "link": "https://danbooru.donmai.us/wiki_pages/shotel"
+        },
+        {
+          "label": "鎌",
+          "tag": "sickle",
+          "link": "https://danbooru.donmai.us/wiki_pages/sickle"
+        },
+        {
+          "label": "蛇腹剣",
+          "tag": "whip_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/whip_sword"
+        },
+        {
+          "label": "クリスタルソード",
+          "tag": "crystal_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/crystal_sword"
+        },
+        {
+          "label": "エネルギーソード",
+          "tag": "energy_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/energy_sword"
+        },
+        {
+          "label": "ライトセーバー",
+          "tag": "lightsaber",
+          "link": "https://danbooru.donmai.us/wiki_pages/lightsaber"
+        },
+        {
+          "label": "サーベルスタッフ",
+          "tag": "saberstaff",
+          "link": "https://danbooru.donmai.us/wiki_pages/saberstaff"
+        },
+        {
+          "label": "エネルギーソード",
+          "tag": "energy_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/energy_sword"
+        },
+        {
+          "label": "風火輪",
+          "tag": "windfire_wheel",
+          "link": "https://danbooru.donmai.us/wiki_pages/windfire_wheel"
+        },
+        {
+          "label": "三節棍",
+          "tag": "three_section_staff",
+          "link": "https://danbooru.donmai.us/wiki_pages/three_section_staff"
+        },
+        {
+          "label": "竹刀",
+          "tag": "shinai",
+          "link": "https://danbooru.donmai.us/wiki_pages/shinai"
+        },
+        {
+          "label": "木刀",
+          "tag": "wooden_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/wooden_sword"
+        },
+        {
+          "label": "木刀",
+          "tag": "bokken",
+          "link": "https://danbooru.donmai.us/wiki_pages/bokken"
+        },
+        {
+          "label": "トンファー",
+          "tag": "tonfa",
+          "link": "https://danbooru.donmai.us/wiki_pages/tonfa"
+        }
+      ]
+    },
+    {
+      "セクション名": "遠距離攻撃（銃器以外）",
+      "タグ一覧": [
+        {
+          "label": "弓",
+          "tag": "bow_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bow_%28weapon%29"
+        },
+        {
+          "label": "矢",
+          "tag": "arrow_%28projectile%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/arrow_%28projectile%29"
+        },
+        {
+          "label": "弓（ゆみ）",
+          "tag": "yumi_%28bow%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yumi_%28bow%29"
+        },
+        {
+          "label": "チャクラム",
+          "tag": "chakram",
+          "link": "https://danbooru.donmai.us/wiki_pages/chakram"
+        },
+        {
+          "label": "クロスボウ",
+          "tag": "crossbow",
+          "link": "https://danbooru.donmai.us/wiki_pages/crossbow"
+        },
+        {
+          "label": "手裏剣",
+          "tag": "shuriken",
+          "link": "https://danbooru.donmai.us/wiki_pages/shuriken"
+        },
+        {
+          "label": "スリング",
+          "tag": "sling_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sling_%28weapon%29"
+        },
+        {
+          "label": "パチンコ",
+          "tag": "slingshot_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/slingshot_%28weapon%29"
+        },
+        {
+          "label": "投げナイフ",
+          "tag": "throwing_knife",
+          "link": "https://danbooru.donmai.us/wiki_pages/throwing_knife"
+        },
+        {
+          "label": "黒鍵",
+          "tag": "black_keys_%28type-moon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_keys_%28type-moon%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の武器",
+      "タグ一覧": [
+        {
+          "label": "野球のバット",
+          "tag": "baseball_bat",
+          "link": "https://danbooru.donmai.us/wiki_pages/baseball_bat"
+        },
+        {
+          "label": "釘バット",
+          "tag": "nail_bat",
+          "link": "https://danbooru.donmai.us/wiki_pages/nail_bat"
+        },
+        {
+          "label": "ブラスナックル",
+          "tag": "brass_knuckles",
+          "link": "https://danbooru.donmai.us/wiki_pages/brass_knuckles"
+        },
+        {
+          "label": "スパイク付きナックル",
+          "tag": "spiked_knuckles",
+          "link": "https://danbooru.donmai.us/wiki_pages/spiked_knuckles"
+        },
+        {
+          "label": "チェーンソー",
+          "tag": "chainsaw",
+          "link": "https://danbooru.donmai.us/wiki_pages/chainsaw"
+        },
+        {
+          "label": "バール",
+          "tag": "crowbar",
+          "link": "https://danbooru.donmai.us/wiki_pages/crowbar"
+        },
+        {
+          "label": "ドリル",
+          "tag": "drill",
+          "link": "https://danbooru.donmai.us/wiki_pages/drill"
+        },
+        {
+          "label": "火炎放射器",
+          "tag": "flamethrower",
+          "link": "https://danbooru.donmai.us/wiki_pages/flamethrower"
+        },
+        {
+          "label": "閃光弾",
+          "tag": "flashbang",
+          "link": "https://danbooru.donmai.us/wiki_pages/flashbang"
+        },
+        {
+          "label": "斧",
+          "tag": "hatchet",
+          "link": "https://danbooru.donmai.us/wiki_pages/hatchet"
+        },
+        {
+          "label": "ナタ",
+          "tag": "nata_%28tool%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nata_%28tool%29"
+        },
+        {
+          "label": "嘴付き鉈",
+          "tag": "hashitsuki_nata",
+          "link": "https://danbooru.donmai.us/wiki_pages/hashitsuki_nata"
+        },
+        {
+          "label": "手斧",
+          "tag": "hatchet_%28axe%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hatchet_%28axe%29"
+        },
+        {
+          "label": "即席武器",
+          "tag": "improvised_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/improvised_weapon"
+        },
+        {
+          "label": "鉛管",
+          "tag": "lead_pipe",
+          "link": "https://danbooru.donmai.us/wiki_pages/lead_pipe"
+        },
+        {
+          "label": "火炎瓶",
+          "tag": "molotov_cocktail",
+          "link": "https://danbooru.donmai.us/wiki_pages/molotov_cocktail"
+        },
+        {
+          "label": "パイルバンカー",
+          "tag": "pile_bunker",
+          "link": "https://danbooru.donmai.us/wiki_pages/pile_bunker"
+        },
+        {
+          "label": "煙幕手榴弾",
+          "tag": "smoke_grenade",
+          "link": "https://danbooru.donmai.us/wiki_pages/smoke_grenade"
+        }
+      ]
+    },
+    {
+      "セクション名": "固有名のある武器",
+      "タグ一覧": [
+        {
+          "label": "ファイアーエムブレムの武器一覧",
+          "tag": "list_of_weapons_in_fire_emblem",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_weapons_in_fire_emblem"
+        },
+        {
+          "label": "スプラトゥーンの武器一覧",
+          "tag": "list_of_weapons_in_splatoon",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_weapons_in_splatoon"
+        },
+        {
+          "label": "30-30リピーター",
+          "tag": "30-30_repeater",
+          "link": "https://danbooru.donmai.us/wiki_pages/30-30_repeater"
+        },
+        {
+          "label": "イージスソード（ゼノブレイド）",
+          "tag": "aegis_sword_%28xenoblade%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/aegis_sword_%28xenoblade%29"
+        },
+        {
+          "label": "アエストゥス・エストゥス",
+          "tag": "aestus_estus",
+          "link": "https://danbooru.donmai.us/wiki_pages/aestus_estus"
+        },
+        {
+          "label": "アラスター",
+          "tag": "alastor_%28sword%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/alastor_%28sword%29"
+        },
+        {
+          "label": "オルタネーター",
+          "tag": "alternator",
+          "link": "https://danbooru.donmai.us/wiki_pages/alternator"
+        },
+        {
+          "label": "アメノヌホコ",
+          "tag": "ame-no-nuhoko",
+          "link": "https://danbooru.donmai.us/wiki_pages/ame-no-nuhoko"
+        },
+        {
+          "label": "エンジェルヘイロー（もんむす・くえすと！）",
+          "tag": "angel_halo_%28mon-musu_quest%21%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/angel_halo_%28mon-musu_quest%21%29"
+        },
+        {
+          "label": "アークスター",
+          "tag": "arc_star",
+          "link": "https://danbooru.donmai.us/wiki_pages/arc_star"
+        },
+        {
+          "label": "アルゲトラーム",
+          "tag": "argetlahm",
+          "link": "https://danbooru.donmai.us/wiki_pages/argetlahm"
+        },
+        {
+          "label": "アロンダイト",
+          "tag": "arondight_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/arondight_%28fate%29"
+        },
+        {
+          "label": "B3ウィングマン",
+          "tag": "b3_wingman",
+          "link": "https://danbooru.donmai.us/wiki_pages/b3_wingman"
+        },
+        {
+          "label": "B3 ウィングマン エリート",
+          "tag": "b3_wingman_elite",
+          "link": "https://danbooru.donmai.us/wiki_pages/b3_wingman_elite"
+        },
+        {
+          "label": "B455",
+          "tag": "b455",
+          "link": "https://danbooru.donmai.us/wiki_pages/b455"
+        },
+        {
+          "label": "BR55",
+          "tag": "br55",
+          "link": "https://danbooru.donmai.us/wiki_pages/br55"
+        },
+        {
+          "label": "獣の槍",
+          "tag": "beast_spear",
+          "link": "https://danbooru.donmai.us/wiki_pages/beast_spear"
+        },
+        {
+          "label": "ベルデリバー",
+          "tag": "belderiver",
+          "link": "https://danbooru.donmai.us/wiki_pages/belderiver"
+        },
+        {
+          "label": "ベオウルフ",
+          "tag": "beowulf",
+          "link": "https://danbooru.donmai.us/wiki_pages/beowulf"
+        },
+        {
+          "label": "ベリーソード",
+          "tag": "berry_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/berry_sword"
+        },
+        {
+          "label": "ビウォンブレード",
+          "tag": "biwon_blade",
+          "link": "https://danbooru.donmai.us/wiki_pages/biwon_blade"
+        },
+        {
+          "label": "黒鍵",
+          "tag": "black_keys_%28type-moon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_keys_%28type-moon%29"
+        },
+        {
+          "label": "混沌の刃",
+          "tag": "blade_of_chaos",
+          "link": "https://danbooru.donmai.us/wiki_pages/blade_of_chaos"
+        },
+        {
+          "label": "ブレイズファイアセイバー",
+          "tag": "blazefire_saber",
+          "link": "https://danbooru.donmai.us/wiki_pages/blazefire_saber"
+        },
+        {
+          "label": "血の剣",
+          "tag": "blood_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/blood_sword"
+        },
+        {
+          "label": "ブルーローズ",
+          "tag": "blue_rose_%28gun%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_rose_%28gun%29"
+        },
+        {
+          "label": "ボルター",
+          "tag": "bolter",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolter"
+        },
+        {
+          "label": "バスターソード",
+          "tag": "buster_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/buster_sword"
+        },
+        {
+          "label": "バタフライナイフ",
+          "tag": "butterfly_knife_%28apex_legends%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/butterfly_knife_%28apex_legends%29"
+        },
+        {
+          "label": "C.A.R. SMG",
+          "tag": "c.a.r._smg",
+          "link": "https://danbooru.donmai.us/wiki_pages/c.a.r._smg"
+        },
+        {
+          "label": "ケルベロス（デビルメイクライ）",
+          "tag": "cerberus_%28devil_may_cry%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cerberus_%28devil_may_cry%29"
+        },
+        {
+          "label": "カラドボルグ",
+          "tag": "caladbolg_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/caladbolg_%28fate%29"
+        },
+        {
+          "label": "カリバーン",
+          "tag": "caliburn_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/caliburn_%28fate%29"
+        },
+        {
+          "label": "チャージライフル",
+          "tag": "charge_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/charge_rifle"
+        },
+        {
+          "label": "クリマタクト",
+          "tag": "clima-tact",
+          "link": "https://danbooru.donmai.us/wiki_pages/clima-tact"
+        },
+        {
+          "label": "コールドスチール",
+          "tag": "cold_steel_%28apex_legends%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cold_steel_%28apex_legends%29"
+        },
+        {
+          "label": "クレセント・ローズ",
+          "tag": "crescent_rose",
+          "link": "https://danbooru.donmai.us/wiki_pages/crescent_rose"
+        },
+        {
+          "label": "クロセア・モルス（RWBY）",
+          "tag": "crocea_mors_%28rwby%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/crocea_mors_%28rwby%29"
+        },
+        {
+          "label": "キュア・フルーレ",
+          "tag": "cure_fleuret",
+          "link": "https://danbooru.donmai.us/wiki_pages/cure_fleuret"
+        },
+        {
+          "label": "デッドマンズカーブ",
+          "tag": "dead_man%27s_curve",
+          "link": "https://danbooru.donmai.us/wiki_pages/dead_man%27s_curve"
+        },
+        {
+          "label": "デスハンマー",
+          "tag": "death_hammer_%28apex_legends%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/death_hammer_%28apex_legends%29"
+        },
+        {
+          "label": "ディープアクアミラー",
+          "tag": "deep_aqua_mirror",
+          "link": "https://danbooru.donmai.us/wiki_pages/deep_aqua_mirror"
+        },
+        {
+          "label": "デビルブリンガー",
+          "tag": "devil_bringer",
+          "link": "https://danbooru.donmai.us/wiki_pages/devil_bringer"
+        },
+        {
+          "label": "ディバイディングドライバー",
+          "tag": "dividing_driver",
+          "link": "https://danbooru.donmai.us/wiki_pages/dividing_driver"
+        },
+        {
+          "label": "ドミネーター（銃）",
+          "tag": "dominator_%28gun%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dominator_%28gun%29"
+        },
+        {
+          "label": "ドラゴンスレイヤー",
+          "tag": "dragonslayer_%28sword%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragonslayer_%28sword%29"
+        },
+        {
+          "label": "デュランダル",
+          "tag": "durandal_%28tales%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/durandal_%28tales%29"
+        },
+        {
+          "label": "エア",
+          "tag": "ea_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ea_%28fate%29"
+        },
+        {
+          "label": "エボニー＆アイボリー",
+          "tag": "ebony_%26_ivory",
+          "link": "https://danbooru.donmai.us/wiki_pages/ebony_%26_ivory"
+        },
+        {
+          "label": "エンバー・セリカ（RWBY）",
+          "tag": "ember_celica_%28rwby%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ember_celica_%28rwby%29"
+        },
+        {
+          "label": "エンシス・エクソシザンズ",
+          "tag": "ensis_exorcizans",
+          "link": "https://danbooru.donmai.us/wiki_pages/ensis_exorcizans"
+        },
+        {
+          "label": "エターナル・ティアル",
+          "tag": "eternal_tiare",
+          "link": "https://danbooru.donmai.us/wiki_pages/eternal_tiare"
+        },
+        {
+          "label": "EVA-8",
+          "tag": "eva-8",
+          "link": "https://danbooru.donmai.us/wiki_pages/eva-8"
+        },
+        {
+          "label": "エクスカリバー",
+          "tag": "excalibur_%28fate%2Fstay_night%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/excalibur_%28fate%2Fstay_night%29"
+        },
+        {
+          "label": "エクスカリバー ガラティン",
+          "tag": "excalibur_galatine_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/excalibur_galatine_%28fate%29"
+        },
+        {
+          "label": "エクスカリボルグ",
+          "tag": "excalibolg",
+          "link": "https://danbooru.donmai.us/wiki_pages/excalibolg"
+        },
+        {
+          "label": "ファンタスティックベルティエ",
+          "tag": "fantastic_belltier",
+          "link": "https://danbooru.donmai.us/wiki_pages/fantastic_belltier"
+        },
+        {
+          "label": "ファーストケン",
+          "tag": "first_ken",
+          "link": "https://danbooru.donmai.us/wiki_pages/first_ken"
+        },
+        {
+          "label": "フライガーハンマー",
+          "tag": "fliegerhammer",
+          "link": "https://danbooru.donmai.us/wiki_pages/fliegerhammer"
+        },
+        {
+          "label": "花のタクト",
+          "tag": "flower_tact",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower_tact"
+        },
+        {
+          "label": "フォースエッジ",
+          "tag": "force_edge_%28dmc%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/force_edge_%28dmc%29"
+        },
+        {
+          "label": "燃料棒砲",
+          "tag": "fuel_rod_cannon",
+          "link": "https://danbooru.donmai.us/wiki_pages/fuel_rod_cannon"
+        },
+        {
+          "label": "G7スカウト",
+          "tag": "g7_scout",
+          "link": "https://danbooru.donmai.us/wiki_pages/g7_scout"
+        },
+        {
+          "label": "ゲイ・ボルグ",
+          "tag": "gae_bolg_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/gae_bolg_%28fate%29"
+        },
+        {
+          "label": "ガエ・ブイデ",
+          "tag": "gae_buidhe_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/gae_buidhe_%28fate%29"
+        },
+        {
+          "label": "ガエ・デアルグ",
+          "tag": "gae_dearg_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/gae_dearg_%28fate%29"
+        },
+        {
+          "label": "ギャラクシア",
+          "tag": "galaxia_%28sword%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/galaxia_%28sword%29"
+        },
+        {
+          "label": "ガンボルシュラウド",
+          "tag": "gambol_shroud",
+          "link": "https://danbooru.donmai.us/wiki_pages/gambol_shroud"
+        },
+        {
+          "label": "ガーネットロッド",
+          "tag": "garnet_rod",
+          "link": "https://danbooru.donmai.us/wiki_pages/garnet_rod"
+        },
+        {
+          "label": "ゴルディオンハンマー",
+          "tag": "goldion_hammer",
+          "link": "https://danbooru.donmai.us/wiki_pages/goldion_hammer"
+        },
+        {
+          "label": "グラーフアイゼン",
+          "tag": "graf_eisen",
+          "link": "https://danbooru.donmai.us/wiki_pages/graf_eisen"
+        },
+        {
+          "label": "重力ハンマー",
+          "tag": "gravity_hammer",
+          "link": "https://danbooru.donmai.us/wiki_pages/gravity_hammer"
+        },
+        {
+          "label": "素晴らしいナイフ",
+          "tag": "great_knife",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_knife"
+        },
+        {
+          "label": "HAVOC エネルギーライフル",
+          "tag": "havoc_energy_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/havoc_energy_rifle"
+        },
+        {
+          "label": "ヘムロック",
+          "tag": "hemlok",
+          "link": "https://danbooru.donmai.us/wiki_pages/hemlok"
+        },
+        {
+          "label": "隠し武器",
+          "tag": "concealed_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/concealed_weapon"
+        },
+        {
+          "label": "インビジブル・エア",
+          "tag": "invisible_air_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/invisible_air_%28fate%29"
+        },
+        {
+          "label": "干将・莫耶",
+          "tag": "kanshou_%26_bakuya_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kanshou_%26_bakuya_%28fate%29"
+        },
+        {
+          "label": "クレイバー",
+          "tag": "kraber",
+          "link": "https://danbooru.donmai.us/wiki_pages/kraber"
+        },
+        {
+          "label": "L-スター",
+          "tag": "l-star",
+          "link": "https://danbooru.donmai.us/wiki_pages/l-star"
+        },
+        {
+          "label": "レーヴァテイン",
+          "tag": "laevatein_%28touhou%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/laevatein_%28touhou%29"
+        },
+        {
+          "label": "ロンギヌスの槍",
+          "tag": "lance_of_longinus_%28evangelion%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lance_of_longinus_%28evangelion%29"
+        },
+        {
+          "label": "レーヴァテイン",
+          "tag": "laevatein_%28nanoha%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/laevatein_%28nanoha%29"
+        },
+        {
+          "label": "ラブギターロッド",
+          "tag": "love_guitar_rod",
+          "link": "https://danbooru.donmai.us/wiki_pages/love_guitar_rod"
+        },
+        {
+          "label": "幸運と勇気",
+          "tag": "luck_and_pluck",
+          "link": "https://danbooru.donmai.us/wiki_pages/luck_and_pluck"
+        },
+        {
+          "label": "M-3 プレデター",
+          "tag": "m-3_predator",
+          "link": "https://danbooru.donmai.us/wiki_pages/m-3_predator"
+        },
+        {
+          "label": "M-6 カーニフェックス",
+          "tag": "m-6_carnifex",
+          "link": "https://danbooru.donmai.us/wiki_pages/m-6_carnifex"
+        },
+        {
+          "label": "M6D",
+          "tag": "m6d",
+          "link": "https://danbooru.donmai.us/wiki_pages/m6d"
+        },
+        {
+          "label": "M7",
+          "tag": "m7",
+          "link": "https://danbooru.donmai.us/wiki_pages/m7"
+        },
+        {
+          "label": "M-8アベンジャー",
+          "tag": "m-8_avenger",
+          "link": "https://danbooru.donmai.us/wiki_pages/m-8_avenger"
+        },
+        {
+          "label": "M19",
+          "tag": "m19",
+          "link": "https://danbooru.donmai.us/wiki_pages/m19"
+        },
+        {
+          "label": "M41aパルスライフル",
+          "tag": "m41a_pulse_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/m41a_pulse_rifle"
+        },
+        {
+          "label": "M56スマートガン",
+          "tag": "m56_smartgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/m56_smartgun"
+        },
+        {
+          "label": "M90",
+          "tag": "m90",
+          "link": "https://danbooru.donmai.us/wiki_pages/m90"
+        },
+        {
+          "label": "M-92 マンティス",
+          "tag": "m-92_mantis",
+          "link": "https://danbooru.donmai.us/wiki_pages/m-92_mantis"
+        },
+        {
+          "label": "M-98 ウィドウ",
+          "tag": "m-98_widow",
+          "link": "https://danbooru.donmai.us/wiki_pages/m-98_widow"
+        },
+        {
+          "label": "M392 マークスマン",
+          "tag": "m392_marksman",
+          "link": "https://danbooru.donmai.us/wiki_pages/m392_marksman"
+        },
+        {
+          "label": "M600 スピットファイア",
+          "tag": "m600_spitfire",
+          "link": "https://danbooru.donmai.us/wiki_pages/m600_spitfire"
+        },
+        {
+          "label": "M739ソー",
+          "tag": "m739_saw",
+          "link": "https://danbooru.donmai.us/wiki_pages/m739_saw"
+        },
+        {
+          "label": "M1901 マスティフ",
+          "tag": "m1901_mastiff",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1901_mastiff"
+        },
+        {
+          "label": "M1904 マスティフ",
+          "tag": "m1904_mastiff",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1904_mastiff"
+        },
+        {
+          "label": "MA5",
+          "tag": "ma5",
+          "link": "https://danbooru.donmai.us/wiki_pages/ma5"
+        },
+        {
+          "label": "魔法のマスケット銃",
+          "tag": "magical_musket",
+          "link": "https://danbooru.donmai.us/wiki_pages/magical_musket"
+        },
+        {
+          "label": "マスターソード",
+          "tag": "master_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/master_sword"
+        },
+        {
+          "label": "ミロとアクーオ",
+          "tag": "milo_and_akouo",
+          "link": "https://danbooru.donmai.us/wiki_pages/milo_and_akouo"
+        },
+        {
+          "label": "ミラクル・ベルティエ",
+          "tag": "miracle_belltier",
+          "link": "https://danbooru.donmai.us/wiki_pages/miracle_belltier"
+        },
+        {
+          "label": "ミョルニル",
+          "tag": "mjolnir_%28marvel%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mjolnir_%28marvel%29"
+        },
+        {
+          "label": "モナド",
+          "tag": "monado",
+          "link": "https://danbooru.donmai.us/wiki_pages/monado"
+        },
+        {
+          "label": "ものほしざお",
+          "tag": "monohoshizao_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/monohoshizao_%28fate%29"
+        },
+        {
+          "label": "守屋の鉄輪",
+          "tag": "moriya%27s_iron_rings",
+          "link": "https://danbooru.donmai.us/wiki_pages/moriya%27s_iron_rings"
+        },
+        {
+          "label": "ミルテンアスター",
+          "tag": "myrtenaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/myrtenaster"
+        },
+        {
+          "label": "ネイル（ホロウナイト）",
+          "tag": "nail_%28hollow_knight%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nail_%28hollow_knight%29"
+        },
+        {
+          "label": "ニードラー",
+          "tag": "needler",
+          "link": "https://danbooru.donmai.us/wiki_pages/needler"
+        },
+        {
+          "label": "ネヴァン（武器）",
+          "tag": "nevan_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nevan_%28weapon%29"
+        },
+        {
+          "label": "アウトシール",
+          "tag": "outseal",
+          "link": "https://danbooru.donmai.us/wiki_pages/outseal"
+        },
+        {
+          "label": "オキシジェン・デストロイヤー",
+          "tag": "oxygen_destroyer",
+          "link": "https://danbooru.donmai.us/wiki_pages/oxygen_destroyer"
+        },
+        {
+          "label": "P2020（ピストル）",
+          "tag": "p2020_%28pistol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/p2020_%28pistol%29"
+        },
+        {
+          "label": "パッションハープ",
+          "tag": "passion_harp",
+          "link": "https://danbooru.donmai.us/wiki_pages/passion_harp"
+        },
+        {
+          "label": "ピースキーパー（ショットガン）",
+          "tag": "peacekeeper_%28shotgun%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/peacekeeper_%28shotgun%29"
+        },
+        {
+          "label": "ピーチロッド",
+          "tag": "peach_rod",
+          "link": "https://danbooru.donmai.us/wiki_pages/peach_rod"
+        },
+        {
+          "label": "パインフルート",
+          "tag": "pine_flute",
+          "link": "https://danbooru.donmai.us/wiki_pages/pine_flute"
+        },
+        {
+          "label": "プラズマグレネード（Halo）",
+          "tag": "plasma_grenade_%28halo%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/plasma_grenade_%28halo%29"
+        },
+        {
+          "label": "愛の力（スコット・ピルグリム）",
+          "tag": "power_of_love_%28scott_pilgrim%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/power_of_love_%28scott_pilgrim%29"
+        },
+        {
+          "label": "プラウラーサブマシンガン",
+          "tag": "prowler_smg",
+          "link": "https://danbooru.donmai.us/wiki_pages/prowler_smg"
+        },
+        {
+          "label": "サイコガン",
+          "tag": "psychogun",
+          "link": "https://danbooru.donmai.us/wiki_pages/psychogun"
+        },
+        {
+          "label": "R-101Cカービン",
+          "tag": "r-101c_carbine",
+          "link": "https://danbooru.donmai.us/wiki_pages/r-101c_carbine"
+        },
+        {
+          "label": "R-201 ソア",
+          "tag": "r-201_soar",
+          "link": "https://danbooru.donmai.us/wiki_pages/r-201_soar"
+        },
+        {
+          "label": "R-301カービン",
+          "tag": "r-301_carbine",
+          "link": "https://danbooru.donmai.us/wiki_pages/r-301_carbine"
+        },
+        {
+          "label": "ラグネル",
+          "tag": "ragnell",
+          "link": "https://danbooru.donmai.us/wiki_pages/ragnell"
+        },
+        {
+          "label": "レインブロワー",
+          "tag": "rainblower",
+          "link": "https://danbooru.donmai.us/wiki_pages/rainblower"
+        },
+        {
+          "label": "レイジングハート",
+          "tag": "raising_heart",
+          "link": "https://danbooru.donmai.us/wiki_pages/raising_heart"
+        },
+        {
+          "label": "ランペイジ LMG",
+          "tag": "rampage_lmg",
+          "link": "https://danbooru.donmai.us/wiki_pages/rampage_lmg"
+        },
+        {
+          "label": "レイヴンズバイト",
+          "tag": "raven%27s_bite",
+          "link": "https://danbooru.donmai.us/wiki_pages/raven%27s_bite"
+        },
+        {
+          "label": "リベリオン",
+          "tag": "rebellion_%28sword%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rebellion_%28sword%29"
+        },
+        {
+          "label": "レッドクイーン",
+          "tag": "red_queen_%28sword%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_queen_%28sword%29"
+        },
+        {
+          "label": "ルールブレイカー",
+          "tag": "rule_breaker_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rule_breaker_%28fate%29"
+        },
+        {
+          "label": "SA-3 モザンビーク",
+          "tag": "sa-3_mozambique",
+          "link": "https://danbooru.donmai.us/wiki_pages/sa-3_mozambique"
+        },
+        {
+          "label": "片太刀バサミ",
+          "tag": "scissor_blade_%28kill_la_kill%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/scissor_blade_%28kill_la_kill%29"
+        },
+        {
+          "label": "セブロ C26A",
+          "tag": "seburo_c26a",
+          "link": "https://danbooru.donmai.us/wiki_pages/seburo_c26a"
+        },
+        {
+          "label": "センチネルESR",
+          "tag": "sentinel_esr",
+          "link": "https://danbooru.donmai.us/wiki_pages/sentinel_esr"
+        },
+        {
+          "label": "七支刀",
+          "tag": "seven-branched_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/seven-branched_sword"
+        },
+        {
+          "label": "第七聖典",
+          "tag": "seventh_holy_scripture",
+          "link": "https://danbooru.donmai.us/wiki_pages/seventh_holy_scripture"
+        },
+        {
+          "label": "シャイニータンバリン",
+          "tag": "shiny_tambourine_%28heartcatch_precure%21%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shiny_tambourine_%28heartcatch_precure%21%29"
+        },
+        {
+          "label": "シシクシロシカ",
+          "tag": "sica_shishikushiro",
+          "link": "https://danbooru.donmai.us/wiki_pages/sica_shishikushiro"
+        },
+        {
+          "label": "サイレンスグレイブ",
+          "tag": "silence_glaive",
+          "link": "https://danbooru.donmai.us/wiki_pages/silence_glaive"
+        },
+        {
+          "label": "ソウルキャリバー",
+          "tag": "soul_calibur_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/soul_calibur_%28weapon%29"
+        },
+        {
+          "label": "ソウルエッジ",
+          "tag": "soul_edge_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/soul_edge_%28weapon%29"
+        },
+        {
+          "label": "宇宙剣",
+          "tag": "space_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/space_sword"
+        },
+        {
+          "label": "スパルダ",
+          "tag": "sparda_%28sword%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sparda_%28sword%29"
+        },
+        {
+          "label": "グングニルの槍",
+          "tag": "spear_the_gungnir",
+          "link": "https://danbooru.donmai.us/wiki_pages/spear_the_gungnir"
+        },
+        {
+          "label": "SRS99",
+          "tag": "srs99",
+          "link": "https://danbooru.donmai.us/wiki_pages/srs99"
+        },
+        {
+          "label": "スターロッド",
+          "tag": "star_rod",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_rod"
+        },
+        {
+          "label": "STG-60",
+          "tag": "stg-60",
+          "link": "https://danbooru.donmai.us/wiki_pages/stg-60"
+        },
+        {
+          "label": "緋想の剣",
+          "tag": "sword_of_hisou",
+          "link": "https://danbooru.donmai.us/wiki_pages/sword_of_hisou"
+        },
+        {
+          "label": "草薙の剣",
+          "tag": "sword_of_kusanagi",
+          "link": "https://danbooru.donmai.us/wiki_pages/sword_of_kusanagi"
+        },
+        {
+          "label": "共鳴の剣",
+          "tag": "sword_of_resonance",
+          "link": "https://danbooru.donmai.us/wiki_pages/sword_of_resonance"
+        },
+        {
+          "label": "トリプルテイク",
+          "tag": "triple_take",
+          "link": "https://danbooru.donmai.us/wiki_pages/triple_take"
+        },
+        {
+          "label": "真の外典",
+          "tag": "true_apocrypha",
+          "link": "https://danbooru.donmai.us/wiki_pages/true_apocrypha"
+        },
+        {
+          "label": "タイプ1 エネルギーソード",
+          "tag": "type-1_energy_sword",
+          "link": "https://danbooru.donmai.us/wiki_pages/type-1_energy_sword"
+        },
+        {
+          "label": "ティルフィング（神話）",
+          "tag": "tyrfing_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tyrfing_%28mythology%29"
+        },
+        {
+          "label": "VK-47フラットライン",
+          "tag": "vk-47_flatline",
+          "link": "https://danbooru.donmai.us/wiki_pages/vk-47_flatline"
+        },
+        {
+          "label": "VK-78 コマンドー",
+          "tag": "vk-78_commando",
+          "link": "https://danbooru.donmai.us/wiki_pages/vk-78_commando"
+        },
+        {
+          "label": "ボルトサブマシンガン",
+          "tag": "volt_smg",
+          "link": "https://danbooru.donmai.us/wiki_pages/volt_smg"
+        },
+        {
+          "label": "ウォークラブ",
+          "tag": "war_club_%28apex_legends%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/war_club_%28apex_legends%29"
+        },
+        {
+          "label": "希望の夕暮れ",
+          "tag": "hope%27s_dusk_%28apex_legends%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hope%27s_dusk_%28apex_legends%29"
+        },
+        {
+          "label": "X-55 デボーション",
+          "tag": "x-55_devotion",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-55_devotion"
+        },
+        {
+          "label": "ヤグルシュ＆アヤムル",
+          "tag": "yagrush_%26_ayamur",
+          "link": "https://danbooru.donmai.us/wiki_pages/yagrush_%26_ayamur"
+        },
+        {
+          "label": "ヤマト",
+          "tag": "yamato_%28sword%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamato_%28sword%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "デザイン特性",
+      "タグ一覧": [
+        {
+          "label": "ボルトアクション",
+          "tag": "bolt_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolt_action"
+        },
+        {
+          "label": "中折れ式",
+          "tag": "break_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/break_action"
+        },
+        {
+          "label": "ブルパップ",
+          "tag": "bullpup",
+          "link": "https://danbooru.donmai.us/wiki_pages/bullpup"
+        },
+        {
+          "label": "戦闘用ショットガン",
+          "tag": "combat_shotgun",
+          "link": "https://danbooru.donmai.us/wiki_pages/combat_shotgun"
+        },
+        {
+          "label": "かわいい意匠の武器",
+          "tag": "cute_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/cute_weapon"
+        },
+        {
+          "label": "広がった銃口",
+          "tag": "flared_muzzle",
+          "link": "https://danbooru.donmai.us/wiki_pages/flared_muzzle"
+        },
+        {
+          "label": "光る武器",
+          "tag": "glowing_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/glowing_weapon"
+        },
+        {
+          "label": "黄金の銃",
+          "tag": "golden_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/golden_gun"
+        },
+        {
+          "label": "巨大な武器",
+          "tag": "huge_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/huge_weapon"
+        },
+        {
+          "label": "カラシニコフ銃",
+          "tag": "kalashnikov_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/kalashnikov_rifle"
+        },
+        {
+          "label": "レバーアクション",
+          "tag": "lever_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/lever_action"
+        },
+        {
+          "label": "装飾的な武器",
+          "tag": "ornate_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/ornate_weapon"
+        },
+        {
+          "label": "ポート付きバレル",
+          "tag": "ported_barrel",
+          "link": "https://danbooru.donmai.us/wiki_pages/ported_barrel"
+        },
+        {
+          "label": "ポンプアクション",
+          "tag": "pump_action",
+          "link": "https://danbooru.donmai.us/wiki_pages/pump_action"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクセサリーと部品",
+      "タグ一覧": [
+        {
+          "label": "弾薬",
+          "tag": "ammunition",
+          "link": "https://danbooru.donmai.us/wiki_pages/ammunition"
+        },
+        {
+          "label": "40mm手榴弾",
+          "tag": "40mm_grenade",
+          "link": "https://danbooru.donmai.us/wiki_pages/40mm_grenade"
+        },
+        {
+          "label": "拳銃の弾薬",
+          "tag": "handgun_cartridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/handgun_cartridge"
+        },
+        {
+          "label": "ライフル弾",
+          "tag": "rifle_cartridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/rifle_cartridge"
+        },
+        {
+          "label": "散弾銃の弾",
+          "tag": "shotgun_shell",
+          "link": "https://danbooru.donmai.us/wiki_pages/shotgun_shell"
+        },
+        {
+          "label": "弾薬ベルト",
+          "tag": "ammunition_belt",
+          "link": "https://danbooru.donmai.us/wiki_pages/ammunition_belt"
+        },
+        {
+          "label": "分離式の弾帯リンク",
+          "tag": "disintegrating_link",
+          "link": "https://danbooru.donmai.us/wiki_pages/disintegrating_link"
+        },
+        {
+          "label": "弾薬箱",
+          "tag": "ammunition_box",
+          "link": "https://danbooru.donmai.us/wiki_pages/ammunition_box"
+        },
+        {
+          "label": "弾薬ポーチ",
+          "tag": "ammunition_pouch",
+          "link": "https://danbooru.donmai.us/wiki_pages/ammunition_pouch"
+        },
+        {
+          "label": "ベルトポーチ",
+          "tag": "belt_pouch",
+          "link": "https://danbooru.donmai.us/wiki_pages/belt_pouch"
+        },
+        {
+          "label": "チェストリグ",
+          "tag": "chest_rig",
+          "link": "https://danbooru.donmai.us/wiki_pages/chest_rig"
+        },
+        {
+          "label": "装備携行具",
+          "tag": "load_bearing_equipment",
+          "link": "https://danbooru.donmai.us/wiki_pages/load_bearing_equipment"
+        },
+        {
+          "label": "装備携行用ベスト",
+          "tag": "load_bearing_vest",
+          "link": "https://danbooru.donmai.us/wiki_pages/load_bearing_vest"
+        },
+        {
+          "label": "弾帯",
+          "tag": "bandolier",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandolier"
+        },
+        {
+          "label": "銃身",
+          "tag": "barrel_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/barrel_%28weapon%29"
+        },
+        {
+          "label": "バレルシュラウド",
+          "tag": "barrel_shroud",
+          "link": "https://danbooru.donmai.us/wiki_pages/barrel_shroud"
+        },
+        {
+          "label": "バイポッド",
+          "tag": "bipod",
+          "link": "https://danbooru.donmai.us/wiki_pages/bipod"
+        },
+        {
+          "label": "クリップ",
+          "tag": "clip_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/clip_%28weapon%29"
+        },
+        {
+          "label": "補償器",
+          "tag": "compensator",
+          "link": "https://danbooru.donmai.us/wiki_pages/compensator"
+        },
+        {
+          "label": "フリップアップサイト",
+          "tag": "flip-up_sight",
+          "link": "https://danbooru.donmai.us/wiki_pages/flip-up_sight"
+        },
+        {
+          "label": "折りたたみ式ストック",
+          "tag": "folding_stock",
+          "link": "https://danbooru.donmai.us/wiki_pages/folding_stock"
+        },
+        {
+          "label": "フォアグリップ",
+          "tag": "foregrip",
+          "link": "https://danbooru.donmai.us/wiki_pages/foregrip"
+        },
+        {
+          "label": "角度付きフォアグリップ",
+          "tag": "angled_foregrip",
+          "link": "https://danbooru.donmai.us/wiki_pages/angled_foregrip"
+        },
+        {
+          "label": "垂直フォアグリップ",
+          "tag": "vertical_foregrip",
+          "link": "https://danbooru.donmai.us/wiki_pages/vertical_foregrip"
+        },
+        {
+          "label": "ガズィル",
+          "tag": "gazyr",
+          "link": "https://danbooru.donmai.us/wiki_pages/gazyr"
+        },
+        {
+          "label": "ガンスリング",
+          "tag": "gun_sling",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun_sling"
+        },
+        {
+          "label": "ホルスター",
+          "tag": "holster",
+          "link": "https://danbooru.donmai.us/wiki_pages/holster"
+        },
+        {
+          "label": "足首ホルスター",
+          "tag": "ankle_holster",
+          "link": "https://danbooru.donmai.us/wiki_pages/ankle_holster"
+        },
+        {
+          "label": "ガンベルト",
+          "tag": "gunbelt",
+          "link": "https://danbooru.donmai.us/wiki_pages/gunbelt"
+        },
+        {
+          "label": "ショルダーホルスター",
+          "tag": "shoulder_holster",
+          "link": "https://danbooru.donmai.us/wiki_pages/shoulder_holster"
+        },
+        {
+          "label": "太ももホルスター",
+          "tag": "thigh_holster",
+          "link": "https://danbooru.donmai.us/wiki_pages/thigh_holster"
+        },
+        {
+          "label": "レーザーサイト",
+          "tag": "laser_sight",
+          "link": "https://danbooru.donmai.us/wiki_pages/laser_sight"
+        },
+        {
+          "label": "弾倉",
+          "tag": "magazine_%28weapon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/magazine_%28weapon%29"
+        },
+        {
+          "label": "ドラムマガジン",
+          "tag": "drum_magazine",
+          "link": "https://danbooru.donmai.us/wiki_pages/drum_magazine"
+        },
+        {
+          "label": "デュアルドラムマガジン",
+          "tag": "dual_drum_magazine",
+          "link": "https://danbooru.donmai.us/wiki_pages/dual_drum_magazine"
+        },
+        {
+          "label": "拡張マガジン",
+          "tag": "extended_magazine",
+          "link": "https://danbooru.donmai.us/wiki_pages/extended_magazine"
+        },
+        {
+          "label": "銃口装置",
+          "tag": "muzzle_device",
+          "link": "https://danbooru.donmai.us/wiki_pages/muzzle_device"
+        },
+        {
+          "label": "光学照準器",
+          "tag": "optical_sight",
+          "link": "https://danbooru.donmai.us/wiki_pages/optical_sight"
+        },
+        {
+          "label": "矢筒",
+          "tag": "quiver",
+          "link": "https://danbooru.donmai.us/wiki_pages/quiver"
+        },
+        {
+          "label": "照準スコープ",
+          "tag": "scope",
+          "link": "https://danbooru.donmai.us/wiki_pages/scope"
+        },
+        {
+          "label": "シース",
+          "tag": "sheath",
+          "link": "https://danbooru.donmai.us/wiki_pages/sheath"
+        },
+        {
+          "label": "アバロン",
+          "tag": "avalon_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/avalon_%28fate%29"
+        },
+        {
+          "label": "薬莢",
+          "tag": "shell_casing",
+          "link": "https://danbooru.donmai.us/wiki_pages/shell_casing"
+        },
+        {
+          "label": "リボルバースピードローダー",
+          "tag": "revolver_speedloader",
+          "link": "https://danbooru.donmai.us/wiki_pages/revolver_speedloader"
+        },
+        {
+          "label": "ショットガンスピードローダー",
+          "tag": "shotgun_speedloader",
+          "link": "https://danbooru.donmai.us/wiki_pages/shotgun_speedloader"
+        },
+        {
+          "label": "サプレッサー",
+          "tag": "suppressor",
+          "link": "https://danbooru.donmai.us/wiki_pages/suppressor"
+        },
+        {
+          "label": "武器バッグ",
+          "tag": "weapon_bag",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_bag"
+        },
+        {
+          "label": "武器ケース",
+          "tag": "weapon_case",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_case"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクション",
+      "タグ一覧": [
+        {
+          "label": "狙いを定める",
+          "tag": "aiming",
+          "link": "https://danbooru.donmai.us/wiki_pages/aiming"
+        },
+        {
+          "label": "こちらを狙う",
+          "tag": "aiming_at_viewer",
+          "link": "https://danbooru.donmai.us/wiki_pages/aiming_at_viewer"
+        },
+        {
+          "label": "スコープを通して見る",
+          "tag": "looking_through_scope",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_through_scope"
+        },
+        {
+          "label": "排莢",
+          "tag": "casing_ejection",
+          "link": "https://danbooru.donmai.us/wiki_pages/casing_ejection"
+        },
+        {
+          "label": "武器を手入れする",
+          "tag": "cleaning_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/cleaning_weapon"
+        },
+        {
+          "label": "コッキングガン",
+          "tag": "cocking_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/cocking_gun"
+        },
+        {
+          "label": "二刀流",
+          "tag": "dual_wielding",
+          "link": "https://danbooru.donmai.us/wiki_pages/dual_wielding"
+        },
+        {
+          "label": "発砲",
+          "tag": "firing",
+          "link": "https://danbooru.donmai.us/wiki_pages/firing"
+        },
+        {
+          "label": "スコープを通して見る",
+          "tag": "looking_through_scope",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_through_scope"
+        },
+        {
+          "label": "弾倉の排出",
+          "tag": "magazine_ejection",
+          "link": "https://danbooru.donmai.us/wiki_pages/magazine_ejection"
+        },
+        {
+          "label": "狙いを定める",
+          "tag": "aiming",
+          "link": "https://danbooru.donmai.us/wiki_pages/aiming"
+        },
+        {
+          "label": "抜刀・抜銃の構え",
+          "tag": "ready_to_draw",
+          "link": "https://danbooru.donmai.us/wiki_pages/ready_to_draw"
+        },
+        {
+          "label": "リロード",
+          "tag": "reloading",
+          "link": "https://danbooru.donmai.us/wiki_pages/reloading"
+        },
+        {
+          "label": "引き金に指を掛けない持ち方",
+          "tag": "trigger_discipline",
+          "link": "https://danbooru.donmai.us/wiki_pages/trigger_discipline"
+        },
+        {
+          "label": "三刀流",
+          "tag": "triple_wielding",
+          "link": "https://danbooru.donmai.us/wiki_pages/triple_wielding"
+        },
+        {
+          "label": "両手持ち",
+          "tag": "two-handed",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-handed"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の関連タグ",
+      "タグ一覧": [
+        {
+          "label": "銃を突きつけられて",
+          "tag": "at_gunpoint",
+          "link": "https://danbooru.donmai.us/wiki_pages/at_gunpoint"
+        },
+        {
+          "label": "武器庫",
+          "tag": "armory",
+          "link": "https://danbooru.donmai.us/wiki_pages/armory"
+        },
+        {
+          "label": "銃の描写ミス",
+          "tag": "bad_gun_anatomy",
+          "link": "https://danbooru.donmai.us/wiki_pages/bad_gun_anatomy"
+        },
+        {
+          "label": "銃弾の穴",
+          "tag": "bullet_hole",
+          "link": "https://danbooru.donmai.us/wiki_pages/bullet_hole"
+        },
+        {
+          "label": "砲弾",
+          "tag": "cannonball",
+          "link": "https://danbooru.donmai.us/wiki_pages/cannonball"
+        },
+        {
+          "label": "中心軸再ロックスタンス",
+          "tag": "center_axis_relock_stance",
+          "link": "https://danbooru.donmai.us/wiki_pages/center_axis_relock_stance"
+        },
+        {
+          "label": "近接戦闘",
+          "tag": "close-quarters_combat",
+          "link": "https://danbooru.donmai.us/wiki_pages/close-quarters_combat"
+        },
+        {
+          "label": "十字線",
+          "tag": "crosshair",
+          "link": "https://danbooru.donmai.us/wiki_pages/crosshair"
+        },
+        {
+          "label": "爆発",
+          "tag": "explosion",
+          "link": "https://danbooru.donmai.us/wiki_pages/explosion"
+        },
+        {
+          "label": "高射砲",
+          "tag": "flak",
+          "link": "https://danbooru.donmai.us/wiki_pages/flak"
+        },
+        {
+          "label": "銃を頭に突きつける",
+          "tag": "gun_to_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun_to_head"
+        },
+        {
+          "label": "銃創",
+          "tag": "gunshot_wound",
+          "link": "https://danbooru.donmai.us/wiki_pages/gunshot_wound"
+        },
+        {
+          "label": "ヘッド・ショット",
+          "tag": "headshot",
+          "link": "https://danbooru.donmai.us/wiki_pages/headshot"
+        },
+        {
+          "label": "ロックされたスライド",
+          "tag": "locked_slide",
+          "link": "https://danbooru.donmai.us/wiki_pages/locked_slide"
+        },
+        {
+          "label": "互いに銃を向け合う膠着状態",
+          "tag": "mexican_standoff",
+          "link": "https://danbooru.donmai.us/wiki_pages/mexican_standoff"
+        },
+        {
+          "label": "マズルフラッシュ（銃口の発火）",
+          "tag": "muzzle_flash",
+          "link": "https://danbooru.donmai.us/wiki_pages/muzzle_flash"
+        },
+        {
+          "label": "オープンシリンダー（リボルバー）",
+          "tag": "open_cylinder_%28revolver%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_cylinder_%28revolver%29"
+        },
+        {
+          "label": "弾道の軌跡",
+          "tag": "projectile_trail",
+          "link": "https://danbooru.donmai.us/wiki_pages/projectile_trail"
+        },
+        {
+          "label": "板野サーカス",
+          "tag": "itano_circus",
+          "link": "https://danbooru.donmai.us/wiki_pages/itano_circus"
+        },
+        {
+          "label": "ライフリング",
+          "tag": "rifling",
+          "link": "https://danbooru.donmai.us/wiki_pages/rifling"
+        },
+        {
+          "label": "ガンバレル・シークエンス",
+          "tag": "gun_barrel_sequence",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun_barrel_sequence"
+        },
+        {
+          "label": "射撃場",
+          "tag": "shooting_range",
+          "link": "https://danbooru.donmai.us/wiki_pages/shooting_range"
+        },
+        {
+          "label": "射撃練習",
+          "tag": "target_practice",
+          "link": "https://danbooru.donmai.us/wiki_pages/target_practice"
+        },
+        {
+          "label": "武器を強調",
+          "tag": "weapon_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_focus"
+        },
+        {
+          "label": "武器名",
+          "tag": "weapon_name",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_name"
+        },
+        {
+          "label": "武器ラック",
+          "tag": "weapon_rack",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_rack"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "鎧・防具一覧",
+          "tag": "list_of_armor",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_armor"
+        },
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
+}

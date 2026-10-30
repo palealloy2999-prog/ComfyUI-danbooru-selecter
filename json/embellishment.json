@@ -1,0 +1,32 @@
+{
+  "カテゴリID": "embellishment",
+  "カテゴリ名": "装飾",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aembellishment",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "宝石飾り",
+          "tag": "gem-studded",
+          "link": "https://danbooru.donmai.us/wiki_pages/gem-studded"
+        },
+        {
+          "label": "ラメ・きらめき",
+          "tag": "glitter",
+          "link": "https://danbooru.donmai.us/wiki_pages/glitter"
+        },
+        {
+          "label": "レース",
+          "tag": "lace",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace"
+        },
+        {
+          "label": "スパンコール",
+          "tag": "sequins",
+          "link": "https://danbooru.donmai.us/wiki_pages/sequins"
+        }
+      ]
+    }
+  ]
+}

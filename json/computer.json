@@ -1,0 +1,462 @@
+{
+  "カテゴリID": "computer",
+  "カテゴリ名": "コンピューター",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=computer",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "絵を描く",
+          "tag": "drawing_%28action%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/drawing_%28action%29"
+        },
+        {
+          "label": "ゲームをする",
+          "tag": "playing_games",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_games"
+        },
+        {
+          "label": "インターネット",
+          "tag": "internet",
+          "link": "https://danbooru.donmai.us/wiki_pages/internet"
+        }
+      ]
+    },
+    {
+      "セクション名": "種類",
+      "タグ一覧": [
+        {
+          "label": "タワー型パソコン",
+          "tag": "computer_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/computer_tower"
+        },
+        {
+          "label": "ピザボックスコンピューター",
+          "tag": "pizza_box_computer",
+          "link": "https://danbooru.donmai.us/wiki_pages/pizza_box_computer"
+        },
+        {
+          "label": "iMac",
+          "tag": "imac",
+          "link": "https://danbooru.donmai.us/wiki_pages/imac"
+        },
+        {
+          "label": "X68000",
+          "tag": "x68000",
+          "link": "https://danbooru.donmai.us/wiki_pages/x68000"
+        },
+        {
+          "label": "ノートパソコン",
+          "tag": "laptop",
+          "link": "https://danbooru.donmai.us/wiki_pages/laptop"
+        },
+        {
+          "label": "マックブック",
+          "tag": "macbook",
+          "link": "https://danbooru.donmai.us/wiki_pages/macbook"
+        },
+        {
+          "label": "ミニPC",
+          "tag": "mini_pc",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_pc"
+        },
+        {
+          "label": "マックミニ",
+          "tag": "mac_mini",
+          "link": "https://danbooru.donmai.us/wiki_pages/mac_mini"
+        },
+        {
+          "label": "サーバ",
+          "tag": "server",
+          "link": "https://danbooru.donmai.us/wiki_pages/server"
+        },
+        {
+          "label": "タブレットPC",
+          "tag": "tablet_pc",
+          "link": "https://danbooru.donmai.us/wiki_pages/tablet_pc"
+        }
+      ]
+    },
+    {
+      "セクション名": "オペレーティングシステム",
+      "タグ一覧": [
+        {
+          "label": "GNU/Linux",
+          "tag": "linux",
+          "link": "https://danbooru.donmai.us/wiki_pages/linux"
+        },
+        {
+          "label": "アーチリナックス",
+          "tag": "arch_linux",
+          "link": "https://danbooru.donmai.us/wiki_pages/arch_linux"
+        },
+        {
+          "label": "デビアン",
+          "tag": "debian",
+          "link": "https://danbooru.donmai.us/wiki_pages/debian"
+        },
+        {
+          "label": "フェドーラ",
+          "tag": "fedora_%28linux%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fedora_%28linux%29"
+        },
+        {
+          "label": "ジェンツー",
+          "tag": "gentoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/gentoo"
+        },
+        {
+          "label": "ノッピックス",
+          "tag": "knoppix",
+          "link": "https://danbooru.donmai.us/wiki_pages/knoppix"
+        },
+        {
+          "label": "マンドリバ",
+          "tag": "mandriva",
+          "link": "https://danbooru.donmai.us/wiki_pages/mandriva"
+        },
+        {
+          "label": "スラックウェア",
+          "tag": "slackware",
+          "link": "https://danbooru.donmai.us/wiki_pages/slackware"
+        },
+        {
+          "label": "スーズ",
+          "tag": "suse",
+          "link": "https://danbooru.donmai.us/wiki_pages/suse"
+        },
+        {
+          "label": "ウブントゥ",
+          "tag": "ubuntu",
+          "link": "https://danbooru.donmai.us/wiki_pages/ubuntu"
+        },
+        {
+          "label": "BSD",
+          "tag": "bsd",
+          "link": "https://danbooru.donmai.us/wiki_pages/bsd"
+        },
+        {
+          "label": "オープンBSD",
+          "tag": "openbsd",
+          "link": "https://danbooru.donmai.us/wiki_pages/openbsd"
+        },
+        {
+          "label": "マッキントッシュ",
+          "tag": "macintosh",
+          "link": "https://danbooru.donmai.us/wiki_pages/macintosh"
+        },
+        {
+          "label": "マイクロソフトウィンドウズ",
+          "tag": "microsoft_windows",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft_windows"
+        }
+      ]
+    },
+    {
+      "セクション名": "ブラウザとソフトウェア",
+      "タグ一覧": [
+        {
+          "label": "モジラファイアフォックス",
+          "tag": "mozilla_firefox",
+          "link": "https://danbooru.donmai.us/wiki_pages/mozilla_firefox"
+        },
+        {
+          "label": "モジラ（キャラクター）",
+          "tag": "mozilla_%28character%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mozilla_%28character%29"
+        },
+        {
+          "label": "モジラサンダーバード",
+          "tag": "mozilla_thunderbird",
+          "link": "https://danbooru.donmai.us/wiki_pages/mozilla_thunderbird"
+        },
+        {
+          "label": "グーグル",
+          "tag": "google",
+          "link": "https://danbooru.donmai.us/wiki_pages/google"
+        },
+        {
+          "label": "グーグルクローム",
+          "tag": "google_chrome",
+          "link": "https://danbooru.donmai.us/wiki_pages/google_chrome"
+        },
+        {
+          "label": "インターネットエクスプローラー",
+          "tag": "internet_explorer",
+          "link": "https://danbooru.donmai.us/wiki_pages/internet_explorer"
+        },
+        {
+          "label": "マイクロソフトエッジ",
+          "tag": "microsoft_edge",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft_edge"
+        },
+        {
+          "label": "オペラ",
+          "tag": "opera_%28web_browser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/opera_%28web_browser%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "インターフェースと周辺機器",
+      "タグ一覧": [
+        {
+          "label": "キーボード",
+          "tag": "computer_keyboard",
+          "link": "https://danbooru.donmai.us/wiki_pages/computer_keyboard"
+        },
+        {
+          "label": "ホログラフィックキーボード",
+          "tag": "holographic_keyboard",
+          "link": "https://danbooru.donmai.us/wiki_pages/holographic_keyboard"
+        },
+        {
+          "label": "コンピューターのマウス",
+          "tag": "computer_mouse",
+          "link": "https://danbooru.donmai.us/wiki_pages/computer_mouse"
+        },
+        {
+          "label": "マウスパッド",
+          "tag": "mousepad_%28object%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mousepad_%28object%29"
+        },
+        {
+          "label": "ペンタブレット",
+          "tag": "drawing_tablet",
+          "link": "https://danbooru.donmai.us/wiki_pages/drawing_tablet"
+        },
+        {
+          "label": "フイオン",
+          "tag": "huion",
+          "link": "https://danbooru.donmai.us/wiki_pages/huion"
+        },
+        {
+          "label": "ワコム",
+          "tag": "wacom",
+          "link": "https://danbooru.donmai.us/wiki_pages/wacom"
+        },
+        {
+          "label": "XPペン",
+          "tag": "xp-pen",
+          "link": "https://danbooru.donmai.us/wiki_pages/xp-pen"
+        },
+        {
+          "label": "外付けハードドライブ",
+          "tag": "external_hard_drive",
+          "link": "https://danbooru.donmai.us/wiki_pages/external_hard_drive"
+        },
+        {
+          "label": "モニター",
+          "tag": "monitor",
+          "link": "https://danbooru.donmai.us/wiki_pages/monitor"
+        },
+        {
+          "label": "曲面モニター",
+          "tag": "curved_monitor",
+          "link": "https://danbooru.donmai.us/wiki_pages/curved_monitor"
+        },
+        {
+          "label": "ホログラフィックモニター",
+          "tag": "holographic_monitor",
+          "link": "https://danbooru.donmai.us/wiki_pages/holographic_monitor"
+        },
+        {
+          "label": "タッチスクリーン",
+          "tag": "touchscreen",
+          "link": "https://danbooru.donmai.us/wiki_pages/touchscreen"
+        },
+        {
+          "label": "ホログラフィックタッチスクリーン",
+          "tag": "holographic_touchscreen",
+          "link": "https://danbooru.donmai.us/wiki_pages/holographic_touchscreen"
+        },
+        {
+          "label": "プリンター",
+          "tag": "printer",
+          "link": "https://danbooru.donmai.us/wiki_pages/printer"
+        },
+        {
+          "label": "USB",
+          "tag": "usb",
+          "link": "https://danbooru.donmai.us/wiki_pages/usb"
+        }
+      ]
+    },
+    {
+      "セクション名": "内部ハードウェア",
+      "タグ一覧": [
+        {
+          "label": "コンピュータチップ",
+          "tag": "computer_chip",
+          "link": "https://danbooru.donmai.us/wiki_pages/computer_chip"
+        },
+        {
+          "label": "CPU",
+          "tag": "cpu",
+          "link": "https://danbooru.donmai.us/wiki_pages/cpu"
+        },
+        {
+          "label": "グラフィックカード",
+          "tag": "graphics_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/graphics_card"
+        },
+        {
+          "label": "光学ドライブ",
+          "tag": "optical_drive",
+          "link": "https://danbooru.donmai.us/wiki_pages/optical_drive"
+        },
+        {
+          "label": "RAM（メモリ）",
+          "tag": "ram_%28computer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ram_%28computer%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "ストレージ",
+      "タグ一覧": [
+        {
+          "label": "CD",
+          "tag": "cd",
+          "link": "https://danbooru.donmai.us/wiki_pages/cd"
+        },
+        {
+          "label": "DVD",
+          "tag": "dvd_%28object%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dvd_%28object%29"
+        },
+        {
+          "label": "フロッピーディスク",
+          "tag": "floppy_disk",
+          "link": "https://danbooru.donmai.us/wiki_pages/floppy_disk"
+        },
+        {
+          "label": "ミニディスク",
+          "tag": "minidisc",
+          "link": "https://danbooru.donmai.us/wiki_pages/minidisc"
+        },
+        {
+          "label": "SDカード",
+          "tag": "sd_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/sd_card"
+        },
+        {
+          "label": "SDカード",
+          "tag": "sd_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/sd_card"
+        }
+      ]
+    },
+    {
+      "セクション名": "企業",
+      "タグ一覧": [
+        {
+          "label": "AMD",
+          "tag": "amd",
+          "link": "https://danbooru.donmai.us/wiki_pages/amd"
+        },
+        {
+          "label": "アップル社",
+          "tag": "apple_inc.",
+          "link": "https://danbooru.donmai.us/wiki_pages/apple_inc."
+        },
+        {
+          "label": "エイスース",
+          "tag": "asus",
+          "link": "https://danbooru.donmai.us/wiki_pages/asus"
+        },
+        {
+          "label": "デル",
+          "tag": "dell",
+          "link": "https://danbooru.donmai.us/wiki_pages/dell"
+        },
+        {
+          "label": "ヒューレット・パッカード",
+          "tag": "hewlett-packard",
+          "link": "https://danbooru.donmai.us/wiki_pages/hewlett-packard"
+        },
+        {
+          "label": "IBM",
+          "tag": "ibm",
+          "link": "https://danbooru.donmai.us/wiki_pages/ibm"
+        },
+        {
+          "label": "シンクパッド",
+          "tag": "thinkpad",
+          "link": "https://danbooru.donmai.us/wiki_pages/thinkpad"
+        },
+        {
+          "label": "インテル",
+          "tag": "intel",
+          "link": "https://danbooru.donmai.us/wiki_pages/intel"
+        },
+        {
+          "label": "マイクロソフト",
+          "tag": "microsoft",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft"
+        },
+        {
+          "label": "NEC株式会社",
+          "tag": "nec_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/nec_corporation"
+        },
+        {
+          "label": "NVIDIA",
+          "tag": "nvidia",
+          "link": "https://danbooru.donmai.us/wiki_pages/nvidia"
+        },
+        {
+          "label": "サンディスク",
+          "tag": "sandisk",
+          "link": "https://danbooru.donmai.us/wiki_pages/sandisk"
+        },
+        {
+          "label": "ソニー",
+          "tag": "sony",
+          "link": "https://danbooru.donmai.us/wiki_pages/sony"
+        },
+        {
+          "label": "VAIO",
+          "tag": "vaio",
+          "link": "https://danbooru.donmai.us/wiki_pages/vaio"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "OSたん",
+          "tag": "os-tan",
+          "link": "https://danbooru.donmai.us/wiki_pages/os-tan"
+        },
+        {
+          "label": "MSX",
+          "tag": "msx",
+          "link": "https://danbooru.donmai.us/wiki_pages/msx"
+        },
+        {
+          "label": "1チップMSX",
+          "tag": "1chip_msx",
+          "link": "https://danbooru.donmai.us/wiki_pages/1chip_msx"
+        },
+        {
+          "label": "タワー型パソコン",
+          "tag": "computer_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/computer_tower"
+        },
+        {
+          "label": "ノートパソコン",
+          "tag": "laptop",
+          "link": "https://danbooru.donmai.us/wiki_pages/laptop"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

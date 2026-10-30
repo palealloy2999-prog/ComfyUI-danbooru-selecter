@@ -1,0 +1,552 @@
+﻿{
+    "カテゴリID":  "wings",
+    "カテゴリ名":  "翼",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Awings",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "翼",
+                                         "tag":  "wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wings"
+                                     },
+                                     {
+                                         "label":  "翼の変更",
+                                         "tag":  "alternate_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_wings"
+                                     },
+                                     {
+                                         "label":  "翼の色を変える",
+                                         "tag":  "alternate_wing_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_wing_color"
+                                     },
+                                     {
+                                         "label":  "翼なし",
+                                         "tag":  "no_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_wings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "翼の数",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "複数の翼",
+                                         "tag":  "multiple_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_wings"
+                                     },
+                                     {
+                                         "label":  "片翼",
+                                         "tag":  "single_wing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_wing"
+                                     },
+                                     {
+                                         "label":  "頭の片側の翼",
+                                         "tag":  "single_head_wing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_head_wing"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "サイズ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "特大の翼",
+                                         "tag":  "oversized_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/oversized_wings"
+                                     },
+                                     {
+                                         "label":  "大きな頭の翼",
+                                         "tag":  "large_head_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/large_head_wings"
+                                     },
+                                     {
+                                         "label":  "小さな翼",
+                                         "tag":  "mini_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mini_wings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "種類",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "羽根のついた翼",
+                                         "tag":  "feathered_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/feathered_wings"
+                                     },
+                                     {
+                                         "label":  "天使の羽",
+                                         "tag":  "angel_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/angel_wings"
+                                     },
+                                     {
+                                         "label":  "鳥の羽",
+                                         "tag":  "bird_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bird_wings"
+                                     },
+                                     {
+                                         "label":  "悪魔の翼",
+                                         "tag":  "demon_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/demon_wings"
+                                     },
+                                     {
+                                         "label":  "ドラゴンの翼",
+                                         "tag":  "dragon_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dragon_wings"
+                                     },
+                                     {
+                                         "label":  "妖精の羽",
+                                         "tag":  "fairy_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fairy_wings"
+                                     },
+                                     {
+                                         "label":  "コウモリの羽",
+                                         "tag":  "bat_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bat_wings"
+                                     },
+                                     {
+                                         "label":  "描かれた翼",
+                                         "tag":  "drawn_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/drawn_wings"
+                                     },
+                                     {
+                                         "label":  "スケルトンの翼",
+                                         "tag":  "skeletal_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/skeletal_wings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "昆虫の羽",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "昆虫の羽",
+                                         "tag":  "insect_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/insect_wings"
+                                     },
+                                     {
+                                         "label":  "蝶の羽",
+                                         "tag":  "butterfly_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/butterfly_wings"
+                                     },
+                                     {
+                                         "label":  "トンボの羽",
+                                         "tag":  "dragonfly_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dragonfly_wings"
+                                     },
+                                     {
+                                         "label":  "てんとう虫の羽",
+                                         "tag":  "ladybug_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ladybug_wings"
+                                     },
+                                     {
+                                         "label":  "蛾の羽",
+                                         "tag":  "moth_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/moth_wings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "特殊な材質・属性の翼",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "結晶の翼",
+                                         "tag":  "crystal_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crystal_wings"
+                                     },
+                                     {
+                                         "label":  "エネルギーの翼",
+                                         "tag":  "energy_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/energy_wings"
+                                     },
+                                     {
+                                         "label":  "燃える翼",
+                                         "tag":  "fiery_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fiery_wings"
+                                     },
+                                     {
+                                         "label":  "氷の翼",
+                                         "tag":  "ice_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ice_wings"
+                                     },
+                                     {
+                                         "label":  "液体の翼",
+                                         "tag":  "liquid_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/liquid_wings"
+                                     },
+                                     {
+                                         "label":  "植物の羽",
+                                         "tag":  "plant_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_wings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "人工翼",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "つけ翼",
+                                         "tag":  "fake_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_wings"
+                                     },
+                                     {
+                                         "label":  "機械の翼",
+                                         "tag":  "mechanical_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanical_wings"
+                                     },
+                                     {
+                                         "label":  "翼のタトゥー",
+                                         "tag":  "wing_tattoo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_tattoo"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "生える場所（身体）",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "足首の翼",
+                                         "tag":  "ankle_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ankle_wings"
+                                     },
+                                     {
+                                         "label":  "取り外した翼",
+                                         "tag":  "detached_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/detached_wings"
+                                     },
+                                     {
+                                         "label":  "頭に生えた翼",
+                                         "tag":  "head_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_wings"
+                                     },
+                                     {
+                                         "label":  "翼の形の髪",
+                                         "tag":  "hair_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_wings"
+                                     },
+                                     {
+                                         "label":  "翼の形の耳",
+                                         "tag":  "wing_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_ears"
+                                     },
+                                     {
+                                         "label":  "腰付近の翼",
+                                         "tag":  "low_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/low_wings"
+                                     },
+                                     {
+                                         "label":  "脚の翼",
+                                         "tag":  "leg_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leg_wings"
+                                     },
+                                     {
+                                         "label":  "手首の翼",
+                                         "tag":  "wrist_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wrist_wings"
+                                     },
+                                     {
+                                         "label":  "翼のある腕",
+                                         "tag":  "winged_arms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_arms"
+                                     },
+                                     {
+                                         "label":  "ハーピー",
+                                         "tag":  "harpy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/harpy"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "付く場所（衣服）",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "翼付きバッグ",
+                                         "tag":  "winged_bag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_bag"
+                                     },
+                                     {
+                                         "label":  "翼付きヘアバンド",
+                                         "tag":  "winged_hairband",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_hairband"
+                                     },
+                                     {
+                                         "label":  "翼のある帽子",
+                                         "tag":  "winged_hat",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_hat"
+                                     },
+                                     {
+                                         "label":  "翼のあるヘルメット",
+                                         "tag":  "winged_helmet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_helmet"
+                                     },
+                                     {
+                                         "label":  "翼のある履物",
+                                         "tag":  "winged_footwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_footwear"
+                                     },
+                                     {
+                                         "label":  "翼の付いた靴",
+                                         "tag":  "winged_shoes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_shoes"
+                                     },
+                                     {
+                                         "label":  "服を貫く翼",
+                                         "tag":  "wings_through_clothes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wings_through_clothes"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "アクション",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "弓形の翼",
+                                         "tag":  "bowed_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bowed_wings"
+                                     },
+                                     {
+                                         "label":  "羽ばたき",
+                                         "tag":  "flapping",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flapping"
+                                     },
+                                     {
+                                         "label":  "表情豊かな翼",
+                                         "tag":  "expressive_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/expressive_wings"
+                                     },
+                                     {
+                                         "label":  "他人の翼に手を添える",
+                                         "tag":  "hand_on_another%27s_wing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_wing"
+                                     },
+                                     {
+                                         "label":  "他人の翼をつかむ",
+                                         "tag":  "grabbing_another%27s_wing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grabbing_another%27s_wing"
+                                     },
+                                     {
+                                         "label":  "自分の翼を掴む",
+                                         "tag":  "grabbing_own_wing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grabbing_own_wing"
+                                     },
+                                     {
+                                         "label":  "ウィングホールド",
+                                         "tag":  "wing_hold",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_hold"
+                                     },
+                                     {
+                                         "label":  "ハートの翼",
+                                         "tag":  "heart_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_wings"
+                                     },
+                                     {
+                                         "label":  "翼噛み",
+                                         "tag":  "wing_biting",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_biting"
+                                     },
+                                     {
+                                         "label":  "翼で隠す",
+                                         "tag":  "wing_censor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_censor"
+                                     },
+                                     {
+                                         "label":  "ウィングハグ",
+                                         "tag":  "wing_hug",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_hug"
+                                     },
+                                     {
+                                         "label":  "翼コキ",
+                                         "tag":  "wingjob",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wingjob"
+                                     },
+                                     {
+                                         "label":  "ウィング傘",
+                                         "tag":  "wing_umbrella",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_umbrella"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他の属性",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "非対称の翼",
+                                         "tag":  "asymmetrical_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/asymmetrical_wings"
+                                     },
+                                     {
+                                         "label":  "血まみれの翼",
+                                         "tag":  "bloody_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bloody_wings"
+                                     },
+                                     {
+                                         "label":  "翼の上の目",
+                                         "tag":  "eyes_on_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyes_on_wings"
+                                     },
+                                     {
+                                         "label":  "光る翼",
+                                         "tag":  "glowing_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glowing_wings"
+                                     },
+                                     {
+                                         "label":  "引き裂かれた翼",
+                                         "tag":  "torn_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_wings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "アクセサリー",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "翼のリボン",
+                                         "tag":  "bow_on_wing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bow_on_wing"
+                                     },
+                                     {
+                                         "label":  "翼ピアス",
+                                         "tag":  "wing_piercing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_piercing"
+                                     },
+                                     {
+                                         "label":  "ピアス付きの翼",
+                                         "tag":  "pierced_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pierced_wings"
+                                     },
+                                     {
+                                         "label":  "翼のリボン",
+                                         "tag":  "wing_ribbon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_ribbon"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "メディア固有",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "光鷹翼",
+                                         "tag":  "light_hawk_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/light_hawk_wings"
+                                     },
+                                     {
+                                         "label":  "リト",
+                                         "tag":  "rito",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rito"
+                                     },
+                                     {
+                                         "label":  "ウィンドグライダー",
+                                         "tag":  "wind_glider",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wind_glider"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "カラーバリエーション",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "グラデーションウィング",
+                                         "tag":  "gradient_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient_wings"
+                                     },
+                                     {
+                                         "label":  "色とりどりの翼",
+                                         "tag":  "multicolored_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_wings"
+                                     },
+                                     {
+                                         "label":  "虹の翼",
+                                         "tag":  "rainbow_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rainbow_wings"
+                                     },
+                                     {
+                                         "label":  "透明な翼",
+                                         "tag":  "transparent_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/transparent_wings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "カラー（単色）",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "黒い翼",
+                                         "tag":  "black_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_wings"
+                                     },
+                                     {
+                                         "label":  "赤い翼",
+                                         "tag":  "red_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_wings"
+                                     },
+                                     {
+                                         "label":  "白い翼",
+                                         "tag":  "white_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_wings"
+                                     },
+                                     {
+                                         "label":  "青い翼",
+                                         "tag":  "blue_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_wings"
+                                     },
+                                     {
+                                         "label":  "緑の翼",
+                                         "tag":  "green_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_wings"
+                                     },
+                                     {
+                                         "label":  "茶色の翼",
+                                         "tag":  "brown_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_wings"
+                                     },
+                                     {
+                                         "label":  "黄色い翼",
+                                         "tag":  "yellow_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_wings"
+                                     },
+                                     {
+                                         "label":  "ピンクの羽",
+                                         "tag":  "pink_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_wings"
+                                     },
+                                     {
+                                         "label":  "灰色の翼",
+                                         "tag":  "grey_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_wings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "翼形の装飾",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "翼形のリボン",
+                                         "tag":  "wing-shaped_bow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing-shaped_bow"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "無関係",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ウィングカラー",
+                                         "tag":  "wing_collar",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_collar"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "メタウィキのリスト",
+                                         "tag":  "list_of_meta-wikis",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+                                     }
+                                 ]
+                    }
+                ]
+}

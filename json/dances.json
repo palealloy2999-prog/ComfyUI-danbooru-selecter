@@ -1,0 +1,587 @@
+﻿{
+    "カテゴリID":  "dances",
+    "カテゴリ名":  "ダンス",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Adances",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "ソロダンスの動き",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アラベスク（ポーズ）",
+                                         "tag":  "arabesque_%28pose%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arabesque_%28pose%29"
+                                     },
+                                     {
+                                         "label":  "ボディロール",
+                                         "tag":  "body_roll",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/body_roll"
+                                     },
+                                     {
+                                         "label":  "ダブダンス",
+                                         "tag":  "dab_%28dance%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dab_%28dance%29"
+                                     },
+                                     {
+                                         "label":  "フロッシング",
+                                         "tag":  "flossing_%28dance%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flossing_%28dance%29"
+                                     },
+                                     {
+                                         "label":  "グリッディ",
+                                         "tag":  "griddy_%28dance%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/griddy_%28dance%29"
+                                     },
+                                     {
+                                         "label":  "ムーンウォーク",
+                                         "tag":  "moonwalk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/moonwalk"
+                                     },
+                                     {
+                                         "label":  "ネイネイダンス",
+                                         "tag":  "nae_nae_%28dance%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nae_nae_%28dance%29"
+                                     },
+                                     {
+                                         "label":  "猿",
+                                         "tag":  "the_monkey",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/the_monkey"
+                                     },
+                                     {
+                                         "label":  "トゥワーク",
+                                         "tag":  "twerking",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/twerking"
+                                     },
+                                     {
+                                         "label":  "ホイップ",
+                                         "tag":  "whip_%28dance%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/whip_%28dance%29"
+                                     },
+                                     {
+                                         "label":  "ワーム",
+                                         "tag":  "worm_%28dance%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/worm_%28dance%29"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "デュオダンスの動き",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ディップ（ダンスの動き）",
+                                         "tag":  "dip_%28dance_move%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dip_%28dance_move%29"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "グループダンスの動き",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アルゴリズム行進",
+                                         "tag":  "algorithm_march",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/algorithm_march"
+                                     },
+                                     {
+                                         "label":  "チューチュートレイン",
+                                         "tag":  "choo_choo_train",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/choo_choo_train"
+                                     },
+                                     {
+                                         "label":  "サークルダンス",
+                                         "tag":  "circle_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/circle_dance"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ダンススタイル",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "阿波踊り 徳島",
+                                         "tag":  "awa_odori_tokushima",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/awa_odori_tokushima"
+                                     },
+                                     {
+                                         "label":  "バレエ",
+                                         "tag":  "ballet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ballet"
+                                     },
+                                     {
+                                         "label":  "ベリーダンス",
+                                         "tag":  "belly_dancing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belly_dancing"
+                                     },
+                                     {
+                                         "label":  "ブレイクダンス",
+                                         "tag":  "breakdance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/breakdance"
+                                     },
+                                     {
+                                         "label":  "カンカン",
+                                         "tag":  "cancan_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cancan_dance"
+                                     },
+                                     {
+                                         "label":  "コサックダンス",
+                                         "tag":  "cossack_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cossack_dance"
+                                     },
+                                     {
+                                         "label":  "敦煌の踊り",
+                                         "tag":  "dunhuang_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dunhuang_dance"
+                                     },
+                                     {
+                                         "label":  "フラメンコ",
+                                         "tag":  "flamenco",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flamenco"
+                                     },
+                                     {
+                                         "label":  "フォークダンス",
+                                         "tag":  "folk_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/folk_dance"
+                                     },
+                                     {
+                                         "label":  "ガト",
+                                         "tag":  "gato_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gato_dance"
+                                     },
+                                     {
+                                         "label":  "フラ",
+                                         "tag":  "hula",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hula"
+                                     },
+                                     {
+                                         "label":  "ラップダンス",
+                                         "tag":  "lap_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lap_dance"
+                                     },
+                                     {
+                                         "label":  "パラパラ",
+                                         "tag":  "para_para",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/para_para"
+                                     },
+                                     {
+                                         "label":  "ポールダンス",
+                                         "tag":  "pole_dancing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pole_dancing"
+                                     },
+                                     {
+                                         "label":  "サンバ",
+                                         "tag":  "samba",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/samba"
+                                     },
+                                     {
+                                         "label":  "タンゴ",
+                                         "tag":  "tango",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tango"
+                                     },
+                                     {
+                                         "label":  "タップダンス",
+                                         "tag":  "tap_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tap_dance"
+                                     },
+                                     {
+                                         "label":  "田植え踊り",
+                                         "tag":  "taue_odori",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/taue_odori"
+                                     },
+                                     {
+                                         "label":  "ワルツ",
+                                         "tag":  "waltz_%28dance%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/waltz_%28dance%29"
+                                     },
+                                     {
+                                         "label":  "ヲタ芸",
+                                         "tag":  "wotagei",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wotagei"
+                                     },
+                                     {
+                                         "label":  "よさこい",
+                                         "tag":  "yosakoi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yosakoi"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "特定の振り付け",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ダンスロボットダンス",
+                                         "tag":  "dance_robot_dance_%28vocaloid%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dance_robot_dance_%28vocaloid%29"
+                                     },
+                                     {
+                                         "label":  "Easy Breezy",
+                                         "tag":  "easy_breezy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/easy_breezy"
+                                     },
+                                     {
+                                         "label":  "はなまるセンセーション",
+                                         "tag":  "hanamaru_sensation",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hanamaru_sensation"
+                                     },
+                                     {
+                                         "label":  "ハレハレユカイ",
+                                         "tag":  "hare_hare_yukai",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hare_hare_yukai"
+                                     },
+                                     {
+                                         "label":  "星野ルビーダンス",
+                                         "tag":  "hoshino_ruby_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hoshino_ruby_dance"
+                                     },
+                                     {
+                                         "label":  "イッチェポポタン",
+                                         "tag":  "icchae_popotan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/icchae_popotan"
+                                     },
+                                     {
+                                         "label":  "インターネットオーバードーズ",
+                                         "tag":  "internet_overdose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/internet_overdose"
+                                     },
+                                     {
+                                         "label":  "インターネットヤメロ",
+                                         "tag":  "internet_yamero",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/internet_yamero"
+                                     },
+                                     {
+                                         "label":  "キルミーダンス",
+                                         "tag":  "kill_me_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kill_me_dance"
+                                     },
+                                     {
+                                         "label":  "LOVE & JOY",
+                                         "tag":  "love%26joy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/love%26joy"
+                                     },
+                                     {
+                                         "label":  "マカレナ",
+                                         "tag":  "macarena_%28dance%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/macarena_%28dance%29"
+                                     },
+                                     {
+                                         "label":  "メズマライザー",
+                                         "tag":  "mesmerizer_%28vocaloid%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mesmerizer_%28vocaloid%29"
+                                     },
+                                     {
+                                         "label":  "もってけ！セーラーふく",
+                                         "tag":  "motteke%21_serafuku",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/motteke%21_serafuku"
+                                     },
+                                     {
+                                         "label":  "オッドループ",
+                                         "tag":  "oddloop",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/oddloop"
+                                     },
+                                     {
+                                         "label":  "ルーレット ルーレット",
+                                         "tag":  "roulette_roulette",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/roulette_roulette"
+                                     },
+                                     {
+                                         "label":  "粛聖!! ロリ神レクイエム☆",
+                                         "tag":  "shukusei%21%21_loli-kami_requiem",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shukusei%21%21_loli-kami_requiem"
+                                     },
+                                     {
+                                         "label":  "ソーラン節",
+                                         "tag":  "soran_bushi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/soran_bushi"
+                                     },
+                                     {
+                                         "label":  "シュガーソングとビターステップ",
+                                         "tag":  "sugar_song_and_bitter_step",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sugar_song_and_bitter_step"
+                                     },
+                                     {
+                                         "label":  "チューリング・ラブ",
+                                         "tag":  "turing_love",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/turing_love"
+                                     },
+                                     {
+                                         "label":  "うごくうごく",
+                                         "tag":  "ugoku_ugoku",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ugoku_ugoku"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ミームダンス",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ミーム",
+                                         "tag":  "meme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/meme"
+                                     },
+                                     {
+                                         "label":  "あんこう踊り",
+                                         "tag":  "anglerfish_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/anglerfish_dance"
+                                     },
+                                     {
+                                         "label":  "アリスダンス",
+                                         "tag":  "aris_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aris_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "バジリスクタイム",
+                                         "tag":  "basilisk_time",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/basilisk_time"
+                                     },
+                                     {
+                                         "label":  "ブラジルの犬のダンス",
+                                         "tag":  "brazil_dog_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brazil_dog_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "ブリハマチ",
+                                         "tag":  "buri_hamachi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/buri_hamachi"
+                                     },
+                                     {
+                                         "label":  "カイピリーニャ",
+                                         "tag":  "caipirinha_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/caipirinha_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "カイピリーニャ DearS ダンス",
+                                         "tag":  "caipirinha_dears_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/caipirinha_dears_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "カラメルダンセン",
+                                         "tag":  "caramelldansen",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/caramelldansen"
+                                     },
+                                     {
+                                         "label":  "カーソン・シアラーのダンス",
+                                         "tag":  "carson_shearer%27s_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/carson_shearer%27s_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "猫のブレイクダンス",
+                                         "tag":  "cat_breakdancing_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cat_breakdancing_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "カリフォルニア・ガールズに合わせて踊るチャドたち",
+                                         "tag":  "chads_dancing_to_california_gurls_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chads_dancing_to_california_gurls_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "チピチピチャパチャパ",
+                                         "tag":  "chipi_chipi_chapa_chapa_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chipi_chipi_chapa_chapa_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "クラブペンギンダンス",
+                                         "tag":  "club_penguin_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/club_penguin_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "踊る春日部つむぎ",
+                                         "tag":  "dancing_kasukabe_tsumugi_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dancing_kasukabe_tsumugi_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "踊る棺担ぎ",
+                                         "tag":  "dancing_pallbearers_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dancing_pallbearers_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "ダンシング・トゥースレス",
+                                         "tag":  "dancing_toothless_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dancing_toothless_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "堕天ルート",
+                                         "tag":  "daten_route",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/daten_route"
+                                     },
+                                     {
+                                         "label":  "デフォルトのフォートナイトダンス",
+                                         "tag":  "default_fortnite_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/default_fortnite_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "気晴らしダンス",
+                                         "tag":  "distraction_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/distraction_dance"
+                                     },
+                                     {
+                                         "label":  "どん兵衛踊り",
+                                         "tag":  "donbei_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/donbei_dance"
+                                     },
+                                     {
+                                         "label":  "ふっきれた",
+                                         "tag":  "fukkireta",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fukkireta"
+                                     },
+                                     {
+                                         "label":  "江南スタイル",
+                                         "tag":  "gangnam_style",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gangnam_style"
+                                     },
+                                     {
+                                         "label":  "ゲッダン",
+                                         "tag":  "get_down_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/get_down_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "ハムスターダンス",
+                                         "tag":  "hamster_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hamster_dance"
+                                     },
+                                     {
+                                         "label":  "ヘルテイカーダンス",
+                                         "tag":  "helltaker_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/helltaker_dance"
+                                     },
+                                     {
+                                         "label":  "キツネダンス",
+                                         "tag":  "kitsune_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kitsune_dance"
+                                     },
+                                     {
+                                         "label":  "恋ダンス",
+                                         "tag":  "koi_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/koi_dance"
+                                     },
+                                     {
+                                         "label":  "ニャンニャンダンス",
+                                         "tag":  "nyan-nyan_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nyan-nyan_dance"
+                                     },
+                                     {
+                                         "label":  "舞茸踊り",
+                                         "tag":  "maitake_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/maitake_dance"
+                                     },
+                                     {
+                                         "label":  "マルシル・ブレイクダンス",
+                                         "tag":  "marcille_breakdance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/marcille_breakdance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "ME!ME!ME!ダンス",
+                                         "tag":  "me%21me%21me%21_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/me%21me%21me%21_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "もちもちダンス",
+                                         "tag":  "mochi_mochi_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mochi_mochi_dance"
+                                     },
+                                     {
+                                         "label":  "ネコニャンダンス",
+                                         "tag":  "nekonyan_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nekonyan_dance"
+                                     },
+                                     {
+                                         "label":  "助けてくれる人がいない",
+                                         "tag":  "no_one%27s_around_to_help_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_one%27s_around_to_help_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "ヌマヌマ",
+                                         "tag":  "numa_numa_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/numa_numa_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "オレンジジャスティス",
+                                         "tag":  "orange_justice_%28dance%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_justice_%28dance%29"
+                                     },
+                                     {
+                                         "label":  "パフェンドルフ",
+                                         "tag":  "paffendorf",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/paffendorf"
+                                     },
+                                     {
+                                         "label":  "ペン・パイナップル・アップル・ペン",
+                                         "tag":  "pen-pineapple-apple-pen",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pen-pineapple-apple-pen"
+                                     },
+                                     {
+                                         "label":  "ポケダンス",
+                                         "tag":  "pokedance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pokedance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "カボチャダンス",
+                                         "tag":  "pumpkin_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pumpkin_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "ランランルー",
+                                         "tag":  "ran_ran_ru",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ran_ran_ru"
+                                     },
+                                     {
+                                         "label":  "輪になって踊るアライグマ",
+                                         "tag":  "raccoon_dancing_in_a_circle_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/raccoon_dancing_in_a_circle_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "リン・ストリッパー・ダンス",
+                                         "tag":  "rin_stripper_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rin_stripper_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "悲しい猫のダンス",
+                                         "tag":  "sad_cat_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sad_cat_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "しかいろデイズのダンス",
+                                         "tag":  "shikairo_days_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shikairo_days_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "シュートダンス",
+                                         "tag":  "shoot_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoot_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "ソーダシェイク",
+                                         "tag":  "soda_shake_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/soda_shake_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "不気味なダンス",
+                                         "tag":  "spooky_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spooky_dance"
+                                     },
+                                     {
+                                         "label":  "トカ・トカ・トカダンス",
+                                         "tag":  "toca_toca_toca_dance_%28meme%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/toca_toca_toca_dance_%28meme%29"
+                                     },
+                                     {
+                                         "label":  "拷問ダンス",
+                                         "tag":  "torture_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/torture_dance"
+                                     },
+                                     {
+                                         "label":  "ズイズイダンス",
+                                         "tag":  "zui_zui_dance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zui_zui_dance"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タグ付けされた曲のリスト",
+                                         "tag":  "list_of_tagged_songs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_tagged_songs"
+                                     }
+                                 ]
+                    }
+                ]
+}

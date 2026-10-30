@@ -1,0 +1,207 @@
+{
+  "カテゴリID": "nose",
+  "カテゴリ名": "鼻",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=nose",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "点で描かれた鼻",
+          "tag": "dot_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/dot_nose"
+        }
+      ]
+    },
+    {
+      "セクション名": "鼻",
+      "タグ一覧": [
+        {
+          "label": "点で描かれた鼻",
+          "tag": "dot_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/dot_nose"
+        },
+        {
+          "label": "大きな鼻",
+          "tag": "big_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/big_nose"
+        },
+        {
+          "label": "長い鼻",
+          "tag": "long_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_nose"
+        },
+        {
+          "label": "尖った鼻",
+          "tag": "pointy_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointy_nose"
+        },
+        {
+          "label": "つけ鼻",
+          "tag": "fake_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_nose"
+        },
+        {
+          "label": "ピエロの鼻",
+          "tag": "clown_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/clown_nose"
+        },
+        {
+          "label": "鼻の影",
+          "tag": "nose_shade",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_shade"
+        }
+      ]
+    },
+    {
+      "セクション名": "動物",
+      "タグ一覧": [
+        {
+          "label": "動物の鼻",
+          "tag": "animal_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_nose"
+        },
+        {
+          "label": "猫の鼻",
+          "tag": "cat_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_nose"
+        },
+        {
+          "label": "犬の鼻",
+          "tag": "dog_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_nose"
+        },
+        {
+          "label": "ウサギの鼻",
+          "tag": "rabbit_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit_nose"
+        },
+        {
+          "label": "ネズミの鼻",
+          "tag": "mouse_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/mouse_nose"
+        },
+        {
+          "label": "豚の鼻",
+          "tag": "pig_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/pig_nose"
+        },
+        {
+          "label": "ハート型の鼻",
+          "tag": "heart-shaped_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart-shaped_nose"
+        }
+      ]
+    },
+    {
+      "セクション名": "色",
+      "タグ一覧": [
+        {
+          "label": "青い鼻",
+          "tag": "blue_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_nose"
+        },
+        {
+          "label": "赤い鼻",
+          "tag": "red_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_nose"
+        },
+        {
+          "label": "ピンクの鼻",
+          "tag": "pink_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_nose"
+        }
+      ]
+    },
+    {
+      "セクション名": "ピアス",
+      "タグ一覧": [
+        {
+          "label": "リング型の鼻ピアス",
+          "tag": "nose_ring",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_ring"
+        },
+        {
+          "label": "鼻ピアス",
+          "tag": "nose_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_piercing"
+        },
+        {
+          "label": "スタッド型の鼻ピアス",
+          "tag": "nose_stud",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_stud"
+        }
+      ]
+    },
+    {
+      "セクション名": "けが",
+      "タグ一覧": [
+        {
+          "label": "鼻に絆創膏",
+          "tag": "bandaid_on_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid_on_nose"
+        },
+        {
+          "label": "鼻に包帯を巻く",
+          "tag": "bandage_on_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandage_on_nose"
+        },
+        {
+          "label": "鼻血",
+          "tag": "nosebleed",
+          "link": "https://danbooru.donmai.us/wiki_pages/nosebleed"
+        },
+        {
+          "label": "鼻の傷",
+          "tag": "scar_on_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/scar_on_nose"
+        }
+      ]
+    },
+    {
+      "セクション名": "鼻から出るもの・鼻の動作",
+      "タグ一覧": [
+        {
+          "label": "鼻ちょうちん",
+          "tag": "nose_bubble",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_bubble"
+        },
+        {
+          "label": "鼻ほじり",
+          "tag": "nose_picking",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_picking"
+        },
+        {
+          "label": "鼻が赤くなる",
+          "tag": "nose_blush",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_blush"
+        },
+        {
+          "label": "鼻水",
+          "tag": "runny_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/runny_nose"
+        },
+        {
+          "label": "鼻から煙が出る",
+          "tag": "smoke_from_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/smoke_from_nose"
+        },
+        {
+          "label": "鼻から出る蒸気",
+          "tag": "steam_from_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/steam_from_nose"
+        },
+        {
+          "label": "わし鼻",
+          "tag": "aquiline_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/aquiline_nose"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

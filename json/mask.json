@@ -1,0 +1,972 @@
+{
+  "カテゴリID": "mask",
+  "カテゴリ名": "マスク",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=mask",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "覆われた顔",
+          "tag": "covered_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/covered_face"
+        },
+        {
+          "label": "紙",
+          "tag": "paper",
+          "link": "https://danbooru.donmai.us/wiki_pages/paper"
+        },
+        {
+          "label": "頭に紙",
+          "tag": "paper_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/paper_on_head"
+        },
+        {
+          "label": "覆われた顔",
+          "tag": "covered_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/covered_face"
+        },
+        {
+          "label": "頭に紙",
+          "tag": "paper_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/paper_on_head"
+        }
+      ]
+    },
+    {
+      "セクション名": "例",
+      "タグ一覧": [
+        {
+          "label": "口元を覆うマスク",
+          "tag": "mouth_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/mouth_mask"
+        }
+      ]
+    },
+    {
+      "セクション名": "マスクの形状/種類",
+      "タグ一覧": [
+        {
+          "label": "美容マスク",
+          "tag": "beauty_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/beauty_mask"
+        },
+        {
+          "label": "ノーズマスク",
+          "tag": "nose_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_mask"
+        },
+        {
+          "label": "ボンデージマスク",
+          "tag": "bondage_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/bondage_mask"
+        },
+        {
+          "label": "ギンプマスク",
+          "tag": "gimp_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/gimp_mask"
+        },
+        {
+          "label": "キャッチャーマスク",
+          "tag": "catcher%27s_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/catcher%27s_mask"
+        },
+        {
+          "label": "カーニバルマスク",
+          "tag": "carnival_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/carnival_mask"
+        },
+        {
+          "label": "キャラクターマスク",
+          "tag": "character_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/character_mask"
+        },
+        {
+          "label": "ピエロのマスク",
+          "tag": "clown_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/clown_mask"
+        },
+        {
+          "label": "ダイビングマスク",
+          "tag": "diving_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/diving_mask"
+        },
+        {
+          "label": "頭にダイビングマスクを装着",
+          "tag": "diving_mask_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/diving_mask_on_head"
+        },
+        {
+          "label": "ダイビングマスクを外した",
+          "tag": "diving_mask_removed",
+          "link": "https://danbooru.donmai.us/wiki_pages/diving_mask_removed"
+        },
+        {
+          "label": "ガスマスク",
+          "tag": "gas_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/gas_mask"
+        },
+        {
+          "label": "ゴーストマスク",
+          "tag": "ghost_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/ghost_mask"
+        },
+        {
+          "label": "ガイ・フォークスのマスク",
+          "tag": "guy_fawkes_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/guy_fawkes_mask"
+        },
+        {
+          "label": "ホッケーマスク",
+          "tag": "hockey_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/hockey_mask"
+        },
+        {
+          "label": "虚の仮面（BLEACH）",
+          "tag": "hollow_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/hollow_mask"
+        },
+        {
+          "label": "ひょっとこの面",
+          "tag": "hyottoko_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/hyottoko_mask"
+        },
+        {
+          "label": "剣道面",
+          "tag": "kendo_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/kendo_mask"
+        },
+        {
+          "label": "ルチャドールマスク",
+          "tag": "luchador_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/luchador_mask"
+        },
+        {
+          "label": "仮面舞踏会のマスク",
+          "tag": "masquerade_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/masquerade_mask"
+        },
+        {
+          "label": "能面",
+          "tag": "noh_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/noh_mask"
+        },
+        {
+          "label": "酸素マスク",
+          "tag": "oxygen_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/oxygen_mask"
+        },
+        {
+          "label": "パンティマスク",
+          "tag": "panty_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/panty_mask"
+        },
+        {
+          "label": "ペスト医師のマスク",
+          "tag": "plague_doctor_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/plague_doctor_mask"
+        },
+        {
+          "label": "カボチャのマスク",
+          "tag": "pumpkin_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/pumpkin_mask"
+        },
+        {
+          "label": "呼吸用保護具",
+          "tag": "respirator",
+          "link": "https://danbooru.donmai.us/wiki_pages/respirator"
+        },
+        {
+          "label": "サンタマスク",
+          "tag": "santa_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/santa_mask"
+        },
+        {
+          "label": "スカルマスク",
+          "tag": "skull_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/skull_mask"
+        },
+        {
+          "label": "睡眠用アイマスク",
+          "tag": "sleep_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleep_mask"
+        },
+        {
+          "label": "シュノーケルマスク",
+          "tag": "snorkel_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/snorkel_mask"
+        },
+        {
+          "label": "溶接マスク",
+          "tag": "welding_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/welding_mask"
+        },
+        {
+          "label": "レスリングマスク",
+          "tag": "wrestling_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/wrestling_mask"
+        }
+      ]
+    },
+    {
+      "セクション名": "顔の覆う範囲",
+      "タグ一覧": [
+        {
+          "label": "ドミノマスク",
+          "tag": "domino_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/domino_mask"
+        },
+        {
+          "label": "アイマスク",
+          "tag": "eye_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/eye_mask"
+        },
+        {
+          "label": "ハーフマスク",
+          "tag": "half_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/half_mask"
+        },
+        {
+          "label": "口元を覆うマスク",
+          "tag": "mouth_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/mouth_mask"
+        },
+        {
+          "label": "忍者マスク",
+          "tag": "ninja_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/ninja_mask"
+        },
+        {
+          "label": "サージカルマスク",
+          "tag": "surgical_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/surgical_mask"
+        },
+        {
+          "label": "口ベール",
+          "tag": "mouth_veil",
+          "link": "https://danbooru.donmai.us/wiki_pages/mouth_veil"
+        }
+      ]
+    },
+    {
+      "セクション名": "動物のマスク",
+      "タグ一覧": [
+        {
+          "label": "ワニマスク",
+          "tag": "alligator_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/alligator_mask"
+        },
+        {
+          "label": "バットマスク",
+          "tag": "bat_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/bat_mask"
+        },
+        {
+          "label": "クマのマスク",
+          "tag": "bear_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/bear_mask"
+        },
+        {
+          "label": "鳥のマスク",
+          "tag": "bird_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/bird_mask"
+        },
+        {
+          "label": "チキンマスク",
+          "tag": "chicken_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/chicken_mask"
+        },
+        {
+          "label": "カラスのマスク",
+          "tag": "crow_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/crow_mask"
+        },
+        {
+          "label": "アヒルのマスク",
+          "tag": "duck_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/duck_mask"
+        },
+        {
+          "label": "フクロウのマスク",
+          "tag": "owl_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/owl_mask"
+        },
+        {
+          "label": "白鳥のマスク",
+          "tag": "swan_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/swan_mask"
+        },
+        {
+          "label": "イノシシのマスク",
+          "tag": "boar_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/boar_mask"
+        },
+        {
+          "label": "蝶のマスク",
+          "tag": "butterfly_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/butterfly_mask"
+        },
+        {
+          "label": "猫のマスク",
+          "tag": "cat_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_mask"
+        },
+        {
+          "label": "牛のマスク",
+          "tag": "cow_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/cow_mask"
+        },
+        {
+          "label": "犬のマスク",
+          "tag": "dog_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_mask"
+        },
+        {
+          "label": "魚のマスク",
+          "tag": "fish_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/fish_mask"
+        },
+        {
+          "label": "キツネの仮面",
+          "tag": "fox_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/fox_mask"
+        },
+        {
+          "label": "カエルのマスク",
+          "tag": "frog_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/frog_mask"
+        },
+        {
+          "label": "キリンマスク",
+          "tag": "giraffe_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/giraffe_mask"
+        },
+        {
+          "label": "ゴリラマスク",
+          "tag": "gorilla_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/gorilla_mask"
+        },
+        {
+          "label": "馬のマスク",
+          "tag": "horse_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/horse_mask"
+        },
+        {
+          "label": "ライオンマスク",
+          "tag": "lion_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/lion_mask"
+        },
+        {
+          "label": "猿のマスク",
+          "tag": "monkey_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/monkey_mask"
+        },
+        {
+          "label": "マウスマスク",
+          "tag": "mouse_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/mouse_mask"
+        },
+        {
+          "label": "パンダマスク",
+          "tag": "panda_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/panda_mask"
+        },
+        {
+          "label": "豚のマスク",
+          "tag": "pig_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/pig_mask"
+        },
+        {
+          "label": "ウサギのマスク",
+          "tag": "rabbit_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit_mask"
+        },
+        {
+          "label": "アライグマのマスク",
+          "tag": "raccoon_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/raccoon_mask"
+        },
+        {
+          "label": "ヘビのマスク",
+          "tag": "snake_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/snake_mask"
+        },
+        {
+          "label": "イタチのマスク",
+          "tag": "weasel_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/weasel_mask"
+        },
+        {
+          "label": "狼のマスク",
+          "tag": "wolf_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/wolf_mask"
+        },
+        {
+          "label": "ゼブラマスク",
+          "tag": "zebra_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/zebra_mask"
+        }
+      ]
+    },
+    {
+      "セクション名": "神話/生き物のマスク",
+      "タグ一覧": [
+        {
+          "label": "エイリアンマスク",
+          "tag": "alien_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/alien_mask"
+        },
+        {
+          "label": "ドラゴンマスク",
+          "tag": "dragon_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragon_mask"
+        },
+        {
+          "label": "ゴブリンマスク",
+          "tag": "goblin_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/goblin_mask"
+        },
+        {
+          "label": "カッパマスク",
+          "tag": "kappa_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/kappa_mask"
+        },
+        {
+          "label": "鬼の面",
+          "tag": "oni_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/oni_mask"
+        },
+        {
+          "label": "天狗の面",
+          "tag": "tengu_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/tengu_mask"
+        },
+        {
+          "label": "ユニコーンマスク",
+          "tag": "unicorn_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/unicorn_mask"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクション",
+      "タグ一覧": [
+        {
+          "label": "マスクの調整",
+          "tag": "adjusting_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_mask"
+        },
+        {
+          "label": "マスクに血が付いた",
+          "tag": "blood_on_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/blood_on_mask"
+        },
+        {
+          "label": "マスクに射精",
+          "tag": "cum_on_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/cum_on_mask"
+        },
+        {
+          "label": "マスク越しに眉毛が見える",
+          "tag": "eyebrows_visible_through_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyebrows_visible_through_mask"
+        },
+        {
+          "label": "マスク越しに顔の毛が見える",
+          "tag": "facial_hair_through_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/facial_hair_through_mask"
+        },
+        {
+          "label": "マスクの下でのフェラチオ",
+          "tag": "fellatio_under_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/fellatio_under_mask"
+        },
+        {
+          "label": "マスクの下の猿ぐつわ",
+          "tag": "gag_under_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/gag_under_mask"
+        },
+        {
+          "label": "マスクの下のディルド",
+          "tag": "dildo_under_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/dildo_under_mask"
+        },
+        {
+          "label": "マスクに手を当てる",
+          "tag": "hand_on_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_mask"
+        },
+        {
+          "label": "マスクを握る",
+          "tag": "holding_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_mask"
+        },
+        {
+          "label": "マスク越しのキス",
+          "tag": "kissing_through_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/kissing_through_mask"
+        },
+        {
+          "label": "マスク",
+          "tag": "masked",
+          "link": "https://danbooru.donmai.us/wiki_pages/masked"
+        },
+        {
+          "label": "マスクビキニ",
+          "tag": "mask_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_bikini"
+        },
+        {
+          "label": "胸にマスク",
+          "tag": "mask_on_breasts",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_on_breasts"
+        },
+        {
+          "label": "首に掛けたマスク",
+          "tag": "mask_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_around_neck"
+        },
+        {
+          "label": "片耳にマスクをかける",
+          "tag": "mask_around_one_ear",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_around_one_ear"
+        },
+        {
+          "label": "股間にマスク",
+          "tag": "mask_on_crotch",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_on_crotch"
+        },
+        {
+          "label": "ベルトにマスク",
+          "tag": "mask_on_belt",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_on_belt"
+        },
+        {
+          "label": "帽子にマスク",
+          "tag": "mask_on_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_on_hat"
+        },
+        {
+          "label": "頭に載せたマスク",
+          "tag": "mask_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_on_head"
+        },
+        {
+          "label": "片目を覆うマスク",
+          "tag": "mask_over_one_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_over_one_eye"
+        },
+        {
+          "label": "肩にマスク",
+          "tag": "mask_on_shoulder",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_on_shoulder"
+        },
+        {
+          "label": "マスクを持ち上げる",
+          "tag": "mask_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_lift"
+        },
+        {
+          "label": "マスクを外す",
+          "tag": "mask_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_pull"
+        },
+        {
+          "label": "マスクの下のペニス",
+          "tag": "penis_under_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/penis_under_mask"
+        },
+        {
+          "label": "マスクを着用する",
+          "tag": "putting_on_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/putting_on_mask"
+        },
+        {
+          "label": "マスクを外す",
+          "tag": "removing_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/removing_mask"
+        },
+        {
+          "label": "マスクを外す",
+          "tag": "unmasking",
+          "link": "https://danbooru.donmai.us/wiki_pages/unmasking"
+        },
+        {
+          "label": "着用していないマスク",
+          "tag": "unworn_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_mask"
+        }
+      ]
+    },
+    {
+      "セクション名": "色と模様",
+      "タグ一覧": [
+        {
+          "label": "白いマスク",
+          "tag": "white_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_mask"
+        },
+        {
+          "label": "灰色のマスク",
+          "tag": "grey_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_mask"
+        },
+        {
+          "label": "黒いマスク",
+          "tag": "black_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_mask"
+        },
+        {
+          "label": "茶色のマスク",
+          "tag": "brown_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_mask"
+        },
+        {
+          "label": "赤いマスク",
+          "tag": "red_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_mask"
+        },
+        {
+          "label": "黄色いマスク",
+          "tag": "yellow_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_mask"
+        },
+        {
+          "label": "オレンジ色のマスク",
+          "tag": "orange_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_mask"
+        },
+        {
+          "label": "緑のマスク",
+          "tag": "green_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_mask"
+        },
+        {
+          "label": "水色のマスク",
+          "tag": "aqua_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_mask"
+        },
+        {
+          "label": "青いマスク",
+          "tag": "blue_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_mask"
+        },
+        {
+          "label": "紫色のマスク",
+          "tag": "purple_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_mask"
+        },
+        {
+          "label": "ピンクのマスク",
+          "tag": "pink_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_mask"
+        },
+        {
+          "label": "柄物のマスク",
+          "tag": "print_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_mask"
+        },
+        {
+          "label": "チェック柄のマスク",
+          "tag": "checkered_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_mask"
+        }
+      ]
+    },
+    {
+      "セクション名": "特徴・材質",
+      "タグ一覧": [
+        {
+          "label": "非対称マスク",
+          "tag": "asymmetrical_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/asymmetrical_mask"
+        },
+        {
+          "label": "壊れたマスク",
+          "tag": "broken_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/broken_mask"
+        },
+        {
+          "label": "ひび割れたマスク",
+          "tag": "cracked_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/cracked_mask"
+        },
+        {
+          "label": "骨マスク",
+          "tag": "bone_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/bone_mask"
+        },
+        {
+          "label": "汚れたマスク",
+          "tag": "dirty_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/dirty_mask"
+        },
+        {
+          "label": "光るマスク",
+          "tag": "glowing_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/glowing_mask"
+        },
+        {
+          "label": "金のマスク",
+          "tag": "gold_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/gold_mask"
+        },
+        {
+          "label": "角のあるマスク",
+          "tag": "horned_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/horned_mask"
+        },
+        {
+          "label": "革のマスク",
+          "tag": "leather_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/leather_mask"
+        },
+        {
+          "label": "尖ったマスク",
+          "tag": "pointed_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointed_mask"
+        },
+        {
+          "label": "シースルーマスク",
+          "tag": "see-through_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/see-through_mask"
+        },
+        {
+          "label": "スパイクマスク",
+          "tag": "spiked_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/spiked_mask"
+        },
+        {
+          "label": "スチールマスク",
+          "tag": "steel_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/steel_mask"
+        },
+        {
+          "label": "石仮面",
+          "tag": "stone_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/stone_mask"
+        },
+        {
+          "label": "スタッズマスク",
+          "tag": "studded_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/studded_mask"
+        },
+        {
+          "label": "破れたマスク",
+          "tag": "torn_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_mask"
+        }
+      ]
+    },
+    {
+      "セクション名": "原作からの変更",
+      "タグ一覧": [
+        {
+          "label": "代替マスク",
+          "tag": "alternate_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/alternate_mask"
+        },
+        {
+          "label": "マスクなし",
+          "tag": "no_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_mask"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "覆われた顔",
+          "tag": "covered_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/covered_face"
+        },
+        {
+          "label": "顔に紙を貼る",
+          "tag": "paper_on_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/paper_on_face"
+        },
+        {
+          "label": "りなちゃんボード",
+          "tag": "rina-chan_board",
+          "link": "https://danbooru.donmai.us/wiki_pages/rina-chan_board"
+        },
+        {
+          "label": "マスク",
+          "tag": "masks",
+          "link": "https://danbooru.donmai.us/wiki_pages/masks"
+        },
+        {
+          "label": "タグの別名",
+          "tag": "help:tag_aliases",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_aliases"
+        },
+        {
+          "label": "クマのマスク",
+          "tag": "bear_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/bear_mask"
+        },
+        {
+          "label": "鳥のマスク",
+          "tag": "bird_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/bird_mask"
+        },
+        {
+          "label": "壊れたマスク",
+          "tag": "broken_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/broken_mask"
+        },
+        {
+          "label": "蝶のマスク",
+          "tag": "butterfly_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/butterfly_mask"
+        },
+        {
+          "label": "猫のマスク",
+          "tag": "cat_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_mask"
+        },
+        {
+          "label": "キャラクターマスク",
+          "tag": "character_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/character_mask"
+        },
+        {
+          "label": "ピエロのマスク",
+          "tag": "clown_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/clown_mask"
+        },
+        {
+          "label": "牛のマスク",
+          "tag": "cow_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/cow_mask"
+        },
+        {
+          "label": "ドミノマスク",
+          "tag": "domino_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/domino_mask"
+        },
+        {
+          "label": "キツネの仮面",
+          "tag": "fox_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/fox_mask"
+        },
+        {
+          "label": "ガスマスク",
+          "tag": "gas_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/gas_mask"
+        },
+        {
+          "label": "ギンプマスク",
+          "tag": "gimp_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/gimp_mask"
+        },
+        {
+          "label": "ガイ・フォークスのマスク",
+          "tag": "guy_fawkes_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/guy_fawkes_mask"
+        },
+        {
+          "label": "ハーフマスク",
+          "tag": "half_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/half_mask"
+        },
+        {
+          "label": "ホッケーマスク",
+          "tag": "hockey_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/hockey_mask"
+        },
+        {
+          "label": "マスクを握る",
+          "tag": "holding_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_mask"
+        },
+        {
+          "label": "角のあるマスク",
+          "tag": "horned_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/horned_mask"
+        },
+        {
+          "label": "馬のマスク",
+          "tag": "horse_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/horse_mask"
+        },
+        {
+          "label": "首に掛けたマスク",
+          "tag": "mask_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_around_neck"
+        },
+        {
+          "label": "頭に載せたマスク",
+          "tag": "mask_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_on_head"
+        },
+        {
+          "label": "仮面舞踏会のマスク",
+          "tag": "masquerade_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/masquerade_mask"
+        },
+        {
+          "label": "猿のマスク",
+          "tag": "monkey_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/monkey_mask"
+        },
+        {
+          "label": "口元を覆うマスク",
+          "tag": "mouth_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/mouth_mask"
+        },
+        {
+          "label": "能面",
+          "tag": "noh_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/noh_mask"
+        },
+        {
+          "label": "鬼の面",
+          "tag": "oni_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/oni_mask"
+        },
+        {
+          "label": "柄物のマスク",
+          "tag": "print_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_mask"
+        },
+        {
+          "label": "ウサギのマスク",
+          "tag": "rabbit_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit_mask"
+        },
+        {
+          "label": "呼吸用保護具",
+          "tag": "respirator",
+          "link": "https://danbooru.donmai.us/wiki_pages/respirator"
+        },
+        {
+          "label": "シースルーマスク",
+          "tag": "see-through_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/see-through_mask"
+        },
+        {
+          "label": "スカルマスク",
+          "tag": "skull_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/skull_mask"
+        },
+        {
+          "label": "天狗の面",
+          "tag": "tengu_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/tengu_mask"
+        },
+        {
+          "label": "着用していないマスク",
+          "tag": "unworn_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_mask"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

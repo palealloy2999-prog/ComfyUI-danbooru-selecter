@@ -1,0 +1,1242 @@
+{
+  "カテゴリID": "birds",
+  "カテゴリ名": "鳥",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Abirds",
+  "セクション一覧": [
+    {
+      "セクション名": "基本",
+      "タグ一覧": [
+        {
+          "label": "鳥",
+          "tag": "bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/bird"
+        }
+      ]
+    },
+    {
+      "セクション名": "実在の鳥",
+      "タグ一覧": [
+        {
+          "label": "アホウドリ",
+          "tag": "albatross",
+          "link": "https://danbooru.donmai.us/wiki_pages/albatross"
+        },
+        {
+          "label": "ミナミオオアホウドリ",
+          "tag": "southern_royal_albatross",
+          "link": "https://danbooru.donmai.us/wiki_pages/southern_royal_albatross"
+        },
+        {
+          "label": "縞ボタンウズラ",
+          "tag": "barred_buttonquail",
+          "link": "https://danbooru.donmai.us/wiki_pages/barred_buttonquail"
+        },
+        {
+          "label": "ニガヨシ",
+          "tag": "bittern",
+          "link": "https://danbooru.donmai.us/wiki_pages/bittern"
+        },
+        {
+          "label": "ヨシゴイ",
+          "tag": "yellow_bittern",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_bittern"
+        },
+        {
+          "label": "アオカケス",
+          "tag": "blue_jay",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_jay"
+        },
+        {
+          "label": "青い鳥",
+          "tag": "bluebird",
+          "link": "https://danbooru.donmai.us/wiki_pages/bluebird"
+        },
+        {
+          "label": "アオアシカツオドリ",
+          "tag": "blue-footed_booby",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue-footed_booby"
+        },
+        {
+          "label": "ヒヨドリ",
+          "tag": "brown-eared_bulbul",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown-eared_bulbul"
+        },
+        {
+          "label": "ノガン",
+          "tag": "bustard",
+          "link": "https://danbooru.donmai.us/wiki_pages/bustard"
+        },
+        {
+          "label": "コリノガン",
+          "tag": "kori_bustard",
+          "link": "https://danbooru.donmai.us/wiki_pages/kori_bustard"
+        },
+        {
+          "label": "カーディナル（動物）",
+          "tag": "cardinal_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cardinal_%28animal%29"
+        },
+        {
+          "label": "ノーザンカーディナル",
+          "tag": "northern_cardinal",
+          "link": "https://danbooru.donmai.us/wiki_pages/northern_cardinal"
+        },
+        {
+          "label": "ひよこ",
+          "tag": "chick",
+          "link": "https://danbooru.donmai.us/wiki_pages/chick"
+        },
+        {
+          "label": "ニワトリ",
+          "tag": "chicken",
+          "link": "https://danbooru.donmai.us/wiki_pages/chicken"
+        },
+        {
+          "label": "雄鶏",
+          "tag": "rooster",
+          "link": "https://danbooru.donmai.us/wiki_pages/rooster"
+        },
+        {
+          "label": "コンドル",
+          "tag": "condor",
+          "link": "https://danbooru.donmai.us/wiki_pages/condor"
+        },
+        {
+          "label": "アンデスコンドル",
+          "tag": "andean_condor",
+          "link": "https://danbooru.donmai.us/wiki_pages/andean_condor"
+        },
+        {
+          "label": "鵜",
+          "tag": "cormorant",
+          "link": "https://danbooru.donmai.us/wiki_pages/cormorant"
+        },
+        {
+          "label": "鶴（動物）",
+          "tag": "crane_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/crane_%28animal%29"
+        },
+        {
+          "label": "クロカンムリヅル",
+          "tag": "black_crowned_crane",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_crowned_crane"
+        },
+        {
+          "label": "オオカンムリヅル",
+          "tag": "grey_crowned_crane",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_crowned_crane"
+        },
+        {
+          "label": "タンチョウヅル",
+          "tag": "red-crowned_crane",
+          "link": "https://danbooru.donmai.us/wiki_pages/red-crowned_crane"
+        },
+        {
+          "label": "ソデグロヅル",
+          "tag": "siberian_crane",
+          "link": "https://danbooru.donmai.us/wiki_pages/siberian_crane"
+        },
+        {
+          "label": "カラス",
+          "tag": "crow",
+          "link": "https://danbooru.donmai.us/wiki_pages/crow"
+        },
+        {
+          "label": "ハシボソガラス",
+          "tag": "carrion_crow",
+          "link": "https://danbooru.donmai.us/wiki_pages/carrion_crow"
+        },
+        {
+          "label": "ズキンガラス",
+          "tag": "hooded_crow",
+          "link": "https://danbooru.donmai.us/wiki_pages/hooded_crow"
+        },
+        {
+          "label": "カッコウ",
+          "tag": "cuckoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/cuckoo"
+        },
+        {
+          "label": "アヒル",
+          "tag": "duck",
+          "link": "https://danbooru.donmai.us/wiki_pages/duck"
+        },
+        {
+          "label": "アヒルの子",
+          "tag": "duckling",
+          "link": "https://danbooru.donmai.us/wiki_pages/duckling"
+        },
+        {
+          "label": "マガモ",
+          "tag": "mallard",
+          "link": "https://danbooru.donmai.us/wiki_pages/mallard"
+        },
+        {
+          "label": "ツグミ",
+          "tag": "dusky_thrush",
+          "link": "https://danbooru.donmai.us/wiki_pages/dusky_thrush"
+        },
+        {
+          "label": "ダーク・ウグイス",
+          "tag": "dusky_warbler",
+          "link": "https://danbooru.donmai.us/wiki_pages/dusky_warbler"
+        },
+        {
+          "label": "ワシ",
+          "tag": "eagle",
+          "link": "https://danbooru.donmai.us/wiki_pages/eagle"
+        },
+        {
+          "label": "ハクトウワシ",
+          "tag": "bald_eagle",
+          "link": "https://danbooru.donmai.us/wiki_pages/bald_eagle"
+        },
+        {
+          "label": "ハーストの鷲",
+          "tag": "haast%27s_eagle",
+          "link": "https://danbooru.donmai.us/wiki_pages/haast%27s_eagle"
+        },
+        {
+          "label": "サギ（動物）",
+          "tag": "egret_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/egret_%28animal%29"
+        },
+        {
+          "label": "コサギ",
+          "tag": "little_egret",
+          "link": "https://danbooru.donmai.us/wiki_pages/little_egret"
+        },
+        {
+          "label": "ハヤブサ類",
+          "tag": "falcon",
+          "link": "https://danbooru.donmai.us/wiki_pages/falcon"
+        },
+        {
+          "label": "ハヤブサ",
+          "tag": "peregrine_falcon",
+          "link": "https://danbooru.donmai.us/wiki_pages/peregrine_falcon"
+        },
+        {
+          "label": "フィンチ",
+          "tag": "finch",
+          "link": "https://danbooru.donmai.us/wiki_pages/finch"
+        },
+        {
+          "label": "ウソ",
+          "tag": "eurasian_bullfinch",
+          "link": "https://danbooru.donmai.us/wiki_pages/eurasian_bullfinch"
+        },
+        {
+          "label": "イカル",
+          "tag": "japanese_grosbeak",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_grosbeak"
+        },
+        {
+          "label": "ダブルバードフィンチ",
+          "tag": "double-barred_finch",
+          "link": "https://danbooru.donmai.us/wiki_pages/double-barred_finch"
+        },
+        {
+          "label": "コキンチョウ",
+          "tag": "gouldian_finch",
+          "link": "https://danbooru.donmai.us/wiki_pages/gouldian_finch"
+        },
+        {
+          "label": "文鳥",
+          "tag": "java_sparrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/java_sparrow"
+        },
+        {
+          "label": "キンカチョウ",
+          "tag": "zebra_finch",
+          "link": "https://danbooru.donmai.us/wiki_pages/zebra_finch"
+        },
+        {
+          "label": "フラミンゴ",
+          "tag": "flamingo",
+          "link": "https://danbooru.donmai.us/wiki_pages/flamingo"
+        },
+        {
+          "label": "ガマグチヨタカ",
+          "tag": "frogmouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/frogmouth"
+        },
+        {
+          "label": "ヒタキ（動物）",
+          "tag": "flycatcher_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/flycatcher_%28animal%29"
+        },
+        {
+          "label": "オオルリ",
+          "tag": "blue-and-white_flycatcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue-and-white_flycatcher"
+        },
+        {
+          "label": "ヒルブルーヒタキ",
+          "tag": "hill_blue_flycatcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/hill_blue_flycatcher"
+        },
+        {
+          "label": "キビタキ",
+          "tag": "narcissus_flycatcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/narcissus_flycatcher"
+        },
+        {
+          "label": "ベニヒタキ",
+          "tag": "verditer_flycatcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/verditer_flycatcher"
+        },
+        {
+          "label": "キオビヒタキ",
+          "tag": "yellow-rumped_flycatcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow-rumped_flycatcher"
+        },
+        {
+          "label": "ガチョウ",
+          "tag": "goose",
+          "link": "https://danbooru.donmai.us/wiki_pages/goose"
+        },
+        {
+          "label": "オオマガン",
+          "tag": "greater_white-fronted_goose",
+          "link": "https://danbooru.donmai.us/wiki_pages/greater_white-fronted_goose"
+        },
+        {
+          "label": "カナダグース",
+          "tag": "canada_goose",
+          "link": "https://danbooru.donmai.us/wiki_pages/canada_goose"
+        },
+        {
+          "label": "カモメ",
+          "tag": "seagull",
+          "link": "https://danbooru.donmai.us/wiki_pages/seagull"
+        },
+        {
+          "label": "オードゥアンカモメ",
+          "tag": "audouin%27s_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/audouin%27s_gull"
+        },
+        {
+          "label": "ベルチャーズカモメ",
+          "tag": "belchers%27s_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/belchers%27s_gull"
+        },
+        {
+          "label": "カモメ",
+          "tag": "black-billed_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-billed_gull"
+        },
+        {
+          "label": "ユリカモメ",
+          "tag": "black-headed_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-headed_gull"
+        },
+        {
+          "label": "ウミネコ",
+          "tag": "black-tailed_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-tailed_gull"
+        },
+        {
+          "label": "カリフォルニアカモメ",
+          "tag": "california_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/california_gull"
+        },
+        {
+          "label": "オオカモメ",
+          "tag": "glaucous_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/glaucous_gull"
+        },
+        {
+          "label": "オオカモメ",
+          "tag": "great_black-backed_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_black-backed_gull"
+        },
+        {
+          "label": "カモメ",
+          "tag": "grey_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_gull"
+        },
+        {
+          "label": "ハイガモ",
+          "tag": "grey-headed_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey-headed_gull"
+        },
+        {
+          "label": "ヒメカモメ",
+          "tag": "heermann%27s_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/heermann%27s_gull"
+        },
+        {
+          "label": "セグロカモメ",
+          "tag": "herring_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/herring_gull"
+        },
+        {
+          "label": "ハジロカモメ",
+          "tag": "ivory_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/ivory_gull"
+        },
+        {
+          "label": "溶岩カモメ",
+          "tag": "lava_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/lava_gull"
+        },
+        {
+          "label": "小さなカモメ",
+          "tag": "little_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/little_gull"
+        },
+        {
+          "label": "地中海カモメ",
+          "tag": "mediterranean_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/mediterranean_gull"
+        },
+        {
+          "label": "オオカモメ",
+          "tag": "pallas%27s_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/pallas%27s_gull"
+        },
+        {
+          "label": "ハシブトカモメ",
+          "tag": "ring-billed_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/ring-billed_gull"
+        },
+        {
+          "label": "ロスカモメ",
+          "tag": "ross%27s_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/ross%27s_gull"
+        },
+        {
+          "label": "サビヌカモメ",
+          "tag": "sabine%27s_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/sabine%27s_gull"
+        },
+        {
+          "label": "オオセグロカモメ",
+          "tag": "slaty-backed_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/slaty-backed_gull"
+        },
+        {
+          "label": "ススカモメ",
+          "tag": "sooty_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/sooty_gull"
+        },
+        {
+          "label": "アゲハ尾カモメ",
+          "tag": "swallow-tailed_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/swallow-tailed_gull"
+        },
+        {
+          "label": "ベガガル",
+          "tag": "vega_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/vega_gull"
+        },
+        {
+          "label": "メジロカモメ",
+          "tag": "white-eyed_gull",
+          "link": "https://danbooru.donmai.us/wiki_pages/white-eyed_gull"
+        },
+        {
+          "label": "鷹",
+          "tag": "hawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/hawk"
+        },
+        {
+          "label": "オオタカ",
+          "tag": "goshawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/goshawk"
+        },
+        {
+          "label": "ハイタカ",
+          "tag": "japanese_sparrowhawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_sparrowhawk"
+        },
+        {
+          "label": "ハリスホーク",
+          "tag": "harris%27s_hawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/harris%27s_hawk"
+        },
+        {
+          "label": "サギ",
+          "tag": "heron",
+          "link": "https://danbooru.donmai.us/wiki_pages/heron"
+        },
+        {
+          "label": "チャイロサギ",
+          "tag": "chinese_pond_heron",
+          "link": "https://danbooru.donmai.us/wiki_pages/chinese_pond_heron"
+        },
+        {
+          "label": "オオアオサギ",
+          "tag": "great_blue_heron",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_blue_heron"
+        },
+        {
+          "label": "アオサギ",
+          "tag": "grey_heron",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_heron"
+        },
+        {
+          "label": "縞サギ",
+          "tag": "striated_heron",
+          "link": "https://danbooru.donmai.us/wiki_pages/striated_heron"
+        },
+        {
+          "label": "ハチドリ",
+          "tag": "hummingbird",
+          "link": "https://danbooru.donmai.us/wiki_pages/hummingbird"
+        },
+        {
+          "label": "ウグイス",
+          "tag": "japanese_bush_warbler",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_bush_warbler"
+        },
+        {
+          "label": "メジロ",
+          "tag": "japanese_white-eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_white-eye"
+        },
+        {
+          "label": "カワセミ",
+          "tag": "kingfisher",
+          "link": "https://danbooru.donmai.us/wiki_pages/kingfisher"
+        },
+        {
+          "label": "カワセミ",
+          "tag": "common_kingfisher",
+          "link": "https://danbooru.donmai.us/wiki_pages/common_kingfisher"
+        },
+        {
+          "label": "ヤマセミ",
+          "tag": "crested_kingfisher",
+          "link": "https://danbooru.donmai.us/wiki_pages/crested_kingfisher"
+        },
+        {
+          "label": "ワライカワセミ",
+          "tag": "kookaburra",
+          "link": "https://danbooru.donmai.us/wiki_pages/kookaburra"
+        },
+        {
+          "label": "ライラックニシブッポウソウ",
+          "tag": "lilac-breasted_roller",
+          "link": "https://danbooru.donmai.us/wiki_pages/lilac-breasted_roller"
+        },
+        {
+          "label": "オナガゴメドリ",
+          "tag": "long-tailed_widowbird",
+          "link": "https://danbooru.donmai.us/wiki_pages/long-tailed_widowbird"
+        },
+        {
+          "label": "カササギ",
+          "tag": "magpie",
+          "link": "https://danbooru.donmai.us/wiki_pages/magpie"
+        },
+        {
+          "label": "オナガ",
+          "tag": "azure-winged_magpie",
+          "link": "https://danbooru.donmai.us/wiki_pages/azure-winged_magpie"
+        },
+        {
+          "label": "ノドアカササギ",
+          "tag": "black-throated_magpie-jay",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-throated_magpie-jay"
+        },
+        {
+          "label": "ヤマムスメ",
+          "tag": "taiwan_blue_magpie",
+          "link": "https://danbooru.donmai.us/wiki_pages/taiwan_blue_magpie"
+        },
+        {
+          "label": "ホオジロ",
+          "tag": "meadow_bunting",
+          "link": "https://danbooru.donmai.us/wiki_pages/meadow_bunting"
+        },
+        {
+          "label": "ナイチンゲール（鳥）",
+          "tag": "nightingale_%28bird%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nightingale_%28bird%29"
+        },
+        {
+          "label": "タゲリ",
+          "tag": "northern_lapwing",
+          "link": "https://danbooru.donmai.us/wiki_pages/northern_lapwing"
+        },
+        {
+          "label": "ゴジュウカラ",
+          "tag": "nuthatch",
+          "link": "https://danbooru.donmai.us/wiki_pages/nuthatch"
+        },
+        {
+          "label": "ブッポウソウ",
+          "tag": "oriental_dollarbird",
+          "link": "https://danbooru.donmai.us/wiki_pages/oriental_dollarbird"
+        },
+        {
+          "label": "オリオール",
+          "tag": "oriole",
+          "link": "https://danbooru.donmai.us/wiki_pages/oriole"
+        },
+        {
+          "label": "コウライウグイス",
+          "tag": "black-headed_oriole",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-headed_oriole"
+        },
+        {
+          "label": "クロエリコウライウグイス",
+          "tag": "black-naped_oriole",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-naped_oriole"
+        },
+        {
+          "label": "ブルックスオリオール",
+          "tag": "bullock%27s_oriole",
+          "link": "https://danbooru.donmai.us/wiki_pages/bullock%27s_oriole"
+        },
+        {
+          "label": "ミサゴ",
+          "tag": "osprey",
+          "link": "https://danbooru.donmai.us/wiki_pages/osprey"
+        },
+        {
+          "label": "走鳥類",
+          "tag": "ratite",
+          "link": "https://danbooru.donmai.us/wiki_pages/ratite"
+        },
+        {
+          "label": "ヒクイドリ",
+          "tag": "cassowary",
+          "link": "https://danbooru.donmai.us/wiki_pages/cassowary"
+        },
+        {
+          "label": "ヒクイドリ",
+          "tag": "southern_cassowary",
+          "link": "https://danbooru.donmai.us/wiki_pages/southern_cassowary"
+        },
+        {
+          "label": "エミュー",
+          "tag": "emu",
+          "link": "https://danbooru.donmai.us/wiki_pages/emu"
+        },
+        {
+          "label": "モア（動物）",
+          "tag": "moa_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/moa_%28animal%29"
+        },
+        {
+          "label": "南島の巨大モア",
+          "tag": "south_island_giant_moa",
+          "link": "https://danbooru.donmai.us/wiki_pages/south_island_giant_moa"
+        },
+        {
+          "label": "キウイ",
+          "tag": "kiwi_%28bird%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kiwi_%28bird%29"
+        },
+        {
+          "label": "サザンブラウンキーウィ",
+          "tag": "southern_brown_kiwi",
+          "link": "https://danbooru.donmai.us/wiki_pages/southern_brown_kiwi"
+        },
+        {
+          "label": "ダチョウ",
+          "tag": "ostrich",
+          "link": "https://danbooru.donmai.us/wiki_pages/ostrich"
+        },
+        {
+          "label": "フクロウ",
+          "tag": "owl",
+          "link": "https://danbooru.donmai.us/wiki_pages/owl"
+        },
+        {
+          "label": "メンフクロウ",
+          "tag": "barn_owl",
+          "link": "https://danbooru.donmai.us/wiki_pages/barn_owl"
+        },
+        {
+          "label": "アナホリフクロウ",
+          "tag": "burrowing_owl",
+          "link": "https://danbooru.donmai.us/wiki_pages/burrowing_owl"
+        },
+        {
+          "label": "シロフクロウ",
+          "tag": "snowy_owl",
+          "link": "https://danbooru.donmai.us/wiki_pages/snowy_owl"
+        },
+        {
+          "label": "南部ブーブーク",
+          "tag": "southern_boobook",
+          "link": "https://danbooru.donmai.us/wiki_pages/southern_boobook"
+        },
+        {
+          "label": "インコ",
+          "tag": "parakeet",
+          "link": "https://danbooru.donmai.us/wiki_pages/parakeet"
+        },
+        {
+          "label": "ゴールデンインコ",
+          "tag": "golden_parakeet",
+          "link": "https://danbooru.donmai.us/wiki_pages/golden_parakeet"
+        },
+        {
+          "label": "ジャンダヤインコ",
+          "tag": "jandaya_parakeet",
+          "link": "https://danbooru.donmai.us/wiki_pages/jandaya_parakeet"
+        },
+        {
+          "label": "ワカケホンセイインコ",
+          "tag": "rose-ringed_parakeet",
+          "link": "https://danbooru.donmai.us/wiki_pages/rose-ringed_parakeet"
+        },
+        {
+          "label": "オウム",
+          "tag": "parrot",
+          "link": "https://danbooru.donmai.us/wiki_pages/parrot"
+        },
+        {
+          "label": "ヨウム",
+          "tag": "african_grey_parrot",
+          "link": "https://danbooru.donmai.us/wiki_pages/african_grey_parrot"
+        },
+        {
+          "label": "ズグロシロハラインコ",
+          "tag": "black-headed_parrot",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-headed_parrot"
+        },
+        {
+          "label": "オカメインコ",
+          "tag": "cockatiel",
+          "link": "https://danbooru.donmai.us/wiki_pages/cockatiel"
+        },
+        {
+          "label": "オウム",
+          "tag": "cockatoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/cockatoo"
+        },
+        {
+          "label": "ルリオウム",
+          "tag": "blue-eyed_cockatoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue-eyed_cockatoo"
+        },
+        {
+          "label": "クルマサカオウム",
+          "tag": "major_mitchell%27s_cockatoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/major_mitchell%27s_cockatoo"
+        },
+        {
+          "label": "ヤシオウム",
+          "tag": "palm_cockatoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/palm_cockatoo"
+        },
+        {
+          "label": "キバタン",
+          "tag": "sulphur-crested_cockatoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/sulphur-crested_cockatoo"
+        },
+        {
+          "label": "キバタン",
+          "tag": "yellowtip_cockatoo_%28idolmaster%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellowtip_cockatoo_%28idolmaster%29"
+        },
+        {
+          "label": "オオハナインコ",
+          "tag": "eclectus_parrot",
+          "link": "https://danbooru.donmai.us/wiki_pages/eclectus_parrot"
+        },
+        {
+          "label": "カカポ",
+          "tag": "kakapo",
+          "link": "https://danbooru.donmai.us/wiki_pages/kakapo"
+        },
+        {
+          "label": "ケア（動物）",
+          "tag": "kea_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kea_%28animal%29"
+        },
+        {
+          "label": "ラブバード",
+          "tag": "lovebird",
+          "link": "https://danbooru.donmai.us/wiki_pages/lovebird"
+        },
+        {
+          "label": "コンゴウインコ",
+          "tag": "macaw",
+          "link": "https://danbooru.donmai.us/wiki_pages/macaw"
+        },
+        {
+          "label": "ルリコンゴウインコ",
+          "tag": "blue-and-yellow_macaw",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue-and-yellow_macaw"
+        },
+        {
+          "label": "スミレコンゴウインコ",
+          "tag": "hyacinth_macaw",
+          "link": "https://danbooru.donmai.us/wiki_pages/hyacinth_macaw"
+        },
+        {
+          "label": "赤緑コンゴウインコ",
+          "tag": "red-and-green_macaw",
+          "link": "https://danbooru.donmai.us/wiki_pages/red-and-green_macaw"
+        },
+        {
+          "label": "アカコンゴウインコ",
+          "tag": "scarlet_macaw",
+          "link": "https://danbooru.donmai.us/wiki_pages/scarlet_macaw"
+        },
+        {
+          "label": "パシフィックパロットレット",
+          "tag": "pacific_parrotlet",
+          "link": "https://danbooru.donmai.us/wiki_pages/pacific_parrotlet"
+        },
+        {
+          "label": "キガシラアマゾン",
+          "tag": "yellow-headed_amazon",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow-headed_amazon"
+        },
+        {
+          "label": "孔雀",
+          "tag": "peacock",
+          "link": "https://danbooru.donmai.us/wiki_pages/peacock"
+        },
+        {
+          "label": "ペリカン",
+          "tag": "pelican",
+          "link": "https://danbooru.donmai.us/wiki_pages/pelican"
+        },
+        {
+          "label": "ペンギン",
+          "tag": "penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/penguin"
+        },
+        {
+          "label": "アデリーペンギン",
+          "tag": "adelie_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/adelie_penguin"
+        },
+        {
+          "label": "アフリカペンギン",
+          "tag": "african_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/african_penguin"
+        },
+        {
+          "label": "皇帝ペンギン",
+          "tag": "emperor_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/emperor_penguin"
+        },
+        {
+          "label": "フィヨルドランドペンギン",
+          "tag": "fiordland_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/fiordland_penguin"
+        },
+        {
+          "label": "ガラパゴスペンギン",
+          "tag": "galapagos_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/galapagos_penguin"
+        },
+        {
+          "label": "フンボルトペンギン",
+          "tag": "humboldt_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/humboldt_penguin"
+        },
+        {
+          "label": "リトルペンギン",
+          "tag": "little_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/little_penguin"
+        },
+        {
+          "label": "イワトビペンギン",
+          "tag": "rockhopper_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/rockhopper_penguin"
+        },
+        {
+          "label": "キンメペンギン",
+          "tag": "yellow-eyed_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow-eyed_penguin"
+        },
+        {
+          "label": "パラエウディプティナエ科",
+          "tag": "giant_penguin",
+          "link": "https://danbooru.donmai.us/wiki_pages/giant_penguin"
+        },
+        {
+          "label": "アントロポルニス",
+          "tag": "anthropornis",
+          "link": "https://danbooru.donmai.us/wiki_pages/anthropornis"
+        },
+        {
+          "label": "キジ",
+          "tag": "pheasant",
+          "link": "https://danbooru.donmai.us/wiki_pages/pheasant"
+        },
+        {
+          "label": "ヤマドリ",
+          "tag": "copper_pheasant",
+          "link": "https://danbooru.donmai.us/wiki_pages/copper_pheasant"
+        },
+        {
+          "label": "イジマヤマドリ",
+          "tag": "ijima_copper_pheasant",
+          "link": "https://danbooru.donmai.us/wiki_pages/ijima_copper_pheasant"
+        },
+        {
+          "label": "キンケイ",
+          "tag": "golden_pheasant",
+          "link": "https://danbooru.donmai.us/wiki_pages/golden_pheasant"
+        },
+        {
+          "label": "キジ",
+          "tag": "green_pheasant",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_pheasant"
+        },
+        {
+          "label": "ギンケイ",
+          "tag": "lady_amherst%27s_pheasant",
+          "link": "https://danbooru.donmai.us/wiki_pages/lady_amherst%27s_pheasant"
+        },
+        {
+          "label": "レンカク",
+          "tag": "pheasant-tailed_jacana",
+          "link": "https://danbooru.donmai.us/wiki_pages/pheasant-tailed_jacana"
+        },
+        {
+          "label": "鳩",
+          "tag": "pigeon",
+          "link": "https://danbooru.donmai.us/wiki_pages/pigeon"
+        },
+        {
+          "label": "ハト",
+          "tag": "dove",
+          "link": "https://danbooru.donmai.us/wiki_pages/dove"
+        },
+        {
+          "label": "ドードー（鳥）",
+          "tag": "dodo_%28bird%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dodo_%28bird%29"
+        },
+        {
+          "label": "オオバト",
+          "tag": "fantail_pigeon",
+          "link": "https://danbooru.donmai.us/wiki_pages/fantail_pigeon"
+        },
+        {
+          "label": "リョコウバト",
+          "tag": "passenger_pigeon",
+          "link": "https://danbooru.donmai.us/wiki_pages/passenger_pigeon"
+        },
+        {
+          "label": "オウギバト",
+          "tag": "victoria_crowned_pigeon",
+          "link": "https://danbooru.donmai.us/wiki_pages/victoria_crowned_pigeon"
+        },
+        {
+          "label": "シロハラアオバト",
+          "tag": "white-bellied_green_pigeon",
+          "link": "https://danbooru.donmai.us/wiki_pages/white-bellied_green_pigeon"
+        },
+        {
+          "label": "チドリ（動物）",
+          "tag": "plover_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/plover_%28animal%29"
+        },
+        {
+          "label": "コチドリ",
+          "tag": "little_ringed_plover",
+          "link": "https://danbooru.donmai.us/wiki_pages/little_ringed_plover"
+        },
+        {
+          "label": "ポトゥー",
+          "tag": "potoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/potoo"
+        },
+        {
+          "label": "パフィン",
+          "tag": "puffin",
+          "link": "https://danbooru.donmai.us/wiki_pages/puffin"
+        },
+        {
+          "label": "ウズラ",
+          "tag": "quail",
+          "link": "https://danbooru.donmai.us/wiki_pages/quail"
+        },
+        {
+          "label": "縞ボタンウズラ",
+          "tag": "barred_buttonquail",
+          "link": "https://danbooru.donmai.us/wiki_pages/barred_buttonquail"
+        },
+        {
+          "label": "ウズラ",
+          "tag": "japanese_quail",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_quail"
+        },
+        {
+          "label": "ラギアナ極楽鳥花",
+          "tag": "raggiana_bird-of-paradise",
+          "link": "https://danbooru.donmai.us/wiki_pages/raggiana_bird-of-paradise"
+        },
+        {
+          "label": "ルリビタキ",
+          "tag": "red-flanked_bluetail",
+          "link": "https://danbooru.donmai.us/wiki_pages/red-flanked_bluetail"
+        },
+        {
+          "label": "アオジョウビタキ",
+          "tag": "blue-fronted_redstart",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue-fronted_redstart"
+        },
+        {
+          "label": "ジョウビタキ",
+          "tag": "daurian_redstart",
+          "link": "https://danbooru.donmai.us/wiki_pages/daurian_redstart"
+        },
+        {
+          "label": "輝くケツァール",
+          "tag": "resplendent_quetzal",
+          "link": "https://danbooru.donmai.us/wiki_pages/resplendent_quetzal"
+        },
+        {
+          "label": "ロビン（動物）",
+          "tag": "robin_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/robin_%28animal%29"
+        },
+        {
+          "label": "コマドリ",
+          "tag": "japanese_robin",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_robin"
+        },
+        {
+          "label": "ロードランナー（動物）",
+          "tag": "roadrunner_%28animal%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/roadrunner_%28animal%29"
+        },
+        {
+          "label": "リュウキュウサンショウクイ",
+          "tag": "ryukyu_minivet",
+          "link": "https://danbooru.donmai.us/wiki_pages/ryukyu_minivet"
+        },
+        {
+          "label": "ヘビクイワシ",
+          "tag": "secretarybird",
+          "link": "https://danbooru.donmai.us/wiki_pages/secretarybird"
+        },
+        {
+          "label": "ハシビロコウ",
+          "tag": "shoebill",
+          "link": "https://danbooru.donmai.us/wiki_pages/shoebill"
+        },
+        {
+          "label": "ノゴマ",
+          "tag": "siberian_rubythroat",
+          "link": "https://danbooru.donmai.us/wiki_pages/siberian_rubythroat"
+        },
+        {
+          "label": "スズメ",
+          "tag": "sparrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/sparrow"
+        },
+        {
+          "label": "スズメ",
+          "tag": "eurasian_tree_sparrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/eurasian_tree_sparrow"
+        },
+        {
+          "label": "イエスズメ",
+          "tag": "house_sparrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/house_sparrow"
+        },
+        {
+          "label": "コウノトリ",
+          "tag": "stork",
+          "link": "https://danbooru.donmai.us/wiki_pages/stork"
+        },
+        {
+          "label": "コウノトリ",
+          "tag": "oriental_stork",
+          "link": "https://danbooru.donmai.us/wiki_pages/oriental_stork"
+        },
+        {
+          "label": "ツバメ",
+          "tag": "swallow_%28bird%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/swallow_%28bird%29"
+        },
+        {
+          "label": "ツバメ",
+          "tag": "tree_swallow",
+          "link": "https://danbooru.donmai.us/wiki_pages/tree_swallow"
+        },
+        {
+          "label": "白鳥",
+          "tag": "swan",
+          "link": "https://danbooru.donmai.us/wiki_pages/swan"
+        },
+        {
+          "label": "黒鳥（鳥）",
+          "tag": "black_swan_%28bird%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_swan_%28bird%29"
+        },
+        {
+          "label": "コブハクチョウ",
+          "tag": "mute_swan",
+          "link": "https://danbooru.donmai.us/wiki_pages/mute_swan"
+        },
+        {
+          "label": "タカヘ",
+          "tag": "takahe",
+          "link": "https://danbooru.donmai.us/wiki_pages/takahe"
+        },
+        {
+          "label": "シジュウカラ科",
+          "tag": "tit_%28bird%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tit_%28bird%29"
+        },
+        {
+          "label": "シジュウカラ",
+          "tag": "great_tit",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_tit"
+        },
+        {
+          "label": "シジュウカラ",
+          "tag": "japanese_tit",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_tit"
+        },
+        {
+          "label": "エナガ",
+          "tag": "long-tailed_tit",
+          "link": "https://danbooru.donmai.us/wiki_pages/long-tailed_tit"
+        },
+        {
+          "label": "トムティット",
+          "tag": "tomtit_%28bird%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tomtit_%28bird%29"
+        },
+        {
+          "label": "オオハシ",
+          "tag": "toucan",
+          "link": "https://danbooru.donmai.us/wiki_pages/toucan"
+        },
+        {
+          "label": "ハゲワシ",
+          "tag": "vulture",
+          "link": "https://danbooru.donmai.us/wiki_pages/vulture"
+        },
+        {
+          "label": "セグロセキレイ",
+          "tag": "black-backed_wagtail",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-backed_wagtail"
+        },
+        {
+          "label": "キセキレイ",
+          "tag": "grey_wagtail",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_wagtail"
+        },
+        {
+          "label": "ハクセキレイ",
+          "tag": "white_wagtail",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_wagtail"
+        },
+        {
+          "label": "セグロセキレイ",
+          "tag": "japanese_wagtail",
+          "link": "https://danbooru.donmai.us/wiki_pages/japanese_wagtail"
+        },
+        {
+          "label": "シロハラオナガ",
+          "tag": "white-bellied_go-away-bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/white-bellied_go-away-bird"
+        },
+        {
+          "label": "ムクドリ",
+          "tag": "white-cheeked_starling",
+          "link": "https://danbooru.donmai.us/wiki_pages/white-cheeked_starling"
+        },
+        {
+          "label": "キツツキ",
+          "tag": "woodpecker",
+          "link": "https://danbooru.donmai.us/wiki_pages/woodpecker"
+        },
+        {
+          "label": "アカゲラ",
+          "tag": "great_spotted_woodpecker",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_spotted_woodpecker"
+        }
+      ]
+    },
+    {
+      "セクション名": "神話上の鳥",
+      "タグ一覧": [
+        {
+          "label": "鳳凰",
+          "tag": "fenghuang",
+          "link": "https://danbooru.donmai.us/wiki_pages/fenghuang"
+        },
+        {
+          "label": "フェニックス",
+          "tag": "phoenix",
+          "link": "https://danbooru.donmai.us/wiki_pages/phoenix"
+        }
+      ]
+    },
+    {
+      "セクション名": "色",
+      "タグ一覧": [
+        {
+          "label": "水色の鳥",
+          "tag": "aqua_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_bird"
+        },
+        {
+          "label": "黒い鳥",
+          "tag": "black_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_bird"
+        },
+        {
+          "label": "青い鳥",
+          "tag": "blue_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_bird"
+        },
+        {
+          "label": "茶色の鳥",
+          "tag": "brown_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_bird"
+        },
+        {
+          "label": "緑の鳥",
+          "tag": "green_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_bird"
+        },
+        {
+          "label": "灰色の鳥",
+          "tag": "grey_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_bird"
+        },
+        {
+          "label": "オレンジ色の鳥",
+          "tag": "orange_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_bird"
+        },
+        {
+          "label": "ピンクの鳥",
+          "tag": "pink_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_bird"
+        },
+        {
+          "label": "紫色の鳥",
+          "tag": "purple_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_bird"
+        },
+        {
+          "label": "赤い鳥",
+          "tag": "red_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_bird"
+        },
+        {
+          "label": "白い鳥",
+          "tag": "white_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_bird"
+        },
+        {
+          "label": "黄色い鳥",
+          "tag": "yellow_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_bird"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "カテゴリID": "list_of_playing_card_faces",
+  "カテゴリ名": "トランプの絵柄一覧",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=list_of_playing_card_faces",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "トランプ",
+          "tag": "playing_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_card"
+        }
+      ]
+    },
+    {
+      "セクション名": "4つのスーツ",
+      "タグ一覧": [
+        {
+          "label": "クラブ",
+          "tag": "club_%28shape%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_%28shape%29"
+        },
+        {
+          "label": "ダイヤモンド",
+          "tag": "diamond_%28shape%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/diamond_%28shape%29"
+        },
+        {
+          "label": "ハート",
+          "tag": "heart",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart"
+        },
+        {
+          "label": "スペード",
+          "tag": "spade_%28shape%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/spade_%28shape%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "カードランク",
+      "タグ一覧": [
+        {
+          "label": "エース",
+          "tag": "ace_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_%28playing_card%29"
+        },
+        {
+          "label": "キング",
+          "tag": "king_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/king_%28playing_card%29"
+        },
+        {
+          "label": "クイーン",
+          "tag": "queen_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/queen_%28playing_card%29"
+        },
+        {
+          "label": "ジャック",
+          "tag": "jack_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jack_%28playing_card%29"
+        },
+        {
+          "label": "ジョーカー",
+          "tag": "joker_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/joker_%28playing_card%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "クラブ",
+      "タグ一覧": [
+        {
+          "label": "クラブのエース",
+          "tag": "ace_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_of_clubs"
+        },
+        {
+          "label": "クラブのキング",
+          "tag": "king_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/king_of_clubs"
+        },
+        {
+          "label": "クラブのクイーン",
+          "tag": "queen_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/queen_of_clubs"
+        },
+        {
+          "label": "クラブのジャック",
+          "tag": "jack_of_clubs_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jack_of_clubs_%28playing_card%29"
+        },
+        {
+          "label": "クラブの10",
+          "tag": "ten_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/ten_of_clubs"
+        },
+        {
+          "label": "クラブの9",
+          "tag": "nine_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/nine_of_clubs"
+        },
+        {
+          "label": "クラブの8",
+          "tag": "eight_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/eight_of_clubs"
+        },
+        {
+          "label": "クラブの7",
+          "tag": "seven_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/seven_of_clubs"
+        },
+        {
+          "label": "クラブの6",
+          "tag": "six_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/six_of_clubs"
+        },
+        {
+          "label": "クラブの5",
+          "tag": "five_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/five_of_clubs"
+        },
+        {
+          "label": "クラブの4",
+          "tag": "four_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/four_of_clubs"
+        },
+        {
+          "label": "クラブの3",
+          "tag": "three_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/three_of_clubs"
+        },
+        {
+          "label": "クラブの2",
+          "tag": "two_of_clubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/two_of_clubs"
+        }
+      ]
+    },
+    {
+      "セクション名": "ダイヤモンド",
+      "タグ一覧": [
+        {
+          "label": "ダイヤのエース",
+          "tag": "ace_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_of_diamonds"
+        },
+        {
+          "label": "ダイヤのエース",
+          "tag": "ace_of_diamond",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_of_diamond"
+        },
+        {
+          "label": "ダイヤのキング",
+          "tag": "king_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/king_of_diamonds"
+        },
+        {
+          "label": "ダイヤのクイーン",
+          "tag": "queen_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/queen_of_diamonds"
+        },
+        {
+          "label": "ダイヤのジャック",
+          "tag": "jack_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/jack_of_diamonds"
+        },
+        {
+          "label": "ダイヤの10",
+          "tag": "ten_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/ten_of_diamonds"
+        },
+        {
+          "label": "ダイヤの9",
+          "tag": "nine_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/nine_of_diamonds"
+        },
+        {
+          "label": "ダイヤの8",
+          "tag": "eight_of_diamonds_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/eight_of_diamonds_%28playing_card%29"
+        },
+        {
+          "label": "ダイヤの7",
+          "tag": "seven_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/seven_of_diamonds"
+        },
+        {
+          "label": "ダイヤの6",
+          "tag": "six_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/six_of_diamonds"
+        },
+        {
+          "label": "ダイヤの5",
+          "tag": "five_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/five_of_diamonds"
+        },
+        {
+          "label": "ダイヤの4",
+          "tag": "four_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/four_of_diamonds"
+        },
+        {
+          "label": "ダイヤの3",
+          "tag": "three_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/three_of_diamonds"
+        },
+        {
+          "label": "ダイヤの2",
+          "tag": "two_of_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/two_of_diamonds"
+        }
+      ]
+    },
+    {
+      "セクション名": "ハート",
+      "タグ一覧": [
+        {
+          "label": "ハートのエース",
+          "tag": "ace_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_of_hearts"
+        },
+        {
+          "label": "ハートのキング",
+          "tag": "king_of_hearts_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/king_of_hearts_%28playing_card%29"
+        },
+        {
+          "label": "ハートのクイーン",
+          "tag": "queen_of_hearts_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/queen_of_hearts_%28playing_card%29"
+        },
+        {
+          "label": "不思議の国のアリス",
+          "tag": "alice%27s_adventures_in_wonderland",
+          "link": "https://danbooru.donmai.us/wiki_pages/alice%27s_adventures_in_wonderland"
+        },
+        {
+          "label": "ハートの女王（不思議の国のアリス）",
+          "tag": "queen_of_hearts_%28alice_in_wonderland%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/queen_of_hearts_%28alice_in_wonderland%29"
+        },
+        {
+          "label": "ハートのジャック",
+          "tag": "jack_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/jack_of_hearts"
+        },
+        {
+          "label": "ハートの10",
+          "tag": "ten_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/ten_of_hearts"
+        },
+        {
+          "label": "ハートの9",
+          "tag": "nine_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/nine_of_hearts"
+        },
+        {
+          "label": "ハートの8",
+          "tag": "eight_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/eight_of_hearts"
+        },
+        {
+          "label": "ハートの7",
+          "tag": "seven_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/seven_of_hearts"
+        },
+        {
+          "label": "ハートの6",
+          "tag": "six_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/six_of_hearts"
+        },
+        {
+          "label": "ハートの5",
+          "tag": "five_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/five_of_hearts"
+        },
+        {
+          "label": "ハートの4",
+          "tag": "four_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/four_of_hearts"
+        },
+        {
+          "label": "ハートの3",
+          "tag": "three_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/three_of_hearts"
+        },
+        {
+          "label": "ハートの2",
+          "tag": "two_of_hearts",
+          "link": "https://danbooru.donmai.us/wiki_pages/two_of_hearts"
+        }
+      ]
+    },
+    {
+      "セクション名": "スペード",
+      "タグ一覧": [
+        {
+          "label": "スペードのエース",
+          "tag": "ace_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_of_spades"
+        },
+        {
+          "label": "スペードのキング",
+          "tag": "king_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/king_of_spades"
+        },
+        {
+          "label": "スペードのクイーン",
+          "tag": "queen_of_spades_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/queen_of_spades_%28playing_card%29"
+        },
+        {
+          "label": "スペードの女王のシンボル",
+          "tag": "queen_of_spades_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/queen_of_spades_symbol"
+        },
+        {
+          "label": "スペードのジャック",
+          "tag": "jack_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/jack_of_spades"
+        },
+        {
+          "label": "スペードの10",
+          "tag": "ten_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/ten_of_spades"
+        },
+        {
+          "label": "スペードの9",
+          "tag": "nine_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/nine_of_spades"
+        },
+        {
+          "label": "スペードの8",
+          "tag": "eight_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/eight_of_spades"
+        },
+        {
+          "label": "スペードの7",
+          "tag": "seven_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/seven_of_spades"
+        },
+        {
+          "label": "スペードの6",
+          "tag": "six_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/six_of_spades"
+        },
+        {
+          "label": "スペードの5",
+          "tag": "five_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/five_of_spades"
+        },
+        {
+          "label": "スペードの4",
+          "tag": "four_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/four_of_spades"
+        },
+        {
+          "label": "スペードの3",
+          "tag": "three_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/three_of_spades"
+        },
+        {
+          "label": "スペードの2",
+          "tag": "two_of_spades",
+          "link": "https://danbooru.donmai.us/wiki_pages/two_of_spades"
+        }
+      ]
+    }
+  ]
+}

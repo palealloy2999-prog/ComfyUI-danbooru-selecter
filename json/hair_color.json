@@ -1,0 +1,182 @@
+﻿{
+    "カテゴリID":  "hair_color",
+    "カテゴリ名":  "髪の色",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Ahair_color",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：ヘアスタイル",
+                                         "tag":  "tag_group%3Ahair_styles",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "特定の色",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "水色の髪",
+                                         "tag":  "aqua_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_hair"
+                                     },
+                                     {
+                                         "label":  "黒髪",
+                                         "tag":  "black_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_hair"
+                                     },
+                                     {
+                                         "label":  "ブロンドの髪",
+                                         "tag":  "blonde_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blonde_hair"
+                                     },
+                                     {
+                                         "label":  "青い髪",
+                                         "tag":  "blue_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_hair"
+                                     },
+                                     {
+                                         "label":  "茶色の髪",
+                                         "tag":  "brown_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_hair"
+                                     },
+                                     {
+                                         "label":  "緑髪",
+                                         "tag":  "green_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_hair"
+                                     },
+                                     {
+                                         "label":  "灰色の髪",
+                                         "tag":  "grey_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_hair"
+                                     },
+                                     {
+                                         "label":  "オレンジ色の髪",
+                                         "tag":  "orange_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_hair"
+                                     },
+                                     {
+                                         "label":  "ピンク髪",
+                                         "tag":  "pink_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_hair"
+                                     },
+                                     {
+                                         "label":  "紫の髪",
+                                         "tag":  "purple_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple_hair"
+                                     },
+                                     {
+                                         "label":  "赤髪",
+                                         "tag":  "red_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_hair"
+                                     },
+                                     {
+                                         "label":  "白髪",
+                                         "tag":  "white_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_hair"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "複数の色",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "多色の髪",
+                                         "tag":  "multicolored_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_hair"
+                                     },
+                                     {
+                                         "label":  "インナーカラー",
+                                         "tag":  "colored_inner_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/colored_inner_hair"
+                                     },
+                                     {
+                                         "label":  "毛先の色違い",
+                                         "tag":  "colored_tips",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/colored_tips"
+                                     },
+                                     {
+                                         "label":  "髪の根元の色違い",
+                                         "tag":  "roots_%28hair%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/roots_%28hair%29"
+                                     },
+                                     {
+                                         "label":  "グラデーションヘア",
+                                         "tag":  "gradient_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient_hair"
+                                     },
+                                     {
+                                         "label":  "模様のある髪",
+                                         "tag":  "patterned_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/patterned_hair"
+                                     },
+                                     {
+                                         "label":  "虹色の髪",
+                                         "tag":  "rainbow_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rainbow_hair"
+                                     },
+                                     {
+                                         "label":  "スプリットカラーヘア",
+                                         "tag":  "split-color_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/split-color_hair"
+                                     },
+                                     {
+                                         "label":  "斑点のある髪",
+                                         "tag":  "spotted_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spotted_hair"
+                                     },
+                                     {
+                                         "label":  "筋状の色違いの髪",
+                                         "tag":  "streaked_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/streaked_hair"
+                                     },
+                                     {
+                                         "label":  "縞模様の髪",
+                                         "tag":  "striped_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/striped_hair"
+                                     },
+                                     {
+                                         "label":  "ラクーンテール",
+                                         "tag":  "raccoon_tails_%28hairstyle%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/raccoon_tails_%28hairstyle%29"
+                                     },
+                                     {
+                                         "label":  "ツートンヘア",
+                                         "tag":  "two-tone_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/two-tone_hair"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "髪色違い",
+                                         "tag":  "alternate_hair_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_hair_color"
+                                     },
+                                     {
+                                         "label":  "半透明の髪",
+                                         "tag":  "translucent_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/translucent_hair"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "関連タググループ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：髪",
+                                         "tag":  "tag_group%3Ahair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair"
+                                     },
+                                     {
+                                         "label":  "タググループ：ヘアスタイル",
+                                         "tag":  "tag_group%3Ahair_styles",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles"
+                                     }
+                                 ]
+                    }
+                ]
+}

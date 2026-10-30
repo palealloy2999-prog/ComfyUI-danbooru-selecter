@@ -1,0 +1,62 @@
+{
+  "カテゴリID": "pool_group%3Ameta",
+  "カテゴリ名": "プールグループ：メタ",
+  "カテゴリリンク": "https://danbooru.donmai.us/wiki_pages/pool_group%3Ameta",
+  "セクション一覧": [
+    {
+      "セクション名": "メタ情報",
+      "タグ一覧": [
+        {
+          "セクション名":"ファイルの品質 - サイズと解像度",
+          "タグ一覧": [
+            {
+              "label": "印刷品質",
+              "tag": "Print Quality",
+              "link": "https://danbooru.donmai.us/pools/1939"
+            }
+          ]
+        },
+        {
+          "セクション名": "ミームの起源",
+          "タグ一覧": [
+            {
+              "label": "オリジンズ",
+              "tag": "Origins",
+              "link": "https://danbooru.donmai.us/pools/4068"
+            }
+          ]
+        },
+        {
+          "セクション名": "画像の起源",
+          "タグ一覧": [
+            {
+              "label": "キヤノン",
+              "tag": "Canon",
+              "link": "https://danbooru.donmai.us/pools/13629"
+            }
+          ]
+        },
+        {
+          "セクション名": "画像とサムネイルの比較",
+          "タグ一覧": [
+            {
+              "label": "誤解を招くサムネイル",
+              "tag": "Misleading Thumbnails",
+              "link": "https://danbooru.donmai.us/pools/1229"
+            }
+          ]
+        },
+        {
+          "セクション名": "この画像はいつ描かれたのでしょうか？",
+          "タグ一覧": [
+            {
+              "label": "うわー、早かったね",
+              "tag": "Wow, that was fast",
+              "link": "https://danbooru.donmai.us/pools/1823"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

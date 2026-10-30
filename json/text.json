@@ -1,0 +1,1317 @@
+﻿{
+    "カテゴリID":  "text",
+    "カテゴリ名":  "テキスト",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Atext",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "画像のメタデータ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アーティスト名",
+                                         "tag":  "artist_name",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/artist_name"
+                                     },
+                                     {
+                                         "label":  "キャラクター名",
+                                         "tag":  "character_name",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_name"
+                                     },
+                                     {
+                                         "label":  "サークル名",
+                                         "tag":  "circle_name",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/circle_name"
+                                     },
+                                     {
+                                         "label":  "依頼者名",
+                                         "tag":  "commissioner_name",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/commissioner_name"
+                                     },
+                                     {
+                                         "label":  "会社名",
+                                         "tag":  "company_name",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/company_name"
+                                     },
+                                     {
+                                         "label":  "完了時間",
+                                         "tag":  "completion_time",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/completion_time"
+                                     },
+                                     {
+                                         "label":  "作品名",
+                                         "tag":  "copyright_name",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/copyright_name"
+                                     },
+                                     {
+                                         "label":  "日付の記載",
+                                         "tag":  "dated",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dated"
+                                     },
+                                     {
+                                         "label":  "タググループ：制作年・月のタグ",
+                                         "tag":  "tag_group%3Ayear_tags",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ayear_tags"
+                                     },
+                                     {
+                                         "label":  "グループ名",
+                                         "tag":  "group_name",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/group_name"
+                                     },
+                                     {
+                                         "label":  "ロゴ",
+                                         "tag":  "logo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/logo"
+                                     },
+                                     {
+                                         "label":  "対象年齢表示",
+                                         "tag":  "content_rating",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/content_rating"
+                                     },
+                                     {
+                                         "label":  "Twitterユーザー名",
+                                         "tag":  "twitter_username",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/twitter_username"
+                                     },
+                                     {
+                                         "label":  "署名",
+                                         "tag":  "signature",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/signature"
+                                     },
+                                     {
+                                         "label":  "キャラクター署名",
+                                         "tag":  "character_signature",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_signature"
+                                     },
+                                     {
+                                         "label":  "曲名",
+                                         "tag":  "song_name",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/song_name"
+                                     },
+                                     {
+                                         "label":  "透かし",
+                                         "tag":  "watermark",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/watermark"
+                                     },
+                                     {
+                                         "label":  "ウェブアドレス",
+                                         "tag":  "web_address",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/web_address"
+                                     },
+                                     {
+                                         "label":  "武器名",
+                                         "tag":  "weapon_name",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/weapon_name"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "テキストの背景",
+                                         "tag":  "text_background",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/text_background"
+                                     },
+                                     {
+                                         "label":  "逆向きの文字",
+                                         "tag":  "backwards_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/backwards_text"
+                                     },
+                                     {
+                                         "label":  "身体に書かれた文字",
+                                         "tag":  "body_writing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/body_writing"
+                                     },
+                                     {
+                                         "label":  "カレンダー（媒体）",
+                                         "tag":  "calendar_%28medium%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/calendar_%28medium%29"
+                                     },
+                                     {
+                                         "label":  "衣服に書かれた文字",
+                                         "tag":  "clothes_writing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clothes_writing"
+                                     },
+                                     {
+                                         "label":  "テキスト除去",
+                                         "tag":  "detexted",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/detexted"
+                                     },
+                                     {
+                                         "label":  "グラデーションテキスト",
+                                         "tag":  "gradient_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient_text"
+                                     },
+                                     {
+                                         "label":  "前景テキスト",
+                                         "tag":  "foreground_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/foreground_text"
+                                     },
+                                     {
+                                         "label":  "メタルバンドのテキスト",
+                                         "tag":  "metal_band_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/metal_band_text"
+                                     },
+                                     {
+                                         "label":  "ミラーテキスト",
+                                         "tag":  "mirrored_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mirrored_text"
+                                     },
+                                     {
+                                         "label":  "名札",
+                                         "tag":  "name_tag",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/name_tag"
+                                     },
+                                     {
+                                         "label":  "ピクセルテキスト",
+                                         "tag":  "pixel_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pixel_text"
+                                     },
+                                     {
+                                         "label":  "虹のテキスト",
+                                         "tag":  "rainbow_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rainbow_text"
+                                     },
+                                     {
+                                         "label":  "セグメント表示",
+                                         "tag":  "segment_display",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/segment_display"
+                                     },
+                                     {
+                                         "label":  "サイレントコミック",
+                                         "tag":  "silent_comic",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/silent_comic"
+                                     },
+                                     {
+                                         "label":  "効果音",
+                                         "tag":  "sound_effects",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sound_effects"
+                                     },
+                                     {
+                                         "label":  "目の中の文字",
+                                         "tag":  "text_in_eyes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/text_in_eyes"
+                                     },
+                                     {
+                                         "label":  "文字中心",
+                                         "tag":  "text_focus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/text_focus"
+                                     },
+                                     {
+                                         "label":  "テキストのみのページ",
+                                         "tag":  "text-only_page",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/text-only_page"
+                                     },
+                                     {
+                                         "label":  "テキストなしバージョン",
+                                         "tag":  "textless_version",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/textless_version"
+                                     },
+                                     {
+                                         "label":  "大量の文章",
+                                         "tag":  "wall_of_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wall_of_text"
+                                     },
+                                     {
+                                         "label":  "ダイアログボックス",
+                                         "tag":  "dialogue_box",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dialogue_box"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "文学的表現",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "頭韻",
+                                         "tag":  "alliteration",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alliteration"
+                                     },
+                                     {
+                                         "label":  "詩",
+                                         "tag":  "poem",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/poem"
+                                     },
+                                     {
+                                         "label":  "俳句",
+                                         "tag":  "haiku",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/haiku"
+                                     },
+                                     {
+                                         "label":  "罵り言葉",
+                                         "tag":  "profanity",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/profanity"
+                                     },
+                                     {
+                                         "label":  "韻",
+                                         "tag":  "rhyme",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rhyme"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "特定のテキスト",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "A",
+                                         "tag":  "a_%28phrase%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/a_%28phrase%29"
+                                     },
+                                     {
+                                         "label":  "ゲット",
+                                         "tag":  "get",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/get"
+                                     },
+                                     {
+                                         "label":  "H",
+                                         "tag":  "h_%28letter%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/h_%28letter%29"
+                                     },
+                                     {
+                                         "label":  "KO",
+                                         "tag":  "k.o.",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/k.o."
+                                     },
+                                     {
+                                         "label":  "いいえ",
+                                         "tag":  "no",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no"
+                                     },
+                                     {
+                                         "label":  "ニャン",
+                                         "tag":  "nyan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nyan"
+                                     },
+                                     {
+                                         "label":  "ピカピカぴかりんじゃんけんポン",
+                                         "tag":  "pika_pika_pikarin_jankenpon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pika_pika_pikarin_jankenpon"
+                                     },
+                                     {
+                                         "label":  "黄瀬やよい",
+                                         "tag":  "kise_yayoi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kise_yayoi"
+                                     },
+                                     {
+                                         "label":  "Va",
+                                         "tag":  "va_%28phrase%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/va_%28phrase%29"
+                                     },
+                                     {
+                                         "label":  "VS",
+                                         "tag":  "vs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vs"
+                                     },
+                                     {
+                                         "label":  "はい",
+                                         "tag":  "yes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yes"
+                                     },
+                                     {
+                                         "label":  "Zzz",
+                                         "tag":  "zzz",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zzz"
+                                     },
+                                     {
+                                         "label":  "…",
+                                         "tag":  "...",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/..."
+                                     },
+                                     {
+                                         "label":  "！",
+                                         "tag":  "%21",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%21"
+                                     },
+                                     {
+                                         "label":  "？",
+                                         "tag":  "%3F",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%3F"
+                                     },
+                                     {
+                                         "label":  "!!",
+                                         "tag":  "%21%21",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%21%21"
+                                     },
+                                     {
+                                         "label":  "！？",
+                                         "tag":  "%21%3F",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%21%3F"
+                                     },
+                                     {
+                                         "label":  "…？",
+                                         "tag":  "...%3F",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/...%3F"
+                                     },
+                                     {
+                                         "label":  "…！",
+                                         "tag":  "...%21",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/...%21"
+                                     },
+                                     {
+                                         "label":  "タググループ：フレーズ",
+                                         "tag":  "tag_group%3Aphrases",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aphrases"
+                                     },
+                                     {
+                                         "label":  "タググループ：フレーズ",
+                                         "tag":  "tag_group%3Aphrases",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aphrases"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "アクション",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "読む",
+                                         "tag":  "reading",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/reading"
+                                     },
+                                     {
+                                         "label":  "書く",
+                                         "tag":  "writing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/writing"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "アジア言語",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "中国語テキスト",
+                                         "tag":  "chinese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chinese_text"
+                                     },
+                                     {
+                                         "label":  "簡体字",
+                                         "tag":  "simplified_chinese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/simplified_chinese_text"
+                                     },
+                                     {
+                                         "label":  "ボポモフォ文字",
+                                         "tag":  "bopomofo_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bopomofo_text"
+                                     },
+                                     {
+                                         "label":  "広東語テキスト",
+                                         "tag":  "cantonese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cantonese_text"
+                                     },
+                                     {
+                                         "label":  "閩南語の文字",
+                                         "tag":  "minnan_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/minnan_text"
+                                     },
+                                     {
+                                         "label":  "甲骨文字",
+                                         "tag":  "oracle_bone_script",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/oracle_bone_script"
+                                     },
+                                     {
+                                         "label":  "篆書",
+                                         "tag":  "seal_script",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seal_script"
+                                     },
+                                     {
+                                         "label":  "瀋陽中国語テキスト",
+                                         "tag":  "shenyang_mandarin_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shenyang_mandarin_text"
+                                     },
+                                     {
+                                         "label":  "四川語のテキスト",
+                                         "tag":  "sichuanese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sichuanese_text"
+                                     },
+                                     {
+                                         "label":  "繁体字中国語テキスト",
+                                         "tag":  "traditional_chinese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/traditional_chinese_text"
+                                     },
+                                     {
+                                         "label":  "ピンインテキスト",
+                                         "tag":  "pinyin_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pinyin_text"
+                                     },
+                                     {
+                                         "label":  "翻訳依頼",
+                                         "tag":  "translation_request",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/translation_request"
+                                     },
+                                     {
+          "label":  "タググループ:日本語の方言",
+                                         "tag":  "tag_group%3Ajapanese_dialects",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ajapanese_dialects"
+                                     },
+                                     {
+                                         "label":  "古語の日本語テキスト",
+                                         "tag":  "archaic_japanese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/archaic_japanese_text"
+                                     },
+                                     {
+                                         "label":  "篆書",
+                                         "tag":  "seal_script",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seal_script"
+                                     },
+                                     {
+                                         "label":  "ふりがな",
+                                         "tag":  "furigana",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/furigana"
+                                     },
+                                     {
+                                         "label":  "非標準ふりがな",
+                                         "tag":  "nonstandard_furigana",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nonstandard_furigana"
+                                     },
+                                     {
+                                         "label":  "ローマ字テキスト",
+                                         "tag":  "romaji_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/romaji_text"
+                                     },
+                                     {
+                                         "label":  "訓令式",
+                                         "tag":  "kunreishiki",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kunreishiki"
+                                     },
+                                     {
+                                         "label":  "日本語のキリル文字表記",
+                                         "tag":  "kiriji_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kiriji_text"
+                                     },
+                                     {
+                                         "label":  "モン族のテキスト",
+                                         "tag":  "hmong_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hmong_text"
+                                     },
+                                     {
+                                         "label":  "インドネシア語のテキスト",
+                                         "tag":  "indonesian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/indonesian_text"
+                                     },
+                                     {
+                                         "label":  "ジャワ語のテキスト",
+                                         "tag":  "javanese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/javanese_text"
+                                     },
+                                     {
+                                         "label":  "クメール語のテキスト",
+                                         "tag":  "khmer_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/khmer_text"
+                                     },
+                                     {
+                                         "label":  "韓国語のテキスト",
+                                         "tag":  "korean_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/korean_text"
+                                     },
+                                     {
+                                         "label":  "慶尚道の韓国語テキスト",
+                                         "tag":  "gyeongsang_korean_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gyeongsang_korean_text"
+                                     },
+                                     {
+                                         "label":  "韓国語のローマ字表記",
+                                         "tag":  "romaja_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/romaja_text"
+                                     },
+                                     {
+                                         "label":  "ラオス語のテキスト",
+                                         "tag":  "lao_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lao_text"
+                                     },
+                                     {
+                                         "label":  "マレー語のテキスト",
+                                         "tag":  "malay_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/malay_text"
+                                     },
+                                     {
+                                         "label":  "タガログ語のテキスト",
+                                         "tag":  "tagalog_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tagalog_text"
+                                     },
+                                     {
+                                         "label":  "フィリピン語のテキスト",
+                                         "tag":  "filipino_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/filipino_text"
+                                     },
+                                     {
+                                         "label":  "タイ語のテキスト",
+                                         "tag":  "thai_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thai_text"
+                                     },
+                                     {
+                                         "label":  "チベット語のテキスト",
+                                         "tag":  "tibetan_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tibetan_text"
+                                     },
+                                     {
+                                         "label":  "ベトナム語のテキスト",
+                                         "tag":  "vietnamese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vietnamese_text"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ゲルマン語族/ケルト語族",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "英語テキスト",
+                                         "tag":  "english_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/english_text"
+                                     },
+                                     {
+                                         "label":  "エボニクス",
+                                         "tag":  "ebonics",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ebonics"
+                                     },
+                                     {
+                                         "label":  "誤用英語",
+                                         "tag":  "engrish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/engrish_text"
+                                     },
+                                     {
+                                         "label":  "シングリッシュテキスト",
+                                         "tag":  "singlish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/singlish_text"
+                                     },
+                                     {
+                                         "label":  "中英語のテキスト",
+                                         "tag":  "middle_english_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/middle_english_text"
+                                     },
+                                     {
+                                         "label":  "初期近代英語のテキスト",
+                                         "tag":  "early_modern_english_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/early_modern_english_text"
+                                     },
+                                     {
+                                         "label":  "オーストラリア英語のテキスト",
+                                         "tag":  "australian_english_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/australian_english_text"
+                                     },
+                                     {
+                                         "label":  "アイルランド英語",
+                                         "tag":  "irish_english_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/irish_english_text"
+                                     },
+                                     {
+                                         "label":  "スコットランド英語のテキスト",
+                                         "tag":  "scottish_english_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scottish_english_text"
+                                     },
+                                     {
+                                         "label":  "ブルトン語のテキスト",
+                                         "tag":  "breton_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/breton_text"
+                                     },
+                                     {
+                                         "label":  "デンマーク語のテキスト",
+                                         "tag":  "danish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/danish_text"
+                                     },
+                                     {
+                                         "label":  "オランダ語のテキスト",
+                                         "tag":  "dutch_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dutch_text"
+                                     },
+                                     {
+                                         "label":  "アフリカーンス語のテキスト",
+                                         "tag":  "afrikaans_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/afrikaans_text"
+                                     },
+                                     {
+                                         "label":  "ドイツ語のテキスト",
+                                         "tag":  "german_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/german_text"
+                                     },
+                                     {
+                                         "label":  "シュヴァーベン語のドイツ語テキスト",
+                                         "tag":  "swabian_german_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/swabian_german_text"
+                                     },
+                                     {
+                                         "label":  "アイスランド語のテキスト",
+                                         "tag":  "icelandic_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/icelandic_text"
+                                     },
+                                     {
+                                         "label":  "アイルランド語のテキスト",
+                                         "tag":  "irish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/irish_text"
+                                     },
+                                     {
+                                         "label":  "ルクセンブルク語のテキスト",
+                                         "tag":  "luxembourgish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/luxembourgish_text"
+                                     },
+                                     {
+                                         "label":  "ノルウェー語のテキスト",
+                                         "tag":  "norwegian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/norwegian_text"
+                                     },
+                                     {
+                                         "label":  "古ノルド語テキスト",
+                                         "tag":  "old_norse_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/old_norse_text"
+                                     },
+                                     {
+                                         "label":  "スコットランド語のテキスト",
+                                         "tag":  "scots_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scots_text"
+                                     },
+                                     {
+                                         "label":  "スウェーデン語のテキスト",
+                                         "tag":  "swedish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/swedish_text"
+                                     },
+                                     {
+                                         "label":  "ウェールズ語のテキスト",
+                                         "tag":  "welsh_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/welsh_text"
+                                     },
+                                     {
+                                         "label":  "イディッシュ語テキスト",
+                                         "tag":  "yiddish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yiddish_text"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ロマンス諸語",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "カタロニア語のテキスト",
+                                         "tag":  "catalan_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/catalan_text"
+                                     },
+                                     {
+                                         "label":  "コルシカ語のテキスト",
+                                         "tag":  "corsican_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/corsican_text"
+                                     },
+                                     {
+                                         "label":  "フランス語のテキスト",
+                                         "tag":  "french_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/french_text"
+                                     },
+                                     {
+                                         "label":  "ハイチ語クレオール語テキスト",
+                                         "tag":  "haitian_creole_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/haitian_creole_text"
+                                     },
+                                     {
+                                         "label":  "ガリシア語のテキスト",
+                                         "tag":  "galician_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/galician_text"
+                                     },
+                                     {
+                                         "label":  "イタリア語のテキスト",
+                                         "tag":  "italian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/italian_text"
+                                     },
+                                     {
+                                         "label":  "ラテン語のテキスト",
+                                         "tag":  "latin_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/latin_text"
+                                     },
+                                     {
+                                         "label":  "マルタ語のテキスト",
+                                         "tag":  "maltese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/maltese_text"
+                                     },
+                                     {
+                                         "label":  "ルーマニア語のテキスト",
+                                         "tag":  "romanian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/romanian_text"
+                                     },
+                                     {
+                                         "label":  "スペイン語のテキスト",
+                                         "tag":  "spanish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spanish_text"
+                                     },
+                                     {
+                                         "label":  "ポルトガル語のテキスト",
+                                         "tag":  "portuguese_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/portuguese_text"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "バルト・スラヴ語族",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ベラルーシ語のテキスト",
+                                         "tag":  "belarusian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belarusian_text"
+                                     },
+                                     {
+                                         "label":  "ブルガリア語のテキスト",
+                                         "tag":  "bulgarian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bulgarian_text"
+                                     },
+                                     {
+                                         "label":  "チェコ語のテキスト",
+                                         "tag":  "czech_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/czech_text"
+                                     },
+                                     {
+                                         "label":  "ラトビア語のテキスト",
+                                         "tag":  "latvian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/latvian_text"
+                                     },
+                                     {
+                                         "label":  "リトアニア語のテキスト",
+                                         "tag":  "lithuanian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lithuanian_text"
+                                     },
+                                     {
+                                         "label":  "マケドニア語テキスト",
+                                         "tag":  "macedonian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/macedonian_text"
+                                     },
+                                     {
+                                         "label":  "ポーランド語のテキスト",
+                                         "tag":  "polish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/polish_text"
+                                     },
+                                     {
+                                         "label":  "ロシア語のテキスト",
+                                         "tag":  "russian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/russian_text"
+                                     },
+                                     {
+                                         "label":  "セルビア・クロアチア語のテキスト",
+                                         "tag":  "serbo-croatian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/serbo-croatian_text"
+                                     },
+                                     {
+                                         "label":  "スロバキア語のテキスト",
+                                         "tag":  "slovak_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/slovak_text"
+                                     },
+                                     {
+                                         "label":  "スロベニア語のテキスト",
+                                         "tag":  "slovenian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/slovenian_text"
+                                     },
+                                     {
+                                         "label":  "ウクライナ語のテキスト",
+                                         "tag":  "ukrainian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ukrainian_text"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他のインド・ヨーロッパ語族",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アルバニア語のテキスト",
+                                         "tag":  "albanian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/albanian_text"
+                                     },
+                                     {
+                                         "label":  "アルメニア語のテキスト",
+                                         "tag":  "armenian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armenian_text"
+                                     },
+                                     {
+                                         "label":  "エスペラント語のテキスト",
+                                         "tag":  "esperanto_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/esperanto_text"
+                                     },
+                                     {
+                                         "label":  "ペルシア語テキスト",
+                                         "tag":  "farsi_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/farsi_text"
+                                     },
+                                     {
+                                         "label":  "ギリシャ語のテキスト",
+                                         "tag":  "greek_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/greek_text"
+                                     },
+                                     {
+                                         "label":  "ヒンディー語テキスト",
+                                         "tag":  "hindi_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hindi_text"
+                                     },
+                                     {
+                                         "label":  "クルド語のテキスト",
+                                         "tag":  "kurdish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kurdish_text"
+                                     },
+                                     {
+                                         "label":  "ペルシャ語のテキスト",
+                                         "tag":  "persian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/persian_text"
+                                     },
+                                     {
+                                         "label":  "シンディー語テキスト",
+                                         "tag":  "sindhi_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sindhi_text"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ウラル語族",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "エストニア語のテキスト",
+                                         "tag":  "estonian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/estonian_text"
+                                     },
+                                     {
+                                         "label":  "フィンランド語のテキスト",
+                                         "tag":  "finnish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/finnish_text"
+                                     },
+                                     {
+                                         "label":  "ハンガリー語のテキスト",
+                                         "tag":  "hungarian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hungarian_text"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "トルコ語族",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アゼルバイジャン語のテキスト",
+                                         "tag":  "azerbaijani_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/azerbaijani_text"
+                                     },
+                                     {
+                                         "label":  "カザフ語のテキスト",
+                                         "tag":  "kazakh_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kazakh_text"
+                                     },
+                                     {
+                                         "label":  "キルギス語のテキスト",
+                                         "tag":  "kyrgyz_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kyrgyz_text"
+                                     },
+                                     {
+                                         "label":  "古代トルコ語のテキスト",
+                                         "tag":  "old_turkic_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/old_turkic_text"
+                                     },
+                                     {
+                                         "label":  "タタール語のテキスト",
+                                         "tag":  "tatar_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tatar_text"
+                                     },
+                                     {
+                                         "label":  "トルコ語のテキスト",
+                                         "tag":  "turkish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/turkish_text"
+                                     },
+                                     {
+                                         "label":  "ウズベク語のテキスト",
+                                         "tag":  "uzbek_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/uzbek_text"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他の文字・言語（架空を含む）",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アムハラ語のテキスト",
+                                         "tag":  "amharic_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/amharic_text"
+                                     },
+                                     {
+                                         "label":  "アラビア語のテキスト",
+                                         "tag":  "arabic_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arabic_text"
+                                     },
+                                     {
+                                         "label":  "アラム語のテキスト",
+                                         "tag":  "aramaic_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aramaic_text"
+                                     },
+                                     {
+                                         "label":  "オーレベッシュ",
+                                         "tag":  "aurebesh",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aurebesh"
+                                     },
+                                     {
+                                         "label":  "バスク語のテキスト",
+                                         "tag":  "basque_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/basque_text"
+                                     },
+                                     {
+                                         "label":  "ベンガル語のテキスト",
+                                         "tag":  "bengali_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bengali_text"
+                                     },
+                                     {
+                                         "label":  "点字",
+                                         "tag":  "braille",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/braille"
+                                     },
+                                     {
+                                         "label":  "チェワ語のテキスト",
+                                         "tag":  "chichewa_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chichewa_text"
+                                     },
+                                     {
+                                         "label":  "ルリヒアン",
+                                         "tag":  "r%27lyehian",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/r%27lyehian"
+                                     },
+                                     {
+                                         "label":  "楔形文字",
+                                         "tag":  "cuneiform",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cuneiform"
+                                     },
+                                     {
+                                         "label":  "キリル文字",
+                                         "tag":  "cyrillic",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cyrillic"
+                                     },
+                                     {
+                                         "label":  "デジモジ",
+                                         "tag":  "digimoji",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/digimoji"
+                                     },
+                                     {
+                                         "label":  "フィジー語のテキスト",
+                                         "tag":  "fijian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fijian_text"
+                                     },
+                                     {
+                                         "label":  "グルジア語のテキスト",
+                                         "tag":  "georgian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/georgian_text"
+                                     },
+                                     {
+                                         "label":  "ゲルド",
+                                         "tag":  "gerudo_alphabet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gerudo_alphabet"
+                                     },
+                                     {
+                                         "label":  "ハワイ語のテキスト",
+                                         "tag":  "hawaiian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hawaiian_text"
+                                     },
+                                     {
+                                         "label":  "ヘブライ語テキスト",
+                                         "tag":  "hebrew_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hebrew_text"
+                                     },
+                                     {
+                                         "label":  "象形文字",
+                                         "tag":  "hieroglyphics",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hieroglyphics"
+                                     },
+                                     {
+                                         "label":  "ハイリア文字",
+                                         "tag":  "hylian_%28language%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hylian_%28language%29"
+                                     },
+                                     {
+                                         "label":  "ハイリア文字（神々のトライフォース2）",
+                                         "tag":  "hylian_%28a_link_between_worlds%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hylian_%28a_link_between_worlds%29"
+                                     },
+                                     {
+                                         "label":  "ハイリア文字（風のタクト）",
+                                         "tag":  "hylian_%28the_wind_waker%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hylian_%28the_wind_waker%29"
+                                     },
+                                     {
+                                         "label":  "ハイリア文字（トワイライトプリンセス）",
+                                         "tag":  "hylian_%28twilight_princess%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hylian_%28twilight_princess%29"
+                                     },
+                                     {
+                                         "label":  "ヒュムノス",
+                                         "tag":  "hymmnos",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hymmnos"
+                                     },
+                                     {
+                                         "label":  "イボ語のテキスト",
+                                         "tag":  "igbo_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/igbo_text"
+                                     },
+                                     {
+                                         "label":  "イカ文字",
+                                         "tag":  "inkling_%28language%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/inkling_%28language%29"
+                                     },
+                                     {
+                                         "label":  "キニャルワンダ語のテキスト",
+                                         "tag":  "kinyarwanda_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kinyarwanda_text"
+                                     },
+                                     {
+                                         "label":  "まどかのルーン",
+                                         "tag":  "madoka_runes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/madoka_runes"
+                                     },
+                                     {
+                                         "label":  "マダガスカル語のテキスト",
+                                         "tag":  "malagasy_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/malagasy_text"
+                                     },
+                                     {
+                                         "label":  "マラヤーラム語のテキスト",
+                                         "tag":  "malayalam_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/malayalam_text"
+                                     },
+                                     {
+                                         "label":  "マオリ語のテキスト",
+                                         "tag":  "maori_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/maori_text"
+                                     },
+                                     {
+                                         "label":  "マトラン",
+                                         "tag":  "matoran_language",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/matoran_language"
+                                     },
+                                     {
+                                         "label":  "メルニクス",
+                                         "tag":  "melnics",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/melnics"
+                                     },
+                                     {
+                                         "label":  "モンゴル語の文字",
+                                         "tag":  "mongolian_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mongolian_text"
+                                     },
+                                     {
+                                         "label":  "ナメック語",
+                                         "tag":  "namekian_language",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/namekian_language"
+                                     },
+                                     {
+                                         "label":  "ネパール語のテキスト",
+                                         "tag":  "nepali_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nepali_text"
+                                     },
+                                     {
+                                         "label":  "シェイカ",
+                                         "tag":  "sheikah_alphabet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sheikah_alphabet"
+                                     },
+                                     {
+                                         "label":  "シッダム",
+                                         "tag":  "siddham",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/siddham"
+                                     },
+                                     {
+                                         "label":  "シンダール語",
+                                         "tag":  "sindarin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sindarin"
+                                     },
+                                     {
+                                         "label":  "ソマリ語のテキスト",
+                                         "tag":  "somali_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/somali_text"
+                                     },
+                                     {
+                                         "label":  "スワヒリ語のテキスト",
+                                         "tag":  "swahili_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/swahili_text"
+                                     },
+                                     {
+                                         "label":  "タミル語のテキスト",
+                                         "tag":  "tamil_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tamil_text"
+                                     },
+                                     {
+                                         "label":  "テルグ語のテキスト",
+                                         "tag":  "telugu_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/telugu_text"
+                                     },
+                                     {
+                                         "label":  "テングワールのテキスト",
+                                         "tag":  "tengwar_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tengwar_text"
+                                     },
+                                     {
+                                         "label":  "暗黒語（指輪物語）",
+                                         "tag":  "black_speech_%28language%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_speech_%28language%29"
+                                     },
+                                     {
+                                         "label":  "ウルトラサイン",
+                                         "tag":  "ultra_sign",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ultra_sign"
+                                     },
+                                     {
+                                         "label":  "アンノーン文字",
+                                         "tag":  "unownglyphics",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/unownglyphics"
+                                     },
+                                     {
+                                         "label":  "コサ語のテキスト",
+                                         "tag":  "xhosa_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/xhosa_text"
+                                     },
+                                     {
+                                         "label":  "ヨルバ語のテキスト",
+                                         "tag":  "yoruba_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yoruba_text"
+                                     },
+                                     {
+                                         "label":  "ゼントラディ",
+                                         "tag":  "zentlardy_alphabet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zentlardy_alphabet"
+                                     },
+                                     {
+                                         "label":  "ザルゴテキスト",
+                                         "tag":  "zalgo_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zalgo_text"
+                                     },
+                                     {
+                                         "label":  "ズールー語のテキスト",
+                                         "tag":  "zulu_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zulu_text"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "エラー",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "範囲",
+                                         "tag":  "ranguage",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ranguage"
+                                     },
+                                     {
+                                         "label":  "誤用英語",
+                                         "tag":  "engrish_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/engrish_text"
+                                     },
+                                     {
+                                         "label":  "文字化けテキスト",
+                                         "tag":  "mojibake_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mojibake_text"
+                                     },
+                                     {
+                                         "label":  "タイプミス",
+                                         "tag":  "typo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/typo"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "翻訳",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "言語違い",
+                                         "tag":  "alternate_language",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_language"
+                                     },
+                                     {
+                                         "label":  "翻訳を確認する",
+                                         "tag":  "check_translation",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/check_translation"
+                                     },
+                                     {
+                                         "label":  "画像に直接組み込まれた英訳",
+                                         "tag":  "hard-translated",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hard-translated"
+                                     },
+                                     {
+                                         "label":  "画像に直接組み込まれた英語以外の翻訳",
+                                         "tag":  "hard-translated_%28non-english%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hard-translated_%28non-english%29"
+                                     },
+                                     {
+                                         "label":  "部分的に翻訳",
+                                         "tag":  "partially_translated",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/partially_translated"
+                                     },
+                                     {
+                                         "label":  "翻訳が不十分",
+                                         "tag":  "poorly_translated",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/poorly_translated"
+                                     },
+                                     {
+                                         "label":  "逆翻訳",
+                                         "tag":  "reverse_translation",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/reverse_translation"
+                                     },
+                                     {
+                                         "label":  "翻訳済み",
+                                         "tag":  "translated",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/translated"
+                                     },
+                                     {
+                                         "label":  "翻訳依頼",
+                                         "tag":  "translation_request",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/translation_request"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "暗号文",
+                                         "tag":  "ciphertext",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ciphertext"
+                                     },
+                                     {
+                                         "label":  "筆記体",
+                                         "tag":  "cursive",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cursive"
+                                     },
+                                     {
+                                         "label":  "偽テキスト",
+                                         "tag":  "faux_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faux_text"
+                                     },
+                                     {
+                                         "label":  "偽キリル文字",
+                                         "tag":  "faux_cyrillic",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faux_cyrillic"
+                                     },
+                                     {
+                                         "label":  "偽エジプト風",
+                                         "tag":  "faux_egyptian",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faux_egyptian"
+                                     },
+                                     {
+                                         "label":  "偽ギリシャ語",
+                                         "tag":  "faux_greek",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faux_greek"
+                                     },
+                                     {
+                                         "label":  "偽日本語",
+                                         "tag":  "faux_japanese",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faux_japanese"
+                                     },
+                                     {
+                                         "label":  "混合言語テキスト",
+                                         "tag":  "mixed-language_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mixed-language_text"
+                                     },
+                                     {
+                                         "label":  "バイリンガルテキスト",
+                                         "tag":  "bilingual_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bilingual_text"
+                                     },
+                                     {
+                                         "label":  "多言語テキスト",
+                                         "tag":  "multilingual_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/multilingual_text"
+                                     },
+                                     {
+                                         "label":  "フェイクテキスト",
+                                         "tag":  "fake_text",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_text"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "関連タググループ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：シンボル",
+                                         "tag":  "tag_group%3Asymbols",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Asymbols"
+                                     }
+                                 ]
+                    }
+                ]
+}

@@ -1,0 +1,322 @@
+{
+  "カテゴリID": "lighting",
+  "カテゴリ名": "照明",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Alighting",
+  "セクション一覧": [
+    {
+      "セクション名": "方向性",
+      "タグ一覧": [
+        {
+          "label": "バックライト",
+          "tag": "backlighting",
+          "link": "https://danbooru.donmai.us/wiki_pages/backlighting"
+        },
+        {
+          "label": "サイドライト",
+          "tag": "sidelighting",
+          "link": "https://danbooru.donmai.us/wiki_pages/sidelighting"
+        },
+        {
+          "label": "下からの照明",
+          "tag": "underlighting",
+          "link": "https://danbooru.donmai.us/wiki_pages/underlighting"
+        }
+      ]
+    },
+    {
+      "セクション名": "種類",
+      "タグ一覧": [
+        {
+          "label": "ブルーム（光のにじみ）",
+          "tag": "bloom",
+          "link": "https://danbooru.donmai.us/wiki_pages/bloom"
+        },
+        {
+          "label": "日光",
+          "tag": "sunlight",
+          "link": "https://danbooru.donmai.us/wiki_pages/sunlight"
+        },
+        {
+          "label": "一筋の日光",
+          "tag": "sunbeam",
+          "link": "https://danbooru.donmai.us/wiki_pages/sunbeam"
+        },
+        {
+          "label": "木漏れ日",
+          "tag": "dappled_sunlight",
+          "link": "https://danbooru.donmai.us/wiki_pages/dappled_sunlight"
+        },
+        {
+          "label": "月光",
+          "tag": "moonlight",
+          "link": "https://danbooru.donmai.us/wiki_pages/moonlight"
+        },
+        {
+          "label": "スポットライト",
+          "tag": "spotlight",
+          "link": "https://danbooru.donmai.us/wiki_pages/spotlight"
+        },
+        {
+          "label": "舞台照明",
+          "tag": "stage_lights",
+          "link": "https://danbooru.donmai.us/wiki_pages/stage_lights"
+        },
+        {
+          "label": "コースティクス",
+          "tag": "caustics",
+          "link": "https://danbooru.donmai.us/wiki_pages/caustics"
+        },
+        {
+          "label": "隙間から差す光",
+          "tag": "crack_of_light",
+          "link": "https://danbooru.donmai.us/wiki_pages/crack_of_light"
+        },
+        {
+          "label": "屈折",
+          "tag": "refraction",
+          "link": "https://danbooru.donmai.us/wiki_pages/refraction"
+        },
+        {
+          "label": "光線",
+          "tag": "light_rays",
+          "link": "https://danbooru.donmai.us/wiki_pages/light_rays"
+        },
+        {
+          "label": "薄暗い照明",
+          "tag": "dim_lighting",
+          "link": "https://danbooru.donmai.us/wiki_pages/dim_lighting"
+        }
+      ]
+    },
+    {
+      "セクション名": "時間帯別照明",
+      "タグ一覧": [
+        {
+          "label": "朝",
+          "tag": "morning",
+          "link": "https://danbooru.donmai.us/wiki_pages/morning"
+        },
+        {
+          "label": "夜明け",
+          "tag": "dawn",
+          "link": "https://danbooru.donmai.us/wiki_pages/dawn"
+        },
+        {
+          "label": "薄明",
+          "tag": "twilight",
+          "link": "https://danbooru.donmai.us/wiki_pages/twilight"
+        },
+        {
+          "label": "日の出",
+          "tag": "sunrise",
+          "link": "https://danbooru.donmai.us/wiki_pages/sunrise"
+        },
+        {
+          "label": "昼",
+          "tag": "day",
+          "link": "https://danbooru.donmai.us/wiki_pages/day"
+        },
+        {
+          "label": "夕方",
+          "tag": "evening",
+          "link": "https://danbooru.donmai.us/wiki_pages/evening"
+        },
+        {
+          "label": "日没",
+          "tag": "sunset",
+          "link": "https://danbooru.donmai.us/wiki_pages/sunset"
+        },
+        {
+          "label": "薄明",
+          "tag": "twilight",
+          "link": "https://danbooru.donmai.us/wiki_pages/twilight"
+        },
+        {
+          "label": "夕暮れ",
+          "tag": "dusk",
+          "link": "https://danbooru.donmai.us/wiki_pages/dusk"
+        },
+        {
+          "label": "夜",
+          "tag": "night",
+          "link": "https://danbooru.donmai.us/wiki_pages/night"
+        }
+      ]
+    },
+    {
+      "セクション名": "光源",
+      "タグ一覧": [
+        {
+          "label": "太陽",
+          "tag": "sun",
+          "link": "https://danbooru.donmai.us/wiki_pages/sun"
+        },
+        {
+          "label": "月",
+          "tag": "moon",
+          "link": "https://danbooru.donmai.us/wiki_pages/moon"
+        },
+        {
+          "label": "ケミカルライト",
+          "tag": "glowstick",
+          "link": "https://danbooru.donmai.us/wiki_pages/glowstick"
+        },
+        {
+          "label": "ランプ",
+          "tag": "lamp",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamp"
+        },
+        {
+          "label": "デスクランプ",
+          "tag": "desk_lamp",
+          "link": "https://danbooru.donmai.us/wiki_pages/desk_lamp"
+        },
+        {
+          "label": "街灯",
+          "tag": "lamppost",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamppost"
+        },
+        {
+          "label": "壁付け照明",
+          "tag": "wall_lamp",
+          "link": "https://danbooru.donmai.us/wiki_pages/wall_lamp"
+        },
+        {
+          "label": "たいまつ",
+          "tag": "torch",
+          "link": "https://danbooru.donmai.us/wiki_pages/torch"
+        },
+        {
+          "label": "火",
+          "tag": "fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire"
+        },
+        {
+          "label": "残り火",
+          "tag": "embers",
+          "link": "https://danbooru.donmai.us/wiki_pages/embers"
+        },
+        {
+          "label": "懐中電灯",
+          "tag": "flashlight",
+          "link": "https://danbooru.donmai.us/wiki_pages/flashlight"
+        },
+        {
+          "label": "ランタン",
+          "tag": "lantern",
+          "link": "https://danbooru.donmai.us/wiki_pages/lantern"
+        },
+        {
+          "label": "石油ランプ",
+          "tag": "oil_lamp",
+          "link": "https://danbooru.donmai.us/wiki_pages/oil_lamp"
+        },
+        {
+          "label": "木製のランタン",
+          "tag": "wooden_lantern",
+          "link": "https://danbooru.donmai.us/wiki_pages/wooden_lantern"
+        },
+        {
+          "label": "天井照明",
+          "tag": "ceiling_light",
+          "link": "https://danbooru.donmai.us/wiki_pages/ceiling_light"
+        },
+        {
+          "label": "シャンデリア",
+          "tag": "chandelier",
+          "link": "https://danbooru.donmai.us/wiki_pages/chandelier"
+        },
+        {
+          "label": "ろうそくの光",
+          "tag": "candlelight",
+          "link": "https://danbooru.donmai.us/wiki_pages/candlelight"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "マズルフラッシュ（銃口の発火）",
+          "tag": "muzzle_flash",
+          "link": "https://danbooru.donmai.us/wiki_pages/muzzle_flash"
+        },
+        {
+          "label": "ヘッドライト",
+          "tag": "headlight",
+          "link": "https://danbooru.donmai.us/wiki_pages/headlight"
+        },
+        {
+          "label": "投光照明",
+          "tag": "floodlights",
+          "link": "https://danbooru.donmai.us/wiki_pages/floodlights"
+        },
+        {
+          "label": "フレア",
+          "tag": "flare",
+          "link": "https://danbooru.donmai.us/wiki_pages/flare"
+        },
+        {
+          "label": "紫外線",
+          "tag": "ultraviolet_light",
+          "link": "https://danbooru.donmai.us/wiki_pages/ultraviolet_light"
+        },
+        {
+          "label": "光る頭飾り",
+          "tag": "glowing_headgear",
+          "link": "https://danbooru.donmai.us/wiki_pages/glowing_headgear"
+        }
+      ]
+    },
+    {
+      "セクション名": "光の欠如",
+      "タグ一覧": [
+        {
+          "label": "日陰",
+          "tag": "shade",
+          "link": "https://danbooru.donmai.us/wiki_pages/shade"
+        },
+        {
+          "label": "木陰",
+          "tag": "tree_shade",
+          "link": "https://danbooru.donmai.us/wiki_pages/tree_shade"
+        },
+        {
+          "label": "影",
+          "tag": "shadow",
+          "link": "https://danbooru.donmai.us/wiki_pages/shadow"
+        },
+        {
+          "label": "色のついた影",
+          "tag": "colored_shadow",
+          "link": "https://danbooru.donmai.us/wiki_pages/colored_shadow"
+        },
+        {
+          "label": "窓の影",
+          "tag": "window_shadow",
+          "link": "https://danbooru.donmai.us/wiki_pages/window_shadow"
+        },
+        {
+          "label": "暗い画面",
+          "tag": "dark",
+          "link": "https://danbooru.donmai.us/wiki_pages/dark"
+        },
+        {
+          "label": "暗闇",
+          "tag": "darkness",
+          "link": "https://danbooru.donmai.us/wiki_pages/darkness"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：画像構成",
+          "tag": "tag_group%3Aimage_composition",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aimage_composition"
+        }
+      ]
+    }
+  ]
+}

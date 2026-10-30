@@ -1,0 +1,1047 @@
+{
+  "カテゴリID": "nudity",
+  "カテゴリ名": "ヌード",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Anudity",
+  "セクション一覧": [
+    {
+      "セクション名": "完全な（またはほぼ完全な）ヌード",
+      "タグ一覧": [
+        {
+          "label": "完全に裸",
+          "tag": "completely_nude",
+          "link": "https://danbooru.donmai.us/wiki_pages/completely_nude"
+        },
+        {
+          "label": "裸",
+          "tag": "nude",
+          "link": "https://danbooru.donmai.us/wiki_pages/nude"
+        }
+      ]
+    },
+    {
+      "セクション名": "着衣・裸体の組み合わせ",
+      "タグ一覧": [
+        {
+          "label": "CFNF",
+          "tag": "clothed_female_nude_female",
+          "link": "https://danbooru.donmai.us/wiki_pages/clothed_female_nude_female"
+        },
+        {
+          "label": "着衣の女性と裸の男性",
+          "tag": "clothed_female_nude_male",
+          "link": "https://danbooru.donmai.us/wiki_pages/clothed_female_nude_male"
+        },
+        {
+          "label": "CMNF",
+          "tag": "clothed_male_nude_female",
+          "link": "https://danbooru.donmai.us/wiki_pages/clothed_male_nude_female"
+        },
+        {
+          "label": "CMNM",
+          "tag": "clothed_male_nude_male",
+          "link": "https://danbooru.donmai.us/wiki_pages/clothed_male_nude_male"
+        }
+      ]
+    },
+    {
+      "セクション名": "衣服全般の開き・脱衣",
+      "タグ一覧": [
+        {
+          "label": "衣服をずらす",
+          "tag": "clothing_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/clothing_aside"
+        },
+        {
+          "label": "服を下ろす",
+          "tag": "clothes_down",
+          "link": "https://danbooru.donmai.us/wiki_pages/clothes_down"
+        },
+        {
+          "label": "開いた服",
+          "tag": "open_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_clothes"
+        },
+        {
+          "label": "露出度の高い服",
+          "tag": "revealing_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/revealing_clothes"
+        },
+        {
+          "label": "透け感のある服",
+          "tag": "see-through_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/see-through_clothes"
+        },
+        {
+          "label": "ボタンを外した",
+          "tag": "unbuttoned",
+          "link": "https://danbooru.donmai.us/wiki_pages/unbuttoned"
+        },
+        {
+          "label": "脱衣",
+          "tag": "undressing",
+          "link": "https://danbooru.donmai.us/wiki_pages/undressing"
+        },
+        {
+          "label": "緩んだ",
+          "tag": "unfastened",
+          "link": "https://danbooru.donmai.us/wiki_pages/unfastened"
+        },
+        {
+          "label": "解かれた",
+          "tag": "untied",
+          "link": "https://danbooru.donmai.us/wiki_pages/untied"
+        },
+        {
+          "label": "解く",
+          "tag": "untying",
+          "link": "https://danbooru.donmai.us/wiki_pages/untying"
+        },
+        {
+          "label": "ファスナーが開いた状態",
+          "tag": "unzipped",
+          "link": "https://danbooru.donmai.us/wiki_pages/unzipped"
+        },
+        {
+          "label": "ファスナーを開ける",
+          "tag": "unzipping",
+          "link": "https://danbooru.donmai.us/wiki_pages/unzipping"
+        }
+      ]
+    },
+    {
+      "セクション名": "衣服のずれ・開き",
+      "タグ一覧": [
+        {
+          "label": "ビキニボトムをずらす",
+          "tag": "bikini_bottom_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_bottom_aside"
+        },
+        {
+          "label": "ビキニプル",
+          "tag": "bikini_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_pull"
+        },
+        {
+          "label": "ケープリフト",
+          "tag": "cape_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/cape_lift"
+        },
+        {
+          "label": "持ち上げカバー",
+          "tag": "lifting_covers",
+          "link": "https://danbooru.donmai.us/wiki_pages/lifting_covers"
+        },
+        {
+          "label": "ビキニ、オープン",
+          "tag": "untied_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/untied_bikini"
+        },
+        {
+          "label": "外れたブラジャー",
+          "tag": "open_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_bra"
+        },
+        {
+          "label": "着物、開いた状態",
+          "tag": "open_kimono",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_kimono"
+        },
+        {
+          "label": "ローブスリップ",
+          "tag": "robe_slip",
+          "link": "https://danbooru.donmai.us/wiki_pages/robe_slip"
+        },
+        {
+          "label": "ストラップリフト",
+          "tag": "strap_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/strap_lift"
+        },
+        {
+          "label": "ストラッププル",
+          "tag": "strap_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/strap_pull"
+        },
+        {
+          "label": "肩紐のずり落ち",
+          "tag": "strap_slip",
+          "link": "https://danbooru.donmai.us/wiki_pages/strap_slip"
+        },
+        {
+          "label": "水着をずらす",
+          "tag": "swimsuit_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_aside"
+        },
+        {
+          "label": "ワンピース水着プル",
+          "tag": "one-piece_swimsuit_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/one-piece_swimsuit_pull"
+        },
+        {
+          "label": "タオル、開いた状態",
+          "tag": "open_towel",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_towel"
+        },
+        {
+          "label": "タオルスリップ",
+          "tag": "towel_slip",
+          "link": "https://danbooru.donmai.us/wiki_pages/towel_slip"
+        },
+        {
+          "label": "男性用下着の引っ張り",
+          "tag": "male_underwear_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/male_underwear_pull"
+        }
+      ]
+    },
+    {
+      "セクション名": "露出した肩や腕",
+      "タグ一覧": [
+        {
+          "label": "脇の下",
+          "tag": "armpits",
+          "link": "https://danbooru.donmai.us/wiki_pages/armpits"
+        },
+        {
+          "label": "脇の開口部",
+          "tag": "armpit_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/armpit_cutout"
+        },
+        {
+          "label": "裸の腕",
+          "tag": "bare_arms",
+          "link": "https://danbooru.donmai.us/wiki_pages/bare_arms"
+        },
+        {
+          "label": "腕部分の開口部",
+          "tag": "arm_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_cutout"
+        },
+        {
+          "label": "肩の露出",
+          "tag": "bare_shoulders",
+          "link": "https://danbooru.donmai.us/wiki_pages/bare_shoulders"
+        },
+        {
+          "label": "オフショルダー",
+          "tag": "off_shoulder",
+          "link": "https://danbooru.donmai.us/wiki_pages/off_shoulder"
+        },
+        {
+          "label": "肩のカットアウト",
+          "tag": "shoulder_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/shoulder_cutout"
+        },
+        {
+          "label": "袖をまくった",
+          "tag": "sleeves_rolled_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeves_rolled_up"
+        },
+        {
+          "label": "ノースリーブ",
+          "tag": "sleeveless",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless"
+        },
+        {
+          "label": "ローカットのアームホール",
+          "tag": "low-cut_armhole",
+          "link": "https://danbooru.donmai.us/wiki_pages/low-cut_armhole"
+        },
+        {
+          "label": "袖をまくった",
+          "tag": "sleeves_pushed_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeves_pushed_up"
+        },
+        {
+          "label": "袖をまくった",
+          "tag": "sleeves_rolled_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeves_rolled_up"
+        }
+      ]
+    },
+    {
+      "セクション名": "露出した頭部または首",
+      "タグ一覧": [
+        {
+          "label": "フードを下ろす",
+          "tag": "hood_down",
+          "link": "https://danbooru.donmai.us/wiki_pages/hood_down"
+        }
+      ]
+    },
+    {
+      "セクション名": "胸元の露出",
+      "タグ一覧": [
+        {
+          "label": "中央開口部",
+          "tag": "center_opening",
+          "link": "https://danbooru.donmai.us/wiki_pages/center_opening"
+        },
+        {
+          "label": "コート、開いた状態",
+          "tag": "open_coat",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_coat"
+        },
+        {
+          "label": "オープンカラー",
+          "tag": "open_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_collar"
+        },
+        {
+          "label": "ドレスを引っ張る",
+          "tag": "dress_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_pull"
+        },
+        {
+          "label": "パーカー、オープン",
+          "tag": "open_hoodie",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_hoodie"
+        },
+        {
+          "label": "ジャケット、オープン",
+          "tag": "open_jacket",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_jacket"
+        },
+        {
+          "label": "レオタードプル",
+          "tag": "leotard_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/leotard_pull"
+        },
+        {
+          "label": "着物ダウン",
+          "tag": "kimono_down",
+          "link": "https://danbooru.donmai.us/wiki_pages/kimono_down"
+        },
+        {
+          "label": "着物の引き手",
+          "tag": "kimono_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/kimono_pull"
+        },
+        {
+          "label": "パジャマプル",
+          "tag": "pajamas_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/pajamas_pull"
+        },
+        {
+          "label": "オープンローブ",
+          "tag": "open_robe",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_robe"
+        },
+        {
+          "label": "シャツを脇に",
+          "tag": "shirt_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/shirt_aside"
+        },
+        {
+          "label": "トップレスの男性",
+          "tag": "topless_male",
+          "link": "https://danbooru.donmai.us/wiki_pages/topless_male"
+        },
+        {
+          "label": "上着を着ていない",
+          "tag": "no_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_shirt"
+        },
+        {
+          "label": "シャツ、開いた",
+          "tag": "open_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_shirt"
+        },
+        {
+          "label": "シャツリフト",
+          "tag": "shirt_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/shirt_lift"
+        },
+        {
+          "label": "シャツを引っ張る",
+          "tag": "shirt_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/shirt_pull"
+        },
+        {
+          "label": "シャツスリップ",
+          "tag": "shirt_slip",
+          "link": "https://danbooru.donmai.us/wiki_pages/shirt_slip"
+        },
+        {
+          "label": "セーターリフト",
+          "tag": "sweater_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/sweater_lift"
+        },
+        {
+          "label": "トッププル",
+          "tag": "top_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/top_pull"
+        },
+        {
+          "label": "オープンベスト",
+          "tag": "open_vest",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_vest"
+        }
+      ]
+    },
+    {
+      "セクション名": "乳房の露出",
+      "タグ一覧": [
+        {
+          "label": "胸部分が開いた衣服",
+          "tag": "breastless_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/breastless_clothes"
+        },
+        {
+          "label": "片方の胸を出す",
+          "tag": "one_breast_out",
+          "link": "https://danbooru.donmai.us/wiki_pages/one_breast_out"
+        },
+        {
+          "label": "胸が衣服から見える",
+          "tag": "breast_slip",
+          "link": "https://danbooru.donmai.us/wiki_pages/breast_slip"
+        },
+        {
+          "label": "胸を露出させる",
+          "tag": "breasts_out",
+          "link": "https://danbooru.donmai.us/wiki_pages/breasts_out"
+        },
+        {
+          "label": "ブラジャーを持ち上げる",
+          "tag": "bra_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra_lift"
+        },
+        {
+          "label": "ブラジャーなし",
+          "tag": "no_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_bra"
+        },
+        {
+          "label": "ブラジャーを引っ張る",
+          "tag": "bra_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra_pull"
+        },
+        {
+          "label": "トップレスの女性",
+          "tag": "topless_female",
+          "link": "https://danbooru.donmai.us/wiki_pages/topless_female"
+        }
+      ]
+    },
+    {
+      "セクション名": "露出した胸の部分",
+      "タグ一覧": [
+        {
+          "label": "背中側から見える胸",
+          "tag": "backboob",
+          "link": "https://danbooru.donmai.us/wiki_pages/backboob"
+        },
+        {
+          "label": "胸の谷間",
+          "tag": "cleavage",
+          "link": "https://danbooru.donmai.us/wiki_pages/cleavage"
+        },
+        {
+          "label": "谷間部分の開口部",
+          "tag": "cleavage_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/cleavage_cutout"
+        },
+        {
+          "label": "横から見える胸",
+          "tag": "sideboob",
+          "link": "https://danbooru.donmai.us/wiki_pages/sideboob"
+        },
+        {
+          "label": "下から見える胸",
+          "tag": "underboob",
+          "link": "https://danbooru.donmai.us/wiki_pages/underboob"
+        },
+        {
+          "label": "胸の下の切り抜き",
+          "tag": "underboob_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/underboob_cutout"
+        }
+      ]
+    },
+    {
+      "セクション名": "露出した乳首",
+      "タグ一覧": [
+        {
+          "label": "乳輪が見える",
+          "tag": "areola_slip",
+          "link": "https://danbooru.donmai.us/wiki_pages/areola_slip"
+        },
+        {
+          "label": "乳首が見える",
+          "tag": "nipple_slip",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_slip"
+        },
+        {
+          "label": "乳首部分が開いた衣服",
+          "tag": "nippleless_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/nippleless_clothes"
+        },
+        {
+          "label": "乳首",
+          "tag": "nipples",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipples"
+        }
+      ]
+    },
+    {
+      "セクション名": "露出した胴体",
+      "タグ一覧": [
+        {
+          "label": "背中の開口部",
+          "tag": "back_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/back_cutout"
+        },
+        {
+          "label": "背中が開いた衣装",
+          "tag": "backless_outfit",
+          "link": "https://danbooru.donmai.us/wiki_pages/backless_outfit"
+        },
+        {
+          "label": "露出した背中",
+          "tag": "bare_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/bare_back"
+        },
+        {
+          "label": "フロントレスの衣装",
+          "tag": "frontless_outfit",
+          "link": "https://danbooru.donmai.us/wiki_pages/frontless_outfit"
+        },
+        {
+          "label": "腹部の露出",
+          "tag": "midriff",
+          "link": "https://danbooru.donmai.us/wiki_pages/midriff"
+        },
+        {
+          "label": "へその切り抜き",
+          "tag": "navel_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/navel_cutout"
+        },
+        {
+          "label": "サイドカットアウト",
+          "tag": "side_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/side_cutout"
+        },
+        {
+          "label": "サイドレス衣装",
+          "tag": "sideless_outfit",
+          "link": "https://danbooru.donmai.us/wiki_pages/sideless_outfit"
+        },
+        {
+          "label": "腹部の開口部",
+          "tag": "stomach_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/stomach_cutout"
+        }
+      ]
+    },
+    {
+      "セクション名": "脚・足の露出",
+      "タグ一覧": [
+        {
+          "label": "裸足",
+          "tag": "barefoot",
+          "link": "https://danbooru.donmai.us/wiki_pages/barefoot"
+        },
+        {
+          "label": "生脚",
+          "tag": "bare_legs",
+          "link": "https://danbooru.donmai.us/wiki_pages/bare_legs"
+        },
+        {
+          "label": "ドレスを持ち上げる",
+          "tag": "dress_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_lift"
+        },
+        {
+          "label": "ヒップベント",
+          "tag": "hip_vent",
+          "link": "https://danbooru.donmai.us/wiki_pages/hip_vent"
+        },
+        {
+          "label": "脚の切り抜き",
+          "tag": "leg_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/leg_cutout"
+        },
+        {
+          "label": "太ももカットアウト",
+          "tag": "thigh_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/thigh_cutout"
+        },
+        {
+          "label": "サイドスリット",
+          "tag": "side_slit",
+          "link": "https://danbooru.donmai.us/wiki_pages/side_slit"
+        },
+        {
+          "label": "ズボンなし",
+          "tag": "no_pants",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_pants"
+        },
+        {
+          "label": "靴を引っ張る",
+          "tag": "shoe_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/shoe_pull"
+        },
+        {
+          "label": "靴下を引っ張る",
+          "tag": "sock_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/sock_pull"
+        },
+        {
+          "label": "絶対領域",
+          "tag": "zettai_ryouiki",
+          "link": "https://danbooru.donmai.us/wiki_pages/zettai_ryouiki"
+        }
+      ]
+    },
+    {
+      "セクション名": "尻・股間の露出",
+      "タグ一覧": [
+        {
+          "label": "尻部分の開口部",
+          "tag": "ass_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/ass_cutout"
+        },
+        {
+          "label": "下半身裸",
+          "tag": "bottomless",
+          "link": "https://danbooru.donmai.us/wiki_pages/bottomless"
+        },
+        {
+          "label": "ブルマプル",
+          "tag": "buruma_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/buruma_pull"
+        },
+        {
+          "label": "ブルマをずらす",
+          "tag": "buruma_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/buruma_aside"
+        },
+        {
+          "label": "クリトリスが見える",
+          "tag": "clitoris_slip",
+          "link": "https://danbooru.donmai.us/wiki_pages/clitoris_slip"
+        },
+        {
+          "label": "衣服をずらす",
+          "tag": "clothing_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/clothing_aside"
+        },
+        {
+          "label": "股間カットアウト",
+          "tag": "crotch_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/crotch_cutout"
+        },
+        {
+          "label": "ドレスをずらす",
+          "tag": "dress_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_aside"
+        },
+        {
+          "label": "レオタードをずらす",
+          "tag": "leotard_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/leotard_aside"
+        },
+        {
+          "label": "はかま引き",
+          "tag": "hakama_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/hakama_pull"
+        },
+        {
+          "label": "着物リフト",
+          "tag": "kimono_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/kimono_lift"
+        },
+        {
+          "label": "浴衣リフト",
+          "tag": "yukata_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/yukata_lift"
+        },
+        {
+          "label": "パンティーなし",
+          "tag": "no_panties",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_panties"
+        },
+        {
+          "label": "パンティーをずらす",
+          "tag": "panties_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/panties_aside"
+        },
+        {
+          "label": "ズボンを引っ張る",
+          "tag": "pants_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/pants_pull"
+        },
+        {
+          "label": "オープンパンツ",
+          "tag": "open_pants",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_pants"
+        },
+        {
+          "label": "ズボンを引っ張る",
+          "tag": "pants_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/pants_pull"
+        },
+        {
+          "label": "パンティリフト",
+          "tag": "panty_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/panty_lift"
+        },
+        {
+          "label": "パンティを引っ張る",
+          "tag": "panty_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/panty_pull"
+        },
+        {
+          "label": "ペニスの覗き見",
+          "tag": "penis_peek",
+          "link": "https://danbooru.donmai.us/wiki_pages/penis_peek"
+        },
+        {
+          "label": "女性器がちらりと見える",
+          "tag": "pussy_peek",
+          "link": "https://danbooru.donmai.us/wiki_pages/pussy_peek"
+        },
+        {
+          "label": "パンスト引っ張り",
+          "tag": "pantyhose_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/pantyhose_pull"
+        },
+        {
+          "label": "短パンをずらす",
+          "tag": "shorts_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/shorts_aside"
+        },
+        {
+          "label": "ショートパンツ、オープン",
+          "tag": "open_shorts",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_shorts"
+        },
+        {
+          "label": "ショーツを引っ張る",
+          "tag": "shorts_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/shorts_pull"
+        },
+        {
+          "label": "片足に巻くスカート",
+          "tag": "skirt_around_one_leg",
+          "link": "https://danbooru.donmai.us/wiki_pages/skirt_around_one_leg"
+        },
+        {
+          "label": "足首までのスカート",
+          "tag": "skirt_around_ankles",
+          "link": "https://danbooru.donmai.us/wiki_pages/skirt_around_ankles"
+        },
+        {
+          "label": "開いたスカート",
+          "tag": "open_skirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_skirt"
+        },
+        {
+          "label": "スカートを引っ張る",
+          "tag": "skirt_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/skirt_pull"
+        },
+        {
+          "label": "スカートめくり",
+          "tag": "skirt_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/skirt_lift"
+        },
+        {
+          "label": "水着をずらす",
+          "tag": "swimsuit_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_aside"
+        },
+        {
+          "label": "ビキニボトムをずらす",
+          "tag": "bikini_bottom_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_bottom_aside"
+        }
+      ]
+    },
+    {
+      "セクション名": "裸に特定の衣類・装飾だけ",
+      "タグ一覧": [
+        {
+          "label": "裸エプロン",
+          "tag": "naked_apron",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_apron"
+        },
+        {
+          "label": "ほぼ裸のエプロン",
+          "tag": "nearly_naked_apron",
+          "link": "https://danbooru.donmai.us/wiki_pages/nearly_naked_apron"
+        },
+        {
+          "label": "裸の包帯",
+          "tag": "naked_bandage",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_bandage"
+        },
+        {
+          "label": "裸のケープ",
+          "tag": "naked_cape",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_cape"
+        },
+        {
+          "label": "裸のケープレット",
+          "tag": "naked_capelet",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_capelet"
+        },
+        {
+          "label": "裸にチョコレート",
+          "tag": "naked_chocolate",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_chocolate"
+        },
+        {
+          "label": "裸のマント",
+          "tag": "naked_cloak",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_cloak"
+        },
+        {
+          "label": "裸のコート",
+          "tag": "naked_coat",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_coat"
+        },
+        {
+          "label": "裸のパーカー",
+          "tag": "naked_hoodie",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_hoodie"
+        },
+        {
+          "label": "裸にジャケット",
+          "tag": "naked_jacket",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_jacket"
+        },
+        {
+          "label": "裸のオーバーオール",
+          "tag": "naked_overalls",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_overalls"
+        },
+        {
+          "label": "裸のリボン",
+          "tag": "naked_ribbon",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_ribbon"
+        },
+        {
+          "label": "裸ローブ",
+          "tag": "naked_robe",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_robe"
+        },
+        {
+          "label": "裸のスカーフ",
+          "tag": "naked_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_scarf"
+        },
+        {
+          "label": "裸のシーツ",
+          "tag": "naked_sheet",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_sheet"
+        },
+        {
+          "label": "裸のシャツ",
+          "tag": "naked_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_shirt"
+        },
+        {
+          "label": "裸のサスペンダー",
+          "tag": "naked_suspenders",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_suspenders"
+        },
+        {
+          "label": "裸のタバード",
+          "tag": "naked_tabard",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_tabard"
+        },
+        {
+          "label": "裸のタオル",
+          "tag": "naked_towel",
+          "link": "https://danbooru.donmai.us/wiki_pages/naked_towel"
+        },
+        {
+          "label": "下着のみ",
+          "tag": "underwear_only",
+          "link": "https://danbooru.donmai.us/wiki_pages/underwear_only"
+        }
+      ]
+    },
+    {
+      "セクション名": "のぞき込む構図",
+      "タグ一覧": [
+        {
+          "label": "胸元を上からのぞく構図",
+          "tag": "downblouse",
+          "link": "https://danbooru.donmai.us/wiki_pages/downblouse"
+        },
+        {
+          "label": "ズボンの中を上からのぞく構図",
+          "tag": "downpants",
+          "link": "https://danbooru.donmai.us/wiki_pages/downpants"
+        },
+        {
+          "label": "パンチラ",
+          "tag": "pantyshot",
+          "link": "https://danbooru.donmai.us/wiki_pages/pantyshot"
+        },
+        {
+          "label": "スカートの中を見上げる構図",
+          "tag": "upskirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/upskirt"
+        }
+      ]
+    },
+    {
+      "セクション名": "身体部位を隠す",
+      "タグ一覧": [
+        {
+          "label": "陰部を隠す",
+          "tag": "covering_privates",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_privates"
+        },
+        {
+          "label": "肛門を覆う",
+          "tag": "covering_anus",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_anus"
+        },
+        {
+          "label": "尻を隠す",
+          "tag": "covering_ass",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_ass"
+        },
+        {
+          "label": "胸を覆う",
+          "tag": "covering_breasts",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_breasts"
+        },
+        {
+          "label": "股間を覆う",
+          "tag": "covering_crotch",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_crotch"
+        },
+        {
+          "label": "頭を覆う",
+          "tag": "covering_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_head"
+        },
+        {
+          "label": "耳を塞ぐ",
+          "tag": "covering_own_ears",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_own_ears"
+        },
+        {
+          "label": "片目を覆う",
+          "tag": "covering_one_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_one_eye"
+        },
+        {
+          "label": "自分の目を覆う",
+          "tag": "covering_own_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_own_eyes"
+        },
+        {
+          "label": "顔を覆う",
+          "tag": "covering_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_face"
+        },
+        {
+          "label": "自分の口を覆う",
+          "tag": "covering_own_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/covering_own_mouth"
+        },
+        {
+          "label": "裸を隠す",
+          "tag": "nude_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/nude_cover"
+        }
+      ]
+    },
+    {
+      "セクション名": "衣服に触れる",
+      "タグ一覧": [
+        {
+          "label": "衣服を調整する",
+          "tag": "adjusting_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_clothes"
+        },
+        {
+          "label": "服を掴む",
+          "tag": "clothes_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/clothes_grab"
+        },
+        {
+          "label": "エプロングラブ",
+          "tag": "apron_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/apron_grab"
+        },
+        {
+          "label": "襟を掴む",
+          "tag": "collar_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/collar_grab"
+        },
+        {
+          "label": "ネクタイを掴む",
+          "tag": "necktie_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/necktie_grab"
+        },
+        {
+          "label": "スカートを掴む",
+          "tag": "skirt_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/skirt_grab"
+        },
+        {
+          "label": "首輪を引っ張る",
+          "tag": "collar_tug",
+          "link": "https://danbooru.donmai.us/wiki_pages/collar_tug"
+        },
+        {
+          "label": "ドレスを引っ張る",
+          "tag": "dress_tug",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_tug"
+        },
+        {
+          "label": "シャツを引っ張る",
+          "tag": "shirt_tug",
+          "link": "https://danbooru.donmai.us/wiki_pages/shirt_tug"
+        },
+        {
+          "label": "スカートを引っ張る",
+          "tag": "skirt_tug",
+          "link": "https://danbooru.donmai.us/wiki_pages/skirt_tug"
+        },
+        {
+          "label": "衣服を絞る",
+          "tag": "wringing_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/wringing_clothes"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "ヌードモデル",
+          "tag": "nude_modeling",
+          "link": "https://danbooru.donmai.us/wiki_pages/nude_modeling"
+        },
+        {
+          "label": "日焼け",
+          "tag": "tan",
+          "link": "https://danbooru.donmai.us/wiki_pages/tan"
+        },
+        {
+          "label": "日焼け跡",
+          "tag": "tanlines",
+          "link": "https://danbooru.donmai.us/wiki_pages/tanlines"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
+}

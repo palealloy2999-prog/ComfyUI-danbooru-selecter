@@ -1,0 +1,1437 @@
+{
+  "カテゴリID": "legendary_creatures",
+  "カテゴリ名": "神話・伝説の生き物",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Alegendary_creatures",
+  "セクション一覧": [
+    {
+      "セクション名": "タイプ",
+      "タグ一覧": [
+        {
+          "label": "天使",
+          "tag": "angel",
+          "link": "https://danbooru.donmai.us/wiki_pages/angel"
+        },
+        {
+          "label": "大天使",
+          "tag": "archangel",
+          "link": "https://danbooru.donmai.us/wiki_pages/archangel"
+        },
+        {
+          "label": "ケルビム",
+          "tag": "cherub",
+          "link": "https://danbooru.donmai.us/wiki_pages/cherub"
+        },
+        {
+          "label": "セラフ",
+          "tag": "seraph",
+          "link": "https://danbooru.donmai.us/wiki_pages/seraph"
+        },
+        {
+          "label": "アヌビス",
+          "tag": "anubis_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/anubis_%28mythology%29"
+        },
+        {
+          "label": "アスタルテ",
+          "tag": "astarte_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/astarte_%28mythology%29"
+        },
+        {
+          "label": "化け猫",
+          "tag": "bakeneko",
+          "link": "https://danbooru.donmai.us/wiki_pages/bakeneko"
+        },
+        {
+          "label": "猫又",
+          "tag": "nekomata",
+          "link": "https://danbooru.donmai.us/wiki_pages/nekomata"
+        },
+        {
+          "label": "バジリスク",
+          "tag": "basilisk",
+          "link": "https://danbooru.donmai.us/wiki_pages/basilisk"
+        },
+        {
+          "label": "ベヒーモス",
+          "tag": "behemoth",
+          "link": "https://danbooru.donmai.us/wiki_pages/behemoth"
+        },
+        {
+          "label": "ケンタウロス",
+          "tag": "centaur",
+          "link": "https://danbooru.donmai.us/wiki_pages/centaur"
+        },
+        {
+          "label": "ケンタウロイド",
+          "tag": "centauroid",
+          "link": "https://danbooru.donmai.us/wiki_pages/centauroid"
+        },
+        {
+          "label": "ケルベロス",
+          "tag": "cerberus",
+          "link": "https://danbooru.donmai.us/wiki_pages/cerberus"
+        },
+        {
+          "label": "キメラ",
+          "tag": "chimera",
+          "link": "https://danbooru.donmai.us/wiki_pages/chimera"
+        },
+        {
+          "label": "グリフィン",
+          "tag": "griffin",
+          "link": "https://danbooru.donmai.us/wiki_pages/griffin"
+        },
+        {
+          "label": "ヒッポグリフ",
+          "tag": "hippogriff_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hippogriff_%28fate%29"
+        },
+        {
+          "label": "ペガサス",
+          "tag": "pegasus",
+          "link": "https://danbooru.donmai.us/wiki_pages/pegasus"
+        },
+        {
+          "label": "しゃちほこ",
+          "tag": "shachihoko",
+          "link": "https://danbooru.donmai.us/wiki_pages/shachihoko"
+        },
+        {
+          "label": "スフィンクス",
+          "tag": "sphinx",
+          "link": "https://danbooru.donmai.us/wiki_pages/sphinx"
+        },
+        {
+          "label": "コカトリス",
+          "tag": "cockatrice",
+          "link": "https://danbooru.donmai.us/wiki_pages/cockatrice"
+        },
+        {
+          "label": "未確認生物",
+          "tag": "cryptid",
+          "link": "https://danbooru.donmai.us/wiki_pages/cryptid"
+        },
+        {
+          "label": "チュパカブラ",
+          "tag": "chupacabra",
+          "link": "https://danbooru.donmai.us/wiki_pages/chupacabra"
+        },
+        {
+          "label": "フラットウッズモンスター",
+          "tag": "flatwoods_monster",
+          "link": "https://danbooru.donmai.us/wiki_pages/flatwoods_monster"
+        },
+        {
+          "label": "ジャッカロープ",
+          "tag": "jackalope",
+          "link": "https://danbooru.donmai.us/wiki_pages/jackalope"
+        },
+        {
+          "label": "モケレ・ンベンベ",
+          "tag": "mokele-mbembe",
+          "link": "https://danbooru.donmai.us/wiki_pages/mokele-mbembe"
+        },
+        {
+          "label": "ネス湖の怪物",
+          "tag": "loch_ness_monster",
+          "link": "https://danbooru.donmai.us/wiki_pages/loch_ness_monster"
+        },
+        {
+          "label": "ツチノコ",
+          "tag": "tsuchinoko",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsuchinoko"
+        },
+        {
+          "label": "イエティ",
+          "tag": "yeti_%28creature%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yeti_%28creature%29"
+        },
+        {
+          "label": "キューピッド",
+          "tag": "cupid",
+          "link": "https://danbooru.donmai.us/wiki_pages/cupid"
+        },
+        {
+          "label": "サイクロプス",
+          "tag": "cyclops",
+          "link": "https://danbooru.donmai.us/wiki_pages/cyclops"
+        },
+        {
+          "label": "悪魔",
+          "tag": "demon",
+          "link": "https://danbooru.donmai.us/wiki_pages/demon"
+        },
+        {
+          "label": "バフォメット",
+          "tag": "baphomet_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/baphomet_%28mythology%29"
+        },
+        {
+          "label": "ベルフェゴール",
+          "tag": "belphegor_%28demon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/belphegor_%28demon%29"
+        },
+        {
+          "label": "レギオン",
+          "tag": "legion_%28demons%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/legion_%28demons%29"
+        },
+        {
+          "label": "ルシファー",
+          "tag": "lucifer_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lucifer_%28mythology%29"
+        },
+        {
+          "label": "サタン",
+          "tag": "satan_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/satan_%28mythology%29"
+        },
+        {
+          "label": "悪魔の少年",
+          "tag": "demon_boy",
+          "link": "https://danbooru.donmai.us/wiki_pages/demon_boy"
+        },
+        {
+          "label": "悪魔の少女",
+          "tag": "demon_girl",
+          "link": "https://danbooru.donmai.us/wiki_pages/demon_girl"
+        },
+        {
+          "label": "ドラゴン",
+          "tag": "dragon",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragon"
+        },
+        {
+          "label": "東洋の龍",
+          "tag": "eastern_dragon",
+          "link": "https://danbooru.donmai.us/wiki_pages/eastern_dragon"
+        },
+        {
+          "label": "西洋のドラゴン",
+          "tag": "western_dragon",
+          "link": "https://danbooru.donmai.us/wiki_pages/western_dragon"
+        },
+        {
+          "label": "ヴーヴル",
+          "tag": "vouivre",
+          "link": "https://danbooru.donmai.us/wiki_pages/vouivre"
+        },
+        {
+          "label": "ワーム",
+          "tag": "wyrm",
+          "link": "https://danbooru.donmai.us/wiki_pages/wyrm"
+        },
+        {
+          "label": "ワイバーン",
+          "tag": "wyvern",
+          "link": "https://danbooru.donmai.us/wiki_pages/wyvern"
+        },
+        {
+          "label": "デュラハン",
+          "tag": "dullahan",
+          "link": "https://danbooru.donmai.us/wiki_pages/dullahan"
+        },
+        {
+          "label": "ドワーフ",
+          "tag": "dwarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/dwarf"
+        },
+        {
+          "label": "エルフ",
+          "tag": "elf",
+          "link": "https://danbooru.donmai.us/wiki_pages/elf"
+        },
+        {
+          "label": "ダークエルフ",
+          "tag": "dark_elf",
+          "link": "https://danbooru.donmai.us/wiki_pages/dark_elf"
+        },
+        {
+          "label": "ブラッドエルフ",
+          "tag": "blood_elf_%28warcraft%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/blood_elf_%28warcraft%29"
+        },
+        {
+          "label": "エレメンタル",
+          "tag": "elemental_%28creature%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/elemental_%28creature%29"
+        },
+        {
+          "label": "ノーム",
+          "tag": "gnome",
+          "link": "https://danbooru.donmai.us/wiki_pages/gnome"
+        },
+        {
+          "label": "サラマンダー",
+          "tag": "salamander",
+          "link": "https://danbooru.donmai.us/wiki_pages/salamander"
+        },
+        {
+          "label": "シルフ",
+          "tag": "sylph",
+          "link": "https://danbooru.donmai.us/wiki_pages/sylph"
+        },
+        {
+          "label": "ウンディーネ",
+          "tag": "undine",
+          "link": "https://danbooru.donmai.us/wiki_pages/undine"
+        },
+        {
+          "label": "閻魔",
+          "tag": "enma_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/enma_%28mythology%29"
+        },
+        {
+          "label": "妖精",
+          "tag": "fairy",
+          "link": "https://danbooru.donmai.us/wiki_pages/fairy"
+        },
+        {
+          "label": "おばけ",
+          "tag": "ghost",
+          "link": "https://danbooru.donmai.us/wiki_pages/ghost"
+        },
+        {
+          "label": "ヒトダマ",
+          "tag": "hitodama",
+          "link": "https://danbooru.donmai.us/wiki_pages/hitodama"
+        },
+        {
+          "label": "巨人",
+          "tag": "giant",
+          "link": "https://danbooru.donmai.us/wiki_pages/giant"
+        },
+        {
+          "label": "巨女",
+          "tag": "giantess",
+          "link": "https://danbooru.donmai.us/wiki_pages/giantess"
+        },
+        {
+          "label": "トロル",
+          "tag": "troll",
+          "link": "https://danbooru.donmai.us/wiki_pages/troll"
+        },
+        {
+          "label": "ノーム",
+          "tag": "gnome",
+          "link": "https://danbooru.donmai.us/wiki_pages/gnome"
+        },
+        {
+          "label": "ゴブリン",
+          "tag": "goblin",
+          "link": "https://danbooru.donmai.us/wiki_pages/goblin"
+        },
+        {
+          "label": "ゴーレム",
+          "tag": "golem",
+          "link": "https://danbooru.donmai.us/wiki_pages/golem"
+        },
+        {
+          "label": "白澤",
+          "tag": "hakutaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/hakutaku"
+        },
+        {
+          "label": "ヒッポカンポス（海馬）",
+          "tag": "hippocamp",
+          "link": "https://danbooru.donmai.us/wiki_pages/hippocamp"
+        },
+        {
+          "label": "ハーフリング",
+          "tag": "halfling",
+          "link": "https://danbooru.donmai.us/wiki_pages/halfling"
+        },
+        {
+          "label": "ヒドラ",
+          "tag": "hydra",
+          "link": "https://danbooru.donmai.us/wiki_pages/hydra"
+        },
+        {
+          "label": "影なし犬",
+          "tag": "kage-nashi_dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/kage-nashi_dog"
+        },
+        {
+          "label": "キツネ",
+          "tag": "kitsune",
+          "link": "https://danbooru.donmai.us/wiki_pages/kitsune"
+        },
+        {
+          "label": "クラーケン",
+          "tag": "kraken",
+          "link": "https://danbooru.donmai.us/wiki_pages/kraken"
+        },
+        {
+          "label": "ラミア",
+          "tag": "lamia",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamia"
+        },
+        {
+          "label": "メデューサ",
+          "tag": "medusa_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/medusa_%28mythology%29"
+        },
+        {
+          "label": "龍馬",
+          "tag": "longma",
+          "link": "https://danbooru.donmai.us/wiki_pages/longma"
+        },
+        {
+          "label": "マンドラゴラ",
+          "tag": "mandragora",
+          "link": "https://danbooru.donmai.us/wiki_pages/mandragora"
+        },
+        {
+          "label": "マーメイド",
+          "tag": "mermaid",
+          "link": "https://danbooru.donmai.us/wiki_pages/mermaid"
+        },
+        {
+          "label": "マーマン",
+          "tag": "merman",
+          "link": "https://danbooru.donmai.us/wiki_pages/merman"
+        },
+        {
+          "label": "ミミック",
+          "tag": "mimic",
+          "link": "https://danbooru.donmai.us/wiki_pages/mimic"
+        },
+        {
+          "label": "ミミックチェスト",
+          "tag": "mimic_chest",
+          "link": "https://danbooru.donmai.us/wiki_pages/mimic_chest"
+        },
+        {
+          "label": "ミノタウロス",
+          "tag": "minotaur",
+          "link": "https://danbooru.donmai.us/wiki_pages/minotaur"
+        },
+        {
+          "label": "鵺",
+          "tag": "nue",
+          "link": "https://danbooru.donmai.us/wiki_pages/nue"
+        },
+        {
+          "label": "オーガ",
+          "tag": "ogre",
+          "link": "https://danbooru.donmai.us/wiki_pages/ogre"
+        },
+        {
+          "label": "ナマハゲ",
+          "tag": "namahage",
+          "link": "https://danbooru.donmai.us/wiki_pages/namahage"
+        },
+        {
+          "label": "鬼",
+          "tag": "oni",
+          "link": "https://danbooru.donmai.us/wiki_pages/oni"
+        },
+        {
+          "label": "オーク",
+          "tag": "orc",
+          "link": "https://danbooru.donmai.us/wiki_pages/orc"
+        },
+        {
+          "label": "麒麟",
+          "tag": "qilin_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/qilin_%28mythology%29"
+        },
+        {
+          "label": "ルサルカ",
+          "tag": "rusalka_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rusalka_%28mythology%29"
+        },
+        {
+          "label": "サテュロス",
+          "tag": "satyr",
+          "link": "https://danbooru.donmai.us/wiki_pages/satyr"
+        },
+        {
+          "label": "セルキー",
+          "tag": "selkie_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/selkie_%28mythology%29"
+        },
+        {
+          "label": "精霊",
+          "tag": "spirit",
+          "link": "https://danbooru.donmai.us/wiki_pages/spirit"
+        },
+        {
+          "label": "バンシー",
+          "tag": "banshee",
+          "link": "https://danbooru.donmai.us/wiki_pages/banshee"
+        },
+        {
+          "label": "ちょうちんおばけ",
+          "tag": "chouchin_obake",
+          "link": "https://danbooru.donmai.us/wiki_pages/chouchin_obake"
+        },
+        {
+          "label": "魔神",
+          "tag": "genie",
+          "link": "https://danbooru.donmai.us/wiki_pages/genie"
+        },
+        {
+          "label": "ハーピー",
+          "tag": "harpy",
+          "link": "https://danbooru.donmai.us/wiki_pages/harpy"
+        },
+        {
+          "label": "迦陵頻伽",
+          "tag": "kalavinka",
+          "link": "https://danbooru.donmai.us/wiki_pages/kalavinka"
+        },
+        {
+          "label": "唐傘お化け",
+          "tag": "karakasa_obake",
+          "link": "https://danbooru.donmai.us/wiki_pages/karakasa_obake"
+        },
+        {
+          "label": "九尾",
+          "tag": "kyuubi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kyuubi"
+        },
+        {
+          "label": "ニキシー",
+          "tag": "nixie_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nixie_%28mythology%29"
+        },
+        {
+          "label": "ニンフ",
+          "tag": "nymph",
+          "link": "https://danbooru.donmai.us/wiki_pages/nymph"
+        },
+        {
+          "label": "ヴァルキリー",
+          "tag": "valkyrie",
+          "link": "https://danbooru.donmai.us/wiki_pages/valkyrie"
+        },
+        {
+          "label": "スライム",
+          "tag": "slime_%28creature%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/slime_%28creature%29"
+        },
+        {
+          "label": "タヌキ",
+          "tag": "tanuki",
+          "link": "https://danbooru.donmai.us/wiki_pages/tanuki"
+        },
+        {
+          "label": "獣人",
+          "tag": "therianthrope",
+          "link": "https://danbooru.donmai.us/wiki_pages/therianthrope"
+        },
+        {
+          "label": "狼男",
+          "tag": "werewolf",
+          "link": "https://danbooru.donmai.us/wiki_pages/werewolf"
+        },
+        {
+          "label": "アンデッド",
+          "tag": "undead",
+          "link": "https://danbooru.donmai.us/wiki_pages/undead"
+        },
+        {
+          "label": "死の化身",
+          "tag": "death_%28entity%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/death_%28entity%29"
+        },
+        {
+          "label": "白黒無常",
+          "tag": "hei_bai_wuchang",
+          "link": "https://danbooru.donmai.us/wiki_pages/hei_bai_wuchang"
+        },
+        {
+          "label": "死神",
+          "tag": "shinigami",
+          "link": "https://danbooru.donmai.us/wiki_pages/shinigami"
+        },
+        {
+          "label": "フランケンシュタインの怪物",
+          "tag": "frankenstein%27s_monster",
+          "link": "https://danbooru.donmai.us/wiki_pages/frankenstein%27s_monster"
+        },
+        {
+          "label": "グール",
+          "tag": "ghoul",
+          "link": "https://danbooru.donmai.us/wiki_pages/ghoul"
+        },
+        {
+          "label": "キョンシー",
+          "tag": "jiangshi",
+          "link": "https://danbooru.donmai.us/wiki_pages/jiangshi"
+        },
+        {
+          "label": "ボンガン",
+          "tag": "bongun",
+          "link": "https://danbooru.donmai.us/wiki_pages/bongun"
+        },
+        {
+          "label": "ムナク",
+          "tag": "munak",
+          "link": "https://danbooru.donmai.us/wiki_pages/munak"
+        },
+        {
+          "label": "リッチ",
+          "tag": "lich",
+          "link": "https://danbooru.donmai.us/wiki_pages/lich"
+        },
+        {
+          "label": "ミイラ",
+          "tag": "mummy",
+          "link": "https://danbooru.donmai.us/wiki_pages/mummy"
+        },
+        {
+          "label": "吸血鬼",
+          "tag": "vampire",
+          "link": "https://danbooru.donmai.us/wiki_pages/vampire"
+        },
+        {
+          "label": "ドラキュラ",
+          "tag": "dracula",
+          "link": "https://danbooru.donmai.us/wiki_pages/dracula"
+        },
+        {
+          "label": "オルロック伯爵",
+          "tag": "count_orlok",
+          "link": "https://danbooru.donmai.us/wiki_pages/count_orlok"
+        },
+        {
+          "label": "ヴリコラカス",
+          "tag": "vrykolakas",
+          "link": "https://danbooru.donmai.us/wiki_pages/vrykolakas"
+        },
+        {
+          "label": "ゾンビ",
+          "tag": "zombie",
+          "link": "https://danbooru.donmai.us/wiki_pages/zombie"
+        },
+        {
+          "label": "ユニコーン",
+          "tag": "unicorn",
+          "link": "https://danbooru.donmai.us/wiki_pages/unicorn"
+        },
+        {
+          "label": "都市伝説",
+          "tag": "urban_legend",
+          "link": "https://danbooru.donmai.us/wiki_pages/urban_legend"
+        },
+        {
+          "label": "八尺様",
+          "tag": "hasshaku-sama",
+          "link": "https://danbooru.donmai.us/wiki_pages/hasshaku-sama"
+        },
+        {
+          "label": "口裂け女",
+          "tag": "kuchisake-onna",
+          "link": "https://danbooru.donmai.us/wiki_pages/kuchisake-onna"
+        },
+        {
+          "label": "クネクネ",
+          "tag": "kune-kune",
+          "link": "https://danbooru.donmai.us/wiki_pages/kune-kune"
+        },
+        {
+          "label": "ネス湖の怪物",
+          "tag": "loch_ness_monster",
+          "link": "https://danbooru.donmai.us/wiki_pages/loch_ness_monster"
+        },
+        {
+          "label": "メリーさん",
+          "tag": "mary-san",
+          "link": "https://danbooru.donmai.us/wiki_pages/mary-san"
+        },
+        {
+          "label": "モスマン",
+          "tag": "mothman",
+          "link": "https://danbooru.donmai.us/wiki_pages/mothman"
+        },
+        {
+          "label": "サイレンヘッド",
+          "tag": "siren_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/siren_head"
+        },
+        {
+          "label": "スレンダーマン",
+          "tag": "slender_man",
+          "link": "https://danbooru.donmai.us/wiki_pages/slender_man"
+        },
+        {
+          "label": "スキマ女",
+          "tag": "sukima_onna",
+          "link": "https://danbooru.donmai.us/wiki_pages/sukima_onna"
+        },
+        {
+          "label": "ターボばあちゃん",
+          "tag": "turbo_baachan",
+          "link": "https://danbooru.donmai.us/wiki_pages/turbo_baachan"
+        },
+        {
+          "label": "魔法使い",
+          "tag": "wizard",
+          "link": "https://danbooru.donmai.us/wiki_pages/wizard"
+        },
+        {
+          "label": "魔女",
+          "tag": "witch",
+          "link": "https://danbooru.donmai.us/wiki_pages/witch"
+        },
+        {
+          "label": "ヤマタノオロチ",
+          "tag": "yamata_no_orochi",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamata_no_orochi"
+        },
+        {
+          "label": "伝統的な妖怪",
+          "tag": "traditional_youkai",
+          "link": "https://danbooru.donmai.us/wiki_pages/traditional_youkai"
+        },
+        {
+          "label": "あかなめ",
+          "tag": "akaname",
+          "link": "https://danbooru.donmai.us/wiki_pages/akaname"
+        },
+        {
+          "label": "アマビエ",
+          "tag": "amabie",
+          "link": "https://danbooru.donmai.us/wiki_pages/amabie"
+        },
+        {
+          "label": "カッパ",
+          "tag": "kappa",
+          "link": "https://danbooru.donmai.us/wiki_pages/kappa"
+        },
+        {
+          "label": "ろくろ首",
+          "tag": "rokurokubi",
+          "link": "https://danbooru.donmai.us/wiki_pages/rokurokubi"
+        },
+        {
+          "label": "天狗",
+          "tag": "tengu",
+          "link": "https://danbooru.donmai.us/wiki_pages/tengu"
+        },
+        {
+          "label": "雪女",
+          "tag": "yuki_onna",
+          "link": "https://danbooru.donmai.us/wiki_pages/yuki_onna"
+        },
+        {
+          "label": "座敷童子",
+          "tag": "zashiki-warashi",
+          "link": "https://danbooru.donmai.us/wiki_pages/zashiki-warashi"
+        },
+        {
+          "label": "ゆきんこ",
+          "tag": "yukinko_%28spirit%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yukinko_%28spirit%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "文化特有の",
+      "タグ一覧": [
+        {
+          "label": "モケレ・ンベンベ",
+          "tag": "mokele-mbembe",
+          "link": "https://danbooru.donmai.us/wiki_pages/mokele-mbembe"
+        },
+        {
+          "label": "アスタルテ",
+          "tag": "astarte",
+          "link": "https://danbooru.donmai.us/wiki_pages/astarte"
+        },
+        {
+          "label": "精霊",
+          "tag": "genie",
+          "link": "https://danbooru.donmai.us/wiki_pages/genie"
+        },
+        {
+          "label": "ロック",
+          "tag": "roc",
+          "link": "https://danbooru.donmai.us/wiki_pages/roc"
+        },
+        {
+          "label": "仏教",
+          "tag": "buddhism",
+          "link": "https://danbooru.donmai.us/wiki_pages/buddhism"
+        },
+        {
+          "label": "閻魔",
+          "tag": "enma_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/enma_%28mythology%29"
+        },
+        {
+          "label": "迦陵頻伽",
+          "tag": "kalavinka",
+          "link": "https://danbooru.donmai.us/wiki_pages/kalavinka"
+        },
+        {
+          "label": "カナン神話",
+          "tag": "canaanite_mythology",
+          "link": "https://danbooru.donmai.us/wiki_pages/canaanite_mythology"
+        },
+        {
+          "label": "バアル",
+          "tag": "baal_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/baal_%28mythology%29"
+        },
+        {
+          "label": "ケルト神話",
+          "tag": "celtic_mythology",
+          "link": "https://danbooru.donmai.us/wiki_pages/celtic_mythology"
+        },
+        {
+          "label": "バンシー",
+          "tag": "banshee",
+          "link": "https://danbooru.donmai.us/wiki_pages/banshee"
+        },
+        {
+          "label": "ブリジット",
+          "tag": "brigit_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/brigit_%28mythology%29"
+        },
+        {
+          "label": "ケット・シー",
+          "tag": "cait_sith_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cait_sith_%28mythology%29"
+        },
+        {
+          "label": "デュラハン",
+          "tag": "dullahan",
+          "link": "https://danbooru.donmai.us/wiki_pages/dullahan"
+        },
+        {
+          "label": "セルキー",
+          "tag": "selkie_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/selkie_%28mythology%29"
+        },
+        {
+          "label": "キョンシー",
+          "tag": "jiangshi",
+          "link": "https://danbooru.donmai.us/wiki_pages/jiangshi"
+        },
+        {
+          "label": "龍馬",
+          "tag": "longma",
+          "link": "https://danbooru.donmai.us/wiki_pages/longma"
+        },
+        {
+          "label": "キリスト教",
+          "tag": "christianity",
+          "link": "https://danbooru.donmai.us/wiki_pages/christianity"
+        },
+        {
+          "label": "ケルビム",
+          "tag": "cherub",
+          "link": "https://danbooru.donmai.us/wiki_pages/cherub"
+        },
+        {
+          "label": "セラフ",
+          "tag": "seraph",
+          "link": "https://danbooru.donmai.us/wiki_pages/seraph"
+        },
+        {
+          "label": "エジプト神話",
+          "tag": "egyptian_mythology",
+          "link": "https://danbooru.donmai.us/wiki_pages/egyptian_mythology"
+        },
+        {
+          "label": "アヌビス",
+          "tag": "anubis_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/anubis_%28mythology%29"
+        },
+        {
+          "label": "アペップ",
+          "tag": "apep_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/apep_%28mythology%29"
+        },
+        {
+          "label": "アテン",
+          "tag": "aten_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/aten_%28mythology%29"
+        },
+        {
+          "label": "バステト",
+          "tag": "bastet_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bastet_%28mythology%29"
+        },
+        {
+          "label": "ホルス",
+          "tag": "horus_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/horus_%28mythology%29"
+        },
+        {
+          "label": "イシス",
+          "tag": "isis_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/isis_%28mythology%29"
+        },
+        {
+          "label": "メジェド",
+          "tag": "medjed_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/medjed_%28mythology%29"
+        },
+        {
+          "label": "ミイラ",
+          "tag": "mummy",
+          "link": "https://danbooru.donmai.us/wiki_pages/mummy"
+        },
+        {
+          "label": "ラー",
+          "tag": "ra_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ra_%28mythology%29"
+        },
+        {
+          "label": "セト",
+          "tag": "set_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/set_%28mythology%29"
+        },
+        {
+          "label": "ソベック",
+          "tag": "sobek_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sobek_%28mythology%29"
+        },
+        {
+          "label": "スフィンクス",
+          "tag": "sphinx",
+          "link": "https://danbooru.donmai.us/wiki_pages/sphinx"
+        },
+        {
+          "label": "トート",
+          "tag": "thoth_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/thoth_%28mythology%29"
+        },
+        {
+          "label": "バジリスク",
+          "tag": "basilisk",
+          "link": "https://danbooru.donmai.us/wiki_pages/basilisk"
+        },
+        {
+          "label": "コカトリス",
+          "tag": "cockatrice",
+          "link": "https://danbooru.donmai.us/wiki_pages/cockatrice"
+        },
+        {
+          "label": "ノーム",
+          "tag": "gnome",
+          "link": "https://danbooru.donmai.us/wiki_pages/gnome"
+        },
+        {
+          "label": "ユニコーン",
+          "tag": "unicorn",
+          "link": "https://danbooru.donmai.us/wiki_pages/unicorn"
+        },
+        {
+          "label": "クラーケン",
+          "tag": "kraken",
+          "link": "https://danbooru.donmai.us/wiki_pages/kraken"
+        },
+        {
+          "label": "ニキシー",
+          "tag": "nixie_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nixie_%28mythology%29"
+        },
+        {
+          "label": "トロル",
+          "tag": "troll",
+          "link": "https://danbooru.donmai.us/wiki_pages/troll"
+        },
+        {
+          "label": "ヴァルキリー",
+          "tag": "valkyrie",
+          "link": "https://danbooru.donmai.us/wiki_pages/valkyrie"
+        },
+        {
+          "label": "ギリシャ神話",
+          "tag": "greek_mythology",
+          "link": "https://danbooru.donmai.us/wiki_pages/greek_mythology"
+        },
+        {
+          "label": "アポロ",
+          "tag": "apollo_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/apollo_%28mythology%29"
+        },
+        {
+          "label": "アフロディーテ",
+          "tag": "aphrodite_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/aphrodite_%28mythology%29"
+        },
+        {
+          "label": "アルテミス",
+          "tag": "artemis_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/artemis_%28mythology%29"
+        },
+        {
+          "label": "アテナ",
+          "tag": "athena_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/athena_%28mythology%29"
+        },
+        {
+          "label": "ケンタウロス",
+          "tag": "centaur",
+          "link": "https://danbooru.donmai.us/wiki_pages/centaur"
+        },
+        {
+          "label": "ケンタウロイド",
+          "tag": "centauroid",
+          "link": "https://danbooru.donmai.us/wiki_pages/centauroid"
+        },
+        {
+          "label": "ケルベロス",
+          "tag": "cerberus",
+          "link": "https://danbooru.donmai.us/wiki_pages/cerberus"
+        },
+        {
+          "label": "キメラ",
+          "tag": "chimera",
+          "link": "https://danbooru.donmai.us/wiki_pages/chimera"
+        },
+        {
+          "label": "クロノス",
+          "tag": "chronos_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/chronos_%28mythology%29"
+        },
+        {
+          "label": "キューピッド",
+          "tag": "cupid",
+          "link": "https://danbooru.donmai.us/wiki_pages/cupid"
+        },
+        {
+          "label": "サイクロプス",
+          "tag": "cyclops",
+          "link": "https://danbooru.donmai.us/wiki_pages/cyclops"
+        },
+        {
+          "label": "デメテル",
+          "tag": "demeter_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/demeter_%28mythology%29"
+        },
+        {
+          "label": "ディオニュソス",
+          "tag": "dionysus_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dionysus_%28mythology%29"
+        },
+        {
+          "label": "エリス",
+          "tag": "eris_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/eris_%28mythology%29"
+        },
+        {
+          "label": "エロス",
+          "tag": "eros_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/eros_%28mythology%29"
+        },
+        {
+          "label": "ガニメデ",
+          "tag": "ganymede_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ganymede_%28mythology%29"
+        },
+        {
+          "label": "グリフィン",
+          "tag": "griffin",
+          "link": "https://danbooru.donmai.us/wiki_pages/griffin"
+        },
+        {
+          "label": "ヒッポグリフ",
+          "tag": "hippogriff_%28fate%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hippogriff_%28fate%29"
+        },
+        {
+          "label": "ハデス",
+          "tag": "hades_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hades_%28mythology%29"
+        },
+        {
+          "label": "ハーピー",
+          "tag": "harpy",
+          "link": "https://danbooru.donmai.us/wiki_pages/harpy"
+        },
+        {
+          "label": "ヘカテ",
+          "tag": "hecate_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hecate_%28mythology%29"
+        },
+        {
+          "label": "ヘパイストス",
+          "tag": "hephaestus_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hephaestus_%28mythology%29"
+        },
+        {
+          "label": "ヘラ",
+          "tag": "hera_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hera_%28mythology%29"
+        },
+        {
+          "label": "ヘラクレス",
+          "tag": "heracles_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/heracles_%28mythology%29"
+        },
+        {
+          "label": "ヘルメス",
+          "tag": "hermes_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hermes_%28mythology%29"
+        },
+        {
+          "label": "ヘスティア",
+          "tag": "hestia_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hestia_%28mythology%29"
+        },
+        {
+          "label": "ヒッポカンポス（海馬）",
+          "tag": "hippocamp",
+          "link": "https://danbooru.donmai.us/wiki_pages/hippocamp"
+        },
+        {
+          "label": "ヒドラ",
+          "tag": "hydra",
+          "link": "https://danbooru.donmai.us/wiki_pages/hydra"
+        },
+        {
+          "label": "イーリス",
+          "tag": "iris_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/iris_%28mythology%29"
+        },
+        {
+          "label": "ラミア",
+          "tag": "lamia",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamia"
+        },
+        {
+          "label": "メデア",
+          "tag": "medea_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/medea_%28mythology%29"
+        },
+        {
+          "label": "メデューサ",
+          "tag": "medusa_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/medusa_%28mythology%29"
+        },
+        {
+          "label": "ミノタウロス",
+          "tag": "minotaur",
+          "link": "https://danbooru.donmai.us/wiki_pages/minotaur"
+        },
+        {
+          "label": "ニーケー",
+          "tag": "nike_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nike_%28mythology%29"
+        },
+        {
+          "label": "ニンフ",
+          "tag": "nymph",
+          "link": "https://danbooru.donmai.us/wiki_pages/nymph"
+        },
+        {
+          "label": "神託者",
+          "tag": "oracle_%28ancient_greece%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/oracle_%28ancient_greece%29"
+        },
+        {
+          "label": "ピュティア",
+          "tag": "pythia",
+          "link": "https://danbooru.donmai.us/wiki_pages/pythia"
+        },
+        {
+          "label": "ペガサス",
+          "tag": "pegasus",
+          "link": "https://danbooru.donmai.us/wiki_pages/pegasus"
+        },
+        {
+          "label": "フェニックス",
+          "tag": "phoenix",
+          "link": "https://danbooru.donmai.us/wiki_pages/phoenix"
+        },
+        {
+          "label": "ポセイドン",
+          "tag": "poseidon_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/poseidon_%28mythology%29"
+        },
+        {
+          "label": "プシュケ",
+          "tag": "psyche_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/psyche_%28mythology%29"
+        },
+        {
+          "label": "サテュロス",
+          "tag": "satyr",
+          "link": "https://danbooru.donmai.us/wiki_pages/satyr"
+        },
+        {
+          "label": "タナトス",
+          "tag": "thanatos_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/thanatos_%28mythology%29"
+        },
+        {
+          "label": "ゼウス",
+          "tag": "zeus_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/zeus_%28mythology%29"
+        },
+        {
+          "label": "あくぼうず",
+          "tag": "aku_bouzu",
+          "link": "https://danbooru.donmai.us/wiki_pages/aku_bouzu"
+        },
+        {
+          "label": "化け猫",
+          "tag": "bakeneko",
+          "link": "https://danbooru.donmai.us/wiki_pages/bakeneko"
+        },
+        {
+          "label": "猫又",
+          "tag": "nekomata",
+          "link": "https://danbooru.donmai.us/wiki_pages/nekomata"
+        },
+        {
+          "label": "ちょうちんおばけ",
+          "tag": "chouchin_obake",
+          "link": "https://danbooru.donmai.us/wiki_pages/chouchin_obake"
+        },
+        {
+          "label": "ヒトダマ",
+          "tag": "hitodama",
+          "link": "https://danbooru.donmai.us/wiki_pages/hitodama"
+        },
+        {
+          "label": "白澤",
+          "tag": "hakutaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/hakutaku"
+        },
+        {
+          "label": "唐傘お化け",
+          "tag": "karakasa_obake",
+          "link": "https://danbooru.donmai.us/wiki_pages/karakasa_obake"
+        },
+        {
+          "label": "コロポックル",
+          "tag": "koropokkuru",
+          "link": "https://danbooru.donmai.us/wiki_pages/koropokkuru"
+        },
+        {
+          "label": "九尾",
+          "tag": "kyuubi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kyuubi"
+        },
+        {
+          "label": "ナマハゲ",
+          "tag": "namahage",
+          "link": "https://danbooru.donmai.us/wiki_pages/namahage"
+        },
+        {
+          "label": "鵺",
+          "tag": "nue",
+          "link": "https://danbooru.donmai.us/wiki_pages/nue"
+        },
+        {
+          "label": "鬼",
+          "tag": "oni",
+          "link": "https://danbooru.donmai.us/wiki_pages/oni"
+        },
+        {
+          "label": "茨木童子",
+          "tag": "ibaraki_douji_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ibaraki_douji_%28mythology%29"
+        },
+        {
+          "label": "しゃちほこ",
+          "tag": "shachihoko",
+          "link": "https://danbooru.donmai.us/wiki_pages/shachihoko"
+        },
+        {
+          "label": "死神",
+          "tag": "shinigami",
+          "link": "https://danbooru.donmai.us/wiki_pages/shinigami"
+        },
+        {
+          "label": "タヌキ",
+          "tag": "tanuki",
+          "link": "https://danbooru.donmai.us/wiki_pages/tanuki"
+        },
+        {
+          "label": "牛鬼",
+          "tag": "ushi-oni",
+          "link": "https://danbooru.donmai.us/wiki_pages/ushi-oni"
+        },
+        {
+          "label": "ヤマタノオロチ",
+          "tag": "yamata_no_orochi",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamata_no_orochi"
+        },
+        {
+          "label": "伝統的な妖怪",
+          "tag": "traditional_youkai",
+          "link": "https://danbooru.donmai.us/wiki_pages/traditional_youkai"
+        },
+        {
+          "label": "あかなめ",
+          "tag": "akaname",
+          "link": "https://danbooru.donmai.us/wiki_pages/akaname"
+        },
+        {
+          "label": "カッパ",
+          "tag": "kappa",
+          "link": "https://danbooru.donmai.us/wiki_pages/kappa"
+        },
+        {
+          "label": "ろくろ首",
+          "tag": "rokurokubi",
+          "link": "https://danbooru.donmai.us/wiki_pages/rokurokubi"
+        },
+        {
+          "label": "天狗",
+          "tag": "tengu",
+          "link": "https://danbooru.donmai.us/wiki_pages/tengu"
+        },
+        {
+          "label": "雪女",
+          "tag": "yuki_onna",
+          "link": "https://danbooru.donmai.us/wiki_pages/yuki_onna"
+        },
+        {
+          "label": "ベヒーモス",
+          "tag": "behemoth",
+          "link": "https://danbooru.donmai.us/wiki_pages/behemoth"
+        },
+        {
+          "label": "ゴーレム",
+          "tag": "golem",
+          "link": "https://danbooru.donmai.us/wiki_pages/golem"
+        },
+        {
+          "label": "リヴァイアサン",
+          "tag": "leviathan_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/leviathan_%28mythology%29"
+        },
+        {
+          "label": "アベル",
+          "tag": "abel_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/abel_%28mythology%29"
+        },
+        {
+          "label": "アダム",
+          "tag": "adam_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/adam_%28mythology%29"
+        },
+        {
+          "label": "カイン",
+          "tag": "cain_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cain_%28mythology%29"
+        },
+        {
+          "label": "デリラ",
+          "tag": "delilah_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/delilah_%28mythology%29"
+        },
+        {
+          "label": "イブ",
+          "tag": "eve_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/eve_%28mythology%29"
+        },
+        {
+          "label": "ノア",
+          "tag": "noah_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/noah_%28mythology%29"
+        },
+        {
+          "label": "イエス",
+          "tag": "jesus",
+          "link": "https://danbooru.donmai.us/wiki_pages/jesus"
+        },
+        {
+          "label": "サムソン",
+          "tag": "samson_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/samson_%28mythology%29"
+        },
+        {
+          "label": "サタン",
+          "tag": "satan_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/satan_%28mythology%29"
+        },
+        {
+          "label": "聖母マリア",
+          "tag": "virgin_mary",
+          "link": "https://danbooru.donmai.us/wiki_pages/virgin_mary"
+        },
+        {
+          "label": "ヤハウェ",
+          "tag": "yahweh",
+          "link": "https://danbooru.donmai.us/wiki_pages/yahweh"
+        },
+        {
+          "label": "スラヴ神話",
+          "tag": "slavic_mythology",
+          "link": "https://danbooru.donmai.us/wiki_pages/slavic_mythology"
+        },
+        {
+          "label": "キキモラ",
+          "tag": "kikimora_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kikimora_%28mythology%29"
+        },
+        {
+          "label": "ルサルカ",
+          "tag": "rusalka_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rusalka_%28mythology%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "悪魔の少年",
+          "tag": "demon_boy",
+          "link": "https://danbooru.donmai.us/wiki_pages/demon_boy"
+        },
+        {
+          "label": "悪魔の少女",
+          "tag": "demon_girl",
+          "link": "https://danbooru.donmai.us/wiki_pages/demon_girl"
+        },
+        {
+          "label": "モンスター",
+          "tag": "monster",
+          "link": "https://danbooru.donmai.us/wiki_pages/monster"
+        },
+        {
+          "label": "モンスターガール",
+          "tag": "monster_girl",
+          "link": "https://danbooru.donmai.us/wiki_pages/monster_girl"
+        },
+        {
+          "label": "モンスターボーイ",
+          "tag": "monster_boy",
+          "link": "https://danbooru.donmai.us/wiki_pages/monster_boy"
+        },
+        {
+          "label": "あかなめさん",
+          "tag": "akaname-san",
+          "link": "https://danbooru.donmai.us/wiki_pages/akaname-san"
+        },
+        {
+          "label": "青鬼",
+          "tag": "blue_oni",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_oni"
+        },
+        {
+          "label": "赤鬼",
+          "tag": "red_oni",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_oni"
+        },
+        {
+          "label": "ブラッドエルフ",
+          "tag": "blood_elf_%28warcraft%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/blood_elf_%28warcraft%29"
+        },
+        {
+          "label": "タウレン",
+          "tag": "tauren_%28warcraft%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tauren_%28warcraft%29"
+        },
+        {
+          "label": "追加の腕",
+          "tag": "extra_arms",
+          "link": "https://danbooru.donmai.us/wiki_pages/extra_arms"
+        }
+      ]
+    }
+  ]
+}

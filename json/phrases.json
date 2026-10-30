@@ -1,0 +1,412 @@
+{
+  "カテゴリID": "phrases",
+  "カテゴリ名": "フレーズ",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aphrases",
+  "セクション一覧": [
+    {
+      "セクション名": "挨拶と礼儀",
+      "タグ一覧": [
+        {
+          "label": "あけおめ",
+          "tag": "akeome",
+          "link": "https://danbooru.donmai.us/wiki_pages/akeome"
+        },
+        {
+          "label": "ことよろ",
+          "tag": "kotoyoro",
+          "link": "https://danbooru.donmai.us/wiki_pages/kotoyoro"
+        },
+        {
+          "label": "おめでとう",
+          "tag": "congratulations",
+          "link": "https://danbooru.donmai.us/wiki_pages/congratulations"
+        },
+        {
+          "label": "同人イベントでの挨拶",
+          "tag": "convention_greeting",
+          "link": "https://danbooru.donmai.us/wiki_pages/convention_greeting"
+        },
+        {
+          "label": "お誕生日おめでとう",
+          "tag": "happy_birthday",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_birthday"
+        },
+        {
+          "label": "イースター、おめでとう",
+          "tag": "happy_easter",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_easter"
+        },
+        {
+          "label": "ハッピーハロウィン",
+          "tag": "happy_halloween",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_halloween"
+        },
+        {
+          "label": "ハッピーホリデー",
+          "tag": "happy_holidays",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_holidays"
+        },
+        {
+          "label": "あけましておめでとう",
+          "tag": "happy_new_year",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_new_year"
+        },
+        {
+          "label": "ハッピーバレンタイン",
+          "tag": "happy_valentine",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_valentine"
+        },
+        {
+          "label": "メリークリスマス",
+          "tag": "merry_christmas",
+          "link": "https://danbooru.donmai.us/wiki_pages/merry_christmas"
+        },
+        {
+          "label": "暑中見舞い",
+          "tag": "shochuumimai",
+          "link": "https://danbooru.donmai.us/wiki_pages/shochuumimai"
+        },
+        {
+          "label": "ありがとう",
+          "tag": "thank_you",
+          "link": "https://danbooru.donmai.us/wiki_pages/thank_you"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の一般的なフレーズ",
+      "タグ一覧": [
+        {
+          "label": "てをあらおー！",
+          "tag": "tewoarao-%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/tewoarao-%21"
+        },
+        {
+          "label": "トリック・オア・トリート",
+          "tag": "trick_or_treat",
+          "link": "https://danbooru.donmai.us/wiki_pages/trick_or_treat"
+        },
+        {
+          "label": "うらめしや",
+          "tag": "urameshiya",
+          "link": "https://danbooru.donmai.us/wiki_pages/urameshiya"
+        }
+      ]
+    },
+    {
+      "セクション名": "ミームフレーズ",
+      "タグ一覧": [
+        {
+          "label": "貧乳はステータスだ",
+          "tag": "a_flat_chest_is_a_status_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/a_flat_chest_is_a_status_symbol"
+        },
+        {
+          "label": "あやや?",
+          "tag": "ayaya~",
+          "link": "https://danbooru.donmai.us/wiki_pages/ayaya~"
+        },
+        {
+          "label": "アラアラ",
+          "tag": "ara_ara",
+          "link": "https://danbooru.donmai.us/wiki_pages/ara_ara"
+        },
+        {
+          "label": "クリリンのことかー！",
+          "tag": "are_you_talking_about_kuririn",
+          "link": "https://danbooru.donmai.us/wiki_pages/are_you_talking_about_kuririn"
+        },
+        {
+          "label": "膝に矢が刺さる",
+          "tag": "arrow_to_the_knee",
+          "link": "https://danbooru.donmai.us/wiki_pages/arrow_to_the_knee"
+        },
+        {
+          "label": "アウ",
+          "tag": "auu",
+          "link": "https://danbooru.donmai.us/wiki_pages/auu"
+        },
+        {
+          "label": "頭を冷やして",
+          "tag": "cool_your_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/cool_your_head"
+        },
+        {
+          "label": "犯罪者のクズ！",
+          "tag": "criminal_scum%21_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/criminal_scum%21_%28meme%29"
+        },
+        {
+          "label": "だが断る",
+          "tag": "daga_kotowaru",
+          "link": "https://danbooru.donmai.us/wiki_pages/daga_kotowaru"
+        },
+        {
+          "label": "だが断る",
+          "tag": "daga_kotowaru",
+          "link": "https://danbooru.donmai.us/wiki_pages/daga_kotowaru"
+        },
+        {
+          "label": "です",
+          "tag": "desu",
+          "link": "https://danbooru.donmai.us/wiki_pages/desu"
+        },
+        {
+          "label": "どんだけ",
+          "tag": "dondake",
+          "link": "https://danbooru.donmai.us/wiki_pages/dondake"
+        },
+        {
+          "label": "えっちなのはいけないと思います",
+          "tag": "ecchi_nano_wa_ikenai_to_omoimasu",
+          "link": "https://danbooru.donmai.us/wiki_pages/ecchi_nano_wa_ikenai_to_omoimasu"
+        },
+        {
+          "label": "H",
+          "tag": "h_%28letter%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/h_%28letter%29"
+        },
+        {
+          "label": "ホム",
+          "tag": "homu",
+          "link": "https://danbooru.donmai.us/wiki_pages/homu"
+        },
+        {
+          "label": "ホロショ",
+          "tag": "horosho",
+          "link": "https://danbooru.donmai.us/wiki_pages/horosho"
+        },
+        {
+          "label": "理解できない",
+          "tag": "i_just_don%27t_get_it_%28madoka_magica%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i_just_don%27t_get_it_%28madoka_magica%29"
+        },
+        {
+          "label": "あたしって、ほんとバカ",
+          "tag": "i%27m_such_a_fool",
+          "link": "https://danbooru.donmai.us/wiki_pages/i%27m_such_a_fool"
+        },
+        {
+          "label": "濡れてるよ！",
+          "tag": "i%27m_wet%21_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i%27m_wet%21_%28meme%29"
+        },
+        {
+          "label": "私がLです",
+          "tag": "i_am_l",
+          "link": "https://danbooru.donmai.us/wiki_pages/i_am_l"
+        },
+        {
+          "label": "我が生涯に一片の悔いなし",
+          "tag": "i_don%27t_have_a_single_regret_in_my_life",
+          "link": "https://danbooru.donmai.us/wiki_pages/i_don%27t_have_a_single_regret_in_my_life"
+        },
+        {
+          "label": "いっぺん、死んでみる？",
+          "tag": "ippen_shinde_miru%3F",
+          "link": "https://danbooru.donmai.us/wiki_pages/ippen_shinde_miru%3F"
+        },
+        {
+          "label": "そうですか",
+          "tag": "is_that_so",
+          "link": "https://danbooru.donmai.us/wiki_pages/is_that_so"
+        },
+        {
+          "label": "お前じゃねえ座ってろ",
+          "tag": "it%27s_not_you_sit_down",
+          "link": "https://danbooru.donmai.us/wiki_pages/it%27s_not_you_sit_down"
+        },
+        {
+          "label": "噂されるのは恥ずかしい",
+          "tag": "it%27s_embarrassing_to_be_gossiped",
+          "link": "https://danbooru.donmai.us/wiki_pages/it%27s_embarrassing_to_be_gossiped"
+        },
+        {
+          "label": "カシコマ！",
+          "tag": "kashikoma%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/kashikoma%21"
+        },
+        {
+          "label": "クラスのみんなには内緒だよ",
+          "tag": "keep_this_a_secret_from_everyone_in_class",
+          "link": "https://danbooru.donmai.us/wiki_pages/keep_this_a_secret_from_everyone_in_class"
+        },
+        {
+          "label": "コア",
+          "tag": "koa_%28phrase%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/koa_%28phrase%29"
+        },
+        {
+          "label": "契約を結ぶ",
+          "tag": "make_a_contract",
+          "link": "https://danbooru.donmai.us/wiki_pages/make_a_contract"
+        },
+        {
+          "label": "マサニ",
+          "tag": "masa_ni_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/masa_ni_%28meme%29"
+        },
+        {
+          "label": "むきゅー",
+          "tag": "mukyuu",
+          "link": "https://danbooru.donmai.us/wiki_pages/mukyuu"
+        },
+        {
+          "label": "ミョン",
+          "tag": "myon_%28phrase%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/myon_%28phrase%29"
+        },
+        {
+          "label": "なのです",
+          "tag": "nanodesu_%28phrase%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nanodesu_%28phrase%29"
+        },
+        {
+          "label": "ニパ?",
+          "tag": "nipa~",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipa~"
+        },
+        {
+          "label": "もう何も怖くない",
+          "tag": "not_afraid_anymore",
+          "link": "https://danbooru.donmai.us/wiki_pages/not_afraid_anymore"
+        },
+        {
+          "label": "にゃんぱす?",
+          "tag": "nyanpassu~",
+          "link": "https://danbooru.donmai.us/wiki_pages/nyanpassu~"
+        },
+        {
+          "label": "異議あり！",
+          "tag": "objection",
+          "link": "https://danbooru.donmai.us/wiki_pages/objection"
+        },
+        {
+          "label": "ほう…向かってくるのか",
+          "tag": "oh%3F_you%27re_approaching_me%3F_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/oh%3F_you%27re_approaching_me%3F_%28meme%29"
+        },
+        {
+          "label": "おかわいいこと",
+          "tag": "okawaii_koto",
+          "link": "https://danbooru.donmai.us/wiki_pages/okawaii_koto"
+        },
+        {
+          "label": "パンパカパーン！",
+          "tag": "pan-pa-ka-paaan%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/pan-pa-ka-paaan%21"
+        },
+        {
+          "label": "殺されれば人は死ぬ",
+          "tag": "people_die_if_they_are_killed_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/people_die_if_they_are_killed_%28meme%29"
+        },
+        {
+          "label": "ピカピカぴかりんじゃんけんポン",
+          "tag": "pika_pika_pikarin_jankenpon",
+          "link": "https://danbooru.donmai.us/wiki_pages/pika_pika_pikarin_jankenpon"
+        },
+        {
+          "label": "ポイ",
+          "tag": "poi",
+          "link": "https://danbooru.donmai.us/wiki_pages/poi"
+        },
+        {
+          "label": "略",
+          "tag": "ryaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/ryaku"
+        },
+        {
+          "label": "パンツじゃないから恥ずかしくないもん",
+          "tag": "they%27re_not_panties",
+          "link": "https://danbooru.donmai.us/wiki_pages/they%27re_not_panties"
+        },
+        {
+          "label": "残念！私だけだったのに！",
+          "tag": "too_bad%21_it_was_just_me%21_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/too_bad%21_it_was_just_me%21_%28meme%29"
+        },
+        {
+          "label": "月にかわっておしおきよ",
+          "tag": "tsuki_ni_kawatte_oshioki_yo",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsuki_ni_kawatte_oshioki_yo"
+        },
+        {
+          "label": "月にかわっておしおきよ",
+          "tag": "tsuki_ni_kawatte_oshioki_yo",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsuki_ni_kawatte_oshioki_yo"
+        },
+        {
+          "label": "うぐぅ?",
+          "tag": "uguu~",
+          "link": "https://danbooru.donmai.us/wiki_pages/uguu~"
+        },
+        {
+          "label": "うにゅ",
+          "tag": "unyu",
+          "link": "https://danbooru.donmai.us/wiki_pages/unyu"
+        },
+        {
+          "label": "嘘だ",
+          "tag": "uso_da",
+          "link": "https://danbooru.donmai.us/wiki_pages/uso_da"
+        },
+        {
+          "label": "嘘です",
+          "tag": "uso_desu",
+          "link": "https://danbooru.donmai.us/wiki_pages/uso_desu"
+        },
+        {
+          "label": "ヴァ",
+          "tag": "va_%28phrase%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/va_%28phrase%29"
+        },
+        {
+          "label": "ウーミー",
+          "tag": "woomy",
+          "link": "https://danbooru.donmai.us/wiki_pages/woomy"
+        },
+        {
+          "label": "ヤラナイカ",
+          "tag": "yaranaika",
+          "link": "https://danbooru.donmai.us/wiki_pages/yaranaika"
+        },
+        {
+          "label": "お前はもう死んでいる",
+          "tag": "you_are_already_dead",
+          "link": "https://danbooru.donmai.us/wiki_pages/you_are_already_dead"
+        },
+        {
+          "label": "お前は次に…と言う",
+          "tag": "your_next_line_is",
+          "link": "https://danbooru.donmai.us/wiki_pages/your_next_line_is"
+        },
+        {
+          "label": "ゆっくりしてってね",
+          "tag": "yukkuri_shiteitte_ne",
+          "link": "https://danbooru.donmai.us/wiki_pages/yukkuri_shiteitte_ne"
+        },
+        {
+          "label": "ザ・ワールド",
+          "tag": "za_warudo",
+          "link": "https://danbooru.donmai.us/wiki_pages/za_warudo"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "キャッチフレーズ",
+          "tag": "catchphrase",
+          "link": "https://danbooru.donmai.us/wiki_pages/catchphrase"
+        },
+        {
+          "label": "タググループ：テキスト",
+          "tag": "tag_group%3Atext",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Atext"
+        }
+      ]
+    }
+  ]
+}

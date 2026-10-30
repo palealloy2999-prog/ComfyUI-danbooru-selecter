@@ -1,0 +1,1332 @@
+﻿{
+    "カテゴリID":  "technology",
+    "カテゴリ名":  "テクノロジー",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Atechnology",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "テーマ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "SF",
+                                         "tag":  "science_fiction",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/science_fiction"
+                                     },
+                                     {
+                                         "label":  "サイバーパンク",
+                                         "tag":  "cyberpunk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cyberpunk"
+                                     },
+                                     {
+                                         "label":  "スチームパンク",
+                                         "tag":  "steampunk",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/steampunk"
+                                     },
+                                     {
+                                         "label":  "ファンタジー",
+                                         "tag":  "fantasy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fantasy"
+                                     },
+                                     {
+                                         "label":  "機械化",
+                                         "tag":  "mechanization",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanization"
+                                     },
+                                     {
+                                         "label":  "擬人化",
+                                         "tag":  "personification",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/personification"
+                                     },
+                                     {
+                                         "label":  "メカ娘",
+                                         "tag":  "mecha_musume",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mecha_musume"
+                                     },
+                                     {
+                                         "label":  "OSたん",
+                                         "tag":  "os-tan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/os-tan"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ロボットと人工生命",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アンドロイド",
+                                         "tag":  "android",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/android"
+                                     },
+                                     {
+                                         "label":  "ロボット関節",
+                                         "tag":  "robot_joints",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/robot_joints"
+                                     },
+                                     {
+                                         "label":  "メカバレ",
+                                         "tag":  "mechabare",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechabare"
+                                     },
+                                     {
+                                         "label":  "ロボットの耳",
+                                         "tag":  "robot_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/robot_ears"
+                                     },
+                                     {
+                                         "label":  "サイボーグ",
+                                         "tag":  "cyborg",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cyborg"
+                                     },
+                                     {
+                                         "label":  "メカ",
+                                         "tag":  "mecha",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mecha"
+                                     },
+                                     {
+                                         "label":  "ロボットのドラゴン",
+                                         "tag":  "robot_dragon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/robot_dragon"
+                                     },
+                                     {
+                                         "label":  "レプリカント",
+                                         "tag":  "replicant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/replicant"
+                                     },
+                                     {
+                                         "label":  "ロボット",
+                                         "tag":  "robot",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/robot"
+                                     },
+                                     {
+                                         "label":  "ロボット動物",
+                                         "tag":  "robot_animal",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/robot_animal"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "メカ、スーツ、ガジェット",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "パワースーツ",
+                                         "tag":  "power_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_suit"
+                                     },
+                                     {
+                                         "label":  "プラグスーツ",
+                                         "tag":  "plugsuit_%28evangelion%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plugsuit_%28evangelion%29"
+                                     },
+                                     {
+                                         "label":  "外骨格",
+                                         "tag":  "exoskeleton",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/exoskeleton"
+                                     },
+                                     {
+                                         "label":  "メカ",
+                                         "tag":  "mecha",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mecha"
+                                     },
+                                     {
+                                         "label":  "ガンダム",
+                                         "tag":  "gundam",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gundam"
+                                     },
+                                     {
+                                         "label":  "機械化",
+                                         "tag":  "mechanization",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanization"
+                                     },
+                                     {
+                                         "label":  "砂のメカ",
+                                         "tag":  "sand_mecha",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sand_mecha"
+                                     },
+                                     {
+                                         "label":  "機械式ほうき",
+                                         "tag":  "mechanical_broom",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanical_broom"
+                                     },
+                                     {
+                                         "label":  "パワーグローブ",
+                                         "tag":  "power_glove_%28nintendo%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_glove_%28nintendo%29"
+                                     },
+                                     {
+                                         "label":  "プロジェクター",
+                                         "tag":  "projector",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/projector"
+                                     },
+                                     {
+                                         "label":  "ジェットパック",
+                                         "tag":  "jetpack",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/jetpack"
+                                     },
+                                     {
+                                         "label":  "ストライカーユニット",
+                                         "tag":  "striker_unit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/striker_unit"
+                                     },
+                                     {
+                                         "label":  "ヘリコプターの耳",
+                                         "tag":  "helicopter_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/helicopter_ears"
+                                     },
+                                     {
+                                         "label":  "ヘリコプターヘア",
+                                         "tag":  "helicopter_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/helicopter_hair"
+                                     },
+                                     {
+                                         "label":  "ユーティリティベルト",
+                                         "tag":  "utility_belt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/utility_belt"
+                                     },
+                                     {
+                                         "label":  "タググループ：服装",
+                                         "tag":  "tag_group%3Aattire",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "義肢・機械の身体部位",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "オートメイル",
+                                         "tag":  "automail",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/automail"
+                                     },
+                                     {
+                                         "label":  "人形の関節",
+                                         "tag":  "doll_joints",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/doll_joints"
+                                     },
+                                     {
+                                         "label":  "機械式足",
+                                         "tag":  "mechanical_foot",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanical_foot"
+                                     },
+                                     {
+                                         "label":  "メカバレ",
+                                         "tag":  "mechabare",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechabare"
+                                     },
+                                     {
+                                         "label":  "機械の翼",
+                                         "tag":  "mechanical_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanical_wings"
+                                     },
+                                     {
+                                         "label":  "片腕だけの機械腕",
+                                         "tag":  "single_mechanical_arm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_mechanical_arm"
+                                     },
+                                     {
+                                         "label":  "のびーるアーム",
+                                         "tag":  "nobiiru_arm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nobiiru_arm"
+                                     },
+                                     {
+                                         "label":  "切断された手足",
+                                         "tag":  "severed_limb",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/severed_limb"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "コンピューター",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "コンピューター",
+                                         "tag":  "computer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/computer"
+                                     },
+                                     {
+                                         "label":  "ノートパソコン",
+                                         "tag":  "laptop",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/laptop"
+                                     },
+                                     {
+                                         "label":  "コンピュータチップ",
+                                         "tag":  "computer_chip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/computer_chip"
+                                     },
+                                     {
+                                         "label":  "キーボード",
+                                         "tag":  "computer_keyboard",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/computer_keyboard"
+                                     },
+                                     {
+                                         "label":  "コンピューターのマウス",
+                                         "tag":  "computer_mouse",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/computer_mouse"
+                                     },
+                                     {
+                                         "label":  "マウスパッド",
+                                         "tag":  "mousepad_%28object%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mousepad_%28object%29"
+                                     },
+                                     {
+                                         "label":  "お尻のマウスパッド",
+                                         "tag":  "ass_mousepad",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ass_mousepad"
+                                     },
+                                     {
+                                         "label":  "おっぱいマウスパッド",
+                                         "tag":  "breast_mousepad",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/breast_mousepad"
+                                     },
+                                     {
+                                         "label":  "モニター",
+                                         "tag":  "monitor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/monitor"
+                                     },
+                                     {
+                                         "label":  "曲面モニター",
+                                         "tag":  "curved_monitor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/curved_monitor"
+                                     },
+                                     {
+                                         "label":  "複数のモニター",
+                                         "tag":  "multiple_monitors",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_monitors"
+                                     },
+                                     {
+                                         "label":  "RAM（メモリ）",
+                                         "tag":  "ram_%28computer%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ram_%28computer%29"
+                                     },
+                                     {
+                                         "label":  "タブレット端末",
+                                         "tag":  "tablet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tablet"
+                                     },
+                                     {
+                                         "label":  "トラックボール",
+                                         "tag":  "trackball",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/trackball"
+                                     },
+                                     {
+                                         "label":  "画面",
+                                         "tag":  "screen",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/screen"
+                                     },
+                                     {
+                                         "label":  "フローティングスクリーン",
+                                         "tag":  "floating_screen",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/floating_screen"
+                                     },
+                                     {
+                                         "label":  "タッチスクリーン",
+                                         "tag":  "touchscreen",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/touchscreen"
+                                     },
+                                     {
+                                         "label":  "USB",
+                                         "tag":  "usb",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/usb"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ホログラム",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ホログラム",
+                                         "tag":  "hologram",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hologram"
+                                     },
+                                     {
+                                         "label":  "ホログラフィックインターフェース",
+                                         "tag":  "holographic_interface",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holographic_interface"
+                                     },
+                                     {
+                                         "label":  "ホログラフィックキーボード",
+                                         "tag":  "holographic_keyboard",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holographic_keyboard"
+                                     },
+                                     {
+                                         "label":  "ホログラフィックタッチスクリーン",
+                                         "tag":  "holographic_touchscreen",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holographic_touchscreen"
+                                     },
+                                     {
+                                         "label":  "ホログラフィックモニター",
+                                         "tag":  "holographic_monitor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holographic_monitor"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "電話・音響・通信機器",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "マイクロフォン",
+                                         "tag":  "microphone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/microphone"
+                                     },
+                                     {
+                                         "label":  "マイクスタンド",
+                                         "tag":  "microphone_stand",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/microphone_stand"
+                                     },
+                                     {
+                                         "label":  "スタジオマイク",
+                                         "tag":  "studio_microphone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/studio_microphone"
+                                     },
+                                     {
+                                         "label":  "ビンテージマイク",
+                                         "tag":  "vintage_microphone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vintage_microphone"
+                                     },
+                                     {
+                                         "label":  "電話",
+                                         "tag":  "phone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/phone"
+                                     },
+                                     {
+                                         "label":  "携帯電話",
+                                         "tag":  "cellphone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cellphone"
+                                     },
+                                     {
+                                         "label":  "コードレス電話",
+                                         "tag":  "cordless_phone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cordless_phone"
+                                     },
+                                     {
+                                         "label":  "携帯電話の電波表示",
+                                         "tag":  "cellphone_radio_bar",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cellphone_radio_bar"
+                                     },
+                                     {
+                                         "label":  "携帯ストラップ",
+                                         "tag":  "cellphone_strap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cellphone_strap"
+                                     },
+                                     {
+                                         "label":  "コード付き電話",
+                                         "tag":  "corded_phone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/corded_phone"
+                                     },
+                                     {
+                                         "label":  "公衆電話",
+                                         "tag":  "payphone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/payphone"
+                                     },
+                                     {
+                                         "label":  "電話ボックス",
+                                         "tag":  "phone_booth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/phone_booth"
+                                     },
+                                     {
+                                         "label":  "スマートフォン",
+                                         "tag":  "smartphone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/smartphone"
+                                     },
+                                     {
+                                         "label":  "iPhone",
+                                         "tag":  "iphone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/iphone"
+                                     },
+                                     {
+                                         "label":  "電話カード",
+                                         "tag":  "phonecard",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/phonecard"
+                                     },
+                                     {
+                                         "label":  "スピーカー",
+                                         "tag":  "speaker",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/speaker"
+                                     },
+                                     {
+                                         "label":  "イヤーピース",
+                                         "tag":  "earpiece",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/earpiece"
+                                     },
+                                     {
+                                         "label":  "ロボットの耳",
+                                         "tag":  "robot_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/robot_ears"
+                                     },
+                                     {
+                                         "label":  "イヤホン",
+                                         "tag":  "earphones",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/earphones"
+                                     },
+                                     {
+                                         "label":  "ヘッドフォン",
+                                         "tag":  "headphones",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headphones"
+                                     },
+                                     {
+                                         "label":  "トランシーバー",
+                                         "tag":  "walkie-talkie",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/walkie-talkie"
+                                     },
+                                     {
+                                         "label":  "ヘッドセット",
+                                         "tag":  "headset",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headset"
+                                     },
+                                     {
+                                         "label":  "タググループ：音楽・音響",
+                                         "tag":  "tag_group%3Aaudio_tags",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aaudio_tags"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "無線通信/長距離通信",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ラジオ",
+                                         "tag":  "radio",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/radio"
+                                     },
+                                     {
+                                         "label":  "ステレオ",
+                                         "tag":  "stereo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stereo"
+                                     },
+                                     {
+                                         "label":  "電波塔",
+                                         "tag":  "radio_tower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/radio_tower"
+                                     },
+                                     {
+                                         "label":  "衛星放送受信アンテナ",
+                                         "tag":  "satellite_dish",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/satellite_dish"
+                                     },
+                                     {
+                                         "label":  "ラジオブース",
+                                         "tag":  "radio_booth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/radio_booth"
+                                     },
+                                     {
+                                         "label":  "電波望遠鏡",
+                                         "tag":  "radio_telescope",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/radio_telescope"
+                                     },
+                                     {
+                                         "label":  "フィールドラジオ",
+                                         "tag":  "field_radio",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/field_radio"
+                                     },
+                                     {
+                                         "label":  "ラジオアンテナ",
+                                         "tag":  "radio_antenna",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/radio_antenna"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "機械動力源",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "エンジン",
+                                         "tag":  "engine",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/engine"
+                                     },
+                                     {
+                                         "label":  "ジェットエンジン",
+                                         "tag":  "jet_engine",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/jet_engine"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "陸上車両",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "救急車",
+                                         "tag":  "ambulance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ambulance"
+                                     },
+                                     {
+                                         "label":  "バス",
+                                         "tag":  "bus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bus"
+                                     },
+                                     {
+                                         "label":  "車",
+                                         "tag":  "car",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/car"
+                                     },
+                                     {
+                                         "label":  "パトカー",
+                                         "tag":  "police_car",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/police_car"
+                                     },
+                                     {
+                                         "label":  "タクシー",
+                                         "tag":  "taxi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/taxi"
+                                     },
+                                     {
+                                         "label":  "軍用ジープ",
+                                         "tag":  "military_jeep",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/military_jeep"
+                                     },
+                                     {
+                                         "label":  "戦車",
+                                         "tag":  "tank",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tank"
+                                     },
+                                     {
+                                         "label":  "トレーラー",
+                                         "tag":  "trailer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/trailer"
+                                     },
+                                     {
+                                         "label":  "電車",
+                                         "tag":  "train",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/train"
+                                     },
+                                     {
+                                         "label":  "路面電車",
+                                         "tag":  "streetcar",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/streetcar"
+                                     },
+                                     {
+                                         "label":  "空中ケーブルカー",
+                                         "tag":  "aerial_tram",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aerial_tram"
+                                     },
+                                     {
+                                         "label":  "トラック",
+                                         "tag":  "truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/truck"
+                                     },
+                                     {
+                                         "label":  "コンクリートミキサー車",
+                                         "tag":  "concrete_mixer_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/concrete_mixer_truck"
+                                     },
+                                     {
+                                         "label":  "ダンプトラック",
+                                         "tag":  "dump_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dump_truck"
+                                     },
+                                     {
+                                         "label":  "運搬トラック",
+                                         "tag":  "haul_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/haul_truck"
+                                     },
+                                     {
+                                         "label":  "フラットベッドトラック",
+                                         "tag":  "flatbed_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flatbed_truck"
+                                     },
+                                     {
+                                         "label":  "消防車",
+                                         "tag":  "fire_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fire_truck"
+                                     },
+                                     {
+                                         "label":  "ゴミ収集車",
+                                         "tag":  "garbage_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/garbage_truck"
+                                     },
+                                     {
+                                         "label":  "モンスタートラック",
+                                         "tag":  "monster_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/monster_truck"
+                                     },
+                                     {
+                                         "label":  "ピックアップトラック",
+                                         "tag":  "pickup_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pickup_truck"
+                                     },
+                                     {
+                                         "label":  "大型トラック",
+                                         "tag":  "semi_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/semi_truck"
+                                     },
+                                     {
+                                         "label":  "タンクローリー",
+                                         "tag":  "tank_truck",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tank_truck"
+                                     },
+                                     {
+                                         "label":  "バン",
+                                         "tag":  "van",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/van"
+                                     },
+                                     {
+                                         "label":  "地上車両一覧",
+                                         "tag":  "list_of_ground_vehicles",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_ground_vehicles"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "艦船",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "船",
+                                         "tag":  "ship",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ship"
+                                     },
+                                     {
+                                         "label":  "戦艦",
+                                         "tag":  "battleship",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/battleship"
+                                     },
+                                     {
+                                         "label":  "潜水艦",
+                                         "tag":  "submarine",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/submarine"
+                                     },
+                                     {
+                                         "label":  "船舶一覧",
+                                         "tag":  "list_of_ships",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_ships"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "航空宇宙（宇宙船と航空機）",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "飛行機",
+                                         "tag":  "airplane",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/airplane"
+                                     },
+                                     {
+                                         "label":  "爆撃機",
+                                         "tag":  "bomber",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bomber"
+                                     },
+                                     {
+                                         "label":  "ヘリコプター",
+                                         "tag":  "helicopter",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/helicopter"
+                                     },
+                                     {
+                                         "label":  "ジェット",
+                                         "tag":  "jet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/jet"
+                                     },
+                                     {
+                                         "label":  "戦闘機",
+                                         "tag":  "fighter_jet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fighter_jet"
+                                     },
+                                     {
+                                         "label":  "宇宙船",
+                                         "tag":  "spacecraft",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spacecraft"
+                                     },
+                                     {
+                                         "label":  "ロケット船",
+                                         "tag":  "rocket_ship",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rocket_ship"
+                                     },
+                                     {
+                                         "label":  "スペースシャトル",
+                                         "tag":  "space_shuttle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_shuttle"
+                                     },
+                                     {
+                                         "label":  "タイ・ファイター",
+                                         "tag":  "tie_fighter",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tie_fighter"
+                                     },
+                                     {
+                                         "label":  "タイインターセプター",
+                                         "tag":  "tie_interceptor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tie_interceptor"
+                                     },
+                                     {
+                                         "label":  "未確認飛行物体",
+                                         "tag":  "ufo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ufo"
+                                     },
+                                     {
+                                         "label":  "空飛ぶ円盤",
+                                         "tag":  "flying_saucer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flying_saucer"
+                                     },
+                                     {
+                                         "label":  "飛行機一覧",
+                                         "tag":  "list_of_airplanes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_airplanes"
+                                     },
+                                     {
+                                         "label":  "ヘリコプター一覧",
+                                         "tag":  "list_of_helicopters",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_helicopters"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "スーツと鎧",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "鎧・防具一覧",
+                                         "tag":  "list_of_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_armor"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "現代の装備",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "防弾チョッキ",
+                                         "tag":  "bulletproof_vest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bulletproof_vest"
+                                     },
+                                     {
+                                         "label":  "暴動鎮圧用の盾",
+                                         "tag":  "riot_shield",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/riot_shield"
+                                     },
+                                     {
+                                         "label":  "すね当て",
+                                         "tag":  "shin_guards",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shin_guards"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "未来の装備",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ビームシールド",
+                                         "tag":  "beam_shield",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/beam_shield"
+                                     },
+                                     {
+                                         "label":  "外骨格",
+                                         "tag":  "exoskeleton",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/exoskeleton"
+                                     },
+                                     {
+                                         "label":  "パワーアーマー",
+                                         "tag":  "power_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_armor"
+                                     },
+                                     {
+                                         "label":  "パワースーツ",
+                                         "tag":  "power_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_suit"
+                                     },
+                                     {
+                                         "label":  "グラビティスーツ（メトロイド）",
+                                         "tag":  "gravity_suit_%28metroid%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gravity_suit_%28metroid%29"
+                                     },
+                                     {
+                                         "label":  "SEVAスーツ",
+                                         "tag":  "seva_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seva_suit"
+                                     },
+                                     {
+                                         "label":  "パワースーツ",
+                                         "tag":  "power_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_suit"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "部品とコンポーネント",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "機械",
+                                         "tag":  "machine",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/machine"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "機械",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ボルト",
+                                         "tag":  "bolt_%28hardware%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bolt_%28hardware%29"
+                                     },
+                                     {
+                                         "label":  "クランク",
+                                         "tag":  "crank",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crank"
+                                     },
+                                     {
+                                         "label":  "ギア",
+                                         "tag":  "gears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gears"
+                                     },
+                                     {
+                                         "label":  "メカバレ",
+                                         "tag":  "mechabare",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechabare"
+                                     },
+                                     {
+                                         "label":  "ナット",
+                                         "tag":  "nut_%28hardware%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nut_%28hardware%29"
+                                     },
+                                     {
+                                         "label":  "ピストン",
+                                         "tag":  "piston",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/piston"
+                                     },
+                                     {
+                                         "label":  "ロータリースイッチ",
+                                         "tag":  "rotary_switch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rotary_switch"
+                                     },
+                                     {
+                                         "label":  "スクリュー",
+                                         "tag":  "screw",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/screw"
+                                     },
+                                     {
+                                         "label":  "チューブ",
+                                         "tag":  "tube",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tube"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "電子部品",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ケーブル",
+                                         "tag":  "cable",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cable"
+                                     },
+                                     {
+                                         "label":  "電力線",
+                                         "tag":  "power_lines",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_lines"
+                                     },
+                                     {
+                                         "label":  "ワイヤー",
+                                         "tag":  "wire",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wire"
+                                     },
+                                     {
+                                         "label":  "コンデンサ",
+                                         "tag":  "capacitor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/capacitor"
+                                     },
+                                     {
+                                         "label":  "回路基板",
+                                         "tag":  "circuit_board",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/circuit_board"
+                                     },
+                                     {
+                                         "label":  "電球",
+                                         "tag":  "light_bulb",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/light_bulb"
+                                     },
+                                     {
+                                         "label":  "ニキシー管",
+                                         "tag":  "nixie_tube",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nixie_tube"
+                                     },
+                                     {
+                                         "label":  "抵抗器",
+                                         "tag":  "resistor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/resistor"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "宇宙",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "衛星",
+                                         "tag":  "satellite",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/satellite"
+                                     },
+                                     {
+                                         "label":  "衛星砲",
+                                         "tag":  "satellite_cannon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/satellite_cannon"
+                                     },
+                                     {
+                                         "label":  "宇宙ステーション",
+                                         "tag":  "space_station",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_station"
+                                     },
+                                     {
+                                         "label":  "国際宇宙ステーション",
+                                         "tag":  "international_space_station",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/international_space_station"
+                                     },
+                                     {
+                                         "label":  "宇宙エレベーター",
+                                         "tag":  "space_elevator",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_elevator"
+                                     },
+                                     {
+                                         "label":  "スペースファウンテン",
+                                         "tag":  "space_fountain",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_fountain"
+                                     },
+                                     {
+                                         "label":  "ブラックホール",
+                                         "tag":  "black_hole_%28space%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_hole_%28space%29"
+                                     },
+                                     {
+                                         "label":  "宇宙ヘルメット",
+                                         "tag":  "space_helmet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_helmet"
+                                     },
+                                     {
+                                         "label":  "宇宙剣",
+                                         "tag":  "space_sword",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_sword"
+                                     },
+                                     {
+                                         "label":  "宇宙居住地",
+                                         "tag":  "space_habitat",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_habitat"
+                                     },
+                                     {
+                                         "label":  "宇宙船",
+                                         "tag":  "spacecraft",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spacecraft"
+                                     },
+                                     {
+                                         "label":  "宇宙船内部",
+                                         "tag":  "spacecraft_interior",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spacecraft_interior"
+                                     },
+                                     {
+                                         "label":  "宇宙カプセル",
+                                         "tag":  "space_capsule",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_capsule"
+                                     },
+                                     {
+                                         "label":  "宇宙列車",
+                                         "tag":  "space_train",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_train"
+                                     },
+                                     {
+                                         "label":  "宇宙服",
+                                         "tag":  "spacesuit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spacesuit"
+                                     },
+                                     {
+                                         "label":  "宇宙用の制服",
+                                         "tag":  "space_uniform",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_uniform"
+                                     },
+                                     {
+                                         "label":  "スペースシャトル",
+                                         "tag":  "space_shuttle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_shuttle"
+                                     },
+                                     {
+                                         "label":  "宇宙",
+                                         "tag":  "space",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/space"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ツール",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ドリル",
+                                         "tag":  "drill",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/drill"
+                                     },
+                                     {
+                                         "label":  "ハンマー",
+                                         "tag":  "hammer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hammer"
+                                     },
+                                     {
+                                         "label":  "マレット",
+                                         "tag":  "mallet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mallet"
+                                     },
+                                     {
+                                         "label":  "ペンチ",
+                                         "tag":  "pliers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pliers"
+                                     },
+                                     {
+                                         "label":  "ドライバー",
+                                         "tag":  "screwdriver",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/screwdriver"
+                                     },
+                                     {
+                                         "label":  "電動ドライバー",
+                                         "tag":  "electric_screwdriver",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/electric_screwdriver"
+                                     },
+                                     {
+                                         "label":  "レンチ",
+                                         "tag":  "wrench",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wrench"
+                                     },
+                                     {
+                                         "label":  "モンキーレンチ",
+                                         "tag":  "adjustable_wrench",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjustable_wrench"
+                                     },
+                                     {
+                                         "label":  "コンビネーションレンチ",
+                                         "tag":  "combination_wrench",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/combination_wrench"
+                                     },
+                                     {
+                                         "label":  "両面レンチ",
+                                         "tag":  "double_sided_wrench",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/double_sided_wrench"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "特徴",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "時計仕掛け",
+                                         "tag":  "clockwork",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clockwork"
+                                     },
+                                     {
+                                         "label":  "輝く",
+                                         "tag":  "glowing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glowing"
+                                     },
+                                     {
+                                         "label":  "機械",
+                                         "tag":  "mechanical",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanical"
+                                     },
+                                     {
+                                         "label":  "ネオントリム",
+                                         "tag":  "neon_trim",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/neon_trim"
+                                     },
+                                     {
+                                         "label":  "放射性",
+                                         "tag":  "radioactive",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/radioactive"
+                                     },
+                                     {
+                                         "label":  "変身・変形",
+                                         "tag":  "transformation",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/transformation"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "職業・作業",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "エンジニア",
+                                         "tag":  "engineer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/engineer"
+                                     },
+                                     {
+                                         "label":  "整備士",
+                                         "tag":  "mechanic",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanic"
+                                     },
+                                     {
+                                         "label":  "パイロット",
+                                         "tag":  "pilot",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pilot"
+                                     },
+                                     {
+                                         "label":  "プログラミング",
+                                         "tag":  "programming",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/programming"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ロボットと人工生命体のキャラクター",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "サイバーエルフ",
+                                         "tag":  "cyber_elf_%28mega_man%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cyber_elf_%28mega_man%29"
+                                     },
+                                     {
+                                         "label":  "メカドラゴ",
+                                         "tag":  "mecha-drago",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mecha-drago"
+                                     },
+                                     {
+                                         "label":  "トランスフォーマー",
+                                         "tag":  "transformers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/transformers"
+                                     },
+                                     {
+                                         "label":  "オートボット",
+                                         "tag":  "autobot",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/autobot"
+                                     },
+                                     {
+                                         "label":  "エアリアルボット",
+                                         "tag":  "aerialbot",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aerialbot"
+                                     },
+                                     {
+                                         "label":  "プロテクトボット",
+                                         "tag":  "protectobot",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/protectobot"
+                                     },
+                                     {
+                                         "label":  "ディセプティコン",
+                                         "tag":  "decepticon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/decepticon"
+                                     },
+                                     {
+                                         "label":  "コンバティコン",
+                                         "tag":  "combaticon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/combaticon"
+                                     },
+                                     {
+                                         "label":  "コンストラクティコン",
+                                         "tag":  "constructicon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/constructicon"
+                                     },
+                                     {
+                                         "label":  "スタンティコン",
+                                         "tag":  "stunticon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stunticon"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "衣装と洋服",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "スティルスーツ",
+                                         "tag":  "stillsuit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stillsuit"
+                                     },
+                                     {
+                                         "label":  "ネコサイバー",
+                                         "tag":  "neko_cyber",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/neko_cyber"
+                                     },
+                                     {
+                                         "label":  "衣服の変形",
+                                         "tag":  "transforming_clothes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/transforming_clothes"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "場所",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "都市",
+                                         "tag":  "city",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/city"
+                                     },
+                                     {
+                                         "label":  "都市景観",
+                                         "tag":  "cityscape",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cityscape"
+                                     },
+                                     {
+                                         "label":  "サイバトロン",
+                                         "tag":  "cybertron",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cybertron"
+                                     },
+                                     {
+                                         "label":  "デス・スター",
+                                         "tag":  "death_star",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/death_star"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "科学的",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "電気",
+                                         "tag":  "electricity",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/electricity"
+                                     },
+                                     {
+                                         "label":  "プラズマ",
+                                         "tag":  "plasma",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plasma"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "医学",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "包帯",
+                                         "tag":  "bandages",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandages"
+                                     },
+                                     {
+                                         "label":  "電極",
+                                         "tag":  "electrodes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/electrodes"
+                                     },
+                                     {
+                                         "label":  "ガーゼ",
+                                         "tag":  "gauze",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gauze"
+                                     },
+                                     {
+                                         "label":  "錠剤",
+                                         "tag":  "pill",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pill"
+                                     },
+                                     {
+                                         "label":  "担架",
+                                         "tag":  "stretcher",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stretcher"
+                                     },
+                                     {
+                                         "label":  "注射器",
+                                         "tag":  "syringe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/syringe"
+                                     },
+                                     {
+                                         "label":  "X線フィルム",
+                                         "tag":  "x-ray_film",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/x-ray_film"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "未分類",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "女の子のメカ",
+                                         "tag":  "mecha_on_girl",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mecha_on_girl"
+                                     },
+                                     {
+                                         "label":  "メカ名の特定依頼",
+                                         "tag":  "mecha_request",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mecha_request"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "メタウィキのリスト",
+                                         "tag":  "list_of_meta-wikis",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+                                     }
+                                 ]
+                    }
+                ]
+}

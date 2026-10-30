@@ -1,0 +1,1887 @@
+{
+  "カテゴリID": "companies_and_brand_names",
+  "カテゴリ名": "企業とブランド名",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Acompanies_and_brand_names",
+  "セクション一覧": [
+    {
+      "セクション名": "基本",
+      "タグ一覧": [
+        {
+          "label": "作品・権利者タグの付け方",
+          "tag": "howto%3Acopyright",
+          "link": "https://danbooru.donmai.us/wiki_pages/howto%3Acopyright"
+        }
+      ]
+    },
+    {
+      "セクション名": "衣類とアクセサリー",
+      "タグ一覧": [
+        {
+          "label": "アディダス",
+          "tag": "adidas",
+          "link": "https://danbooru.donmai.us/wiki_pages/adidas"
+        },
+        {
+          "label": "アシックス",
+          "tag": "asics",
+          "link": "https://danbooru.donmai.us/wiki_pages/asics"
+        },
+        {
+          "label": "シャネル",
+          "tag": "chanel",
+          "link": "https://danbooru.donmai.us/wiki_pages/chanel"
+        },
+        {
+          "label": "シチズン",
+          "tag": "citizen_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/citizen_%28brand%29"
+        },
+        {
+          "label": "コンバース",
+          "tag": "converse",
+          "link": "https://danbooru.donmai.us/wiki_pages/converse"
+        },
+        {
+          "label": "ディオール",
+          "tag": "dior",
+          "link": "https://danbooru.donmai.us/wiki_pages/dior"
+        },
+        {
+          "label": "ドクターマーチン",
+          "tag": "doc_martens",
+          "link": "https://danbooru.donmai.us/wiki_pages/doc_martens"
+        },
+        {
+          "label": "グッチ",
+          "tag": "gucci",
+          "link": "https://danbooru.donmai.us/wiki_pages/gucci"
+        },
+        {
+          "label": "H&M",
+          "tag": "h%26m",
+          "link": "https://danbooru.donmai.us/wiki_pages/h%26m"
+        },
+        {
+          "label": "ジューシークチュール",
+          "tag": "juicy_couture",
+          "link": "https://danbooru.donmai.us/wiki_pages/juicy_couture"
+        },
+        {
+          "label": "リーバイス",
+          "tag": "levi%27s",
+          "link": "https://danbooru.donmai.us/wiki_pages/levi%27s"
+        },
+        {
+          "label": "メゾピアノ",
+          "tag": "mezzo_piano",
+          "link": "https://danbooru.donmai.us/wiki_pages/mezzo_piano"
+        },
+        {
+          "label": "ニューバランス",
+          "tag": "new_balance",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_balance"
+        },
+        {
+          "label": "ナイキ",
+          "tag": "nike_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nike_%28company%29"
+        },
+        {
+          "label": "エアジョーダン",
+          "tag": "air_jordan",
+          "link": "https://danbooru.donmai.us/wiki_pages/air_jordan"
+        },
+        {
+          "label": "プーマ",
+          "tag": "puma_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/puma_%28brand%29"
+        },
+        {
+          "label": "レイバン",
+          "tag": "ray-ban",
+          "link": "https://danbooru.donmai.us/wiki_pages/ray-ban"
+        },
+        {
+          "label": "リーボック",
+          "tag": "reebok",
+          "link": "https://danbooru.donmai.us/wiki_pages/reebok"
+        },
+        {
+          "label": "スピード",
+          "tag": "speedo_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/speedo_%28company%29"
+        },
+        {
+          "label": "ノースフェイス",
+          "tag": "the_north_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_north_face"
+        },
+        {
+          "label": "トミーヒルフィガー",
+          "tag": "tommy_hilfiger",
+          "link": "https://danbooru.donmai.us/wiki_pages/tommy_hilfiger"
+        },
+        {
+          "label": "ユニクロ",
+          "tag": "uniqlo",
+          "link": "https://danbooru.donmai.us/wiki_pages/uniqlo"
+        },
+        {
+          "label": "バンズ",
+          "tag": "vans",
+          "link": "https://danbooru.donmai.us/wiki_pages/vans"
+        },
+        {
+          "label": "ヴィクトリアズ・シークレット",
+          "tag": "victoria%27s_secret",
+          "link": "https://danbooru.donmai.us/wiki_pages/victoria%27s_secret"
+        }
+      ]
+    },
+    {
+      "セクション名": "自動車",
+      "タグ一覧": [
+        {
+          "label": "アルファロメオ",
+          "tag": "alfa_romeo",
+          "link": "https://danbooru.donmai.us/wiki_pages/alfa_romeo"
+        },
+        {
+          "label": "アストンマーティン",
+          "tag": "aston_martin",
+          "link": "https://danbooru.donmai.us/wiki_pages/aston_martin"
+        },
+        {
+          "label": "アウディ",
+          "tag": "audi",
+          "link": "https://danbooru.donmai.us/wiki_pages/audi"
+        },
+        {
+          "label": "ベントレー",
+          "tag": "bentley",
+          "link": "https://danbooru.donmai.us/wiki_pages/bentley"
+        },
+        {
+          "label": "BMW",
+          "tag": "bmw",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmw"
+        },
+        {
+          "label": "ブガッティ",
+          "tag": "bugatti",
+          "link": "https://danbooru.donmai.us/wiki_pages/bugatti"
+        },
+        {
+          "label": "ビュイック",
+          "tag": "buick",
+          "link": "https://danbooru.donmai.us/wiki_pages/buick"
+        },
+        {
+          "label": "キャデラック",
+          "tag": "cadillac",
+          "link": "https://danbooru.donmai.us/wiki_pages/cadillac"
+        },
+        {
+          "label": "シボレー",
+          "tag": "chevrolet",
+          "link": "https://danbooru.donmai.us/wiki_pages/chevrolet"
+        },
+        {
+          "label": "クライスラー",
+          "tag": "chrysler",
+          "link": "https://danbooru.donmai.us/wiki_pages/chrysler"
+        },
+        {
+          "label": "シトロエン",
+          "tag": "citroen",
+          "link": "https://danbooru.donmai.us/wiki_pages/citroen"
+        },
+        {
+          "label": "ダイハツ",
+          "tag": "daihatsu",
+          "link": "https://danbooru.donmai.us/wiki_pages/daihatsu"
+        },
+        {
+          "label": "デロリアン",
+          "tag": "delorean",
+          "link": "https://danbooru.donmai.us/wiki_pages/delorean"
+        },
+        {
+          "label": "ダッジ",
+          "tag": "dodge_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dodge_%28company%29"
+        },
+        {
+          "label": "ドゥカティ",
+          "tag": "ducati",
+          "link": "https://danbooru.donmai.us/wiki_pages/ducati"
+        },
+        {
+          "label": "フェラーリ",
+          "tag": "ferrari",
+          "link": "https://danbooru.donmai.us/wiki_pages/ferrari"
+        },
+        {
+          "label": "フィアット",
+          "tag": "fiat",
+          "link": "https://danbooru.donmai.us/wiki_pages/fiat"
+        },
+        {
+          "label": "フォード",
+          "tag": "ford",
+          "link": "https://danbooru.donmai.us/wiki_pages/ford"
+        },
+        {
+          "label": "ホールデン",
+          "tag": "holden",
+          "link": "https://danbooru.donmai.us/wiki_pages/holden"
+        },
+        {
+          "label": "ホンダ",
+          "tag": "honda",
+          "link": "https://danbooru.donmai.us/wiki_pages/honda"
+        },
+        {
+          "label": "ハマー",
+          "tag": "hummer",
+          "link": "https://danbooru.donmai.us/wiki_pages/hummer"
+        },
+        {
+          "label": "インディアン（オートバイ）",
+          "tag": "indian_%28motorcycle%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/indian_%28motorcycle%29"
+        },
+        {
+          "label": "いすゞ自動車",
+          "tag": "isuzu_motors",
+          "link": "https://danbooru.donmai.us/wiki_pages/isuzu_motors"
+        },
+        {
+          "label": "ジャガー",
+          "tag": "jaguar_%28car%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jaguar_%28car%29"
+        },
+        {
+          "label": "ジープ",
+          "tag": "jeep_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jeep_%28company%29"
+        },
+        {
+          "label": "川崎",
+          "tag": "kawasaki_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kawasaki_%28company%29"
+        },
+        {
+          "label": "ランボルギーニ",
+          "tag": "lamborghini",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamborghini"
+        },
+        {
+          "label": "ラダ（自動車）",
+          "tag": "lada_%28car%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lada_%28car%29"
+        },
+        {
+          "label": "ランチア（ブランド）",
+          "tag": "lancia_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lancia_%28brand%29"
+        },
+        {
+          "label": "ランドローバー",
+          "tag": "land_rover_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/land_rover_%28company%29"
+        },
+        {
+          "label": "ロータス",
+          "tag": "lotus_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lotus_%28brand%29"
+        },
+        {
+          "label": "マセラティ",
+          "tag": "maserati",
+          "link": "https://danbooru.donmai.us/wiki_pages/maserati"
+        },
+        {
+          "label": "マツダ",
+          "tag": "mazda",
+          "link": "https://danbooru.donmai.us/wiki_pages/mazda"
+        },
+        {
+          "label": "マクラーレン",
+          "tag": "mclaren",
+          "link": "https://danbooru.donmai.us/wiki_pages/mclaren"
+        },
+        {
+          "label": "メルセデス・ベンツ",
+          "tag": "mercedes-benz",
+          "link": "https://danbooru.donmai.us/wiki_pages/mercedes-benz"
+        },
+        {
+          "label": "ミシュラン",
+          "tag": "michelin",
+          "link": "https://danbooru.donmai.us/wiki_pages/michelin"
+        },
+        {
+          "label": "ミニクーパー",
+          "tag": "mini_cooper",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_cooper"
+        },
+        {
+          "label": "三菱",
+          "tag": "mitsubishi_motors",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitsubishi_motors"
+        },
+        {
+          "label": "日産",
+          "tag": "nissan",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan"
+        },
+        {
+          "label": "オペル",
+          "tag": "opel_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/opel_%28company%29"
+        },
+        {
+          "label": "パガーニ",
+          "tag": "pagani",
+          "link": "https://danbooru.donmai.us/wiki_pages/pagani"
+        },
+        {
+          "label": "プジョー",
+          "tag": "peugeot",
+          "link": "https://danbooru.donmai.us/wiki_pages/peugeot"
+        },
+        {
+          "label": "プリマス",
+          "tag": "plymouth_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/plymouth_%28brand%29"
+        },
+        {
+          "label": "ポールスター",
+          "tag": "polestar_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/polestar_%28company%29"
+        },
+        {
+          "label": "ポンティアック",
+          "tag": "pontiac",
+          "link": "https://danbooru.donmai.us/wiki_pages/pontiac"
+        },
+        {
+          "label": "ポルシェ",
+          "tag": "porsche",
+          "link": "https://danbooru.donmai.us/wiki_pages/porsche"
+        },
+        {
+          "label": "ルノー",
+          "tag": "renault",
+          "link": "https://danbooru.donmai.us/wiki_pages/renault"
+        },
+        {
+          "label": "ロールスロイス",
+          "tag": "rolls-royce",
+          "link": "https://danbooru.donmai.us/wiki_pages/rolls-royce"
+        },
+        {
+          "label": "スバル",
+          "tag": "subaru_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/subaru_%28brand%29"
+        },
+        {
+          "label": "鈴木",
+          "tag": "suzuki_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/suzuki_%28company%29"
+        },
+        {
+          "label": "テスラ株式会社",
+          "tag": "tesla_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tesla_%28company%29"
+        },
+        {
+          "label": "トラバント",
+          "tag": "trabant",
+          "link": "https://danbooru.donmai.us/wiki_pages/trabant"
+        },
+        {
+          "label": "トライアンフ（オートバイ）",
+          "tag": "triumph_%28motorcycle%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/triumph_%28motorcycle%29"
+        },
+        {
+          "label": "トヨタ",
+          "tag": "toyota",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota"
+        },
+        {
+          "label": "レクサス",
+          "tag": "lexus",
+          "link": "https://danbooru.donmai.us/wiki_pages/lexus"
+        },
+        {
+          "label": "ベスパ",
+          "tag": "vespa",
+          "link": "https://danbooru.donmai.us/wiki_pages/vespa"
+        },
+        {
+          "label": "フォルクスワーゲン",
+          "tag": "volkswagen",
+          "link": "https://danbooru.donmai.us/wiki_pages/volkswagen"
+        },
+        {
+          "label": "ヤマハ",
+          "tag": "yamaha",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaha"
+        },
+        {
+          "label": "ザスタバ・オートモービルズ",
+          "tag": "zastava_automobiles",
+          "link": "https://danbooru.donmai.us/wiki_pages/zastava_automobiles"
+        }
+      ]
+    },
+    {
+      "セクション名": "エレクトロニクスとテクノロジー",
+      "タグ一覧": [
+        {
+          "label": "AMD",
+          "tag": "amd",
+          "link": "https://danbooru.donmai.us/wiki_pages/amd"
+        },
+        {
+          "label": "アップル社",
+          "tag": "apple_inc.",
+          "link": "https://danbooru.donmai.us/wiki_pages/apple_inc."
+        },
+        {
+          "label": "ビーツ・バイ・ドクター・ドレー",
+          "tag": "beats_by_dr._dre",
+          "link": "https://danbooru.donmai.us/wiki_pages/beats_by_dr._dre"
+        },
+        {
+          "label": "エイスース",
+          "tag": "asus",
+          "link": "https://danbooru.donmai.us/wiki_pages/asus"
+        },
+        {
+          "label": "アクセントウェア",
+          "tag": "axent_wear",
+          "link": "https://danbooru.donmai.us/wiki_pages/axent_wear"
+        },
+        {
+          "label": "ブラックベリー",
+          "tag": "blackberry_ltd",
+          "link": "https://danbooru.donmai.us/wiki_pages/blackberry_ltd"
+        },
+        {
+          "label": "ボーズ",
+          "tag": "bose",
+          "link": "https://danbooru.donmai.us/wiki_pages/bose"
+        },
+        {
+          "label": "キヤノン",
+          "tag": "canon_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/canon_%28company%29"
+        },
+        {
+          "label": "デル",
+          "tag": "dell",
+          "link": "https://danbooru.donmai.us/wiki_pages/dell"
+        },
+        {
+          "label": "ダイソン",
+          "tag": "dyson_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dyson_%28company%29"
+        },
+        {
+          "label": "エルガト",
+          "tag": "elgato_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/elgato_%28company%29"
+        },
+        {
+          "label": "エプソン",
+          "tag": "epson",
+          "link": "https://danbooru.donmai.us/wiki_pages/epson"
+        },
+        {
+          "label": "グーグル",
+          "tag": "google",
+          "link": "https://danbooru.donmai.us/wiki_pages/google"
+        },
+        {
+          "label": "フェイスブック",
+          "tag": "facebook",
+          "link": "https://danbooru.donmai.us/wiki_pages/facebook"
+        },
+        {
+          "label": "HTC",
+          "tag": "htc_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/htc_corporation"
+        },
+        {
+          "label": "ファーウェイ",
+          "tag": "huawei",
+          "link": "https://danbooru.donmai.us/wiki_pages/huawei"
+        },
+        {
+          "label": "インテル",
+          "tag": "intel",
+          "link": "https://danbooru.donmai.us/wiki_pages/intel"
+        },
+        {
+          "label": "JVC",
+          "tag": "jvc",
+          "link": "https://danbooru.donmai.us/wiki_pages/jvc"
+        },
+        {
+          "label": "コス",
+          "tag": "koss",
+          "link": "https://danbooru.donmai.us/wiki_pages/koss"
+        },
+        {
+          "label": "LGエレクトロニクス",
+          "tag": "lg_electronics",
+          "link": "https://danbooru.donmai.us/wiki_pages/lg_electronics"
+        },
+        {
+          "label": "マイクロソフト",
+          "tag": "microsoft",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft"
+        },
+        {
+          "label": "ニコン",
+          "tag": "nikon_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nikon_%28company%29"
+        },
+        {
+          "label": "ノキア",
+          "tag": "nokia_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nokia_%28company%29"
+        },
+        {
+          "label": "NVIDIA",
+          "tag": "nvidia",
+          "link": "https://danbooru.donmai.us/wiki_pages/nvidia"
+        },
+        {
+          "label": "オリンパス",
+          "tag": "olympus_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/olympus_%28company%29"
+        },
+        {
+          "label": "ペンタックス",
+          "tag": "pentax",
+          "link": "https://danbooru.donmai.us/wiki_pages/pentax"
+        },
+        {
+          "label": "パナソニック",
+          "tag": "panasonic_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/panasonic_corporation"
+        },
+        {
+          "label": "パイオニア",
+          "tag": "pioneer_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/pioneer_corporation"
+        },
+        {
+          "label": "サムスン",
+          "tag": "samsung",
+          "link": "https://danbooru.donmai.us/wiki_pages/samsung"
+        },
+        {
+          "label": "ゼンハイザー",
+          "tag": "sennheiser",
+          "link": "https://danbooru.donmai.us/wiki_pages/sennheiser"
+        },
+        {
+          "label": "シャープ株式会社",
+          "tag": "sharp_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/sharp_corporation"
+        },
+        {
+          "label": "ソニー",
+          "tag": "sony",
+          "link": "https://danbooru.donmai.us/wiki_pages/sony"
+        },
+        {
+          "label": "東芝",
+          "tag": "toshiba",
+          "link": "https://danbooru.donmai.us/wiki_pages/toshiba"
+        },
+        {
+          "label": "ワコム",
+          "tag": "wacom",
+          "link": "https://danbooru.donmai.us/wiki_pages/wacom"
+        }
+      ]
+    },
+    {
+      "セクション名": "メディアとエンターテイメント",
+      "タグ一覧": [
+        {
+          "label": "20世紀スタジオ",
+          "tag": "20th_century_studios",
+          "link": "https://danbooru.donmai.us/wiki_pages/20th_century_studios"
+        },
+        {
+          "label": "アベマTV",
+          "tag": "abematv",
+          "link": "https://danbooru.donmai.us/wiki_pages/abematv"
+        },
+        {
+          "label": "アダルトスイム",
+          "tag": "adult_swim",
+          "link": "https://danbooru.donmai.us/wiki_pages/adult_swim"
+        },
+        {
+          "label": "BBC",
+          "tag": "bbc_%28broadcaster%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bbc_%28broadcaster%29"
+        },
+        {
+          "label": "ビリビリ",
+          "tag": "bilibili",
+          "link": "https://danbooru.donmai.us/wiki_pages/bilibili"
+        },
+        {
+          "label": "ブシロード",
+          "tag": "bushiroad",
+          "link": "https://danbooru.donmai.us/wiki_pages/bushiroad"
+        },
+        {
+          "label": "カートゥーン ネットワーク",
+          "tag": "cartoon_network",
+          "link": "https://danbooru.donmai.us/wiki_pages/cartoon_network"
+        },
+        {
+          "label": "CBS",
+          "tag": "cbs",
+          "link": "https://danbooru.donmai.us/wiki_pages/cbs"
+        },
+        {
+          "label": "CNN",
+          "tag": "cnn",
+          "link": "https://danbooru.donmai.us/wiki_pages/cnn"
+        },
+        {
+          "label": "コロンビア・ピクチャーズ",
+          "tag": "columbia_pictures",
+          "link": "https://danbooru.donmai.us/wiki_pages/columbia_pictures"
+        },
+        {
+          "label": "ディズニー",
+          "tag": "disney",
+          "link": "https://danbooru.donmai.us/wiki_pages/disney"
+        },
+        {
+          "label": "フォックスニュース",
+          "tag": "fox_news",
+          "link": "https://danbooru.donmai.us/wiki_pages/fox_news"
+        },
+        {
+          "label": "フジテレビ",
+          "tag": "fuji_television",
+          "link": "https://danbooru.donmai.us/wiki_pages/fuji_television"
+        },
+        {
+          "label": "ガイナックス",
+          "tag": "gainax",
+          "link": "https://danbooru.donmai.us/wiki_pages/gainax"
+        },
+        {
+          "label": "HTB",
+          "tag": "htb",
+          "link": "https://danbooru.donmai.us/wiki_pages/htb"
+        },
+        {
+          "label": "角川",
+          "tag": "kadokawa",
+          "link": "https://danbooru.donmai.us/wiki_pages/kadokawa"
+        },
+        {
+          "label": "京都アニメーション",
+          "tag": "kyoto_animation",
+          "link": "https://danbooru.donmai.us/wiki_pages/kyoto_animation"
+        },
+        {
+          "label": "レジェンダリー・ピクチャーズ",
+          "tag": "legendary_pictures",
+          "link": "https://danbooru.donmai.us/wiki_pages/legendary_pictures"
+        },
+        {
+          "label": "NBC",
+          "tag": "nbc",
+          "link": "https://danbooru.donmai.us/wiki_pages/nbc"
+        },
+        {
+          "label": "ネットフリックス",
+          "tag": "netflix",
+          "link": "https://danbooru.donmai.us/wiki_pages/netflix"
+        },
+        {
+          "label": "ニコニコ",
+          "tag": "niconico",
+          "link": "https://danbooru.donmai.us/wiki_pages/niconico"
+        },
+        {
+          "label": "ニコロデオン",
+          "tag": "nickelodeon",
+          "link": "https://danbooru.donmai.us/wiki_pages/nickelodeon"
+        },
+        {
+          "label": "日本コロムビア",
+          "tag": "nippon_columbia",
+          "link": "https://danbooru.donmai.us/wiki_pages/nippon_columbia"
+        },
+        {
+          "label": "日本テレビ",
+          "tag": "nippon_tv",
+          "link": "https://danbooru.donmai.us/wiki_pages/nippon_tv"
+        },
+        {
+          "label": "NHK",
+          "tag": "nhk_%28broadcaster%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nhk_%28broadcaster%29"
+        },
+        {
+          "label": "パラマウント・ピクチャーズ",
+          "tag": "paramount_pictures",
+          "link": "https://danbooru.donmai.us/wiki_pages/paramount_pictures"
+        },
+        {
+          "label": "スタジオトリガー",
+          "tag": "trigger_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/trigger_%28company%29"
+        },
+        {
+          "label": "サンライズ",
+          "tag": "sunrise_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sunrise_%28company%29"
+        },
+        {
+          "label": "TBS",
+          "tag": "tbs",
+          "link": "https://danbooru.donmai.us/wiki_pages/tbs"
+        },
+        {
+          "label": "東映アニメーション",
+          "tag": "toei_animation",
+          "link": "https://danbooru.donmai.us/wiki_pages/toei_animation"
+        },
+        {
+          "label": "円谷プロダクション",
+          "tag": "tsuburaya_productions",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsuburaya_productions"
+        },
+        {
+          "label": "テレビ朝日",
+          "tag": "tv_asahi",
+          "link": "https://danbooru.donmai.us/wiki_pages/tv_asahi"
+        },
+        {
+          "label": "テレビ東京",
+          "tag": "tv_tokyo",
+          "link": "https://danbooru.donmai.us/wiki_pages/tv_tokyo"
+        },
+        {
+          "label": "ツイッチ",
+          "tag": "twitch.tv",
+          "link": "https://danbooru.donmai.us/wiki_pages/twitch.tv"
+        },
+        {
+          "label": "ホワイトフォックス",
+          "tag": "white_fox_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_fox_%28company%29"
+        },
+        {
+          "label": "WWE",
+          "tag": "wwe",
+          "link": "https://danbooru.donmai.us/wiki_pages/wwe"
+        },
+        {
+          "label": "ユーチューブ",
+          "tag": "youtube",
+          "link": "https://danbooru.donmai.us/wiki_pages/youtube"
+        }
+      ]
+    },
+    {
+      "セクション名": "楽器と機材",
+      "タグ一覧": [
+        {
+          "label": "フェンダー",
+          "tag": "fender_musical_instruments_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_musical_instruments_corporation"
+        },
+        {
+          "label": "フェンダー ストラトキャスター",
+          "tag": "fender_stratocaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_stratocaster"
+        },
+        {
+          "label": "ギブソン",
+          "tag": "gibson_brands_inc",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_brands_inc"
+        },
+        {
+          "label": "ギブソン フライングV",
+          "tag": "gibson_flying_v",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_flying_v"
+        },
+        {
+          "label": "ギブソン レスポール",
+          "tag": "gibson_les_paul",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_les_paul"
+        },
+        {
+          "label": "アイバニーズ",
+          "tag": "ibanez",
+          "link": "https://danbooru.donmai.us/wiki_pages/ibanez"
+        },
+        {
+          "label": "コルグ",
+          "tag": "korg",
+          "link": "https://danbooru.donmai.us/wiki_pages/korg"
+        },
+        {
+          "label": "マーシャルアンプ",
+          "tag": "marshall_amplification",
+          "link": "https://danbooru.donmai.us/wiki_pages/marshall_amplification"
+        },
+        {
+          "label": "リッケンバッカー",
+          "tag": "rickenbacker",
+          "link": "https://danbooru.donmai.us/wiki_pages/rickenbacker"
+        },
+        {
+          "label": "ローランド（会社）",
+          "tag": "roland_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/roland_%28company%29"
+        },
+        {
+          "label": "ヤマハ",
+          "tag": "yamaha",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaha"
+        }
+      ]
+    },
+    {
+      "セクション名": "飲み物",
+      "タグ一覧": [
+        {
+          "label": "セブンアップ",
+          "tag": "7up",
+          "link": "https://danbooru.donmai.us/wiki_pages/7up"
+        },
+        {
+          "label": "アサヒビール",
+          "tag": "asahi_breweries",
+          "link": "https://danbooru.donmai.us/wiki_pages/asahi_breweries"
+        },
+        {
+          "label": "A&W",
+          "tag": "a%26w",
+          "link": "https://danbooru.donmai.us/wiki_pages/a%26w"
+        },
+        {
+          "label": "ボスコーヒー",
+          "tag": "boss_coffee",
+          "link": "https://danbooru.donmai.us/wiki_pages/boss_coffee"
+        },
+        {
+          "label": "バドワイザー",
+          "tag": "budweiser",
+          "link": "https://danbooru.donmai.us/wiki_pages/budweiser"
+        },
+        {
+          "label": "カルピス",
+          "tag": "calpis",
+          "link": "https://danbooru.donmai.us/wiki_pages/calpis"
+        },
+        {
+          "label": "CCレモン",
+          "tag": "c.c._lemon",
+          "link": "https://danbooru.donmai.us/wiki_pages/c.c._lemon"
+        },
+        {
+          "label": "コカコーラ",
+          "tag": "coca-cola",
+          "link": "https://danbooru.donmai.us/wiki_pages/coca-cola"
+        },
+        {
+          "label": "コロナ",
+          "tag": "corona_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/corona_%28brand%29"
+        },
+        {
+          "label": "ドクターペッパー",
+          "tag": "dr_pepper",
+          "link": "https://danbooru.donmai.us/wiki_pages/dr_pepper"
+        },
+        {
+          "label": "エビアン",
+          "tag": "evian",
+          "link": "https://danbooru.donmai.us/wiki_pages/evian"
+        },
+        {
+          "label": "ファンタ",
+          "tag": "fanta",
+          "link": "https://danbooru.donmai.us/wiki_pages/fanta"
+        },
+        {
+          "label": "ゲーマーサプリメント",
+          "tag": "gamer_supps",
+          "link": "https://danbooru.donmai.us/wiki_pages/gamer_supps"
+        },
+        {
+          "label": "ゲータレード",
+          "tag": "gatorade",
+          "link": "https://danbooru.donmai.us/wiki_pages/gatorade"
+        },
+        {
+          "label": "ジョージアマックスコーヒー",
+          "tag": "georgia_max_coffee",
+          "link": "https://danbooru.donmai.us/wiki_pages/georgia_max_coffee"
+        },
+        {
+          "label": "ギネス（ビール）",
+          "tag": "guinness_%28beer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/guinness_%28beer%29"
+        },
+        {
+          "label": "ハイネケン",
+          "tag": "heineken",
+          "link": "https://danbooru.donmai.us/wiki_pages/heineken"
+        },
+        {
+          "label": "ヘネシー",
+          "tag": "hennessy",
+          "link": "https://danbooru.donmai.us/wiki_pages/hennessy"
+        },
+        {
+          "label": "ジャックダニエル",
+          "tag": "jack_daniel%27s",
+          "link": "https://danbooru.donmai.us/wiki_pages/jack_daniel%27s"
+        },
+        {
+          "label": "キリン（会社）",
+          "tag": "kirin_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kirin_%28company%29"
+        },
+        {
+          "label": "リポビタン",
+          "tag": "lipovitan",
+          "link": "https://danbooru.donmai.us/wiki_pages/lipovitan"
+        },
+        {
+          "label": "リプトン",
+          "tag": "lipton",
+          "link": "https://danbooru.donmai.us/wiki_pages/lipton"
+        },
+        {
+          "label": "モンスターエナジー",
+          "tag": "monster_energy",
+          "link": "https://danbooru.donmai.us/wiki_pages/monster_energy"
+        },
+        {
+          "label": "マウンテンデュー",
+          "tag": "mountain_dew",
+          "link": "https://danbooru.donmai.us/wiki_pages/mountain_dew"
+        },
+        {
+          "label": "オランジーナ",
+          "tag": "orangina",
+          "link": "https://danbooru.donmai.us/wiki_pages/orangina"
+        },
+        {
+          "label": "オリオン",
+          "tag": "orion_beer",
+          "link": "https://danbooru.donmai.us/wiki_pages/orion_beer"
+        },
+        {
+          "label": "パブストブルーリボン",
+          "tag": "pabst_blue_ribbon",
+          "link": "https://danbooru.donmai.us/wiki_pages/pabst_blue_ribbon"
+        },
+        {
+          "label": "ペプシ",
+          "tag": "pepsi",
+          "link": "https://danbooru.donmai.us/wiki_pages/pepsi"
+        },
+        {
+          "label": "ペルノ・フィス",
+          "tag": "pernod_fils",
+          "link": "https://danbooru.donmai.us/wiki_pages/pernod_fils"
+        },
+        {
+          "label": "ポカリスエット",
+          "tag": "pocari_sweat",
+          "link": "https://danbooru.donmai.us/wiki_pages/pocari_sweat"
+        },
+        {
+          "label": "レッドブル",
+          "tag": "red_bull",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_bull"
+        },
+        {
+          "label": "ロックスター（エナジードリンク）",
+          "tag": "rockstar_%28energy_drink%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rockstar_%28energy_drink%29"
+        },
+        {
+          "label": "サッポロビール",
+          "tag": "sapporo_beer",
+          "link": "https://danbooru.donmai.us/wiki_pages/sapporo_beer"
+        },
+        {
+          "label": "スミノフ",
+          "tag": "smirnoff_%28vodka%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/smirnoff_%28vodka%29"
+        },
+        {
+          "label": "スプライト（飲み物）",
+          "tag": "sprite_%28drink%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sprite_%28drink%29"
+        },
+        {
+          "label": "サントリー",
+          "tag": "suntory",
+          "link": "https://danbooru.donmai.us/wiki_pages/suntory"
+        },
+        {
+          "label": "テカテ",
+          "tag": "tecate",
+          "link": "https://danbooru.donmai.us/wiki_pages/tecate"
+        },
+        {
+          "label": "青島",
+          "tag": "tsingtao_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsingtao_%28brand%29"
+        },
+        {
+          "label": "UCCコーヒー",
+          "tag": "ucc_coffee",
+          "link": "https://danbooru.donmai.us/wiki_pages/ucc_coffee"
+        },
+        {
+          "label": "エビス",
+          "tag": "yebisu",
+          "link": "https://danbooru.donmai.us/wiki_pages/yebisu"
+        }
+      ]
+    },
+    {
+      "セクション名": "食品",
+      "タグ一覧": [
+        {
+          "label": "暴君ハバネロ",
+          "tag": "boukun_habanero",
+          "link": "https://danbooru.donmai.us/wiki_pages/boukun_habanero"
+        },
+        {
+          "label": "ブルボン",
+          "tag": "bourbon_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/bourbon_corporation"
+        },
+        {
+          "label": "アルフォート",
+          "tag": "alfort_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/alfort_%28brand%29"
+        },
+        {
+          "label": "ホワイトロリータ",
+          "tag": "white_rollita",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_rollita"
+        },
+        {
+          "label": "Bugles（スナック菓子）",
+          "tag": "bugles_%28food%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bugles_%28food%29"
+        },
+        {
+          "label": "キャドバリー",
+          "tag": "cadbury",
+          "link": "https://danbooru.donmai.us/wiki_pages/cadbury"
+        },
+        {
+          "label": "カルビー（ポテトチップス）",
+          "tag": "calbee_%28potato_chips%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/calbee_%28potato_chips%29"
+        },
+        {
+          "label": "じゃがりこ",
+          "tag": "jagariko",
+          "link": "https://danbooru.donmai.us/wiki_pages/jagariko"
+        },
+        {
+          "label": "かっぱえびせん",
+          "tag": "kappa_ebisen",
+          "link": "https://danbooru.donmai.us/wiki_pages/kappa_ebisen"
+        },
+        {
+          "label": "カロリーメイト",
+          "tag": "caloriemate",
+          "link": "https://danbooru.donmai.us/wiki_pages/caloriemate"
+        },
+        {
+          "label": "キャンベルズ",
+          "tag": "campbell%27s",
+          "link": "https://danbooru.donmai.us/wiki_pages/campbell%27s"
+        },
+        {
+          "label": "チップスター",
+          "tag": "chip_star",
+          "link": "https://danbooru.donmai.us/wiki_pages/chip_star"
+        },
+        {
+          "label": "チュッパチャップス",
+          "tag": "chupa_chups",
+          "link": "https://danbooru.donmai.us/wiki_pages/chupa_chups"
+        },
+        {
+          "label": "ドリトス",
+          "tag": "doritos",
+          "link": "https://danbooru.donmai.us/wiki_pages/doritos"
+        },
+        {
+          "label": "グリコ",
+          "tag": "glico",
+          "link": "https://danbooru.donmai.us/wiki_pages/glico"
+        },
+        {
+          "label": "ポッキー",
+          "tag": "pocky",
+          "link": "https://danbooru.donmai.us/wiki_pages/pocky"
+        },
+        {
+          "label": "プリッツ",
+          "tag": "pretz",
+          "link": "https://danbooru.donmai.us/wiki_pages/pretz"
+        },
+        {
+          "label": "ゴディバ",
+          "tag": "godiva_chocolatier",
+          "link": "https://danbooru.donmai.us/wiki_pages/godiva_chocolatier"
+        },
+        {
+          "label": "ハーゲンダッツ",
+          "tag": "haagen-dazs",
+          "link": "https://danbooru.donmai.us/wiki_pages/haagen-dazs"
+        },
+        {
+          "label": "ハリボー",
+          "tag": "haribo",
+          "link": "https://danbooru.donmai.us/wiki_pages/haribo"
+        },
+        {
+          "label": "ハインツ",
+          "tag": "heinz",
+          "link": "https://danbooru.donmai.us/wiki_pages/heinz"
+        },
+        {
+          "label": "ハーシーズ",
+          "tag": "hershey%27s",
+          "link": "https://danbooru.donmai.us/wiki_pages/hershey%27s"
+        },
+        {
+          "label": "広田",
+          "tag": "hirota_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hirota_%28company%29"
+        },
+        {
+          "label": "カゴメ（ブランド）",
+          "tag": "kagome_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kagome_%28brand%29"
+        },
+        {
+          "label": "キッコーマン",
+          "tag": "kikkoman",
+          "link": "https://danbooru.donmai.us/wiki_pages/kikkoman"
+        },
+        {
+          "label": "クラフト",
+          "tag": "kraft",
+          "link": "https://danbooru.donmai.us/wiki_pages/kraft"
+        },
+        {
+          "label": "レイズ",
+          "tag": "lay%27s_%28potato_chips%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lay%27s_%28potato_chips%29"
+        },
+        {
+          "label": "ロッテ",
+          "tag": "lotte_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lotte_%28company%29"
+        },
+        {
+          "label": "チョコパイ",
+          "tag": "choco_pie",
+          "link": "https://danbooru.donmai.us/wiki_pages/choco_pie"
+        },
+        {
+          "label": "明治",
+          "tag": "meiji_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/meiji_%28brand%29"
+        },
+        {
+          "label": "きのこの山",
+          "tag": "kinoko_no_yama",
+          "link": "https://danbooru.donmai.us/wiki_pages/kinoko_no_yama"
+        },
+        {
+          "label": "たけのこの里",
+          "tag": "takenoko_no_sato_%28food%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/takenoko_no_sato_%28food%29"
+        },
+        {
+          "label": "M&M's",
+          "tag": "m%26m%27s",
+          "link": "https://danbooru.donmai.us/wiki_pages/m%26m%27s"
+        },
+        {
+          "label": "森永",
+          "tag": "morinaga_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/morinaga_%28brand%29"
+        },
+        {
+          "label": "ネスレ",
+          "tag": "nestle",
+          "link": "https://danbooru.donmai.us/wiki_pages/nestle"
+        },
+        {
+          "label": "キットカット",
+          "tag": "kitkat",
+          "link": "https://danbooru.donmai.us/wiki_pages/kitkat"
+        },
+        {
+          "label": "日清",
+          "tag": "nissin",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissin"
+        },
+        {
+          "label": "日清カップヌードル",
+          "tag": "nissin_cup_noodle",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissin_cup_noodle"
+        },
+        {
+          "label": "ヌテラ",
+          "tag": "nutella",
+          "link": "https://danbooru.donmai.us/wiki_pages/nutella"
+        },
+        {
+          "label": "オレオ",
+          "tag": "oreo",
+          "link": "https://danbooru.donmai.us/wiki_pages/oreo"
+        },
+        {
+          "label": "プリングルス",
+          "tag": "pringles",
+          "link": "https://danbooru.donmai.us/wiki_pages/pringles"
+        },
+        {
+          "label": "白い恋人",
+          "tag": "shiroi_koibito",
+          "link": "https://danbooru.donmai.us/wiki_pages/shiroi_koibito"
+        },
+        {
+          "label": "スニッカーズ",
+          "tag": "snickers_%28brand%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/snickers_%28brand%29"
+        },
+        {
+          "label": "スパム",
+          "tag": "spam_%28food%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/spam_%28food%29"
+        },
+        {
+          "label": "サンメイド",
+          "tag": "sun-maid",
+          "link": "https://danbooru.donmai.us/wiki_pages/sun-maid"
+        },
+        {
+          "label": "ティムタム",
+          "tag": "tim_tam",
+          "link": "https://danbooru.donmai.us/wiki_pages/tim_tam"
+        },
+        {
+          "label": "チロルチョコレート",
+          "tag": "tirol_chocolate",
+          "link": "https://danbooru.donmai.us/wiki_pages/tirol_chocolate"
+        },
+        {
+          "label": "トブラローネ",
+          "tag": "toblerone",
+          "link": "https://danbooru.donmai.us/wiki_pages/toblerone"
+        },
+        {
+          "label": "ヤクルト",
+          "tag": "yakult",
+          "link": "https://danbooru.donmai.us/wiki_pages/yakult"
+        },
+        {
+          "label": "やまよし",
+          "tag": "yamayoshi_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamayoshi_%28company%29"
+        },
+        {
+          "label": "山崎製パン",
+          "tag": "yamazaki_baking",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamazaki_baking"
+        }
+      ]
+    },
+    {
+      "セクション名": "レストランとファーストフードチェーン",
+      "タグ一覧": [
+        {
+          "label": "アンナミラーズ",
+          "tag": "anna_miller",
+          "link": "https://danbooru.donmai.us/wiki_pages/anna_miller"
+        },
+        {
+          "label": "ブラックスターバーガー",
+          "tag": "black_star_burger",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_star_burger"
+        },
+        {
+          "label": "バスキン・ロビンス",
+          "tag": "baskin-robbins",
+          "link": "https://danbooru.donmai.us/wiki_pages/baskin-robbins"
+        },
+        {
+          "label": "バーガーキング",
+          "tag": "burger_king",
+          "link": "https://danbooru.donmai.us/wiki_pages/burger_king"
+        },
+        {
+          "label": "チックフィレイ",
+          "tag": "chick-fil-a",
+          "link": "https://danbooru.donmai.us/wiki_pages/chick-fil-a"
+        },
+        {
+          "label": "コールドストーンクリーマリー",
+          "tag": "cold_stone_creamery",
+          "link": "https://danbooru.donmai.us/wiki_pages/cold_stone_creamery"
+        },
+        {
+          "label": "CoCo壱番屋",
+          "tag": "coco_ichibanya",
+          "link": "https://danbooru.donmai.us/wiki_pages/coco_ichibanya"
+        },
+        {
+          "label": "ココス",
+          "tag": "coco%27s",
+          "link": "https://danbooru.donmai.us/wiki_pages/coco%27s"
+        },
+        {
+          "label": "デイリークイーン",
+          "tag": "dairy_queen",
+          "link": "https://danbooru.donmai.us/wiki_pages/dairy_queen"
+        },
+        {
+          "label": "ドミノ・ピザ",
+          "tag": "domino%27s_pizza",
+          "link": "https://danbooru.donmai.us/wiki_pages/domino%27s_pizza"
+        },
+        {
+          "label": "ダンキンドーナツ",
+          "tag": "dunkin%27_donuts",
+          "link": "https://danbooru.donmai.us/wiki_pages/dunkin%27_donuts"
+        },
+        {
+          "label": "フーターズ",
+          "tag": "hooters",
+          "link": "https://danbooru.donmai.us/wiki_pages/hooters"
+        },
+        {
+          "label": "ジョリビー",
+          "tag": "jollibee",
+          "link": "https://danbooru.donmai.us/wiki_pages/jollibee"
+        },
+        {
+          "label": "ケンタッキーフライドチキン",
+          "tag": "kfc",
+          "link": "https://danbooru.donmai.us/wiki_pages/kfc"
+        },
+        {
+          "label": "クリスピー・クリーム",
+          "tag": "krispy_kreme",
+          "link": "https://danbooru.donmai.us/wiki_pages/krispy_kreme"
+        },
+        {
+          "label": "リトルシーザーズ",
+          "tag": "little_caesars",
+          "link": "https://danbooru.donmai.us/wiki_pages/little_caesars"
+        },
+        {
+          "label": "ロッテリア",
+          "tag": "lotteria",
+          "link": "https://danbooru.donmai.us/wiki_pages/lotteria"
+        },
+        {
+          "label": "松屋フーズ",
+          "tag": "matsuya_foods",
+          "link": "https://danbooru.donmai.us/wiki_pages/matsuya_foods"
+        },
+        {
+          "label": "マクドナルド",
+          "tag": "mcdonald%27s",
+          "link": "https://danbooru.donmai.us/wiki_pages/mcdonald%27s"
+        },
+        {
+          "label": "ミスタードーナツ",
+          "tag": "mister_donut",
+          "link": "https://danbooru.donmai.us/wiki_pages/mister_donut"
+        },
+        {
+          "label": "モスバーガー",
+          "tag": "mos_burger",
+          "link": "https://danbooru.donmai.us/wiki_pages/mos_burger"
+        },
+        {
+          "label": "大阪王将",
+          "tag": "osaka_ohsho",
+          "link": "https://danbooru.donmai.us/wiki_pages/osaka_ohsho"
+        },
+        {
+          "label": "パパ・ジョンズ",
+          "tag": "papa_john%27s",
+          "link": "https://danbooru.donmai.us/wiki_pages/papa_john%27s"
+        },
+        {
+          "label": "ピザハット",
+          "tag": "pizza_hut",
+          "link": "https://danbooru.donmai.us/wiki_pages/pizza_hut"
+        },
+        {
+          "label": "ピザ・ラ",
+          "tag": "pizza-la",
+          "link": "https://danbooru.donmai.us/wiki_pages/pizza-la"
+        },
+        {
+          "label": "スターバックス",
+          "tag": "starbucks",
+          "link": "https://danbooru.donmai.us/wiki_pages/starbucks"
+        },
+        {
+          "label": "サブウェイ",
+          "tag": "subway_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/subway_%28company%29"
+        },
+        {
+          "label": "すき家",
+          "tag": "sukiya",
+          "link": "https://danbooru.donmai.us/wiki_pages/sukiya"
+        },
+        {
+          "label": "ティムホートンズ",
+          "tag": "tim_hortons",
+          "link": "https://danbooru.donmai.us/wiki_pages/tim_hortons"
+        },
+        {
+          "label": "ウェンディーズ",
+          "tag": "wendy%27s",
+          "link": "https://danbooru.donmai.us/wiki_pages/wendy%27s"
+        },
+        {
+          "label": "吉野家",
+          "tag": "yoshinoya_%28restaurant%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yoshinoya_%28restaurant%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "ビデオゲーム",
+      "タグ一覧": [
+        {
+          "label": "アタリ",
+          "tag": "atari",
+          "link": "https://danbooru.donmai.us/wiki_pages/atari"
+        },
+        {
+          "label": "アトラス",
+          "tag": "atlus",
+          "link": "https://danbooru.donmai.us/wiki_pages/atlus"
+        },
+        {
+          "label": "バンダイナムコ",
+          "tag": "bandai_namco",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandai_namco"
+        },
+        {
+          "label": "カプコン",
+          "tag": "capcom",
+          "link": "https://danbooru.donmai.us/wiki_pages/capcom"
+        },
+        {
+          "label": "コンパイルハート",
+          "tag": "compile_heart",
+          "link": "https://danbooru.donmai.us/wiki_pages/compile_heart"
+        },
+        {
+          "label": "DMM",
+          "tag": "dmm",
+          "link": "https://danbooru.donmai.us/wiki_pages/dmm"
+        },
+        {
+          "label": "エレクトロニック・アーツ",
+          "tag": "electronic_arts",
+          "link": "https://danbooru.donmai.us/wiki_pages/electronic_arts"
+        },
+        {
+          "label": "コナミ",
+          "tag": "konami",
+          "link": "https://danbooru.donmai.us/wiki_pages/konami"
+        },
+        {
+          "label": "アイデアファクトリー",
+          "tag": "idea_factory",
+          "link": "https://danbooru.donmai.us/wiki_pages/idea_factory"
+        },
+        {
+          "label": "ミホヨ",
+          "tag": "mihoyo",
+          "link": "https://danbooru.donmai.us/wiki_pages/mihoyo"
+        },
+        {
+          "label": "任天堂",
+          "tag": "nintendo",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo"
+        },
+        {
+          "label": "上海ヨスター",
+          "tag": "yostar",
+          "link": "https://danbooru.donmai.us/wiki_pages/yostar"
+        },
+        {
+          "label": "セガ",
+          "tag": "sega",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega"
+        },
+        {
+          "label": "ソニー",
+          "tag": "sony",
+          "link": "https://danbooru.donmai.us/wiki_pages/sony"
+        },
+        {
+          "label": "スクウェア・エニックス",
+          "tag": "square_enix",
+          "link": "https://danbooru.donmai.us/wiki_pages/square_enix"
+        },
+        {
+          "label": "タイプムーン",
+          "tag": "type-moon",
+          "link": "https://danbooru.donmai.us/wiki_pages/type-moon"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他消費財",
+      "タグ一覧": [
+        {
+          "label": "クロロックス",
+          "tag": "clorox",
+          "link": "https://danbooru.donmai.us/wiki_pages/clorox"
+        },
+        {
+          "label": "コッパートーン",
+          "tag": "coppertone",
+          "link": "https://danbooru.donmai.us/wiki_pages/coppertone"
+        },
+        {
+          "label": "ハズブロ",
+          "tag": "hasbro",
+          "link": "https://danbooru.donmai.us/wiki_pages/hasbro"
+        },
+        {
+          "label": "マリー・メゾン・ド・ミュー",
+          "tag": "marie_maison_de_mieux",
+          "link": "https://danbooru.donmai.us/wiki_pages/marie_maison_de_mieux"
+        },
+        {
+          "label": "マールボロ",
+          "tag": "marlboro",
+          "link": "https://danbooru.donmai.us/wiki_pages/marlboro"
+        },
+        {
+          "label": "サンリオ",
+          "tag": "sanrio",
+          "link": "https://danbooru.donmai.us/wiki_pages/sanrio"
+        },
+        {
+          "label": "サンエックス",
+          "tag": "san-x",
+          "link": "https://danbooru.donmai.us/wiki_pages/san-x"
+        },
+        {
+          "label": "タイド（洗剤）",
+          "tag": "tide_%28detergent%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tide_%28detergent%29"
+        },
+        {
+          "label": "トミー",
+          "tag": "tomy_company_ltd.",
+          "link": "https://danbooru.donmai.us/wiki_pages/tomy_company_ltd."
+        },
+        {
+          "label": "ユートゥーズ",
+          "tag": "youtooz",
+          "link": "https://danbooru.donmai.us/wiki_pages/youtooz"
+        }
+      ]
+    },
+    {
+      "セクション名": "小売・サービス",
+      "タグ一覧": [
+        {
+          "label": "セブンイレブン",
+          "tag": "7-eleven",
+          "link": "https://danbooru.donmai.us/wiki_pages/7-eleven"
+        },
+        {
+          "label": "アマゾン",
+          "tag": "amazon_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/amazon_%28company%29"
+        },
+        {
+          "label": "サークルKサンクス",
+          "tag": "circle_k_sunkus",
+          "link": "https://danbooru.donmai.us/wiki_pages/circle_k_sunkus"
+        },
+        {
+          "label": "ファミリーマート",
+          "tag": "familymart",
+          "link": "https://danbooru.donmai.us/wiki_pages/familymart"
+        },
+        {
+          "label": "フェデックス",
+          "tag": "fedex",
+          "link": "https://danbooru.donmai.us/wiki_pages/fedex"
+        },
+        {
+          "label": "イケア",
+          "tag": "ikea",
+          "link": "https://danbooru.donmai.us/wiki_pages/ikea"
+        },
+        {
+          "label": "伊勢丹",
+          "tag": "isetan_%28department_store%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/isetan_%28department_store%29"
+        },
+        {
+          "label": "ローソン",
+          "tag": "lawson",
+          "link": "https://danbooru.donmai.us/wiki_pages/lawson"
+        },
+        {
+          "label": "丸井",
+          "tag": "marui_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/marui_%28company%29"
+        },
+        {
+          "label": "マスターカード",
+          "tag": "mastercard",
+          "link": "https://danbooru.donmai.us/wiki_pages/mastercard"
+        },
+        {
+          "label": "三越",
+          "tag": "mitsukoshi_%28department_store%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitsukoshi_%28department_store%29"
+        },
+        {
+          "label": "ソフマップ",
+          "tag": "sofmap",
+          "link": "https://danbooru.donmai.us/wiki_pages/sofmap"
+        },
+        {
+          "label": "ウォルマート",
+          "tag": "walmart",
+          "link": "https://danbooru.donmai.us/wiki_pages/walmart"
+        }
+      ]
+    },
+    {
+      "セクション名": "貨物および荷物の配送",
+      "タグ一覧": [
+        {
+          "label": "CSXコーポレーション",
+          "tag": "csx_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/csx_corporation"
+        },
+        {
+          "label": "DHL",
+          "tag": "dhl",
+          "link": "https://danbooru.donmai.us/wiki_pages/dhl"
+        },
+        {
+          "label": "フェデックス",
+          "tag": "fedex",
+          "link": "https://danbooru.donmai.us/wiki_pages/fedex"
+        },
+        {
+          "label": "佐川急便",
+          "tag": "sagawa_express",
+          "link": "https://danbooru.donmai.us/wiki_pages/sagawa_express"
+        },
+        {
+          "label": "ユナイテッド・パーセル・サービス",
+          "tag": "united_parcel_service",
+          "link": "https://danbooru.donmai.us/wiki_pages/united_parcel_service"
+        },
+        {
+          "label": "米国郵便公社",
+          "tag": "united_states_postal_service",
+          "link": "https://danbooru.donmai.us/wiki_pages/united_states_postal_service"
+        },
+        {
+          "label": "ヤマト運輸",
+          "tag": "yamato_transport",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamato_transport"
+        }
+      ]
+    },
+    {
+      "セクション名": "交通機関",
+      "タグ一覧": [
+        {
+          "label": "全日本空輸",
+          "tag": "all_nippon_airways",
+          "link": "https://danbooru.donmai.us/wiki_pages/all_nippon_airways"
+        },
+        {
+          "label": "キャセイパシフィック航空",
+          "tag": "cathay_pacific",
+          "link": "https://danbooru.donmai.us/wiki_pages/cathay_pacific"
+        },
+        {
+          "label": "東日本旅客鉄道株式会社",
+          "tag": "east_japan_railway_company",
+          "link": "https://danbooru.donmai.us/wiki_pages/east_japan_railway_company"
+        },
+        {
+          "label": "江ノ島電鉄",
+          "tag": "enoshima_electric_railway",
+          "link": "https://danbooru.donmai.us/wiki_pages/enoshima_electric_railway"
+        },
+        {
+          "label": "日本航空",
+          "tag": "japan_airlines",
+          "link": "https://danbooru.donmai.us/wiki_pages/japan_airlines"
+        },
+        {
+          "label": "JRグループ",
+          "tag": "japan_railways",
+          "link": "https://danbooru.donmai.us/wiki_pages/japan_railways"
+        },
+        {
+          "label": "京浜急行電鉄",
+          "tag": "keihin_kyuukou_dentetsu",
+          "link": "https://danbooru.donmai.us/wiki_pages/keihin_kyuukou_dentetsu"
+        },
+        {
+          "label": "京王電鉄",
+          "tag": "keio_dentetsu",
+          "link": "https://danbooru.donmai.us/wiki_pages/keio_dentetsu"
+        },
+        {
+          "label": "インドネシアのケレタ・アピ",
+          "tag": "kereta_api_indonesia",
+          "link": "https://danbooru.donmai.us/wiki_pages/kereta_api_indonesia"
+        },
+        {
+          "label": "Kereta Cepat インドネシア-中国 (KCIC(Whoosh))",
+          "tag": "kereta_cepat_indonesia_china",
+          "link": "https://danbooru.donmai.us/wiki_pages/kereta_cepat_indonesia_china"
+        },
+        {
+          "label": "モスクワ地下鉄",
+          "tag": "moscow_metro",
+          "link": "https://danbooru.donmai.us/wiki_pages/moscow_metro"
+        },
+        {
+          "label": "小田急電鉄",
+          "tag": "odakyu_electric_railway",
+          "link": "https://danbooru.donmai.us/wiki_pages/odakyu_electric_railway"
+        },
+        {
+          "label": "ピーチ（航空会社）",
+          "tag": "peach_%28airline%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/peach_%28airline%29"
+        },
+        {
+          "label": "カンタス航空",
+          "tag": "qantas",
+          "link": "https://danbooru.donmai.us/wiki_pages/qantas"
+        },
+        {
+          "label": "ロシア鉄道",
+          "tag": "russian_railways",
+          "link": "https://danbooru.donmai.us/wiki_pages/russian_railways"
+        },
+        {
+          "label": "西武鉄道",
+          "tag": "seibu_railway",
+          "link": "https://danbooru.donmai.us/wiki_pages/seibu_railway"
+        },
+        {
+          "label": "シンガポール航空",
+          "tag": "singapore_airlines",
+          "link": "https://danbooru.donmai.us/wiki_pages/singapore_airlines"
+        },
+        {
+          "label": "東武鉄道",
+          "tag": "tobu_railway",
+          "link": "https://danbooru.donmai.us/wiki_pages/tobu_railway"
+        },
+        {
+          "label": "東京メトロ",
+          "tag": "tokyo_metro",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_metro"
+        },
+        {
+          "label": "東京臨海高速鉄道",
+          "tag": "tokyo_rinkai_kousoku_tetsudou",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_rinkai_kousoku_tetsudou"
+        },
+        {
+          "label": "西日本旅客鉄道株式会社",
+          "tag": "west_japan_railway_company",
+          "link": "https://danbooru.donmai.us/wiki_pages/west_japan_railway_company"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "ブランド名の模倣",
+          "tag": "brand_name_imitation",
+          "link": "https://danbooru.donmai.us/wiki_pages/brand_name_imitation"
+        },
+        {
+          "label": "会社名",
+          "tag": "company_name",
+          "link": "https://danbooru.donmai.us/wiki_pages/company_name"
+        },
+        {
+          "label": "ロゴ",
+          "tag": "logo",
+          "link": "https://danbooru.donmai.us/wiki_pages/logo"
+        },
+        {
+          "label": "プロダクトプレイスメント",
+          "tag": "product_placement",
+          "link": "https://danbooru.donmai.us/wiki_pages/product_placement"
+        },
+        {
+          "label": "公式マスコットのリスト",
+          "tag": "list_of_official_mascots",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_official_mascots"
+        },
+        {
+          "label": "タググループ：スポーツ",
+          "tag": "tag_group%3Asports",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asports"
+        }
+      ]
+    }
+  ]
+}

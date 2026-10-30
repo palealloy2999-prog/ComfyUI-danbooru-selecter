@@ -1,0 +1,724 @@
+[
+  {
+    "label": "画像の構成とスタイル",
+    "children": [
+      {
+        "label": "芸術的自由",
+        "tag": "artistic_license",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aartistic_license"
+      },
+      {
+        "label": "画像構成",
+        "tag": "image_composition",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aimage_composition",
+        "children": [
+          {
+            "label": "背景",
+            "tag": "backgrounds",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abackgrounds"
+          },
+          {
+            "label": "検閲",
+            "tag": "censorship",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acensorship"
+          },
+          {
+            "label": "色",
+            "tag": "colors",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acolors"
+          },
+          {
+            "label": "フォーカスタグ",
+            "tag": "focus_tags",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afocus_tags"
+          },
+          {
+            "label": "照明",
+            "tag": "lighting",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alighting"
+          },
+          {
+            "label": "プリント",
+            "tag": "prints",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aprints"
+          },
+          {
+            "label": "スタイルパロディ一覧",
+            "tag": "list_of_style_parodies",
+            "link": "https://danbooru.donmai.us/wiki_pages/list_of_style_parodies"
+          },
+          {
+            "label": "視覚的な美学",
+            "tag": "visual_aesthetic",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Avisual_aesthetic"
+          }
+        ]
+      },
+      {
+        "label": "パターン",
+        "tag": "patterns",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apatterns"
+      },
+      {
+        "label": "シンボル",
+        "tag": "symbols",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asymbols"
+      },
+      {
+        "label": "テキスト",
+        "tag": "text",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Atext"
+      },
+      {
+        "label": "年タグ",
+        "tag": "year_tags",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ayear_tags"
+      }
+    ]
+  },
+  {
+    "label": "体",
+    "children": [
+      {
+        "label": "体の部位",
+        "tag": "body_parts",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abody_parts",
+        "children": [
+          {
+            "label": "お尻",
+            "tag": "ass",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aass"
+          },
+          {
+            "label": "胸タグ",
+            "tag": "breasts_tags",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abreasts_tags",
+            "children": [
+              {
+                "label": "乳輪",
+                "tag": "areolae",
+                "link": "https://danbooru.donmai.us/posts?tags=areolae"
+              },
+              {
+                "label": "大きな乳輪",
+                "tag": "large_areolae",
+                "link": "https://danbooru.donmai.us/posts?tags=large_areolae"
+              },
+              {
+                "label": "モントゴメリー腺",
+                "tag": "glands_of_montgomery",
+                "link": "https://danbooru.donmai.us/posts?tags=glands_of_montgomery"
+              }
+            ]
+          },
+          {
+            "label": "顔タグ",
+            "tag": "face_tags",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aface_tags",
+            "children": [
+              {
+                "label": "目タグ",
+                "tag": "eyes_tags",
+                "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyes_tags"
+              },
+              {
+                "label": "鼻",
+                "tag": "nose",
+                "link": "https://danbooru.donmai.us/posts?tags=nose"
+              },
+              {
+                "label": "唇",
+                "tag": "lips",
+                "link": "https://danbooru.donmai.us/posts?tags=lips"
+              },
+              {
+                "label": "眉毛",
+                "tag": "eyebrows",
+                "link": "https://danbooru.donmai.us/posts?tags=eyebrows"
+              },
+              {
+                "label": "舌",
+                "tag": "tongue",
+                "link": "https://danbooru.donmai.us/posts?tags=tongue"
+              },
+              {
+                "label": "長い舌",
+                "tag": "long_tongue",
+                "link": "https://danbooru.donmai.us/posts?tags=long_tongue"
+              },
+              {
+                "label": "うなじ",
+                "tag": "nape",
+                "link": "https://danbooru.donmai.us/posts?tags=nape"
+              }
+            ]
+          },
+          {
+            "label": "耳タグ",
+            "tag": "ears_tags",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aears_tags",
+            "children": [
+              {
+                "label": "耳にフォーカス",
+                "tag": "ear_focus",
+                "link": "https://danbooru.donmai.us/wiki_pages/ear_focus"
+              }
+            ]
+          },
+          {
+            "label": "ヘア",
+            "tag": "hair",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair",
+            "children": [
+              {
+                "label": " ヘアカラー",
+                "tag": "hair_color",
+                "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_color"
+              },
+              {
+                "label": "ヘアスタイル",
+                "tag": "hair_styles",
+                "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles"
+              },
+              {
+                "label": "あごひげ",
+                "tag": "beard",
+                "link": "https://danbooru.donmai.us/posts?tags=beard"
+              },
+              {
+                "label": "口ひげ",
+                "tag": "mustache",
+                "link": "https://danbooru.donmai.us/posts?tags=mustache"
+              }
+            ]
+          },
+          {
+            "label": "手",
+            "tag": "hands",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahands",
+            "children": [
+              {
+                "label": "ジェスチャー",
+                "tag": "gestures",
+                "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Agestures"
+              }
+            ]
+          },
+          {
+            "label": "脇の下",
+            "tag": "armpits",
+            "link": "https://danbooru.donmai.us/posts?tags=armpits"
+          },
+          {
+            "label": "ネックとネックウェア",
+            "tag": "neck_and_neckwear",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aneck_and_neckwear"
+          },
+          {
+            "label": "オン (オブジェクト)",
+            "tag": "on",
+            "link": "https://danbooru.donmai.us/wiki_pages/on"
+          },
+          {
+            "label": "姿勢",
+            "tag": "posture",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aposture"
+          },
+          {
+            "label": "プッシー",
+            "tag": "pussy",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apussy"
+          },
+          {
+            "label": "ペニス",
+            "tag": "penis",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apenis"
+          },
+          {
+            "label": "肩",
+            "tag": "shoulders",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ashoulders"
+          },
+          {
+            "label": "肌の色",
+            "tag": "skin_color",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Askin_color"
+          },
+          {
+            "label": "テール",
+            "tag": "tail",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Atail"
+          },
+          {
+            "label": "Wings",
+            "tag": "wings",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Awings"
+          },
+          {
+            "label": "白線",
+            "tag": "linea_alba",
+            "link": "https://danbooru.donmai.us/posts?tags=linea_alba"
+          },
+          {
+            "label": "正中溝",
+            "tag": "median_furrow",
+            "link": "https://danbooru.donmai.us/posts?tags=median_furrow"
+          },
+          {
+            "label": "背中",
+            "tag": "back",
+            "link": "https://danbooru.donmai.us/posts?tags=back"
+          }
+        ]
+      },
+      {
+        "label": "けが",
+        "tag": "injury",
+        "link": "https://danbooru.donmai.us/wiki_pages/injury"
+      }
+    ]
+  },
+  {
+    "label": "服装とボディアクセサリー",
+    "children": [
+      {
+        "label": "アクセサリー",
+        "tag": "accessories",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aaccessories"
+      },
+      {
+        "label": "服装",
+        "tag": "attire",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire",
+        "children": [
+          {
+            "label": "ドレス",
+            "tag": "dress",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Adress"
+          },
+          {
+            "label": "ハンドウェア",
+            "tag": "handwear",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahandwear"
+          },
+          {
+            "label": "帽子",
+            "tag": "headwear",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aheadwear"
+          },
+          {
+            "label": "レッグウェア",
+            "tag": "legwear",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alegwear"
+          },
+          {
+            "label": "マスク",
+            "tag": "mask",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Amask"
+          },
+          {
+            "label": "ネックとネックウェア",
+            "tag": "neck_and_neckwear",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aneck_and_neckwear"
+          },
+          {
+            "label": "性的服装",
+            "tag": "sexual_attire",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asexual_attire",
+            "children": [
+              {
+                "label": "ブラジャー",
+                "tag": "bra",
+                "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abra"
+              },
+              {
+                "label": "パンティー",
+                "tag": "panties",
+                "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apanties"
+              }
+            ]
+          },
+          {
+            "label": "スリーブ",
+            "tag": "sleeves",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asleeves"
+          },
+          {
+            "label": "水着",
+            "tag": "swimsuit",
+            "link": "https://danbooru.donmai.us/wiki_pages/swimsuit"
+          },
+          {
+            "label": "覆い",
+            "tag": "covering",
+            "link": "https://danbooru.donmai.us/posts?tags=covering"
+          }
+        ]
+      },
+      {
+        "label": "装飾",
+        "tag": "embellishment",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aembellishment"
+      },
+      {
+        "label": "アイウェア",
+        "tag": "eyewear",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyewear"
+      },
+      {
+        "label": "ファッションスタイル",
+        "tag": "fashion_style",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afashion_style"
+      },
+      {
+        "label": "ヌード",
+        "tag": "nudity",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Anudity"
+      }
+    ]
+  },
+  {
+    "label": "セックス",
+    "children": [
+      {
+        "label": "性行為",
+        "tag": "sex_acts",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asex_acts",
+        "children": [
+          {
+            "label": "模擬性行為",
+            "tag": "simulated_sex_acts",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asimulated_sex_acts"
+          }
+        ]
+      },
+      {
+        "label": "性交体位",
+        "tag": "sexual_positions",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asexual_positions"
+      },
+      {
+        "label": "性的なオブジェクト",
+        "tag": "sex_objects",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asex_objects"
+      }
+    ]
+  },
+  {
+    "label": "オブジェクト",
+    "children": [
+      {
+        "label": "コンピューター",
+        "tag": "computer",
+        "link": "https://danbooru.donmai.us/wiki_pages/computer"
+      },
+      {
+        "label": "飛行機のリスト",
+        "tag": "list_of_airplanes",
+        "link": "https://danbooru.donmai.us/wiki_pages/list_of_airplanes"
+      },
+      {
+        "label": "鎧のリスト",
+        "tag": "list_of_armor",
+        "link": "https://danbooru.donmai.us/wiki_pages/list_of_armor"
+      },
+      {
+        "label": "地上車両リスト",
+        "tag": "list_of_ground_vehicles",
+        "link": "https://danbooru.donmai.us/wiki_pages/list_of_ground_vehicles"
+      },
+      {
+        "label": "ヘリコプターのリスト",
+        "tag": "list_of_helicopters",
+        "link": "https://danbooru.donmai.us/wiki_pages/list_of_helicopters"
+      },
+      {
+        "label": "ポケモンオブジェクト一覧",
+        "tag": "list_of_pokemon_objects",
+        "link": "https://danbooru.donmai.us/wiki_pages/list_of_pokemon_objects"
+      },
+      {
+        "label": "船舶リスト",
+        "tag": "list_of_ships",
+        "link": "https://danbooru.donmai.us/wiki_pages/list_of_ships"
+      },
+      {
+        "label": "武器のリスト",
+        "tag": "list_of_weapons",
+        "link": "https://danbooru.donmai.us/wiki_pages/list_of_weapons",
+        "children": [
+          {
+            "label": "武器",
+            "tag": "weapon",
+            "link": "https://danbooru.donmai.us/wiki_pages/weapon",
+            "children": [
+              {
+                "label": "戦闘",
+                "tag": "battle"
+              },
+              {
+                "label": "二刀流",
+                "tag": "dual_wielding"
+              }
+            ]
+          },
+          {
+            "label": "銃",
+            "tag": "gun",
+            "link": "https://danbooru.donmai.us/wiki_pages/gun"
+          }
+        ]
+      },
+      {
+        "label": "オーディオタグ",
+        "tag": "audio_tags",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aaudio_tags"
+      },
+      {
+        "label": "カード",
+        "tag": "cards",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acards",
+        "children": [
+          {
+            "label": "トランプのカード面一覧",
+            "tag": "list_of_playing_card_faces",
+            "link": "https://danbooru.donmai.us/wiki_pages/list_of_playing_card_faces"
+          }
+        ]
+      },
+      {
+        "label": "アイウェア",
+        "tag": "eyewear",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyewear"
+      },
+      {
+        "label": "ピアス",
+        "tag": "piercings",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apiercings"
+      }
+    ]
+  },
+  {
+    "label": "生き物",
+    "children": [
+      {
+        "label": "動物のリスト",
+        "tag": "list_of_animals",
+        "link": "https://danbooru.donmai.us/wiki_pages/list_of_animals",
+        "children": [
+          {
+            "label": "鳥",
+            "tag": "birds",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abirds"
+          },
+          {
+            "label": "猫",
+            "tag": "cats",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acats"
+          },
+          {
+            "label": "犬",
+            "tag": "dogs",
+            "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Adogs"
+          }
+        ]
+      },
+      {
+        "label": "伝説の生き物",
+        "tag": "legendary_creatures",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alegendary_creatures"
+      }
+    ]
+  },
+  {
+    "label": "植物",
+    "children": [
+      {
+        "label": "植物",
+        "tag": "plant",
+        "link": "https://danbooru.donmai.us/wiki_pages/plant",
+        "children": [
+          {
+            "label": "木",
+            "tag": "tree",
+            "link": "https://danbooru.donmai.us/wiki_pages/tree"
+          }
+        ]
+      },
+      {
+        "label": "花",
+        "tag": "flowers",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aflowers"
+      }
+    ]
+  },
+  {
+    "label": "ゲーム",
+    "children": [
+      {
+        "label": "ゲームアクティビティのリスト",
+        "tag": "list_of_game_activities",
+        "link": "https://danbooru.donmai.us/wiki_pages/list_of_game_activities"
+      },
+      {
+        "label": "ボードゲーム",
+        "tag": "board_games",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aboard_games"
+      },
+      {
+        "label": "スポーツ",
+        "tag": "sports",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asports"
+      },
+      {
+        "label": "ビデオゲーム",
+        "tag": "video_game",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Avideo_game"
+      }
+    ]
+  },
+  {
+    "label": "現実世界",
+    "children": [
+      {
+        "label": "企業とブランド名",
+        "tag": "companies_and_brand_names",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acompanies_and_brand_names"
+      },
+      {
+        "label": "休日とお祝い",
+        "tag": "holidays_and_celebrations",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aholidays_and_celebrations"
+      },
+      {
+        "label": "求人",
+        "tag": "jobs",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ajobs"
+      },
+      {
+        "label": "場所",
+        "tag": "locations",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alocations"
+      },
+      {
+        "label": "人物",
+        "tag": "people",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apeople"
+      },
+      {
+        "label": "現実世界の場所",
+        "tag": "real_world_locations",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Areal_world_locations"
+      },
+      {
+        "label": "お絵かきソフト",
+        "tag": "drawing_software",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Adrawing_software"
+      }
+    ]
+  },
+  {
+    "label": "もっと",
+    "children": [
+      {
+        "label": "ダンス",
+        "tag": "dances",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:dances"
+      },
+      {
+        "label": "家族関係",
+        "tag": "family_relationships",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:family_relationships"
+      },
+      {
+        "label": "食品タグ",
+        "tag": "food_tags",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:food_tags"
+      },
+      {
+        "label": "火",
+        "tag": "fire",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:fire"
+      },
+      {
+        "label": "グループ",
+        "tag": "groups",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:groups"
+      },
+      {
+        "label": "フレーズ",
+        "tag": "phrases",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:phrases"
+      },
+      {
+        "label": "スキャン",
+        "tag": "scan",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:scan"
+      },
+      {
+        "label": "主観的",
+        "tag": "subjective",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:subjective"
+      },
+      {
+        "label": "テクノロジー",
+        "tag": "technology",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:technology"
+      },
+      {
+        "label": "動詞と動名詞",
+        "tag": "verbs_and_gerunds",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:verbs_and_gerunds"
+      },
+      {
+        "label": "水",
+        "tag": "water",
+        "link": "https://danbooru.donmai.us/wiki_pages/tag_group:water"
+      }
+    ]
+  },
+  {
+    "label": "プールグループ",
+    "children": [
+      {
+        "label": "プールグループ",
+        "tag": "pool_groups",
+        "link": "https://danbooru.donmai.us/wiki_pages/pool_groups",
+        "children": [
+          {
+            "label": "プールグループ：身体",
+            "tag": "pool_group_body"
+          },
+          {
+            "label": "プールグループ:教育",
+            "tag": "pool_group_educational"
+          },
+          {
+            "label": "プールグループ：表情",
+            "tag": "pool_group_expression"
+          },
+          {
+            "label": "プールグループ：メタ",
+            "tag": "pool_group_meta"
+          },
+          {
+            "label": "プールグループ：セックス",
+            "tag": "pool_group_sex"
+          },
+          {
+            "label": "プールグループ:奇妙",
+            "tag": "pool_group_strange"
+          },
+          {
+            "label": "プールグループ:スタイル",
+            "tag": "pool_group_style"
+          },
+          {
+            "label": "プールグループ:テキスト",
+            "tag": "pool_group_text"
+          }
+        ]
+      }
+    ]
+  }
+]

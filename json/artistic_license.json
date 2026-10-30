@@ -1,0 +1,417 @@
+﻿{
+    "カテゴリID":  "artistic_license",
+    "カテゴリ名":  "原作からのアレンジ",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aartistic_license",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "主な変更点",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "種族変更",
+                                         "tag":  "alternate_species",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_species"
+                                     },
+                                     {
+                                         "label":  "動物化",
+                                         "tag":  "animalization",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/animalization"
+                                     },
+                                     {
+                                         "label":  "食べ物化",
+                                         "tag":  "foodification",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/foodification"
+                                     },
+                                     {
+                                         "label":  "獣人化",
+                                         "tag":  "furrification",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/furrification"
+                                     },
+                                     {
+                                         "label":  "人間化",
+                                         "tag":  "humanization",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/humanization"
+                                     },
+                                     {
+                                         "label":  "機械化",
+                                         "tag":  "mechanization",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanization"
+                                     },
+                                     {
+                                         "label":  "モンスター化",
+                                         "tag":  "monsterification",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/monsterification"
+                                     },
+                                     {
+                                         "label":  "物体化",
+                                         "tag":  "objectification",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/objectification"
+                                     },
+                                     {
+                                         "label":  "擬人化",
+                                         "tag":  "personification",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/personification"
+                                     },
+                                     {
+                                         "label":  "スリム化",
+                                         "tag":  "slimification",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/slimification"
+                                     },
+                                     {
+                                         "label":  "車両化",
+                                         "tag":  "vehicalization",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vehicalization"
+                                     },
+                                     {
+                                         "label":  "ゾンビ化",
+                                         "tag":  "zombification",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zombification"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "衣装全体の変更",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アレンジ衣装",
+                                         "tag":  "adapted_costume",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/adapted_costume"
+                                     },
+                                     {
+                                         "label":  "別衣装",
+                                         "tag":  "alternate_costume",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_costume"
+                                     },
+                                     {
+                                         "label":  "衣装交換",
+                                         "tag":  "costume_switch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/costume_switch"
+                                     },
+                                     {
+                                         "label":  "カジュアル",
+                                         "tag":  "casual",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/casual"
+                                     },
+                                     {
+                                         "label":  "コンテンポラリー",
+                                         "tag":  "contemporary",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/contemporary"
+                                     },
+                                     {
+                                         "label":  "メイド化",
+                                         "tag":  "enmaided",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/enmaided"
+                                     },
+                                     {
+                                         "label":  "衣装の組み合わせ",
+                                         "tag":  "costume_combination",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/costume_combination"
+                                     },
+                                     {
+                                         "label":  "コスプレ",
+                                         "tag":  "cosplay",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cosplay"
+                                     },
+                                     {
+                                         "label":  "コスプレ",
+                                         "tag":  "cosplay",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cosplay"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "特定の衣服やアクセサリーの変更",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "頭飾りの変更",
+                                         "tag":  "alternate_headwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_headwear"
+                                     },
+                                     {
+                                         "label":  "武器の変更",
+                                         "tag":  "alternate_weapon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_weapon"
+                                     },
+                                     {
+                                         "label":  "眼鏡をかけた",
+                                         "tag":  "bespectacled",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bespectacled"
+                                     },
+                                     {
+                                         "label":  "頭飾りの交換",
+                                         "tag":  "headwear_switch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headwear_switch"
+                                     },
+                                     {
+                                         "label":  "眼鏡なし",
+                                         "tag":  "no_eyewear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_eyewear"
+                                     },
+                                     {
+                                         "label":  "頭飾りなし",
+                                         "tag":  "no_headwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_headwear"
+                                     },
+                                     {
+                                         "label":  "レッグウェアなし",
+                                         "tag":  "no_legwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_legwear"
+                                     },
+                                     {
+                                         "label":  "マスクなし",
+                                         "tag":  "no_mask",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_mask"
+                                     },
+                                     {
+                                         "label":  "イヤリングなし",
+                                         "tag":  "no_earrings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_earrings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "髪と目以外の身体部位の変化",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "胸サイズ違い",
+                                         "tag":  "alternate_breast_size",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_breast_size"
+                                     },
+                                     {
+                                         "label":  "翼の変更",
+                                         "tag":  "alternate_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_wings"
+                                     },
+                                     {
+                                         "label":  "肌色違い",
+                                         "tag":  "alternate_skin_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_skin_color"
+                                     },
+                                     {
+                                         "label":  "ケモノミミモード",
+                                         "tag":  "kemonomimi_mode",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kemonomimi_mode"
+                                     },
+                                     {
+                                         "label":  "動物の耳がない",
+                                         "tag":  "no_animal_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_animal_ears"
+                                     },
+                                     {
+                                         "label":  "顔の模様がない",
+                                         "tag":  "no_facial_mark",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_facial_mark"
+                                     },
+                                     {
+                                         "label":  "炎がない",
+                                         "tag":  "no_fire",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_fire"
+                                     },
+                                     {
+                                         "label":  "角なし",
+                                         "tag":  "no_horns",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_horns"
+                                     },
+                                     {
+                                         "label":  "尻尾なし",
+                                         "tag":  "no_tail",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_tail"
+                                     },
+                                     {
+                                         "label":  "タトゥーなし",
+                                         "tag":  "no_tattoo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_tattoo"
+                                     },
+                                     {
+                                         "label":  "翼なし",
+                                         "tag":  "no_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_wings"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "髪型の変化",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "髪色違い",
+                                         "tag":  "alternate_hair_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_hair_color"
+                                     },
+                                     {
+                                         "label":  "髪色の交換",
+                                         "tag":  "hair_color_switch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_color_switch"
+                                     },
+                                     {
+                                         "label":  "髪型変更",
+                                         "tag":  "alternate_hairstyle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_hairstyle"
+                                     },
+                                     {
+                                         "label":  "髪を下ろす",
+                                         "tag":  "hair_down",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_down"
+                                     },
+                                     {
+                                         "label":  "髪をアップにする",
+                                         "tag":  "hair_up",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_up"
+                                     },
+                                     {
+                                         "label":  "髪の長さの変更",
+                                         "tag":  "alternate_hair_length",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_hair_length"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "目の変化",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "目の色違い",
+                                         "tag":  "alternate_eye_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_eye_color"
+                                     },
+                                     {
+                                         "label":  "目の色の交換",
+                                         "tag":  "eye_color_switch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/eye_color_switch"
+                                     },
+                                     {
+                                         "label":  "異常に開いた目",
+                                         "tag":  "unusually_open_eyes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/unusually_open_eyes"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "性格と役割の変化",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "本来と異なる性格",
+                                         "tag":  "out_of_character",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/out_of_character"
+                                     },
+                                     {
+                                         "label":  "性格の交換",
+                                         "tag":  "personality_switch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/personality_switch"
+                                     },
+                                     {
+                                         "label":  "役割の逆転",
+                                         "tag":  "role_reversal",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/role_reversal"
+                                     },
+                                     {
+                                         "label":  "ダークペルソナ",
+                                         "tag":  "dark_persona",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dark_persona"
+                                     },
+                                     {
+                                         "label":  "ライトペルソナ",
+                                         "tag":  "light_persona",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/light_persona"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "全体的な色の変化",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "色違い",
+                                         "tag":  "alternate_color",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_color"
+                                     },
+                                     {
+                                         "label":  "属性変更",
+                                         "tag":  "alternate_element",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_element"
+                                     },
+                                     {
+                                         "label":  "パレットスワップ",
+                                         "tag":  "palette_swap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/palette_swap"
+                                     },
+                                     {
+                                         "label":  "プレイヤー2",
+                                         "tag":  "player_2",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/player_2"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "年齢の変化",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "年齢比較",
+                                         "tag":  "age_comparison",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/age_comparison"
+                                     },
+                                     {
+                                         "label":  "年齢変化",
+                                         "tag":  "age_progression",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/age_progression"
+                                     },
+                                     {
+                                         "label":  "若年化",
+                                         "tag":  "aged_down",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aged_down"
+                                     },
+                                     {
+                                         "label":  "成長・加齢",
+                                         "tag":  "aged_up",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aged_up"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他の変更点",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "キャラクタードール",
+                                         "tag":  "character_doll",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_doll"
+                                     },
+                                     {
+                                         "label":  "融合",
+                                         "tag":  "fusion",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fusion"
+                                     },
+                                     {
+                                         "label":  "ジェンダースワップ",
+                                         "tag":  "genderswap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/genderswap"
+                                     },
+                                     {
+                                         "label":  "女性化",
+                                         "tag":  "genderswap_%28mtf%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/genderswap_%28mtf%29"
+                                     },
+                                     {
+                                         "label":  "男性化",
+                                         "tag":  "genderswap_%28ftm%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/genderswap_%28ftm%29"
+                                     },
+                                     {
+                                         "label":  "性別入れ替えキャラクターのリスト",
+                                         "tag":  "list_of_genderswap_characters",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_genderswap_characters"
+                                     },
+                                     {
+                                         "label":  "二人の子供を想像",
+                                         "tag":  "if_they_mated",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/if_they_mated"
+                                     },
+                                     {
+                                         "label":  "二人の子供を想像",
+                                         "tag":  "if_they_mated",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/if_they_mated"
+                                     },
+                                     {
+                                         "label":  "別設定・別世界",
+                                         "tag":  "alternate_universe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_universe"
+                                     }
+                                 ]
+                    }
+                ]
+}

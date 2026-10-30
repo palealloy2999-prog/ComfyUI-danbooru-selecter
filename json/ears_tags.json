@@ -1,0 +1,312 @@
+﻿{
+    "カテゴリID":  "ears_tags",
+    "カテゴリ名":  "耳",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aears_tags",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "動物の耳",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "動物の耳",
+                                         "tag":  "animal_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_ears"
+                                     },
+                                     {
+                                         "label":  "アホロートルの耳",
+                                         "tag":  "axolotl_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/axolotl_ears"
+                                     },
+                                     {
+                                         "label":  "コウモリの耳",
+                                         "tag":  "bat_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bat_ears"
+                                     },
+                                     {
+                                         "label":  "クマの耳",
+                                         "tag":  "bear_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bear_ears"
+                                     },
+                                     {
+                                         "label":  "ウサギの耳",
+                                         "tag":  "rabbit_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rabbit_ears"
+                                     },
+                                     {
+                                         "label":  "猫耳",
+                                         "tag":  "cat_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cat_ears"
+                                     },
+                                     {
+                                         "label":  "牛の耳",
+                                         "tag":  "cow_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cow_ears"
+                                     },
+                                     {
+                                         "label":  "鹿の耳",
+                                         "tag":  "deer_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/deer_ears"
+                                     },
+                                     {
+                                         "label":  "犬の耳",
+                                         "tag":  "dog_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dog_ears"
+                                     },
+                                     {
+                                         "label":  "フェレットの耳",
+                                         "tag":  "ferret_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ferret_ears"
+                                     },
+                                     {
+                                         "label":  "キツネの耳",
+                                         "tag":  "fox_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fox_ears"
+                                     },
+                                     {
+                                         "label":  "ヤギの耳",
+                                         "tag":  "goat_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/goat_ears"
+                                     },
+                                     {
+                                         "label":  "馬の耳",
+                                         "tag":  "horse_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/horse_ears"
+                                     },
+                                     {
+                                         "label":  "ケモノミミモード",
+                                         "tag":  "kemonomimi_mode",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kemonomimi_mode"
+                                     },
+                                     {
+                                         "label":  "ライオンの耳",
+                                         "tag":  "lion_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lion_ears"
+                                     },
+                                     {
+                                         "label":  "猿の耳",
+                                         "tag":  "monkey_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/monkey_ears"
+                                     },
+                                     {
+                                         "label":  "ネズミの耳",
+                                         "tag":  "mouse_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mouse_ears"
+                                     },
+                                     {
+                                         "label":  "パンダの耳",
+                                         "tag":  "panda_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/panda_ears"
+                                     },
+                                     {
+                                         "label":  "ピカチュウの耳",
+                                         "tag":  "pikachu_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pikachu_ears"
+                                     },
+                                     {
+                                         "label":  "豚の耳",
+                                         "tag":  "pig_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pig_ears"
+                                     },
+                                     {
+                                         "label":  "アライグマの耳",
+                                         "tag":  "raccoon_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/raccoon_ears"
+                                     },
+                                     {
+                                         "label":  "羊の耳",
+                                         "tag":  "sheep_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sheep_ears"
+                                     },
+                                     {
+                                         "label":  "リスの耳",
+                                         "tag":  "squirrel_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/squirrel_ears"
+                                     },
+                                     {
+                                         "label":  "虎の耳",
+                                         "tag":  "tiger_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tiger_ears"
+                                     },
+                                     {
+                                         "label":  "狼の耳",
+                                         "tag":  "wolf_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wolf_ears"
+                                     },
+                                     {
+                                         "label":  "つけ耳",
+                                         "tag":  "fake_animal_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_animal_ears"
+                                     },
+                                     {
+                                         "label":  "動物耳ヘッドフォン",
+                                         "tag":  "animal_ear_headphones",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_ear_headphones"
+                                     },
+                                     {
+                                         "label":  "クマの耳のヘッドフォン",
+                                         "tag":  "bear_ear_headphones",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bear_ear_headphones"
+                                     },
+                                     {
+                                         "label":  "猫耳ヘッドフォン",
+                                         "tag":  "cat_ear_headphones",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cat_ear_headphones"
+                                     },
+                                     {
+                                         "label":  "ウサギの耳のヘッドフォン",
+                                         "tag":  "rabbit_ear_headphones",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rabbit_ear_headphones"
+                                     },
+                                     {
+                                         "label":  "垂れ耳",
+                                         "tag":  "floppy_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/floppy_ears"
+                                     },
+                                     {
+                                         "label":  "耳の形にした髪",
+                                         "tag":  "hair_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_ears"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "他の耳",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "尖った耳",
+                                         "tag":  "pointy_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pointy_ears"
+                                     },
+                                     {
+                                         "label":  "長く尖った耳",
+                                         "tag":  "long_pointy_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/long_pointy_ears"
+                                     },
+                                     {
+                                         "label":  "ロボットの耳",
+                                         "tag":  "robot_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/robot_ears"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "耳の数",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "追加の耳",
+                                         "tag":  "extra_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/extra_ears"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "耳に付けるもの",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "耳のピアス",
+                                         "tag":  "ear_piercing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ear_piercing"
+                                     },
+                                     {
+                                         "label":  "耳の保護具",
+                                         "tag":  "ear_protection",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ear_protection"
+                                     },
+                                     {
+                                         "label":  "イヤリング",
+                                         "tag":  "earrings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/earrings"
+                                     },
+                                     {
+                                         "label":  "片耳用イヤリング",
+                                         "tag":  "single_earring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_earring"
+                                     },
+                                     {
+                                         "label":  "ヘッドフォン",
+                                         "tag":  "headphones",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headphones"
+                                     },
+                                     {
+                                         "label":  "耳に挟んだ物",
+                                         "tag":  "object_behind_ear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/object_behind_ear"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "耳を塞ぐ",
+                                         "tag":  "covering_own_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_own_ears"
+                                     },
+                                     {
+                                         "label":  "耳を噛む",
+                                         "tag":  "biting_ear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/biting_ear"
+                                     },
+                                     {
+                                         "label":  "他人の耳をつかむ",
+                                         "tag":  "grabbing_another%27s_ear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grabbing_another%27s_ear"
+                                     },
+                                     {
+                                         "label":  "耳を動かす",
+                                         "tag":  "ear_wiggle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ear_wiggle"
+                                     },
+                                     {
+                                         "label":  "耳を下ろす",
+                                         "tag":  "ears_down",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ears_down"
+                                     },
+                                     {
+                                         "label":  "帽子から突き出た耳",
+                                         "tag":  "ears_through_headwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ears_through_headwear"
+                                     },
+                                     {
+                                         "label":  "帽子の下の耳",
+                                         "tag":  "ears_under_headwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ears_under_headwear"
+                                     },
+                                     {
+                                         "label":  "自分の耳に手を当てる",
+                                         "tag":  "hand_on_own_ear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_own_ear"
+                                     },
+                                     {
+                                         "label":  "耳を押さえる",
+                                         "tag":  "holding_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_ears"
+                                     },
+                                     {
+                                         "label":  "耳を舐める",
+                                         "tag":  "licking_ear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/licking_ear"
+                                     },
+                                     {
+                                         "label":  "切り込み耳",
+                                         "tag":  "notched_ear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/notched_ear"
+                                     },
+                                     {
+                                         "label":  "片耳を下に向けて",
+                                         "tag":  "single_ear_down",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_ear_down"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：体の部位",
+                                         "tag":  "tag_group%3Abody_parts",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Abody_parts"
+                                     }
+                                 ]
+                    }
+                ]
+}

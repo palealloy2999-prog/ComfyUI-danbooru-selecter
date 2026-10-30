@@ -1,0 +1,322 @@
+{
+  "カテゴリID": "water",
+  "カテゴリ名": "水",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Awater",
+  "セクション一覧": [
+    {
+      "セクション名": "水",
+      "タグ一覧": [
+        {
+          "label": "水",
+          "tag": "water",
+          "link": "https://danbooru.donmai.us/wiki_pages/water"
+        },
+        {
+          "label": "水中",
+          "tag": "underwater",
+          "link": "https://danbooru.donmai.us/wiki_pages/underwater"
+        }
+      ]
+    },
+    {
+      "セクション名": "濡れた状態",
+      "タグ一覧": [
+        {
+          "label": "濡れた",
+          "tag": "wet",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet"
+        },
+        {
+          "label": "濡れた服",
+          "tag": "wet_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_clothes"
+        },
+        {
+          "label": "濡れたドレス",
+          "tag": "wet_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_dress"
+        },
+        {
+          "label": "濡れたスカート",
+          "tag": "wet_skirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_skirt"
+        },
+        {
+          "label": "濡れたシャツ",
+          "tag": "wet_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_shirt"
+        },
+        {
+          "label": "濡れたシャツ",
+          "tag": "wet_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_shirt"
+        },
+        {
+          "label": "濡れたパンティー",
+          "tag": "wet_panties",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_panties"
+        },
+        {
+          "label": "濡れた水着",
+          "tag": "wet_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_swimsuit"
+        },
+        {
+          "label": "濡れタオル",
+          "tag": "wet_towel",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_towel"
+        },
+        {
+          "label": "濡れた髪",
+          "tag": "wet_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_hair"
+        }
+      ]
+    },
+    {
+      "セクション名": "氷",
+      "タグ一覧": [
+        {
+          "label": "氷",
+          "tag": "ice",
+          "link": "https://danbooru.donmai.us/wiki_pages/ice"
+        },
+        {
+          "label": "氷の彫刻",
+          "tag": "ice_sculpture",
+          "link": "https://danbooru.donmai.us/wiki_pages/ice_sculpture"
+        },
+        {
+          "label": "氷の花",
+          "tag": "ice_flower",
+          "link": "https://danbooru.donmai.us/wiki_pages/ice_flower"
+        }
+      ]
+    },
+    {
+      "セクション名": "水蒸気",
+      "タグ一覧": [
+        {
+          "label": "水蒸気",
+          "tag": "steam",
+          "link": "https://danbooru.donmai.us/wiki_pages/steam"
+        }
+      ]
+    },
+    {
+      "セクション名": "水域",
+      "タグ一覧": [
+        {
+          "label": "湖",
+          "tag": "lake",
+          "link": "https://danbooru.donmai.us/wiki_pages/lake"
+        },
+        {
+          "label": "海",
+          "tag": "ocean",
+          "link": "https://danbooru.donmai.us/wiki_pages/ocean"
+        },
+        {
+          "label": "川",
+          "tag": "river",
+          "link": "https://danbooru.donmai.us/wiki_pages/river"
+        },
+        {
+          "label": "小川",
+          "tag": "stream",
+          "link": "https://danbooru.donmai.us/wiki_pages/stream"
+        }
+      ]
+    },
+    {
+      "セクション名": "関連する地形",
+      "タグ一覧": [
+        {
+          "label": "砂浜・海辺",
+          "tag": "beach",
+          "link": "https://danbooru.donmai.us/wiki_pages/beach"
+        },
+        {
+          "label": "島",
+          "tag": "island",
+          "link": "https://danbooru.donmai.us/wiki_pages/island"
+        }
+      ]
+    },
+    {
+      "セクション名": "天候",
+      "タグ一覧": [
+        {
+          "label": "雨",
+          "tag": "rain",
+          "link": "https://danbooru.donmai.us/wiki_pages/rain"
+        },
+        {
+          "label": "雪",
+          "tag": "snow",
+          "link": "https://danbooru.donmai.us/wiki_pages/snow"
+        }
+      ]
+    },
+    {
+      "セクション名": "水辺の服装",
+      "タグ一覧": [
+        {
+          "label": "ビキニ",
+          "tag": "bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini"
+        },
+        {
+          "label": "ゴーグル",
+          "tag": "goggles",
+          "link": "https://danbooru.donmai.us/wiki_pages/goggles"
+        },
+        {
+          "label": "水着",
+          "tag": "swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit"
+        }
+      ]
+    },
+    {
+      "セクション名": "車両",
+      "タグ一覧": [
+        {
+          "label": "ボート",
+          "tag": "boat",
+          "link": "https://danbooru.donmai.us/wiki_pages/boat"
+        },
+        {
+          "label": "手漕ぎボート",
+          "tag": "rowboat",
+          "link": "https://danbooru.donmai.us/wiki_pages/rowboat"
+        },
+        {
+          "label": "ヨット",
+          "tag": "sailboat",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailboat"
+        },
+        {
+          "label": "船",
+          "tag": "ship",
+          "link": "https://danbooru.donmai.us/wiki_pages/ship"
+        },
+        {
+          "label": "戦艦",
+          "tag": "battleship",
+          "link": "https://danbooru.donmai.us/wiki_pages/battleship"
+        },
+        {
+          "label": "潜水艦",
+          "tag": "submarine",
+          "link": "https://danbooru.donmai.us/wiki_pages/submarine"
+        }
+      ]
+    },
+    {
+      "セクション名": "動作・容器・その他",
+      "タグ一覧": [
+        {
+          "label": "入浴",
+          "tag": "bath",
+          "link": "https://danbooru.donmai.us/wiki_pages/bath"
+        },
+        {
+          "label": "バスタブ",
+          "tag": "bathtub",
+          "link": "https://danbooru.donmai.us/wiki_pages/bathtub"
+        },
+        {
+          "label": "混浴",
+          "tag": "mixed-sex_bathing",
+          "link": "https://danbooru.donmai.us/wiki_pages/mixed-sex_bathing"
+        },
+        {
+          "label": "飲む",
+          "tag": "drinking",
+          "link": "https://danbooru.donmai.us/wiki_pages/drinking"
+        },
+        {
+          "label": "フリーダイビング",
+          "tag": "freediving",
+          "link": "https://danbooru.donmai.us/wiki_pages/freediving"
+        },
+        {
+          "label": "水を操る能力",
+          "tag": "hydrokinesis",
+          "link": "https://danbooru.donmai.us/wiki_pages/hydrokinesis"
+        },
+        {
+          "label": "プール",
+          "tag": "pool",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool"
+        },
+        {
+          "label": "プールサイド",
+          "tag": "poolside",
+          "link": "https://danbooru.donmai.us/wiki_pages/poolside"
+        },
+        {
+          "label": "コップ",
+          "tag": "glass",
+          "link": "https://danbooru.donmai.us/wiki_pages/glass"
+        },
+        {
+          "label": "ボトル",
+          "tag": "bottle",
+          "link": "https://danbooru.donmai.us/wiki_pages/bottle"
+        },
+        {
+          "label": "カップ",
+          "tag": "cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/cup"
+        },
+        {
+          "label": "マグ",
+          "tag": "mug",
+          "link": "https://danbooru.donmai.us/wiki_pages/mug"
+        },
+        {
+          "label": "シャワー（場所）",
+          "tag": "shower_%28place%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shower_%28place%29"
+        },
+        {
+          "label": "シャワー",
+          "tag": "showering",
+          "link": "https://danbooru.donmai.us/wiki_pages/showering"
+        },
+        {
+          "label": "こぼす",
+          "tag": "spilling",
+          "link": "https://danbooru.donmai.us/wiki_pages/spilling"
+        },
+        {
+          "label": "水しぶき",
+          "tag": "splashing",
+          "link": "https://danbooru.donmai.us/wiki_pages/splashing"
+        },
+        {
+          "label": "水泳",
+          "tag": "swimming",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimming"
+        },
+        {
+          "label": "傘",
+          "tag": "umbrella",
+          "link": "https://danbooru.donmai.us/wiki_pages/umbrella"
+        },
+        {
+          "label": "水の中を歩く",
+          "tag": "wading",
+          "link": "https://danbooru.donmai.us/wiki_pages/wading"
+        },
+        {
+          "label": "洗浄",
+          "tag": "washing",
+          "link": "https://danbooru.donmai.us/wiki_pages/washing"
+        }
+      ]
+    }
+  ]
+}

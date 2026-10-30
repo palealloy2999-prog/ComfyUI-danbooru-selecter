@@ -1,0 +1,1187 @@
+{
+  "カテゴリID": "cats",
+  "カテゴリ名": "猫",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Acats",
+  "セクション一覧": [
+    {
+      "セクション名": "主要",
+      "タグ一覧": [
+        {
+          "label": "猫",
+          "tag": "cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "猫頭",
+          "tag": "cathead",
+          "link": "https://danbooru.donmai.us/wiki_pages/cathead"
+        },
+        {
+          "label": "巨大な猫",
+          "tag": "giant_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/giant_cat"
+        },
+        {
+          "label": "子猫",
+          "tag": "kitten",
+          "link": "https://danbooru.donmai.us/wiki_pages/kitten"
+        },
+        {
+          "label": "猫が多すぎる",
+          "tag": "too_many_cats",
+          "link": "https://danbooru.donmai.us/wiki_pages/too_many_cats"
+        }
+      ]
+    },
+    {
+      "セクション名": "猫の品種",
+      "タグ一覧": [
+        {
+          "label": "アメリカンカール",
+          "tag": "american_curl",
+          "link": "https://danbooru.donmai.us/wiki_pages/american_curl"
+        },
+        {
+          "label": "アメリカンショートヘア",
+          "tag": "american_shorthair",
+          "link": "https://danbooru.donmai.us/wiki_pages/american_shorthair"
+        },
+        {
+          "label": "ベンガル猫",
+          "tag": "bengal_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/bengal_cat"
+        },
+        {
+          "label": "ボンベイ猫",
+          "tag": "bombay_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/bombay_cat"
+        },
+        {
+          "label": "ブリティッシュショートヘア",
+          "tag": "british_shorthair",
+          "link": "https://danbooru.donmai.us/wiki_pages/british_shorthair"
+        },
+        {
+          "label": "ゴールデンブリティッシュショートヘア",
+          "tag": "golden_british_shorthair",
+          "link": "https://danbooru.donmai.us/wiki_pages/golden_british_shorthair"
+        },
+        {
+          "label": "ドラゴンリー猫",
+          "tag": "dragon_li_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragon_li_cat"
+        },
+        {
+          "label": "エキゾチックショートヘア",
+          "tag": "exotic_shorthair",
+          "link": "https://danbooru.donmai.us/wiki_pages/exotic_shorthair"
+        },
+        {
+          "label": "メインクーン",
+          "tag": "maine_coon",
+          "link": "https://danbooru.donmai.us/wiki_pages/maine_coon"
+        },
+        {
+          "label": "マンチカン猫",
+          "tag": "munchkin_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/munchkin_cat"
+        },
+        {
+          "label": "ノルウェージャンフォレストキャット",
+          "tag": "norwegian_forest_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/norwegian_forest_cat"
+        },
+        {
+          "label": "ペルシャ猫",
+          "tag": "persian_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/persian_cat"
+        },
+        {
+          "label": "ラグドール",
+          "tag": "ragdoll_%28cat%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ragdoll_%28cat%29"
+        },
+        {
+          "label": "ロシアンブルー猫",
+          "tag": "russian_blue_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/russian_blue_cat"
+        },
+        {
+          "label": "スコティッシュフォールド",
+          "tag": "scottish_fold",
+          "link": "https://danbooru.donmai.us/wiki_pages/scottish_fold"
+        },
+        {
+          "label": "シャム猫",
+          "tag": "siamese_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/siamese_cat"
+        },
+        {
+          "label": "シベリアフォレストキャット",
+          "tag": "siberian_forest_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/siberian_forest_cat"
+        },
+        {
+          "label": "ソマリ猫",
+          "tag": "somali_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/somali_cat"
+        },
+        {
+          "label": "スフィンクス猫",
+          "tag": "sphynx_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/sphynx_cat"
+        }
+      ]
+    },
+    {
+      "セクション名": "色",
+      "タグ一覧": [
+        {
+          "label": "黒猫",
+          "tag": "black_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_cat"
+        },
+        {
+          "label": "青い猫",
+          "tag": "blue_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_cat"
+        },
+        {
+          "label": "茶色の猫",
+          "tag": "brown_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_cat"
+        },
+        {
+          "label": "緑の猫",
+          "tag": "green_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_cat"
+        },
+        {
+          "label": "灰色の猫",
+          "tag": "grey_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_cat"
+        },
+        {
+          "label": "オレンジ色の猫",
+          "tag": "orange_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_cat"
+        },
+        {
+          "label": "ピンクの猫",
+          "tag": "pink_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_cat"
+        },
+        {
+          "label": "紫色の猫",
+          "tag": "purple_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_cat"
+        },
+        {
+          "label": "赤い猫",
+          "tag": "red_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_cat"
+        },
+        {
+          "label": "白い猫",
+          "tag": "white_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_cat"
+        },
+        {
+          "label": "黄色い猫",
+          "tag": "yellow_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_cat"
+        }
+      ]
+    },
+    {
+      "セクション名": "毛色・模様",
+      "タグ一覧": [
+        {
+          "label": "カリコ",
+          "tag": "calico_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/calico_%28pattern%29"
+        },
+        {
+          "label": "三毛猫",
+          "tag": "calico_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/calico_cat"
+        },
+        {
+          "label": "サビ猫",
+          "tag": "tortoiseshell_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/tortoiseshell_cat"
+        },
+        {
+          "label": "タキシード猫",
+          "tag": "tuxedo_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/tuxedo_cat"
+        },
+        {
+          "label": "トラ猫",
+          "tag": "tabby_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/tabby_cat"
+        }
+      ]
+    },
+    {
+      "セクション名": "猫の仕草",
+      "タグ一覧": [
+        {
+          "label": "香箱座り",
+          "tag": "cat_loaf",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_loaf"
+        },
+        {
+          "label": "猫は液体だ",
+          "tag": "cats_are_liquid_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cats_are_liquid_%28meme%29"
+        },
+        {
+          "label": "猫はキュウリを怖がる",
+          "tag": "cats_are_scared_of_cucumbers_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cats_are_scared_of_cucumbers_%28meme%29"
+        },
+        {
+          "label": "威嚇の鳴き声",
+          "tag": "hissing",
+          "link": "https://danbooru.donmai.us/wiki_pages/hissing"
+        },
+        {
+          "label": "ふみふみ",
+          "tag": "kneading_%28behavior%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kneading_%28behavior%29"
+        },
+        {
+          "label": "こすりつける",
+          "tag": "nuzzle",
+          "link": "https://danbooru.donmai.us/wiki_pages/nuzzle"
+        },
+        {
+          "label": "膨らむ",
+          "tag": "puffing_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/puffing_up"
+        },
+        {
+          "label": "ごろごろ",
+          "tag": "purring",
+          "link": "https://danbooru.donmai.us/wiki_pages/purring"
+        },
+        {
+          "label": "拒絶されたキス",
+          "tag": "rejected_kiss",
+          "link": "https://danbooru.donmai.us/wiki_pages/rejected_kiss"
+        },
+        {
+          "label": "引っ掻く",
+          "tag": "scratching",
+          "link": "https://danbooru.donmai.us/wiki_pages/scratching"
+        },
+        {
+          "label": "ストレッチ",
+          "tag": "stretching",
+          "link": "https://danbooru.donmai.us/wiki_pages/stretching"
+        },
+        {
+          "label": "猫のストレッチ",
+          "tag": "cat_stretch",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_stretch"
+        }
+      ]
+    },
+    {
+      "セクション名": "猫にする動作",
+      "タグ一覧": [
+        {
+          "label": "動物を抱く",
+          "tag": "holding_animal",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_animal"
+        },
+        {
+          "label": "脇の下持ち",
+          "tag": "armpit_carry",
+          "link": "https://danbooru.donmai.us/wiki_pages/armpit_carry"
+        },
+        {
+          "label": "動物の匂いを吸い込む",
+          "tag": "huffing",
+          "link": "https://danbooru.donmai.us/wiki_pages/huffing"
+        },
+        {
+          "label": "なでる",
+          "tag": "petting",
+          "link": "https://danbooru.donmai.us/wiki_pages/petting"
+        },
+        {
+          "label": "頭をなでる",
+          "tag": "headpat",
+          "link": "https://danbooru.donmai.us/wiki_pages/headpat"
+        }
+      ]
+    },
+    {
+      "セクション名": "ネコ科の仲間",
+      "タグ一覧": [
+        {
+          "label": "クロアシネコ",
+          "tag": "black-footed_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-footed_cat"
+        },
+        {
+          "label": "ブラックパンサー",
+          "tag": "black_panther",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_panther"
+        },
+        {
+          "label": "カラカル",
+          "tag": "caracal",
+          "link": "https://danbooru.donmai.us/wiki_pages/caracal"
+        },
+        {
+          "label": "チーター",
+          "tag": "cheetah",
+          "link": "https://danbooru.donmai.us/wiki_pages/cheetah"
+        },
+        {
+          "label": "クーガー",
+          "tag": "cougar",
+          "link": "https://danbooru.donmai.us/wiki_pages/cougar"
+        },
+        {
+          "label": "ジョフロイネコ",
+          "tag": "geoffroy%27s_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/geoffroy%27s_cat"
+        },
+        {
+          "label": "イリオモテヤマネコ",
+          "tag": "iriomote_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/iriomote_cat"
+        },
+        {
+          "label": "ジャガー",
+          "tag": "jaguar",
+          "link": "https://danbooru.donmai.us/wiki_pages/jaguar"
+        },
+        {
+          "label": "ヒョウ",
+          "tag": "leopard",
+          "link": "https://danbooru.donmai.us/wiki_pages/leopard"
+        },
+        {
+          "label": "ベンガルヤマネコ",
+          "tag": "leopard_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/leopard_cat"
+        },
+        {
+          "label": "中国ヒョウ猫",
+          "tag": "chinese_leopard_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/chinese_leopard_cat"
+        },
+        {
+          "label": "ライオン",
+          "tag": "lion",
+          "link": "https://danbooru.donmai.us/wiki_pages/lion"
+        },
+        {
+          "label": "オオヤマネコ",
+          "tag": "lynx",
+          "link": "https://danbooru.donmai.us/wiki_pages/lynx"
+        },
+        {
+          "label": "マーゲイ",
+          "tag": "margay",
+          "link": "https://danbooru.donmai.us/wiki_pages/margay"
+        },
+        {
+          "label": "オセロット",
+          "tag": "ocelot",
+          "link": "https://danbooru.donmai.us/wiki_pages/ocelot"
+        },
+        {
+          "label": "マヌルネコ",
+          "tag": "pallas%27s_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/pallas%27s_cat"
+        },
+        {
+          "label": "スナネコ",
+          "tag": "sand_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/sand_cat"
+        },
+        {
+          "label": "サーバル",
+          "tag": "serval",
+          "link": "https://danbooru.donmai.us/wiki_pages/serval"
+        },
+        {
+          "label": "ユキヒョウ",
+          "tag": "snow_leopard",
+          "link": "https://danbooru.donmai.us/wiki_pages/snow_leopard"
+        },
+        {
+          "label": "虎",
+          "tag": "tiger",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiger"
+        }
+      ]
+    },
+    {
+      "セクション名": "場所別の猫",
+      "タグ一覧": [
+        {
+          "label": "足の間にいる猫",
+          "tag": "cat_between_legs",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_between_legs"
+        },
+        {
+          "label": "口の中に猫",
+          "tag": "cat_in_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_in_mouth"
+        },
+        {
+          "label": "お尻の上の猫",
+          "tag": "cat_on_ass",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_on_ass"
+        },
+        {
+          "label": "頭の上の猫",
+          "tag": "cat_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_on_head"
+        },
+        {
+          "label": "膝の上の猫",
+          "tag": "cat_on_lap",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_on_lap"
+        },
+        {
+          "label": "猫が人の上にいる",
+          "tag": "cat_on_person",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_on_person"
+        },
+        {
+          "label": "肩に乗った猫",
+          "tag": "cat_on_shoulder",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_on_shoulder"
+        }
+      ]
+    },
+    {
+      "セクション名": "猫の擬人化・衣装・身体部位",
+      "タグ一覧": [
+        {
+          "label": "猫バッグ",
+          "tag": "cat_bag",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_bag"
+        },
+        {
+          "label": "猫バンド",
+          "tag": "cat_band",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_band"
+        },
+        {
+          "label": "猫バンドの履物",
+          "tag": "cat_band_footwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_band_footwear"
+        },
+        {
+          "label": "猫バンド手袋",
+          "tag": "cat_band_gloves",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_band_gloves"
+        },
+        {
+          "label": "猫耳レッグウェア",
+          "tag": "cat_ear_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_ear_legwear"
+        },
+        {
+          "label": "猫の男の子",
+          "tag": "cat_boy",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_boy"
+        },
+        {
+          "label": "猫ブラ",
+          "tag": "cat_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_bra"
+        },
+        {
+          "label": "猫ボタン",
+          "tag": "cat_button",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_button"
+        },
+        {
+          "label": "猫のチョーカー",
+          "tag": "cat_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_choker"
+        },
+        {
+          "label": "猫のコスチューム",
+          "tag": "cat_costume",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_costume"
+        },
+        {
+          "label": "猫の切り抜き",
+          "tag": "cat_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_cutout"
+        },
+        {
+          "label": "猫の切り抜きパンティー",
+          "tag": "cat_cutout_panties",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_cutout_panties"
+        },
+        {
+          "label": "猫耳ビキニ",
+          "tag": "cat_ear_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_ear_bikini"
+        },
+        {
+          "label": "猫耳ヘッドフォン",
+          "tag": "cat_ear_headphones",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_ear_headphones"
+        },
+        {
+          "label": "猫耳パンツ",
+          "tag": "cat_ear_panties",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_ear_panties"
+        },
+        {
+          "label": "猫のイヤリング",
+          "tag": "cat_earrings",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_earrings"
+        },
+        {
+          "label": "猫耳",
+          "tag": "cat_ears",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_ears"
+        },
+        {
+          "label": "細長い瞳孔",
+          "tag": "slit_pupils",
+          "link": "https://danbooru.donmai.us/wiki_pages/slit_pupils"
+        },
+        {
+          "label": "猫の足",
+          "tag": "cat_feet",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_feet"
+        },
+        {
+          "label": "猫娘",
+          "tag": "cat_girl",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_girl"
+        },
+        {
+          "label": "猫モチーフの手袋",
+          "tag": "cat_gloves",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_gloves"
+        },
+        {
+          "label": "動物の毛",
+          "tag": "animal_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_hair"
+        },
+        {
+          "label": "猫の髪飾り",
+          "tag": "cat_hair_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_hair_ornament"
+        },
+        {
+          "label": "猫の帽子",
+          "tag": "cat_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_hat"
+        },
+        {
+          "label": "猫のヘルメット",
+          "tag": "cat_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_helmet"
+        },
+        {
+          "label": "猫フード",
+          "tag": "cat_hood",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_hood"
+        },
+        {
+          "label": "猫のランジェリー",
+          "tag": "cat_lingerie",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_lingerie"
+        },
+        {
+          "label": "猫のマスク",
+          "tag": "cat_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_mask"
+        },
+        {
+          "label": "猫の鼻",
+          "tag": "cat_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_nose"
+        },
+        {
+          "label": "猫の飾り",
+          "tag": "cat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_ornament"
+        },
+        {
+          "label": "猫のパジャマ",
+          "tag": "cat_pajamas",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_pajamas"
+        },
+        {
+          "label": "猫のパンツ",
+          "tag": "cat_panties",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_panties"
+        },
+        {
+          "label": "猫型のニップレス",
+          "tag": "cat_pasties",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_pasties"
+        },
+        {
+          "label": "猫の足",
+          "tag": "cat_paw",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_paw"
+        },
+        {
+          "label": "猫の前足",
+          "tag": "cat_paws",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_paws"
+        },
+        {
+          "label": "猫のペンダント",
+          "tag": "cat_pendant",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_pendant"
+        },
+        {
+          "label": "猫のプリント",
+          "tag": "cat_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_print"
+        },
+        {
+          "label": "猫の頭蓋骨",
+          "tag": "cat_skull",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_skull"
+        },
+        {
+          "label": "猫モチーフのスリッパ",
+          "tag": "cat_slippers",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_slippers"
+        },
+        {
+          "label": "猫のシンボル",
+          "tag": "cat_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_symbol"
+        },
+        {
+          "label": "猫の尻尾",
+          "tag": "cat_tail",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_tail"
+        },
+        {
+          "label": "猫の太ももストラップ",
+          "tag": "cat_thigh_strap",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_thigh_strap"
+        },
+        {
+          "label": "とげのある舌",
+          "tag": "barbed_tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/barbed_tongue"
+        },
+        {
+          "label": "猫のジッパー",
+          "tag": "cat_zipper",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_zipper"
+        },
+        {
+          "label": "ひげ",
+          "tag": "whiskers",
+          "link": "https://danbooru.donmai.us/wiki_pages/whiskers"
+        }
+      ]
+    },
+    {
+      "セクション名": "猫に関連する名前・表現",
+      "タグ一覧": [
+        {
+          "label": "猫でもいいよ",
+          "tag": "a_cat_is_fine_too_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/a_cat_is_fine_too_%28meme%29"
+        },
+        {
+          "label": "ブラックキャット",
+          "tag": "black_cat_%28series%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_cat_%28series%29"
+        },
+        {
+          "label": "ボンゴキャット",
+          "tag": "bongo_cat_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bongo_cat_%28meme%29"
+        },
+        {
+          "label": "猫カフェ",
+          "tag": "cat_cafe",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_cafe"
+        },
+        {
+          "label": "猫の日",
+          "tag": "cat_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_day"
+        },
+        {
+          "label": "日付のダジャレ",
+          "tag": "date_pun",
+          "link": "https://danbooru.donmai.us/wiki_pages/date_pun"
+        },
+        {
+          "label": "猫探知機",
+          "tag": "cat_detector_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_detector_%28meme%29"
+        },
+        {
+          "label": "猫用家具",
+          "tag": "cat_furniture",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_furniture"
+        },
+        {
+          "label": "猫バーガー",
+          "tag": "cat_burger",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_burger"
+        },
+        {
+          "label": "猫砂",
+          "tag": "cat_litter",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_litter"
+        },
+        {
+          "label": "九尾の鞭",
+          "tag": "cat_o%27_nine_tails",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_o%27_nine_tails"
+        },
+        {
+          "label": "猫の形をした枕",
+          "tag": "cat-shaped_pillow",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat-shaped_pillow"
+        },
+        {
+          "label": "雷を放つ猫",
+          "tag": "cat_shooting_lightning",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_shooting_lightning"
+        },
+        {
+          "label": "猫のストレッチ",
+          "tag": "cat_stretch",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_stretch"
+        },
+        {
+          "label": "猫じゃらし",
+          "tag": "cat_teaser",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_teaser"
+        },
+        {
+          "label": "キャットタワー",
+          "tag": "cat_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_tower"
+        },
+        {
+          "label": "猫の超越",
+          "tag": "cat_transcendence_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_transcendence_%28meme%29"
+        },
+        {
+          "label": "キャットファイト",
+          "tag": "catfight",
+          "link": "https://danbooru.donmai.us/wiki_pages/catfight"
+        },
+        {
+          "label": "ナマズ",
+          "tag": "catfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/catfish"
+        },
+        {
+          "label": "あやとり",
+          "tag": "cat%27s_cradle",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat%27s_cradle"
+        },
+        {
+          "label": "ベルを鳴らす猫",
+          "tag": "cats_ringing_bell",
+          "link": "https://danbooru.donmai.us/wiki_pages/cats_ringing_bell"
+        },
+        {
+          "label": "ヘリコプター猫",
+          "tag": "helicopter_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/helicopter_cat"
+        },
+        {
+          "label": "招き猫",
+          "tag": "maneki-neko",
+          "link": "https://danbooru.donmai.us/wiki_pages/maneki-neko"
+        },
+        {
+          "label": "ペットフード",
+          "tag": "pet_food",
+          "link": "https://danbooru.donmai.us/wiki_pages/pet_food"
+        },
+        {
+          "label": "ペットボウル",
+          "tag": "pet_bowl",
+          "link": "https://danbooru.donmai.us/wiki_pages/pet_bowl"
+        },
+        {
+          "label": "スノーキャット",
+          "tag": "snow_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/snow_cat"
+        },
+        {
+          "label": "猫に怒鳴る女性",
+          "tag": "woman_yelling_at_cat_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/woman_yelling_at_cat_%28meme%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "猫のようなキャラクターと名前のついた猫",
+      "タグ一覧": [
+        {
+          "label": "エイミー",
+          "tag": "amy_%28madoka_magica%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/amy_%28madoka_magica%29"
+        },
+        {
+          "label": "アリア・ポコテン",
+          "tag": "aria_pokoteng",
+          "link": "https://danbooru.donmai.us/wiki_pages/aria_pokoteng"
+        },
+        {
+          "label": "アルテミス",
+          "tag": "artemis_%28sailor_moon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/artemis_%28sailor_moon%29"
+        },
+        {
+          "label": "アーサー",
+          "tag": "arthur_%28code_geass%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/arthur_%28code_geass%29"
+        },
+        {
+          "label": "ブレイズ・ザ・キャット",
+          "tag": "blaze_the_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/blaze_the_cat"
+        },
+        {
+          "label": "バブシー",
+          "tag": "bubsy_%28character%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bubsy_%28character%29"
+        },
+        {
+          "label": "ケット・シー",
+          "tag": "cait_sith_%28aria%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cait_sith_%28aria%29"
+        },
+        {
+          "label": "チェシャ猫",
+          "tag": "cheshire_cat_%28alice_in_wonderland%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cheshire_cat_%28alice_in_wonderland%29"
+        },
+        {
+          "label": "美浜千代の父",
+          "tag": "mihama_chiyo%27s_father",
+          "link": "https://danbooru.donmai.us/wiki_pages/mihama_chiyo%27s_father"
+        },
+        {
+          "label": "ダイアナ",
+          "tag": "diana_%28sailor_moon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/diana_%28sailor_moon%29"
+        },
+        {
+          "label": "ドラえもん",
+          "tag": "doraemon_%28character%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/doraemon_%28character%29"
+        },
+        {
+          "label": "ドラミ",
+          "tag": "dorami",
+          "link": "https://danbooru.donmai.us/wiki_pages/dorami"
+        },
+        {
+          "label": "フェリシア",
+          "tag": "felicia_%28darkstalkers%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/felicia_%28darkstalkers%29"
+        },
+        {
+          "label": "ガーフィールド",
+          "tag": "garfield_%28character%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/garfield_%28character%29"
+        },
+        {
+          "label": "ガーネット",
+          "tag": "garnet_%28jewelpet%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/garnet_%28jewelpet%29"
+        },
+        {
+          "label": "グランピーキャット",
+          "tag": "grumpy_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/grumpy_cat"
+        },
+        {
+          "label": "ハローキティ",
+          "tag": "hello_kitty_%28character%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hello_kitty_%28character%29"
+        },
+        {
+          "label": "ヒメ・M・グランチェスタ",
+          "tag": "hime_granzchesta",
+          "link": "https://danbooru.donmai.us/wiki_pages/hime_granzchesta"
+        },
+        {
+          "label": "ジジ",
+          "tag": "jiji_%28majo_no_takkyuubin%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jiji_%28majo_no_takkyuubin%29"
+        },
+        {
+          "label": "カミネコ",
+          "tag": "kamineko",
+          "link": "https://danbooru.donmai.us/wiki_pages/kamineko"
+        },
+        {
+          "label": "リリー",
+          "tag": "lily_%28majo_no_takkyuubin%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lily_%28majo_no_takkyuubin%29"
+        },
+        {
+          "label": "ロングキャット",
+          "tag": "longcat_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/longcat_%28meme%29"
+        },
+        {
+          "label": "ルナ",
+          "tag": "luna_%28sailor_moon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/luna_%28sailor_moon%29"
+        },
+        {
+          "label": "マヤー",
+          "tag": "mayaa_%28azumanga_daioh%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mayaa_%28azumanga_daioh%29"
+        },
+        {
+          "label": "御坂妹10032の猫",
+          "tag": "misaka_imouto_10032%27s_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/misaka_imouto_10032%27s_cat"
+        },
+        {
+          "label": "みゆみゆ",
+          "tag": "miyu_miyu",
+          "link": "https://danbooru.donmai.us/wiki_pages/miyu_miyu"
+        },
+        {
+          "label": "モルガナ",
+          "tag": "morgana_%28persona_5%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/morgana_%28persona_5%29"
+        },
+        {
+          "label": "ネコバス",
+          "tag": "nekobus",
+          "link": "https://danbooru.donmai.us/wiki_pages/nekobus"
+        },
+        {
+          "label": "ねここねこ",
+          "tag": "nekokoneko",
+          "link": "https://danbooru.donmai.us/wiki_pages/nekokoneko"
+        },
+        {
+          "label": "ニャンキャット",
+          "tag": "nyan_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/nyan_cat"
+        },
+        {
+          "label": "ニャオス",
+          "tag": "nyaos",
+          "link": "https://danbooru.donmai.us/wiki_pages/nyaos"
+        },
+        {
+          "label": "まぁ社長",
+          "tag": "president_maa",
+          "link": "https://danbooru.donmai.us/wiki_pages/president_maa"
+        },
+        {
+          "label": "プアール",
+          "tag": "puar",
+          "link": "https://danbooru.donmai.us/wiki_pages/puar"
+        },
+        {
+          "label": "長靴をはいた猫",
+          "tag": "puss_in_boots_%28shrek%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/puss_in_boots_%28shrek%29"
+        },
+        {
+          "label": "坂本",
+          "tag": "sakamoto_%28nichijou%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sakamoto_%28nichijou%29"
+        },
+        {
+          "label": "サンゴ",
+          "tag": "sango_%28jewelpet%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sango_%28jewelpet%29"
+        },
+        {
+          "label": "シュレーディンガーの猫",
+          "tag": "schrodinger%27s_cat",
+          "link": "https://danbooru.donmai.us/wiki_pages/schrodinger%27s_cat"
+        },
+        {
+          "label": "三味線",
+          "tag": "shamisen_%28suzumiya_haruhi%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shamisen_%28suzumiya_haruhi%29"
+        },
+        {
+          "label": "四楓院夜一",
+          "tag": "shihouin_yoruichi_%28cat%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shihouin_yoruichi_%28cat%29"
+        },
+        {
+          "label": "スフィンクス",
+          "tag": "sphinx_%28toaru_majutsu_no_index%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sphinx_%28toaru_majutsu_no_index%29"
+        },
+        {
+          "label": "シルベスター",
+          "tag": "sylvester_%28looney_tunes%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sylvester_%28looney_tunes%29"
+        },
+        {
+          "label": "テイルモン",
+          "tag": "tailmon",
+          "link": "https://danbooru.donmai.us/wiki_pages/tailmon"
+        },
+        {
+          "label": "たっくん",
+          "tag": "takkun_%28flcl%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/takkun_%28flcl%29"
+        },
+        {
+          "label": "タマ",
+          "tag": "tama_%28dragon_ball%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tama_%28dragon_ball%29"
+        },
+        {
+          "label": "ユニ",
+          "tag": "uni_%28cat%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uni_%28cat%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "猫をモチーフにしたポケモン",
+      "タグ一覧": [
+        {
+          "label": "ポケモン",
+          "tag": "pokemon",
+          "link": "https://danbooru.donmai.us/wiki_pages/pokemon"
+        },
+        {
+          "label": "ポケモンの一覧",
+          "tag": "list_of_pokemon",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_pokemon"
+        },
+        {
+          "label": "ニャース",
+          "tag": "meowth",
+          "link": "https://danbooru.donmai.us/wiki_pages/meowth"
+        },
+        {
+          "label": "ペルシアン",
+          "tag": "persian_%28pokemon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/persian_%28pokemon%29"
+        },
+        {
+          "label": "アローラ ニャース",
+          "tag": "alolan_meowth",
+          "link": "https://danbooru.donmai.us/wiki_pages/alolan_meowth"
+        },
+        {
+          "label": "アローラ ペルシアン",
+          "tag": "alolan_persian",
+          "link": "https://danbooru.donmai.us/wiki_pages/alolan_persian"
+        },
+        {
+          "label": "ガラル地方のニャース",
+          "tag": "galarian_meowth",
+          "link": "https://danbooru.donmai.us/wiki_pages/galarian_meowth"
+        },
+        {
+          "label": "ペルサーカー",
+          "tag": "perrserker",
+          "link": "https://danbooru.donmai.us/wiki_pages/perrserker"
+        },
+        {
+          "label": "エネコ",
+          "tag": "skitty",
+          "link": "https://danbooru.donmai.us/wiki_pages/skitty"
+        },
+        {
+          "label": "エネコロロ",
+          "tag": "delcatty",
+          "link": "https://danbooru.donmai.us/wiki_pages/delcatty"
+        },
+        {
+          "label": "ニャルマー",
+          "tag": "glameow",
+          "link": "https://danbooru.donmai.us/wiki_pages/glameow"
+        },
+        {
+          "label": "ブニャット",
+          "tag": "purugly",
+          "link": "https://danbooru.donmai.us/wiki_pages/purugly"
+        },
+        {
+          "label": "チョロネコ",
+          "tag": "purrloin",
+          "link": "https://danbooru.donmai.us/wiki_pages/purrloin"
+        },
+        {
+          "label": "レパルダス",
+          "tag": "liepard",
+          "link": "https://danbooru.donmai.us/wiki_pages/liepard"
+        },
+        {
+          "label": "ニャスパー",
+          "tag": "espurr",
+          "link": "https://danbooru.donmai.us/wiki_pages/espurr"
+        },
+        {
+          "label": "ニャオニクス",
+          "tag": "meowstic",
+          "link": "https://danbooru.donmai.us/wiki_pages/meowstic"
+        },
+        {
+          "label": "ニャビー",
+          "tag": "litten",
+          "link": "https://danbooru.donmai.us/wiki_pages/litten"
+        },
+        {
+          "label": "ニャヒート",
+          "tag": "torracat",
+          "link": "https://danbooru.donmai.us/wiki_pages/torracat"
+        },
+        {
+          "label": "ガオガエン",
+          "tag": "incineroar",
+          "link": "https://danbooru.donmai.us/wiki_pages/incineroar"
+        },
+        {
+          "label": "ニャオハ",
+          "tag": "sprigatito",
+          "link": "https://danbooru.donmai.us/wiki_pages/sprigatito"
+        },
+        {
+          "label": "ニャローテ",
+          "tag": "floragato",
+          "link": "https://danbooru.donmai.us/wiki_pages/floragato"
+        },
+        {
+          "label": "マスカーニャ",
+          "tag": "meowscarada",
+          "link": "https://danbooru.donmai.us/wiki_pages/meowscarada"
+        }
+      ]
+    }
+  ]
+}

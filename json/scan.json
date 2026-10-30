@@ -1,0 +1,212 @@
+﻿{
+    "カテゴリID":  "scan",
+    "カテゴリ名":  "スキャン",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Ascan",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "スキャン",
+                                         "tag":  "scan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scan"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "スキャンの不具合",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "綴じ部分の変色",
+                                         "tag":  "binding_discoloration",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/binding_discoloration"
+                                     },
+                                     {
+                                         "label":  "裏写り",
+                                         "tag":  "bleed_through",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bleed_through"
+                                     },
+                                     {
+                                         "label":  "カラーハーフトーン",
+                                         "tag":  "color_halftone",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/color_halftone"
+                                     },
+                                     {
+                                         "label":  "色の不具合",
+                                         "tag":  "color_issue",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/color_issue"
+                                     },
+                                     {
+                                         "label":  "折り目",
+                                         "tag":  "crease",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crease"
+                                     },
+                                     {
+                                         "label":  "トリミング済み",
+                                         "tag":  "cropped",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cropped"
+                                     },
+                                     {
+                                         "label":  "スキャン時のノイズ",
+                                         "tag":  "scan_artifacts",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scan_artifacts"
+                                     },
+                                     {
+                                         "label":  "スキャン時のほこり",
+                                         "tag":  "scan_dust",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scan_dust"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "元となる媒体",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アートブック",
+                                         "tag":  "artbook",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/artbook"
+                                     },
+                                     {
+                                         "label":  "同人誌",
+                                         "tag":  "doujinshi",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/doujinshi"
+                                     },
+                                     {
+                                         "label":  "雑誌のスキャン",
+                                         "tag":  "magazine_scan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/magazine_scan"
+                                     },
+                                     {
+                                         "label":  "小説の挿絵",
+                                         "tag":  "novel_illustration",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/novel_illustration"
+                                     },
+                                     {
+                                         "label":  "公式アート",
+                                         "tag":  "official_art",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/official_art"
+                                     },
+                                     {
+                                         "label":  "制作資料",
+                                         "tag":  "production_art",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/production_art"
+                                     },
+                                     {
+                                         "label":  "表紙",
+                                         "tag":  "cover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cover"
+                                     },
+                                     {
+                                         "label":  "アルバムジャケット",
+                                         "tag":  "album_cover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/album_cover"
+                                     },
+                                     {
+                                         "label":  "CD由来",
+                                         "tag":  "cd_%28source%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cd_%28source%29"
+                                     },
+                                     {
+                                         "label":  "ゲームのパッケージ",
+                                         "tag":  "video_game_cover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/video_game_cover"
+                                     },
+                                     {
+                                         "label":  "DVDカバー",
+                                         "tag":  "dvd_cover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dvd_cover"
+                                     },
+                                     {
+                                         "label":  "ブルーレイカバー",
+                                         "tag":  "blu-ray_cover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blu-ray_cover"
+                                     },
+                                     {
+                                         "label":  "雑誌の表紙",
+                                         "tag":  "magazine_cover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/magazine_cover"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "関連タグ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "セル画",
+                                         "tag":  "cel",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cel"
+                                     },
+                                     {
+                                         "label":  "自分でスキャン",
+                                         "tag":  "self_scan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/self_scan"
+                                     },
+                                     {
+                                         "label":  "ポスター（媒体）",
+                                         "tag":  "poster_%28medium%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/poster_%28medium%29"
+                                     },
+                                     {
+                                         "label":  "テキストなしバージョン",
+                                         "tag":  "textless_version",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/textless_version"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "リクエストと編集",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "テキスト除去",
+                                         "tag":  "detexted",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/detexted"
+                                     },
+                                     {
+                                         "label":  "汚れ除去済み",
+                                         "tag":  "cleaned",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cleaned"
+                                     },
+                                     {
+                                         "label":  "修正済み",
+                                         "tag":  "fixed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fixed"
+                                     },
+                                     {
+                                         "label":  "自分で編集",
+                                         "tag":  "self_edit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/self_edit"
+                                     },
+                                     {
+                                         "label":  "分割画像の接合",
+                                         "tag":  "stitched",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stitched"
+                                     },
+                                     {
+                                         "label":  "第三者による編集",
+                                         "tag":  "third-party_edit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/third-party_edit"
+                                     },
+                                     {
+                                         "label":  "雑誌のリクエスト",
+                                         "tag":  "magazine_request",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/magazine_request"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "フェイクスキャン",
+                                         "tag":  "fake_scan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_scan"
+                                     },
+                                     {
+          "label":  "タググループ:メタタグ",
+                                         "tag":  "tag_group%3Ametatags",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ametatags"
+                                     }
+                                 ]
+                    }
+                ]
+}

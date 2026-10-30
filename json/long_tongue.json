@@ -1,0 +1,52 @@
+{
+  "カテゴリID": "long_tongue",
+  "カテゴリ名": "長い舌",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=long_tongue",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "舌",
+          "tag": "tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongue"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "物をつかめる舌",
+          "tag": "prehensile_tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/prehensile_tongue"
+        },
+        {
+          "label": "非常に長い舌",
+          "tag": "very_long_tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/very_long_tongue"
+        },
+        {
+          "label": "舌",
+          "tag": "tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongue"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        },
+        {
+          "label": "非常に長い舌",
+          "tag": "very_long_tongue",
+          "link": "https://danbooru.donmai.us/wiki_pages/very_long_tongue"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

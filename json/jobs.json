@@ -1,0 +1,387 @@
+{
+  "カテゴリID": "jobs",
+  "カテゴリ名": "職業・役割",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Ajobs",
+  "セクション一覧": [
+    {
+      "セクション名": "職業・役割",
+      "タグ一覧": [
+        {
+          "label": "俳優",
+          "tag": "actor",
+          "link": "https://danbooru.donmai.us/wiki_pages/actor"
+        },
+        {
+          "label": "女優",
+          "tag": "actress",
+          "link": "https://danbooru.donmai.us/wiki_pages/actress"
+        },
+        {
+          "label": "錬金術師",
+          "tag": "alchemist",
+          "link": "https://danbooru.donmai.us/wiki_pages/alchemist"
+        },
+        {
+          "label": "画家",
+          "tag": "artist_painter",
+          "link": "https://danbooru.donmai.us/wiki_pages/artist_painter"
+        },
+        {
+          "label": "宇宙飛行士",
+          "tag": "astronaut",
+          "link": "https://danbooru.donmai.us/wiki_pages/astronaut"
+        },
+        {
+          "label": "バーテンダー",
+          "tag": "bartender",
+          "link": "https://danbooru.donmai.us/wiki_pages/bartender"
+        },
+        {
+          "label": "ボディーガード",
+          "tag": "bodyguard",
+          "link": "https://danbooru.donmai.us/wiki_pages/bodyguard"
+        },
+        {
+          "label": "泥棒",
+          "tag": "burglar",
+          "link": "https://danbooru.donmai.us/wiki_pages/burglar"
+        },
+        {
+          "label": "執事",
+          "tag": "butler",
+          "link": "https://danbooru.donmai.us/wiki_pages/butler"
+        },
+        {
+          "label": "レジ係",
+          "tag": "cashier",
+          "link": "https://danbooru.donmai.us/wiki_pages/cashier"
+        },
+        {
+          "label": "運転手",
+          "tag": "chauffeur",
+          "link": "https://danbooru.donmai.us/wiki_pages/chauffeur"
+        },
+        {
+          "label": "シェフ",
+          "tag": "chef",
+          "link": "https://danbooru.donmai.us/wiki_pages/chef"
+        },
+        {
+          "label": "化学者",
+          "tag": "chemist",
+          "link": "https://danbooru.donmai.us/wiki_pages/chemist"
+        },
+        {
+          "label": "指揮者",
+          "tag": "conductor",
+          "link": "https://danbooru.donmai.us/wiki_pages/conductor"
+        },
+        {
+          "label": "建設作業員",
+          "tag": "construction_worker",
+          "link": "https://danbooru.donmai.us/wiki_pages/construction_worker"
+        },
+        {
+          "label": "ディーラー",
+          "tag": "croupier",
+          "link": "https://danbooru.donmai.us/wiki_pages/croupier"
+        },
+        {
+          "label": "サイクリスト",
+          "tag": "cyclist",
+          "link": "https://danbooru.donmai.us/wiki_pages/cyclist"
+        },
+        {
+          "label": "歯医者",
+          "tag": "dentist",
+          "link": "https://danbooru.donmai.us/wiki_pages/dentist"
+        },
+        {
+          "label": "DJ",
+          "tag": "dj",
+          "link": "https://danbooru.donmai.us/wiki_pages/dj"
+        },
+        {
+          "label": "医者",
+          "tag": "doctor",
+          "link": "https://danbooru.donmai.us/wiki_pages/doctor"
+        },
+        {
+          "label": "女性の支配役（BDSM）",
+          "tag": "dominatrix",
+          "link": "https://danbooru.donmai.us/wiki_pages/dominatrix"
+        },
+        {
+          "label": "エンジニア",
+          "tag": "engineer",
+          "link": "https://danbooru.donmai.us/wiki_pages/engineer"
+        },
+        {
+          "label": "農家",
+          "tag": "farmer",
+          "link": "https://danbooru.donmai.us/wiki_pages/farmer"
+        },
+        {
+          "label": "消防士",
+          "tag": "firefighter",
+          "link": "https://danbooru.donmai.us/wiki_pages/firefighter"
+        },
+        {
+          "label": "客室乗務員",
+          "tag": "flight_attendant",
+          "link": "https://danbooru.donmai.us/wiki_pages/flight_attendant"
+        },
+        {
+          "label": "花屋",
+          "tag": "florist",
+          "link": "https://danbooru.donmai.us/wiki_pages/florist"
+        },
+        {
+          "label": "芸者",
+          "tag": "geisha",
+          "link": "https://danbooru.donmai.us/wiki_pages/geisha"
+        },
+        {
+          "label": "警備員",
+          "tag": "guard",
+          "link": "https://danbooru.donmai.us/wiki_pages/guard"
+        },
+        {
+          "label": "ハッカー",
+          "tag": "hacker",
+          "link": "https://danbooru.donmai.us/wiki_pages/hacker"
+        },
+        {
+          "label": "ひきこもり",
+          "tag": "hikikomori",
+          "link": "https://danbooru.donmai.us/wiki_pages/hikikomori"
+        },
+        {
+          "label": "アイドル",
+          "tag": "idol",
+          "link": "https://danbooru.donmai.us/wiki_pages/idol"
+        },
+        {
+          "label": "用務員",
+          "tag": "janitor",
+          "link": "https://danbooru.donmai.us/wiki_pages/janitor"
+        },
+        {
+          "label": "裁判官",
+          "tag": "judge",
+          "link": "https://danbooru.donmai.us/wiki_pages/judge"
+        },
+        {
+          "label": "司書",
+          "tag": "librarian",
+          "link": "https://danbooru.donmai.us/wiki_pages/librarian"
+        },
+        {
+          "label": "ライフガード",
+          "tag": "lifeguard",
+          "link": "https://danbooru.donmai.us/wiki_pages/lifeguard"
+        },
+        {
+          "label": "木こり",
+          "tag": "lumberjack",
+          "link": "https://danbooru.donmai.us/wiki_pages/lumberjack"
+        },
+        {
+          "label": "メイド",
+          "tag": "maid",
+          "link": "https://danbooru.donmai.us/wiki_pages/maid"
+        },
+        {
+          "label": "整備士",
+          "tag": "mechanic",
+          "link": "https://danbooru.donmai.us/wiki_pages/mechanic"
+        },
+        {
+          "label": "商人",
+          "tag": "merchant",
+          "link": "https://danbooru.donmai.us/wiki_pages/merchant"
+        },
+        {
+          "label": "巫女",
+          "tag": "miko",
+          "link": "https://danbooru.donmai.us/wiki_pages/miko"
+        },
+        {
+          "label": "鉱夫",
+          "tag": "miner",
+          "link": "https://danbooru.donmai.us/wiki_pages/miner"
+        },
+        {
+          "label": "僧侶",
+          "tag": "monk",
+          "link": "https://danbooru.donmai.us/wiki_pages/monk"
+        },
+        {
+          "label": "忍者",
+          "tag": "ninja",
+          "link": "https://danbooru.donmai.us/wiki_pages/ninja"
+        },
+        {
+          "label": "尼僧",
+          "tag": "nun",
+          "link": "https://danbooru.donmai.us/wiki_pages/nun"
+        },
+        {
+          "label": "看護師",
+          "tag": "nurse",
+          "link": "https://danbooru.donmai.us/wiki_pages/nurse"
+        },
+        {
+          "label": "養護教諭",
+          "tag": "school_nurse",
+          "link": "https://danbooru.donmai.us/wiki_pages/school_nurse"
+        },
+        {
+          "label": "OL",
+          "tag": "office_lady",
+          "link": "https://danbooru.donmai.us/wiki_pages/office_lady"
+        },
+        {
+          "label": "OL",
+          "tag": "office_lady",
+          "link": "https://danbooru.donmai.us/wiki_pages/office_lady"
+        },
+        {
+          "label": "パイロット",
+          "tag": "pilot",
+          "link": "https://danbooru.donmai.us/wiki_pages/pilot"
+        },
+        {
+          "label": "警察",
+          "tag": "police",
+          "link": "https://danbooru.donmai.us/wiki_pages/police"
+        },
+        {
+          "label": "政治家",
+          "tag": "politician",
+          "link": "https://danbooru.donmai.us/wiki_pages/politician"
+        },
+        {
+          "label": "祭司",
+          "tag": "priest",
+          "link": "https://danbooru.donmai.us/wiki_pages/priest"
+        },
+        {
+          "label": "囚人",
+          "tag": "prisoner",
+          "link": "https://danbooru.donmai.us/wiki_pages/prisoner"
+        },
+        {
+          "label": "売春",
+          "tag": "prostitution",
+          "link": "https://danbooru.donmai.us/wiki_pages/prostitution"
+        },
+        {
+          "label": "船員",
+          "tag": "sailor",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailor"
+        },
+        {
+          "label": "サラリーマン",
+          "tag": "salaryman",
+          "link": "https://danbooru.donmai.us/wiki_pages/salaryman"
+        },
+        {
+          "label": "武士",
+          "tag": "samurai",
+          "link": "https://danbooru.donmai.us/wiki_pages/samurai"
+        },
+        {
+          "label": "科学者",
+          "tag": "scientist",
+          "link": "https://danbooru.donmai.us/wiki_pages/scientist"
+        },
+        {
+          "label": "羊飼い",
+          "tag": "shepherd",
+          "link": "https://danbooru.donmai.us/wiki_pages/shepherd"
+        },
+        {
+          "label": "奴隷",
+          "tag": "slave",
+          "link": "https://danbooru.donmai.us/wiki_pages/slave"
+        },
+        {
+          "label": "兵士",
+          "tag": "soldier",
+          "link": "https://danbooru.donmai.us/wiki_pages/soldier"
+        },
+        {
+          "label": "将校",
+          "tag": "officer",
+          "link": "https://danbooru.donmai.us/wiki_pages/officer"
+        },
+        {
+          "label": "旗手",
+          "tag": "standard_bearer",
+          "link": "https://danbooru.donmai.us/wiki_pages/standard_bearer"
+        },
+        {
+          "label": "スパイ",
+          "tag": "spy",
+          "link": "https://danbooru.donmai.us/wiki_pages/spy"
+        },
+        {
+          "label": "ストリッパー",
+          "tag": "stripper",
+          "link": "https://danbooru.donmai.us/wiki_pages/stripper"
+        },
+        {
+          "label": "教師",
+          "tag": "teacher",
+          "link": "https://danbooru.donmai.us/wiki_pages/teacher"
+        },
+        {
+          "label": "テロリスト",
+          "tag": "terrorist",
+          "link": "https://danbooru.donmai.us/wiki_pages/terrorist"
+        },
+        {
+          "label": "トラック運転手",
+          "tag": "trucker",
+          "link": "https://danbooru.donmai.us/wiki_pages/trucker"
+        },
+        {
+          "label": "列車の客室乗務員",
+          "tag": "train_attendant",
+          "link": "https://danbooru.donmai.us/wiki_pages/train_attendant"
+        },
+        {
+          "label": "車掌",
+          "tag": "train_conductor",
+          "link": "https://danbooru.donmai.us/wiki_pages/train_conductor"
+        },
+        {
+          "label": "ウェイター",
+          "tag": "waiter",
+          "link": "https://danbooru.donmai.us/wiki_pages/waiter"
+        },
+        {
+          "label": "ウェイトレス",
+          "tag": "waitress",
+          "link": "https://danbooru.donmai.us/wiki_pages/waitress"
+        },
+        {
+          "label": "戦士",
+          "tag": "warrior",
+          "link": "https://danbooru.donmai.us/wiki_pages/warrior"
+        },
+        {
+          "label": "魔法使い",
+          "tag": "wizard",
+          "link": "https://danbooru.donmai.us/wiki_pages/wizard"
+        },
+        {
+          "label": "魔女",
+          "tag": "witch",
+          "link": "https://danbooru.donmai.us/wiki_pages/witch"
+        }
+      ]
+    }
+  ]
+}

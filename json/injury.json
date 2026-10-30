@@ -1,0 +1,352 @@
+{
+  "カテゴリID": "injury",
+  "カテゴリ名": "けが",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=injury",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "武器",
+          "tag": "weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon"
+        },
+        {
+          "label": "銃",
+          "tag": "gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/gun"
+        },
+        {
+          "label": "握りしめた手",
+          "tag": "clenched_hand",
+          "link": "https://danbooru.donmai.us/wiki_pages/clenched_hand"
+        },
+        {
+          "label": "戦闘",
+          "tag": "battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/battle"
+        },
+        {
+          "label": "落下",
+          "tag": "falling",
+          "link": "https://danbooru.donmai.us/wiki_pages/falling"
+        },
+        {
+          "label": "つまずき",
+          "tag": "tripping",
+          "link": "https://danbooru.donmai.us/wiki_pages/tripping"
+        },
+        {
+          "label": "痛み",
+          "tag": "pain",
+          "link": "https://danbooru.donmai.us/wiki_pages/pain"
+        }
+      ]
+    },
+    {
+      "セクション名": "目に見える怪我の兆候",
+      "タグ一覧": [
+        {
+          "label": "血",
+          "tag": "blood",
+          "link": "https://danbooru.donmai.us/wiki_pages/blood"
+        },
+        {
+          "label": "出血",
+          "tag": "bleeding",
+          "link": "https://danbooru.donmai.us/wiki_pages/bleeding"
+        },
+        {
+          "label": "包帯についた血",
+          "tag": "blood_on_bandages",
+          "link": "https://danbooru.donmai.us/wiki_pages/blood_on_bandages"
+        },
+        {
+          "label": "あざ",
+          "tag": "bruise",
+          "link": "https://danbooru.donmai.us/wiki_pages/bruise"
+        },
+        {
+          "label": "目の周囲のあざ",
+          "tag": "bruised_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/bruised_eye"
+        },
+        {
+          "label": "切り傷",
+          "tag": "cuts",
+          "link": "https://danbooru.donmai.us/wiki_pages/cuts"
+        },
+        {
+          "label": "深い傷",
+          "tag": "deep_wound",
+          "link": "https://danbooru.donmai.us/wiki_pages/deep_wound"
+        },
+        {
+          "label": "たんこぶ",
+          "tag": "head_bump",
+          "link": "https://danbooru.donmai.us/wiki_pages/head_bump"
+        },
+        {
+          "label": "片目の欠損",
+          "tag": "missing_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/missing_eye"
+        },
+        {
+          "label": "鼻血",
+          "tag": "nosebleed",
+          "link": "https://danbooru.donmai.us/wiki_pages/nosebleed"
+        },
+        {
+          "label": "傷跡",
+          "tag": "scar",
+          "link": "https://danbooru.donmai.us/wiki_pages/scar"
+        },
+        {
+          "label": "傷",
+          "tag": "scratches",
+          "link": "https://danbooru.donmai.us/wiki_pages/scratches"
+        },
+        {
+          "label": "縫合痕",
+          "tag": "stitches",
+          "link": "https://danbooru.donmai.us/wiki_pages/stitches"
+        },
+        {
+          "label": "擦り傷",
+          "tag": "scrape",
+          "link": "https://danbooru.donmai.us/wiki_pages/scrape"
+        },
+        {
+          "label": "捻挫",
+          "tag": "sprain",
+          "link": "https://danbooru.donmai.us/wiki_pages/sprain"
+        },
+        {
+          "label": "刺す",
+          "tag": "stab",
+          "link": "https://danbooru.donmai.us/wiki_pages/stab"
+        },
+        {
+          "label": "串刺し",
+          "tag": "impaled",
+          "link": "https://danbooru.donmai.us/wiki_pages/impaled"
+        },
+        {
+          "label": "切断された手足",
+          "tag": "severed_limb",
+          "link": "https://danbooru.donmai.us/wiki_pages/severed_limb"
+        },
+        {
+          "label": "四肢の欠損",
+          "tag": "amputee",
+          "link": "https://danbooru.donmai.us/wiki_pages/amputee"
+        },
+        {
+          "label": "注射痕",
+          "tag": "track_marks",
+          "link": "https://danbooru.donmai.us/wiki_pages/track_marks"
+        },
+        {
+          "label": "麻痺",
+          "tag": "paralysis",
+          "link": "https://danbooru.donmai.us/wiki_pages/paralysis"
+        }
+      ]
+    },
+    {
+      "セクション名": "絆創膏・包帯",
+      "タグ一覧": [
+        {
+          "label": "絆創膏",
+          "tag": "bandaid",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid"
+        },
+        {
+          "label": "膝に絆創膏",
+          "tag": "bandaid_on_knee",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid_on_knee"
+        },
+        {
+          "label": "腕に絆創膏",
+          "tag": "bandaid_on_arm",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid_on_arm"
+        },
+        {
+          "label": "足に絆創膏",
+          "tag": "bandaid_on_leg",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid_on_leg"
+        },
+        {
+          "label": "顔に絆創膏を貼る",
+          "tag": "bandaid_on_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid_on_face"
+        },
+        {
+          "label": "頬に絆創膏",
+          "tag": "bandaid_on_cheek",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid_on_cheek"
+        },
+        {
+          "label": "耳に絆創膏",
+          "tag": "bandaid_on_ear",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid_on_ear"
+        },
+        {
+          "label": "額に絆創膏",
+          "tag": "bandaid_on_forehead",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid_on_forehead"
+        },
+        {
+          "label": "鼻に絆創膏",
+          "tag": "bandaid_on_nose",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandaid_on_nose"
+        },
+        {
+          "label": "包帯",
+          "tag": "bandages",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandages"
+        },
+        {
+          "label": "顔に包帯を巻く",
+          "tag": "bandage_on_face",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandage_on_face"
+        },
+        {
+          "label": "片目を覆う包帯",
+          "tag": "bandage_over_one_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandage_over_one_eye"
+        },
+        {
+          "label": "眼帯",
+          "tag": "eyepatch",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyepatch"
+        },
+        {
+          "label": "さらし",
+          "tag": "sarashi",
+          "link": "https://danbooru.donmai.us/wiki_pages/sarashi"
+        },
+        {
+          "label": "腕の三角巾",
+          "tag": "arm_sling",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_sling"
+        }
+      ]
+    },
+    {
+      "セクション名": "医療・その他",
+      "タグ一覧": [
+        {
+          "label": "医者",
+          "tag": "doctor",
+          "link": "https://danbooru.donmai.us/wiki_pages/doctor"
+        },
+        {
+          "label": "看護師",
+          "tag": "nurse",
+          "link": "https://danbooru.donmai.us/wiki_pages/nurse"
+        },
+        {
+          "label": "病院",
+          "tag": "hospital",
+          "link": "https://danbooru.donmai.us/wiki_pages/hospital"
+        },
+        {
+          "label": "心肺蘇生",
+          "tag": "cpr",
+          "link": "https://danbooru.donmai.us/wiki_pages/cpr"
+        },
+        {
+          "label": "応急処置",
+          "tag": "first_aid",
+          "link": "https://danbooru.donmai.us/wiki_pages/first_aid"
+        },
+        {
+          "label": "点滴",
+          "tag": "intravenous_drip",
+          "link": "https://danbooru.donmai.us/wiki_pages/intravenous_drip"
+        },
+        {
+          "label": "手術",
+          "tag": "surgery",
+          "link": "https://danbooru.donmai.us/wiki_pages/surgery"
+        },
+        {
+          "label": "注射器",
+          "tag": "syringe",
+          "link": "https://danbooru.donmai.us/wiki_pages/syringe"
+        },
+        {
+          "label": "四肢の欠損",
+          "tag": "amputee",
+          "link": "https://danbooru.donmai.us/wiki_pages/amputee"
+        },
+        {
+          "label": "錠剤",
+          "tag": "pill",
+          "link": "https://danbooru.donmai.us/wiki_pages/pill"
+        },
+        {
+          "label": "薬物",
+          "tag": "drugs",
+          "link": "https://danbooru.donmai.us/wiki_pages/drugs"
+        },
+        {
+          "label": "グロ",
+          "tag": "guro",
+          "link": "https://danbooru.donmai.us/wiki_pages/guro"
+        },
+        {
+          "label": "臓器",
+          "tag": "organs",
+          "link": "https://danbooru.donmai.us/wiki_pages/organs"
+        },
+        {
+          "label": "負傷",
+          "tag": "injured",
+          "link": "https://danbooru.donmai.us/wiki_pages/injured"
+        },
+        {
+          "label": "けが",
+          "tag": "injuries",
+          "link": "https://danbooru.donmai.us/wiki_pages/injuries"
+        },
+        {
+          "label": "負傷",
+          "tag": "wounded",
+          "link": "https://danbooru.donmai.us/wiki_pages/wounded"
+        },
+        {
+          "label": "傷",
+          "tag": "wounds",
+          "link": "https://danbooru.donmai.us/wiki_pages/wounds"
+        },
+        {
+          "label": "タグの別名",
+          "tag": "help:tag_aliases",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_aliases"
+        },
+        {
+          "label": "あざ",
+          "tag": "bruise",
+          "link": "https://danbooru.donmai.us/wiki_pages/bruise"
+        },
+        {
+          "label": "切り傷",
+          "tag": "cuts",
+          "link": "https://danbooru.donmai.us/wiki_pages/cuts"
+        },
+        {
+          "label": "深い傷",
+          "tag": "deep_wound",
+          "link": "https://danbooru.donmai.us/wiki_pages/deep_wound"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

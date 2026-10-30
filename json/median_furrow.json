@@ -1,0 +1,22 @@
+{
+  "カテゴリID": "median_furrow",
+  "カテゴリ名": "背中の正中溝",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=median_furrow",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "背中",
+          "tag": "back",
+          "link": "https://danbooru.donmai.us/wiki_pages/back"
+        },
+        {
+          "label": "白線（腹部の正中線）",
+          "tag": "linea_alba",
+          "link": "https://danbooru.donmai.us/wiki_pages/linea_alba"
+        }
+      ]
+    }
+  ]
+}

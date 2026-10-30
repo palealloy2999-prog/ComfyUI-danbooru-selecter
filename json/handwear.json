@@ -1,0 +1,587 @@
+﻿{
+    "カテゴリID":  "handwear",
+    "カテゴリ名":  "手袋・手の装飾",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Ahandwear",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "手袋",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "エルボーグローブ",
+                                         "tag":  "elbow_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/elbow_gloves"
+                                     },
+                                     {
+                                         "label":  "指なし手袋",
+                                         "tag":  "fingerless_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fingerless_gloves"
+                                     },
+                                     {
+                                         "label":  "一部の指が出る手袋",
+                                         "tag":  "partially_fingerless_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/partially_fingerless_gloves"
+                                     },
+                                     {
+                                         "label":  "折り返し手袋",
+                                         "tag":  "fold-over_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fold-over_gloves"
+                                     },
+                                     {
+                                         "label":  "手袋の袖口",
+                                         "tag":  "glove_cuffs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glove_cuffs"
+                                     },
+                                     {
+                                         "label":  "ハーフグローブ",
+                                         "tag":  "half_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/half_gloves"
+                                     },
+                                     {
+                                         "label":  "肉球手袋",
+                                         "tag":  "paw_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/paw_gloves"
+                                     },
+                                     {
+                                         "label":  "猫の前足",
+                                         "tag":  "cat_paws",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cat_paws"
+                                     },
+                                     {
+                                         "label":  "破れた手袋",
+                                         "tag":  "torn_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_gloves"
+                                     },
+                                     {
+                                         "label":  "重ね着手袋",
+                                         "tag":  "layered_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/layered_gloves"
+                                     },
+                                     {
+                                         "label":  "クロスレースの手袋",
+                                         "tag":  "cross-laced_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cross-laced_gloves"
+                                     },
+                                     {
+                                         "label":  "手袋の開口部",
+                                         "tag":  "glove_cutout",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glove_cutout"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "手袋の柄",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "プリント手袋",
+                                         "tag":  "print_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/print_gloves"
+                                     },
+                                     {
+                                         "label":  "ストライプ柄の手袋",
+                                         "tag":  "striped_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/striped_gloves"
+                                     },
+                                     {
+                                         "label":  "手のひらの肉球柄",
+                                         "tag":  "paw_print_palms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/paw_print_palms"
+                                     },
+                                     {
+                                         "label":  "牛柄の手袋",
+                                         "tag":  "cow_print_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cow_print_gloves"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "グローブアクセサリー",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "手袋のリボン",
+                                         "tag":  "glove_bow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glove_bow"
+                                     },
+                                     {
+                                         "label":  "スパイク付き手袋",
+                                         "tag":  "spiked_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spiked_gloves"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "手袋の縁飾り",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "毛皮で縁取られた手袋",
+                                         "tag":  "fur-trimmed_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur-trimmed_gloves"
+                                     },
+                                     {
+                                         "label":  "フリル付き手袋",
+                                         "tag":  "frilled_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/frilled_gloves"
+                                     },
+                                     {
+                                         "label":  "レーストリムの手袋",
+                                         "tag":  "lace-trimmed_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace-trimmed_gloves"
+                                     },
+                                     {
+                                         "label":  "リボントリムの手袋",
+                                         "tag":  "ribbon-trimmed_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_gloves"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "非対称手袋",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "片手手袋",
+                                         "tag":  "single_glove",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_glove"
+                                     },
+                                     {
+                                         "label":  "左右の手袋が違う",
+                                         "tag":  "mismatched_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mismatched_gloves"
+                                     },
+                                     {
+                                         "label":  "片手だけの肘丈手袋",
+                                         "tag":  "single_elbow_glove",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_elbow_glove"
+                                     },
+                                     {
+                                         "label":  "片手だけの指なし手袋",
+                                         "tag":  "single_fingerless_glove",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_fingerless_glove"
+                                     },
+                                     {
+                                         "label":  "左右で長さの異なる手袋",
+                                         "tag":  "uneven_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/uneven_gloves"
+                                     },
+                                     {
+                                         "label":  "ゆがけ",
+                                         "tag":  "yugake",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yugake"
+                                     },
+                                     {
+                                         "label":  "着用していない手袋",
+                                         "tag":  "unworn_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_gloves"
+                                     },
+                                     {
+                                         "label":  "アーチェリー射撃用グローブ",
+                                         "tag":  "archery_shooting_glove",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/archery_shooting_glove"
+                                     },
+                                     {
+                                         "label":  "アーティストグローブ",
+                                         "tag":  "artist_glove",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/artist_glove"
+                                     },
+                                     {
+                                         "label":  "鷹狩り用手袋",
+                                         "tag":  "falconry_glove",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/falconry_glove"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "手袋の素材",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "網状の手袋",
+                                         "tag":  "fishnet_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fishnet_gloves"
+                                     },
+                                     {
+                                         "label":  "レース手袋",
+                                         "tag":  "lace_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace_gloves"
+                                     },
+                                     {
+                                         "label":  "ラテックス手袋",
+                                         "tag":  "latex_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/latex_gloves"
+                                     },
+                                     {
+                                         "label":  "革手袋",
+                                         "tag":  "leather_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leather_gloves"
+                                     },
+                                     {
+                                         "label":  "ゴム手袋",
+                                         "tag":  "rubber_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rubber_gloves"
+                                     },
+                                     {
+                                         "label":  "シースルー手袋",
+                                         "tag":  "see-through_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/see-through_gloves"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "手袋に関する動作",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "手袋を整える",
+                                         "tag":  "adjusting_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_gloves"
+                                     },
+                                     {
+                                         "label":  "手袋についた血",
+                                         "tag":  "blood_on_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blood_on_gloves"
+                                     },
+                                     {
+                                         "label":  "手袋を噛む",
+                                         "tag":  "biting_glove",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/biting_glove"
+                                     },
+                                     {
+                                         "label":  "口にくわえた手袋",
+                                         "tag":  "glove_in_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glove_in_mouth"
+                                     },
+                                     {
+                                         "label":  "グローブプル",
+                                         "tag":  "glove_pull",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glove_pull"
+                                     },
+                                     {
+                                         "label":  "手袋を握る",
+                                         "tag":  "holding_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_gloves"
+                                     },
+                                     {
+                                         "label":  "手袋をはめる",
+                                         "tag":  "putting_on_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/putting_on_gloves"
+                                     },
+                                     {
+                                         "label":  "手袋を外す",
+                                         "tag":  "removing_glove",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/removing_glove"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "手袋の色",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "水色の手袋",
+                                         "tag":  "aqua_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_gloves"
+                                     },
+                                     {
+                                         "label":  "黒い手袋",
+                                         "tag":  "black_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_gloves"
+                                     },
+                                     {
+                                         "label":  "青い手袋",
+                                         "tag":  "blue_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_gloves"
+                                     },
+                                     {
+                                         "label":  "茶色の手袋",
+                                         "tag":  "brown_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_gloves"
+                                     },
+                                     {
+                                         "label":  "緑の手袋",
+                                         "tag":  "green_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_gloves"
+                                     },
+                                     {
+                                         "label":  "灰色の手袋",
+                                         "tag":  "grey_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_gloves"
+                                     },
+                                     {
+                                         "label":  "色とりどりの手袋",
+                                         "tag":  "multicolored_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_gloves"
+                                     },
+                                     {
+                                         "label":  "オレンジ色の手袋",
+                                         "tag":  "orange_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_gloves"
+                                     },
+                                     {
+                                         "label":  "ピンクの手袋",
+                                         "tag":  "pink_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_gloves"
+                                     },
+                                     {
+                                         "label":  "紫色の手袋",
+                                         "tag":  "purple_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple_gloves"
+                                     },
+                                     {
+                                         "label":  "赤い手袋",
+                                         "tag":  "red_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_gloves"
+                                     },
+                                     {
+                                         "label":  "白い手袋",
+                                         "tag":  "white_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_gloves"
+                                     },
+                                     {
+                                         "label":  "黄色い手袋",
+                                         "tag":  "yellow_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_gloves"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他の手袋",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "手袋",
+                                         "tag":  "gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gloves"
+                                     },
+                                     {
+                                         "label":  "手袋",
+                                         "tag":  "gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gloves"
+                                     },
+                                     {
+                                         "label":  "機械の手",
+                                         "tag":  "mechanical_hands",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mechanical_hands"
+                                     },
+                                     {
+                                         "label":  "人形の関節",
+                                         "tag":  "doll_joints",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/doll_joints"
+                                     },
+                                     {
+                                         "label":  "野球ミット",
+                                         "tag":  "baseball_mitt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/baseball_mitt"
+                                     },
+                                     {
+                                         "label":  "ボクシンググローブ",
+                                         "tag":  "boxing_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/boxing_gloves"
+                                     },
+                                     {
+                                         "label":  "ブライダルガントレット",
+                                         "tag":  "bridal_gauntlets",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bridal_gauntlets"
+                                     },
+                                     {
+                                         "label":  "指サック",
+                                         "tag":  "finger_cots",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/finger_cots"
+                                     },
+                                     {
+                                         "label":  "ガントレット",
+                                         "tag":  "gauntlets",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gauntlets"
+                                     },
+                                     {
+                                         "label":  "籠手",
+                                         "tag":  "kote",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kote"
+                                     },
+                                     {
+                                         "label":  "黒籠手",
+                                         "tag":  "kurokote",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kurokote"
+                                     },
+                                     {
+                                         "label":  "黒籠手",
+                                         "tag":  "kurokote",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kurokote"
+                                     },
+                                     {
+                                         "label":  "ミトン",
+                                         "tag":  "mittens",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mittens"
+                                     },
+                                     {
+                                         "label":  "オーブンミット",
+                                         "tag":  "oven_mitts",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/oven_mitts"
+                                     },
+                                     {
+                                         "label":  "手袋人形",
+                                         "tag":  "hand_puppets",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_puppets"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ハンドアクセサリー",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "包帯を巻いた手",
+                                         "tag":  "bandaged_hand",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandaged_hand"
+                                     },
+                                     {
+                                         "label":  "絆創膏を手に",
+                                         "tag":  "bandaid_on_hand",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandaid_on_hand"
+                                     },
+                                     {
+                                         "label":  "爪形の指輪",
+                                         "tag":  "claw_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/claw_ring"
+                                     },
+                                     {
+                                         "label":  "指人形",
+                                         "tag":  "finger_puppet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/finger_puppet"
+                                     },
+                                     {
+                                         "label":  "ハンドチェーン",
+                                         "tag":  "hand_chains",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_chains"
+                                     },
+                                     {
+                                         "label":  "指に巻かれた紐（",
+                                         "tag":  "string_around_finger",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/string_around_finger"
+                                     },
+                                     {
+                                         "label":  "運命の赤い糸",
+                                         "tag":  "string_of_fate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/string_of_fate"
+                                     },
+                                     {
+                                         "label":  "運命の赤い糸",
+                                         "tag":  "string_of_fate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/string_of_fate"
+                                     },
+                                     {
+                                         "label":  "指ぬき",
+                                         "tag":  "thimble",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thimble"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "リング",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "指輪",
+                                         "tag":  "ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ring"
+                                     },
+                                     {
+                                         "label":  "バタフライリング",
+                                         "tag":  "butterfly_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/butterfly_ring"
+                                     },
+                                     {
+                                         "label":  "装飾的な指輪",
+                                         "tag":  "ornate_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ornate_ring"
+                                     },
+                                     {
+                                         "label":  "フィンガーボウ",
+                                         "tag":  "finger_bow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/finger_bow"
+                                     },
+                                     {
+                                         "label":  "結婚指輪",
+                                         "tag":  "wedding_ring",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wedding_ring"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "手の特殊な特徴",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "肉体変容の恐怖表現",
+                                         "tag":  "body_horror",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/body_horror"
+                                     },
+                                     {
+                                         "label":  "指のタトゥー",
+                                         "tag":  "finger_tattoo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/finger_tattoo"
+                                     },
+                                     {
+                                         "label":  "手にある目",
+                                         "tag":  "hand_eye",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_eye"
+                                     },
+                                     {
+                                         "label":  "ハンドジュエル",
+                                         "tag":  "hand_jewel",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_jewel"
+                                     },
+                                     {
+                                         "label":  "物質的成長",
+                                         "tag":  "material_growth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/material_growth"
+                                     },
+                                     {
+                                         "label":  "手にある口",
+                                         "tag":  "hand_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_mouth"
+                                     },
+                                     {
+                                         "label":  "手のタトゥー",
+                                         "tag":  "hand_tattoo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_tattoo"
+                                     },
+                                     {
+                                         "label":  "ヘナ",
+                                         "tag":  "henna",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/henna"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "手袋なし",
+                                         "tag":  "no_gloves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_gloves"
+                                     },
+                                     {
+                                         "label":  "タググループ：原作からのアレンジ",
+                                         "tag":  "tag_group%3Aartistic_license",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aartistic_license"
+                                     },
+                                     {
+                                         "label":  "タググループ：手",
+                                         "tag":  "tag_group%3Ahands",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahands"
+                                     },
+                                     {
+                                         "label":  "タググループ：服装",
+                                         "tag":  "tag_group%3Aattire",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+                                     },
+                                     {
+                                         "label":  "アームバインダー",
+                                         "tag":  "armbinder",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armbinder"
+                                     },
+                                     {
+                                         "label":  "手の毛",
+                                         "tag":  "hand_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_hair"
+                                     },
+                                     {
+                                         "label":  "指関節の毛",
+                                         "tag":  "knuckle_hair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knuckle_hair"
+                                     }
+                                 ]
+                    }
+                ]
+}

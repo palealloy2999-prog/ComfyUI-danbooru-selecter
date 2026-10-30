@@ -1,0 +1,102 @@
+﻿{
+    "カテゴリID":  "covering",
+    "カテゴリ名":  "体を覆う・隠す",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Acovering",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "体の一部を覆う",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：体の部位",
+                                         "tag":  "tag_group%3Abody_parts",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Abody_parts"
+                                     },
+                                     {
+                                         "label":  "タググループ：体の部位",
+                                         "tag":  "tag_group%3Abody_parts",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Abody_parts"
+                                     },
+                                     {
+                                         "label":  "体の前に服を掲げる",
+                                         "tag":  "clothes_in_front",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clothes_in_front"
+                                     },
+                                     {
+                                         "label":  "陰部を隠す",
+                                         "tag":  "covering_privates",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_privates"
+                                     },
+                                     {
+                                         "label":  "胸を覆う",
+                                         "tag":  "covering_breasts",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_breasts"
+                                     },
+                                     {
+                                         "label":  "乳首を覆う",
+                                         "tag":  "covering_nipples",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_nipples"
+                                     },
+                                     {
+                                         "label":  "股間を覆う",
+                                         "tag":  "covering_crotch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_crotch"
+                                     },
+                                     {
+                                         "label":  "尻を隠す",
+                                         "tag":  "covering_ass",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_ass"
+                                     },
+                                     {
+                                         "label":  "裸を隠す",
+                                         "tag":  "nude_cover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nude_cover"
+                                     },
+                                     {
+                                         "label":  "頭を覆う",
+                                         "tag":  "covering_head",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_head"
+                                     },
+                                     {
+                                         "label":  "耳を塞ぐ",
+                                         "tag":  "covering_own_ears",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_own_ears"
+                                     },
+                                     {
+                                         "label":  "顔を覆う",
+                                         "tag":  "covering_face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_face"
+                                     },
+                                     {
+                                         "label":  "片目を覆う",
+                                         "tag":  "covering_one_eye",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_one_eye"
+                                     },
+                                     {
+                                         "label":  "自分の目を覆う",
+                                         "tag":  "covering_own_eyes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_own_eyes"
+                                     },
+                                     {
+                                         "label":  "自分の口を覆う",
+                                         "tag":  "covering_own_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_own_mouth"
+                                     },
+                                     {
+                                         "label":  "自分の口を覆う",
+                                         "tag":  "covering_own_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/covering_own_mouth"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：修正・隠し表現",
+                                         "tag":  "tag_group%3Acensorship",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Acensorship"
+                                     }
+                                 ]
+                    }
+                ]
+}

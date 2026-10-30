@@ -1,0 +1,1062 @@
+﻿{
+    "カテゴリID":  "flowers",
+    "カテゴリ名":  "花",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aflowers",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "主要",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "花",
+                                         "tag":  "flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "花の種類",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アリウム（花）",
+                                         "tag":  "allium_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/allium_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "アルストロメリア（花）",
+                                         "tag":  "alstroemeria_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/alstroemeria_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "アマリリス（花）",
+                                         "tag":  "amaryllis_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/amaryllis_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "アネモネ",
+                                         "tag":  "anemone_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/anemone_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "エンジェルストランペット",
+                                         "tag":  "angel%27s_trumpet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/angel%27s_trumpet"
+                                     },
+                                     {
+                                         "label":  "アンスリウム",
+                                         "tag":  "anthurium",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/anthurium"
+                                     },
+                                     {
+                                         "label":  "つつじ",
+                                         "tag":  "azalea_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/azalea_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "カスミソウ",
+                                         "tag":  "baby%27s-breath",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/baby%27s-breath"
+                                     },
+                                     {
+                                         "label":  "ベゴニア",
+                                         "tag":  "begonia_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/begonia_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ベルフラワー",
+                                         "tag":  "bellflower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bellflower"
+                                     },
+                                     {
+                                         "label":  "桔梗",
+                                         "tag":  "chinese_bellflower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chinese_bellflower"
+                                     },
+                                     {
+                                         "label":  "極楽鳥花",
+                                         "tag":  "bird_of_paradise_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bird_of_paradise_flower"
+                                     },
+                                     {
+                                         "label":  "ブラックアイド・スーザン",
+                                         "tag":  "black-eyed_susan",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black-eyed_susan"
+                                     },
+                                     {
+                                         "label":  "ケマンソウ（タイツリソウ）",
+                                         "tag":  "bleeding_heart_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bleeding_heart_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ブルーベリーの花",
+                                         "tag":  "blueberry_blossoms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blueberry_blossoms"
+                                     },
+                                     {
+                                         "label":  "ブーゲンビリア",
+                                         "tag":  "bougainvillea_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bougainvillea_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "カラーリリー",
+                                         "tag":  "calla_lily",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/calla_lily"
+                                     },
+                                     {
+                                         "label":  "カメリア",
+                                         "tag":  "camellia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/camellia"
+                                     },
+                                     {
+                                         "label":  "カーネーション",
+                                         "tag":  "carnation",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/carnation"
+                                     },
+                                     {
+                                         "label":  "赤いカーネーション",
+                                         "tag":  "red_carnation",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_carnation"
+                                     },
+                                     {
+                                         "label":  "セラスチウム",
+                                         "tag":  "cerastium",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cerastium"
+                                     },
+                                     {
+                                         "label":  "カモミール",
+                                         "tag":  "chamomile",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chamomile"
+                                     },
+                                     {
+                                         "label":  "桜",
+                                         "tag":  "cherry_blossoms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cherry_blossoms"
+                                     },
+                                     {
+                                         "label":  "ホオズキ",
+                                         "tag":  "chinese_lantern_%28plant%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chinese_lantern_%28plant%29"
+                                     },
+                                     {
+                                         "label":  "菊",
+                                         "tag":  "chrysanthemum",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chrysanthemum"
+                                     },
+                                     {
+                                         "label":  "クリビア",
+                                         "tag":  "clivia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clivia"
+                                     },
+                                     {
+                                         "label":  "クレマチス",
+                                         "tag":  "clematis_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clematis_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "クローバー",
+                                         "tag":  "clover_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clover_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "コロンバイン",
+                                         "tag":  "columbine_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/columbine_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ケイトウ（花）",
+                                         "tag":  "cockscomb_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cockscomb_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "コーヒーの花",
+                                         "tag":  "coffee_blossom",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/coffee_blossom"
+                                     },
+                                     {
+                                         "label":  "ヤグルマギク",
+                                         "tag":  "cornflower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cornflower"
+                                     },
+                                     {
+                                         "label":  "コスモス",
+                                         "tag":  "cosmos_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cosmos_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "クロッカス",
+                                         "tag":  "crocus_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crocus_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "シンビジウム",
+                                         "tag":  "cymbidium",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cymbidium"
+                                     },
+                                     {
+                                         "label":  "水仙",
+                                         "tag":  "daffodil",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/daffodil"
+                                     },
+                                     {
+                                         "label":  "ダリア",
+                                         "tag":  "dahlia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dahlia"
+                                     },
+                                     {
+                                         "label":  "デイジー",
+                                         "tag":  "daisy_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/daisy_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ディモルフォセカ",
+                                         "tag":  "dimorphotheca",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dimorphotheca"
+                                     },
+                                     {
+                                         "label":  "タンポポ",
+                                         "tag":  "dandelion",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dandelion"
+                                     },
+                                     {
+                                         "label":  "ナデシコ",
+                                         "tag":  "dianthus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dianthus"
+                                     },
+                                     {
+                                         "label":  "ドロガサ科",
+                                         "tag":  "dipsacaceae",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dipsacaceae"
+                                     },
+                                     {
+                                         "label":  "ダスティ・ミラー",
+                                         "tag":  "dusty_miller",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dusty_miller"
+                                     },
+                                     {
+                                         "label":  "エーデルワイス",
+                                         "tag":  "edelweiss_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/edelweiss_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "エピフィラム",
+                                         "tag":  "epiphyllum",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/epiphyllum"
+                                     },
+                                     {
+                                         "label":  "ユーストマ",
+                                         "tag":  "eustoma",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/eustoma"
+                                     },
+                                     {
+                                         "label":  "亜麻",
+                                         "tag":  "flax_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flax_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ワスレナグサ",
+                                         "tag":  "forget-me-not_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/forget-me-not_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "レンギョウ",
+                                         "tag":  "forsythia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/forsythia"
+                                     },
+                                     {
+                                         "label":  "オシロイバナ",
+                                         "tag":  "four_o%27clock_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/four_o%27clock_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ジギタリス",
+                                         "tag":  "foxglove",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/foxglove"
+                                     },
+                                     {
+                                         "label":  "フリージア",
+                                         "tag":  "freesia_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/freesia_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "フクシア",
+                                         "tag":  "fuchsia_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fuchsia_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "サンザシ_(植物)",
+                                         "tag":  "hawthorn_%28plant%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hawthorn_%28plant%29"
+                                     },
+                                     {
+                                         "label":  "ヘレボルス",
+                                         "tag":  "hellebore",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hellebore"
+                                     },
+                                     {
+                                         "label":  "ハイビスカス",
+                                         "tag":  "hibiscus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hibiscus"
+                                     },
+                                     {
+                                         "label":  "ヘリコニア",
+                                         "tag":  "heliconia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heliconia"
+                                     },
+                                     {
+                                         "label":  "タチアオイ",
+                                         "tag":  "hollyhock",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hollyhock"
+                                     },
+                                     {
+                                         "label":  "ヒヤシンス",
+                                         "tag":  "hyacinth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hyacinth"
+                                     },
+                                     {
+                                         "label":  "アジサイ",
+                                         "tag":  "hydrangea",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hydrangea"
+                                     },
+                                     {
+                                         "label":  "ジェニスタ（花）",
+                                         "tag":  "genista_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/genista_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "リンドウ（花）",
+                                         "tag":  "gentiana_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gentiana_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ゼラニウム",
+                                         "tag":  "geranium",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/geranium"
+                                     },
+                                     {
+                                         "label":  "ガーベラ",
+                                         "tag":  "gerbera",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gerbera"
+                                     },
+                                     {
+                                         "label":  "グラジオラス",
+                                         "tag":  "gladiolus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gladiolus"
+                                     },
+                                     {
+                                         "label":  "グロリオサ（花）",
+                                         "tag":  "gloriosa_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gloriosa_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "草百合",
+                                         "tag":  "grass_lily",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grass_lily"
+                                     },
+                                     {
+                                         "label":  "オオバーネット",
+                                         "tag":  "great_burnet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/great_burnet"
+                                     },
+                                     {
+                                         "label":  "ジャスミン",
+                                         "tag":  "jasmine_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/jasmine_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "アヤメ類",
+                                         "tag":  "iris_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/iris_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "カランコエ",
+                                         "tag":  "kalanchoe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kalanchoe"
+                                     },
+                                     {
+                                         "label":  "ヤマブキ",
+                                         "tag":  "kerria_japonica",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kerria_japonica"
+                                     },
+                                     {
+                                         "label":  "ランタナ（花）",
+                                         "tag":  "lantana_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lantana_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ラークスパー",
+                                         "tag":  "larkspur_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/larkspur_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ラベンダー",
+                                         "tag":  "lavender_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lavender_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ライラック",
+                                         "tag":  "lilac",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lilac"
+                                     },
+                                     {
+                                         "label":  "ユリ",
+                                         "tag":  "lily_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lily_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "タイガーリリー",
+                                         "tag":  "tiger_lily",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tiger_lily"
+                                     },
+                                     {
+                                         "label":  "スズラン",
+                                         "tag":  "lily_of_the_valley",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lily_of_the_valley"
+                                     },
+                                     {
+                                         "label":  "リシアンサス（花）",
+                                         "tag":  "lisianthus_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lisianthus_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "レモンの花",
+                                         "tag":  "lemon_blossoms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lemon_blossoms"
+                                     },
+                                     {
+                                         "label":  "マグノリア",
+                                         "tag":  "magnolia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/magnolia"
+                                     },
+                                     {
+                                         "label":  "マリーゴールド",
+                                         "tag":  "marigold",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/marigold"
+                                     },
+                                     {
+                                         "label":  "マーシュマリーゴールド",
+                                         "tag":  "marsh_marigold",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/marsh_marigold"
+                                     },
+                                     {
+                                         "label":  "ミモザ（花）",
+                                         "tag":  "mimosa_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mimosa_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "朝顔",
+                                         "tag":  "morning_glory",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/morning_glory"
+                                     },
+                                     {
+                                         "label":  "ムーンフラワー",
+                                         "tag":  "moonflower_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/moonflower_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ひょうたんの花",
+                                         "tag":  "gourd_blossom",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gourd_blossom"
+                                     },
+                                     {
+                                         "label":  "ネモフィラ",
+                                         "tag":  "nemophila_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nemophila_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ナイジェラ",
+                                         "tag":  "nigella",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nigella"
+                                     },
+                                     {
+                                         "label":  "キョウチクトウ",
+                                         "tag":  "oleander",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/oleander"
+                                     },
+                                     {
+                                         "label":  "オレンジの花",
+                                         "tag":  "orange_blossoms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_blossoms"
+                                     },
+                                     {
+                                         "label":  "蘭",
+                                         "tag":  "orchid",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/orchid"
+                                     },
+                                     {
+                                         "label":  "オンシジウム",
+                                         "tag":  "oncidium",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/oncidium"
+                                     },
+                                     {
+                                         "label":  "キンモクセイ",
+                                         "tag":  "osmanthus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/osmanthus"
+                                     },
+                                     {
+                                         "label":  "金木犀",
+                                         "tag":  "gold_osmanthus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gold_osmanthus"
+                                     },
+                                     {
+                                         "label":  "パンジー",
+                                         "tag":  "pansy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pansy"
+                                     },
+                                     {
+                                         "label":  "パッションフラワー",
+                                         "tag":  "passion_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/passion_flower"
+                                     },
+                                     {
+                                         "label":  "桐",
+                                         "tag":  "paulownia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/paulownia"
+                                     },
+                                     {
+                                         "label":  "桃の花",
+                                         "tag":  "peach_blossom",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/peach_blossom"
+                                     },
+                                     {
+                                         "label":  "ペンタス（花）",
+                                         "tag":  "pentas_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pentas_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "牡丹",
+                                         "tag":  "peony_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/peony_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "多年生",
+                                         "tag":  "perennial_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/perennial_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ペリウィンクル",
+                                         "tag":  "periwinkle_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/periwinkle_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "オオイヌノフグリ",
+                                         "tag":  "persian_speedwell",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/persian_speedwell"
+                                     },
+                                     {
+                                         "label":  "ペチュニア（花）",
+                                         "tag":  "petunia_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/petunia_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "アセビ",
+                                         "tag":  "pieris_japonica",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pieris_japonica"
+                                     },
+                                     {
+                                         "label":  "植物",
+                                         "tag":  "plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant"
+                                     },
+                                     {
+                                         "label":  "クローバー",
+                                         "tag":  "clover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clover"
+                                     },
+                                     {
+                                         "label":  "蓮",
+                                         "tag":  "lotus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lotus"
+                                     },
+                                     {
+                                         "label":  "スイレンの葉",
+                                         "tag":  "lily_pad",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lily_pad"
+                                     },
+                                     {
+                                         "label":  "鉢植え",
+                                         "tag":  "potted_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/potted_plant"
+                                     },
+                                     {
+                                         "label":  "梅の花",
+                                         "tag":  "plum_blossoms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plum_blossoms"
+                                     },
+                                     {
+                                         "label":  "プルメリア",
+                                         "tag":  "plumeria",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plumeria"
+                                     },
+                                     {
+                                         "label":  "ポインセチア",
+                                         "tag":  "poinsettia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/poinsettia"
+                                     },
+                                     {
+                                         "label":  "ザクロの花",
+                                         "tag":  "pomegranate_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pomegranate_flower"
+                                     },
+                                     {
+                                         "label":  "ポピー",
+                                         "tag":  "poppy_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/poppy_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "スベリヒユ",
+                                         "tag":  "portulaca",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/portulaca"
+                                     },
+                                     {
+                                         "label":  "ジャガイモの花",
+                                         "tag":  "potato_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/potato_flower"
+                                     },
+                                     {
+                                         "label":  "ポテンティラ",
+                                         "tag":  "potentilla",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/potentilla"
+                                     },
+                                     {
+                                         "label":  "ラフレシア",
+                                         "tag":  "rafflesia_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rafflesia_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ラナンキュラス",
+                                         "tag":  "ranunculus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ranunculus"
+                                     },
+                                     {
+                                         "label":  "キンポウゲ",
+                                         "tag":  "buttercup_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/buttercup_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "菜の花",
+                                         "tag":  "rapeseed_blossoms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rapeseed_blossoms"
+                                     },
+                                     {
+                                         "label":  "赤ショウガ",
+                                         "tag":  "red_ginger_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_ginger_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "霊夢",
+                                         "tag":  "reimu_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/reimu_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "シャクナゲ",
+                                         "tag":  "rhododendron",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rhododendron"
+                                     },
+                                     {
+                                         "label":  "バラ",
+                                         "tag":  "rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rose"
+                                     },
+                                     {
+                                         "label":  "黒いバラ",
+                                         "tag":  "black_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_rose"
+                                     },
+                                     {
+                                         "label":  "青いバラ",
+                                         "tag":  "blue_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_rose"
+                                     },
+                                     {
+                                         "label":  "ブラウンローズ",
+                                         "tag":  "brown_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_rose"
+                                     },
+                                     {
+                                         "label":  "緑のバラ",
+                                         "tag":  "green_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_rose"
+                                     },
+                                     {
+                                         "label":  "グレーローズ",
+                                         "tag":  "grey_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_rose"
+                                     },
+                                     {
+                                         "label":  "オレンジ色のバラ",
+                                         "tag":  "orange_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_rose"
+                                     },
+                                     {
+                                         "label":  "ピンクのバラ",
+                                         "tag":  "pink_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_rose"
+                                     },
+                                     {
+                                         "label":  "紫のバラ",
+                                         "tag":  "purple_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple_rose"
+                                     },
+                                     {
+                                         "label":  "赤いバラ",
+                                         "tag":  "red_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_rose"
+                                     },
+                                     {
+                                         "label":  "白いバラ",
+                                         "tag":  "white_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_rose"
+                                     },
+                                     {
+                                         "label":  "黄色いバラ",
+                                         "tag":  "yellow_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_rose"
+                                     },
+                                     {
+                                         "label":  "色とりどりのバラ",
+                                         "tag":  "multicolored_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_rose"
+                                     },
+                                     {
+                                         "label":  "ルドベキア",
+                                         "tag":  "rudbeckia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rudbeckia"
+                                     },
+                                     {
+                                         "label":  "キンギョソウ",
+                                         "tag":  "snapdragon",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/snapdragon"
+                                     },
+                                     {
+                                         "label":  "スノーベル",
+                                         "tag":  "snowbell_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/snowbell_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "スノードロップ",
+                                         "tag":  "snowdrop_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/snowdrop_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "スパティフィラム",
+                                         "tag":  "spathiphyllum",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spathiphyllum"
+                                     },
+                                     {
+                                         "label":  "ヒガンバナ",
+                                         "tag":  "spider_lily",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spider_lily"
+                                     },
+                                     {
+                                         "label":  "イチゴの花",
+                                         "tag":  "strawberry_blossoms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/strawberry_blossoms"
+                                     },
+                                     {
+                                         "label":  "ひまわり",
+                                         "tag":  "sunflower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sunflower"
+                                     },
+                                     {
+                                         "label":  "アザミ",
+                                         "tag":  "thistle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thistle"
+                                     },
+                                     {
+                                         "label":  "ノウゼンカズラ",
+                                         "tag":  "trumpet_creeper",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/trumpet_creeper"
+                                     },
+                                     {
+                                         "label":  "チューリップ",
+                                         "tag":  "tulip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tulip"
+                                     },
+                                     {
+                                         "label":  "オレンジ色のチューリップ",
+                                         "tag":  "orange_tulip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_tulip"
+                                     },
+                                     {
+                                         "label":  "ピンクのチューリップ",
+                                         "tag":  "pink_tulip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_tulip"
+                                     },
+                                     {
+                                         "label":  "紫色のチューリップ",
+                                         "tag":  "purple_tulip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple_tulip"
+                                     },
+                                     {
+                                         "label":  "赤いチューリップ",
+                                         "tag":  "red_tulip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_tulip"
+                                     },
+                                     {
+                                         "label":  "白いチューリップ",
+                                         "tag":  "white_tulip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_tulip"
+                                     },
+                                     {
+                                         "label":  "黄色いチューリップ",
+                                         "tag":  "yellow_tulip",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_tulip"
+                                     },
+                                     {
+                                         "label":  "睡蓮の花",
+                                         "tag":  "water_lily_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/water_lily_flower"
+                                     },
+                                     {
+                                         "label":  "ワックスフラワー",
+                                         "tag":  "wax_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wax_flower"
+                                     },
+                                     {
+                                         "label":  "藤",
+                                         "tag":  "wisteria",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wisteria"
+                                     },
+                                     {
+                                         "label":  "トリカブト",
+                                         "tag":  "wolfsbane_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wolfsbane_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "スミレ",
+                                         "tag":  "violet_%28flower%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/violet_%28flower%29"
+                                     },
+                                     {
+                                         "label":  "ヒャクニチソウ",
+                                         "tag":  "zinnia",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zinnia"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "架空の花",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "黒蓮",
+                                         "tag":  "black_lotus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_lotus"
+                                     },
+                                     {
+                                         "label":  "火の花",
+                                         "tag":  "fire_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fire_flower"
+                                     },
+                                     {
+                                         "label":  "琉璃百合",
+                                         "tag":  "glaze_lily",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/glaze_lily"
+                                     },
+                                     {
+                                         "label":  "グラシデアの花",
+                                         "tag":  "gracidea",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gracidea"
+                                     },
+                                     {
+                                         "label":  "氷の花",
+                                         "tag":  "ice_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ice_flower"
+                                     },
+                                     {
+                                         "label":  "インテイワットの花",
+                                         "tag":  "inteyvat_flower_%28genshin_impact%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/inteyvat_flower_%28genshin_impact%29"
+                                     },
+                                     {
+                                         "label":  "月の涙",
+                                         "tag":  "lunar_tear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lunar_tear"
+                                     },
+                                     {
+                                         "label":  "清心",
+                                         "tag":  "qingxin_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/qingxin_flower"
+                                     },
+                                     {
+                                         "label":  "姫しずか",
+                                         "tag":  "silent_princess",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/silent_princess"
+                                     },
+                                     {
+                                         "label":  "霓裳花",
+                                         "tag":  "silk_flower_%28genshin_impact%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/silk_flower_%28genshin_impact%29"
+                                     },
+                                     {
+                                         "label":  "甘い花",
+                                         "tag":  "sweet_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sweet_flower"
+                                     },
+                                     {
+                                         "label":  "ウィザーローズ",
+                                         "tag":  "wither_rose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wither_rose"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "花雑貨",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "花束",
+                                         "tag":  "bouquet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bouquet"
+                                     },
+                                     {
+                                         "label":  "ブートニア",
+                                         "tag":  "boutonniere",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/boutonniere"
+                                     },
+                                     {
+                                         "label":  "コサージュ",
+                                         "tag":  "corsage",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/corsage"
+                                     },
+                                     {
+                                         "label":  "花を吐く",
+                                         "tag":  "coughing_flowers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/coughing_flowers"
+                                     },
+                                     {
+                                         "label":  "畑",
+                                         "tag":  "field",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/field"
+                                     },
+                                     {
+                                         "label":  "花畑",
+                                         "tag":  "flower_field",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_field"
+                                     },
+                                     {
+                                         "label":  "牧草地",
+                                         "tag":  "meadow",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/meadow"
+                                     },
+                                     {
+                                         "label":  "花のシンボル",
+                                         "tag":  "flower_symbol",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_symbol"
+                                     },
+                                     {
+                                         "label":  "花壇",
+                                         "tag":  "flower_bed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_bed"
+                                     },
+                                     {
+                                         "label":  "花のブレスレット",
+                                         "tag":  "flower_bracelet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_bracelet"
+                                     },
+                                     {
+                                         "label":  "口の中に花",
+                                         "tag":  "flower_in_mouth",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_in_mouth"
+                                     },
+                                     {
+                                         "label":  "花のネックレス",
+                                         "tag":  "flower_necklace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_necklace"
+                                     },
+                                     {
+                                         "label":  "頭の花",
+                                         "tag":  "flower_on_head",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_on_head"
+                                     },
+                                     {
+                                         "label":  "液体上の花",
+                                         "tag":  "flower_on_liquid",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_on_liquid"
+                                     },
+                                     {
+                                         "label":  "花飾り",
+                                         "tag":  "flower_trim",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_trim"
+                                     },
+                                     {
+                                         "label":  "花柄",
+                                         "tag":  "floral_print",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/floral_print"
+                                     },
+                                     {
+                                         "label":  "髪の花飾り",
+                                         "tag":  "hair_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_flower"
+                                     },
+                                     {
+                                         "label":  "花札",
+                                         "tag":  "hanafuda",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hanafuda"
+                                     },
+                                     {
+                                         "label":  "帽子の花",
+                                         "tag":  "hat_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_flower"
+                                     },
+                                     {
+                                         "label":  "花を持つ",
+                                         "tag":  "holding_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_flower"
+                                     },
+                                     {
+                                         "label":  "庭",
+                                         "tag":  "garden",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/garden"
+                                     },
+                                     {
+                                         "label":  "園芸",
+                                         "tag":  "gardening",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gardening"
+                                     },
+                                     {
+                                         "label":  "レイ",
+                                         "tag":  "lei",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lei"
+                                     },
+                                     {
+                                         "label":  "花の上",
+                                         "tag":  "on_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/on_flower"
+                                     },
+                                     {
+                                         "label":  "屋外",
+                                         "tag":  "outdoors",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/outdoors"
+                                     },
+                                     {
+                                         "label":  "花びら",
+                                         "tag":  "petals",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/petals"
+                                     },
+                                     {
+                                         "label":  "バラの花びら",
+                                         "tag":  "rose_petals",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rose_petals"
+                                     },
+                                     {
+                                         "label":  "液体の上の花びら",
+                                         "tag":  "petals_on_liquid",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/petals_on_liquid"
+                                     },
+                                     {
+                                         "label":  "花の香りを嗅ぐ",
+                                         "tag":  "smelling_flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/smelling_flower"
+                                     },
+                                     {
+                                         "label":  "花輪",
+                                         "tag":  "wreath",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wreath"
+                                     },
+                                     {
+                                         "label":  "花冠",
+                                         "tag":  "head_wreath",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_wreath"
+                                     }
+                                 ]
+                    }
+                ]
+}

@@ -1,0 +1,397 @@
+﻿{
+    "カテゴリID":  "plant",
+    "カテゴリ名":  "植物",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=plant",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "工場",
+                                         "tag":  "factory",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/factory"
+                                     },
+                                     {
+                                         "label":  "「plant (nuclear throne)」",
+                                         "tag":  "plant_%28nuclear_throne%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_%28nuclear_throne%29"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "種類",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "低木",
+                                         "tag":  "bush",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bush"
+                                     },
+                                     {
+                                         "label":  "バラの茂み",
+                                         "tag":  "rose_bush",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rose_bush"
+                                     },
+                                     {
+                                         "label":  "食虫植物",
+                                         "tag":  "carnivorous_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/carnivorous_plant"
+                                     },
+                                     {
+                                         "label":  "ウツボカズラ",
+                                         "tag":  "pitcher_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pitcher_plant"
+                                     },
+                                     {
+                                         "label":  "ハエトリグサ",
+                                         "tag":  "venus_flytrap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/venus_flytrap"
+                                     },
+                                     {
+                                         "label":  "クローバー",
+                                         "tag":  "clover",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/clover"
+                                     },
+                                     {
+                                         "label":  "花",
+                                         "tag":  "flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower"
+                                     },
+                                     {
+                                         "label":  "タググループ：花",
+                                         "tag":  "tag_group%3Aflowers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aflowers"
+                                     },
+                                     {
+                                         "label":  "草",
+                                         "tag":  "grass",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grass"
+                                     },
+                                     {
+                                         "label":  "竹",
+                                         "tag":  "bamboo",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bamboo"
+                                     },
+                                     {
+                                         "label":  "ハーブ",
+                                         "tag":  "herb",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/herb"
+                                     },
+                                     {
+                                         "label":  "ガマ",
+                                         "tag":  "cattail",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cattail"
+                                     },
+                                     {
+                                         "label":  "マリファナ",
+                                         "tag":  "marijuana",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/marijuana"
+                                     },
+                                     {
+                                         "label":  "ヒイラギ",
+                                         "tag":  "holly",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holly"
+                                     },
+                                     {
+                                         "label":  "苔",
+                                         "tag":  "moss",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/moss"
+                                     },
+                                     {
+                                         "label":  "海藻",
+                                         "tag":  "seaweed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seaweed"
+                                     },
+                                     {
+                                         "label":  "多肉植物",
+                                         "tag":  "succulent_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/succulent_plant"
+                                     },
+                                     {
+                                         "label":  "アガベ",
+                                         "tag":  "agave",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/agave"
+                                     },
+                                     {
+                                         "label":  "サボテン",
+                                         "tag":  "cactus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cactus"
+                                     },
+                                     {
+                                         "label":  "木",
+                                         "tag":  "tree",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tree"
+                                     },
+                                     {
+                                         "label":  "つる植物",
+                                         "tag":  "vines",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vines"
+                                     },
+                                     {
+                                         "label":  "ツタ",
+                                         "tag":  "ivy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ivy"
+                                     },
+                                     {
+                                         "label":  "ゴールデンポトス",
+                                         "tag":  "pothos_%28plant%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pothos_%28plant%29"
+                                     },
+                                     {
+                                         "label":  "シダ",
+                                         "tag":  "fern",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fern"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "植物の部位",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "枝",
+                                         "tag":  "branch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/branch"
+                                     },
+                                     {
+                                         "label":  "枝",
+                                         "tag":  "branch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/branch"
+                                     },
+                                     {
+                                         "label":  "花",
+                                         "tag":  "flower",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower"
+                                     },
+                                     {
+                                         "label":  "フルーツ",
+                                         "tag":  "fruit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fruit"
+                                     },
+                                     {
+                                         "label":  "花びら",
+                                         "tag":  "petals",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/petals"
+                                     },
+                                     {
+                                         "label":  "バラの花びら",
+                                         "tag":  "rose_petals",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rose_petals"
+                                     },
+                                     {
+                                         "label":  "植物細胞",
+                                         "tag":  "plant_cell",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_cell"
+                                     },
+                                     {
+                                         "label":  "植物の根",
+                                         "tag":  "plant_roots",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_roots"
+                                     },
+                                     {
+                                         "label":  "気根",
+                                         "tag":  "aerial_root",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aerial_root"
+                                     },
+                                     {
+                                         "label":  "種",
+                                         "tag":  "seed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seed"
+                                     },
+                                     {
+                                         "label":  "木の切り株",
+                                         "tag":  "tree_stump",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tree_stump"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "植物その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "葉のない木",
+                                         "tag":  "bare_tree",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bare_tree"
+                                     },
+                                     {
+                                         "label":  "花のアーチ",
+                                         "tag":  "floral_arch",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/floral_arch"
+                                     },
+                                     {
+                                         "label":  "葉",
+                                         "tag":  "foliage",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/foliage"
+                                     },
+                                     {
+                                         "label":  "パックンフラワー",
+                                         "tag":  "piranha_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/piranha_plant"
+                                     },
+                                     {
+                                         "label":  "植物少年",
+                                         "tag":  "plant_boy",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_boy"
+                                     },
+                                     {
+                                         "label":  "植物少女",
+                                         "tag":  "plant_girl",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_girl"
+                                     },
+                                     {
+                                         "label":  "植物モンスター",
+                                         "tag":  "plant_monster",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_monster"
+                                     },
+                                     {
+                                         "label":  "植物の羽",
+                                         "tag":  "plant_wings",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_wings"
+                                     },
+                                     {
+                                         "label":  "鉢植え",
+                                         "tag":  "potted_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/potted_plant"
+                                     },
+                                     {
+                                         "label":  "植木鉢",
+                                         "tag":  "flower_pot",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_pot"
+                                     },
+                                     {
+                                         "label":  "吊り下げ式植物",
+                                         "tag":  "hanging_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hanging_plant"
+                                     },
+                                     {
+                                         "label":  "プランター",
+                                         "tag":  "planter",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/planter"
+                                     },
+                                     {
+                                         "label":  "芽",
+                                         "tag":  "sprout",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sprout"
+                                     },
+                                     {
+                                         "label":  "トピアリー",
+                                         "tag":  "topiary",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/topiary"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "動作",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "農業",
+                                         "tag":  "farming",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/farming"
+                                     },
+                                     {
+                                         "label":  "園芸",
+                                         "tag":  "gardening",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gardening"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "場所",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "農場",
+                                         "tag":  "farm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/farm"
+                                     },
+                                     {
+                                         "label":  "畑",
+                                         "tag":  "field",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/field"
+                                     },
+                                     {
+                                         "label":  "森",
+                                         "tag":  "forest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/forest"
+                                     },
+                                     {
+                                         "label":  "竹林",
+                                         "tag":  "bamboo_forest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bamboo_forest"
+                                     },
+                                     {
+                                         "label":  "庭",
+                                         "tag":  "garden",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/garden"
+                                     },
+                                     {
+                                         "label":  "草原",
+                                         "tag":  "grasslands",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/grasslands"
+                                     },
+                                     {
+                                         "label":  "温室",
+                                         "tag":  "greenhouse",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/greenhouse"
+                                     },
+                                     {
+                                         "label":  "自然",
+                                         "tag":  "nature",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nature"
+                                     },
+                                     {
+                                         "label":  "屋外",
+                                         "tag":  "outdoors",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/outdoors"
+                                     },
+                                     {
+                                         "label":  "植物",
+                                         "tag":  "plants",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plants"
+                                     },
+                                     {
+                                         "label":  "タグの別名",
+                                         "tag":  "help:tag_aliases",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/help:tag_aliases"
+                                     },
+                                     {
+                                         "label":  "ガマ",
+                                         "tag":  "cattail",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cattail"
+                                     },
+                                     {
+                                         "label":  "植物を持つ",
+                                         "tag":  "holding_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_plant"
+                                     },
+                                     {
+                                         "label":  "ウツボカズラ",
+                                         "tag":  "pitcher_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pitcher_plant"
+                                     },
+                                     {
+                                         "label":  "植物を強調",
+                                         "tag":  "plant_focus",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_focus"
+                                     },
+                                     {
+                                         "label":  "鉢植え",
+                                         "tag":  "potted_plant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/potted_plant"
+                                     },
+                                     {
+                                         "label":  "ハエトリグサ",
+                                         "tag":  "venus_flytrap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/venus_flytrap"
+                                     },
+                                     {
+                                         "label":  "つる植物",
+                                         "tag":  "vines",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vines"
+                                     },
+                                     {
+                                         "label":  "タグの包含関係",
+                                         "tag":  "help:tag_implications",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+                                     }
+                                 ]
+                    }
+                ]
+}

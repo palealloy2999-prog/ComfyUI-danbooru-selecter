@@ -1,0 +1,1397 @@
+{
+  "カテゴリID": "list_of_ships",
+  "カテゴリ名": "船舶一覧",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=list_of_ships",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "船",
+          "tag": "ship",
+          "link": "https://danbooru.donmai.us/wiki_pages/ship"
+        }
+      ]
+    },
+    {
+      "セクション名": "カテゴリー",
+      "タグ一覧": [
+        {
+          "label": "空母",
+          "tag": "aircraft_carrier",
+          "link": "https://danbooru.donmai.us/wiki_pages/aircraft_carrier"
+        },
+        {
+          "label": "戦艦",
+          "tag": "battleship",
+          "link": "https://danbooru.donmai.us/wiki_pages/battleship"
+        },
+        {
+          "label": "巡洋艦",
+          "tag": "cruiser",
+          "link": "https://danbooru.donmai.us/wiki_pages/cruiser"
+        },
+        {
+          "label": "駆逐艦",
+          "tag": "destroyer",
+          "link": "https://danbooru.donmai.us/wiki_pages/destroyer"
+        },
+        {
+          "label": "潜水艦",
+          "tag": "submarine",
+          "link": "https://danbooru.donmai.us/wiki_pages/submarine"
+        }
+      ]
+    },
+    {
+      "セクション名": "空母",
+      "タグ一覧": [
+        {
+          "label": "赤城",
+          "tag": "akagi_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/akagi_%28aircraft_carrier%29"
+        },
+        {
+          "label": "白龍",
+          "tag": "hakuryuu_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hakuryuu_%28aircraft_carrier%29"
+        },
+        {
+          "label": "飛龍",
+          "tag": "hiryuu_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hiryuu_%28aircraft_carrier%29"
+        },
+        {
+          "label": "鳳翔",
+          "tag": "houshou_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/houshou_%28aircraft_carrier%29"
+        },
+        {
+          "label": "隼鷹",
+          "tag": "jun%27you_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jun%27you_%28aircraft_carrier%29"
+        },
+        {
+          "label": "信濃",
+          "tag": "shinano_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shinano_%28aircraft_carrier%29"
+        },
+        {
+          "label": "祥鳳",
+          "tag": "shouhou_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shouhou_%28aircraft_carrier%29"
+        },
+        {
+          "label": "翔鶴",
+          "tag": "shoukaku_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shoukaku_%28aircraft_carrier%29"
+        },
+        {
+          "label": "蒼龍",
+          "tag": "souryuu_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/souryuu_%28aircraft_carrier%29"
+        },
+        {
+          "label": "大鳳",
+          "tag": "taihou_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/taihou_%28aircraft_carrier%29"
+        },
+        {
+          "label": "雲龍",
+          "tag": "unryuu_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/unryuu_%28aircraft_carrier%29"
+        },
+        {
+          "label": "瑞鳳",
+          "tag": "zuihou_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/zuihou_%28aircraft_carrier%29"
+        },
+        {
+          "label": "瑞鶴",
+          "tag": "zuikaku_%28aircraft_carrier%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/zuikaku_%28aircraft_carrier%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "戦艦",
+      "タグ一覧": [
+        {
+          "label": "金剛",
+          "tag": "kongou_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kongou_%28battleship%29"
+        },
+        {
+          "label": "長門",
+          "tag": "nagato_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagato_%28battleship%29"
+        },
+        {
+          "label": "大和",
+          "tag": "yamato_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamato_%28battleship%29"
+        },
+        {
+          "label": "三笠",
+          "tag": "mikasa_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mikasa_%28battleship%29"
+        },
+        {
+          "label": "榛名",
+          "tag": "haruna_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/haruna_%28battleship%29"
+        },
+        {
+          "label": "武蔵",
+          "tag": "musashi_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/musashi_%28battleship%29"
+        },
+        {
+          "label": "加賀",
+          "tag": "kaga_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kaga_%28battleship%29"
+        },
+        {
+          "label": "扶桑",
+          "tag": "fusou_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fusou_%28battleship%29"
+        },
+        {
+          "label": "伊勢",
+          "tag": "ise_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ise_%28battleship%29"
+        },
+        {
+          "label": "霧島",
+          "tag": "kirishima_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kirishima_%28battleship%29"
+        },
+        {
+          "label": "比叡",
+          "tag": "hiei_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hiei_%28battleship%29"
+        },
+        {
+          "label": "陸奥",
+          "tag": "mutsu_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mutsu_%28battleship%29"
+        },
+        {
+          "label": "日向",
+          "tag": "hyuuga_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hyuuga_%28battleship%29"
+        },
+        {
+          "label": "敷島",
+          "tag": "shikishima_%28battleship%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shikishima_%28battleship%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "駆逐艦",
+      "タグ一覧": [
+        {
+          "label": "暁",
+          "tag": "akatsuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/akatsuki_%28destroyer%29"
+        },
+        {
+          "label": "秋月",
+          "tag": "akizuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/akizuki_%28destroyer%29"
+        },
+        {
+          "label": "天津風",
+          "tag": "amatsukaze_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/amatsukaze_%28destroyer%29"
+        },
+        {
+          "label": "荒潮",
+          "tag": "arashio_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/arashio_%28destroyer%29"
+        },
+        {
+          "label": "朝潮",
+          "tag": "asashio_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/asashio_%28destroyer%29"
+        },
+        {
+          "label": "綾波",
+          "tag": "ayanami_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ayanami_%28destroyer%29"
+        },
+        {
+          "label": "吹雪",
+          "tag": "fubuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fubuki_%28destroyer%29"
+        },
+        {
+          "label": "浜風",
+          "tag": "hamakaze_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hamakaze_%28destroyer%29"
+        },
+        {
+          "label": "花月",
+          "tag": "hanazuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hanazuki_%28destroyer%29"
+        },
+        {
+          "label": "初春",
+          "tag": "hatsuharu_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hatsuharu_%28destroyer%29"
+        },
+        {
+          "label": "初雪",
+          "tag": "hatsuyuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hatsuyuki_%28destroyer%29"
+        },
+        {
+          "label": "早霜",
+          "tag": "hayashimo_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hayashimo_%28destroyer%29"
+        },
+        {
+          "label": "響",
+          "tag": "hibiki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hibiki_%28destroyer%29"
+        },
+        {
+          "label": "雷",
+          "tag": "ikazuchi_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ikazuchi_%28destroyer%29"
+        },
+        {
+          "label": "電",
+          "tag": "inazuma_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/inazuma_%28destroyer%29"
+        },
+        {
+          "label": "岩波",
+          "tag": "iwanami_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwanami_%28destroyer%29"
+        },
+        {
+          "label": "神風",
+          "tag": "kamikaze_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kamikaze_%28destroyer%29"
+        },
+        {
+          "label": "かすみ",
+          "tag": "kasumi_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kasumi_%28destroyer%29"
+        },
+        {
+          "label": "如月",
+          "tag": "kisaragi_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kisaragi_%28destroyer%29"
+        },
+        {
+          "label": "清霜",
+          "tag": "kiyoshimo_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kiyoshimo_%28destroyer%29"
+        },
+        {
+          "label": "黒潮",
+          "tag": "kuroshio_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kuroshio_%28destroyer%29"
+        },
+        {
+          "label": "満潮",
+          "tag": "michishio_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/michishio_%28destroyer%29"
+        },
+        {
+          "label": "望月",
+          "tag": "mochizuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mochizuki_%28destroyer%29"
+        },
+        {
+          "label": "叢雲",
+          "tag": "murakumo_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/murakumo_%28destroyer%29"
+        },
+        {
+          "label": "睦月",
+          "tag": "mutsuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mutsuki_%28destroyer%29"
+        },
+        {
+          "label": "長波",
+          "tag": "naganami_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/naganami_%28destroyer%29"
+        },
+        {
+          "label": "早蕨",
+          "tag": "sawarabi_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sawarabi_%28destroyer%29"
+        },
+        {
+          "label": "時雨",
+          "tag": "shigure_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shigure_%28destroyer%29"
+        },
+        {
+          "label": "島風",
+          "tag": "shimakaze_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shimakaze_%28destroyer%29"
+        },
+        {
+          "label": "島風",
+          "tag": "shimakaze_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shimakaze_%28destroyer%29"
+        },
+        {
+          "label": "不知火",
+          "tag": "shiranui_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shiranui_%28destroyer%29"
+        },
+        {
+          "label": "涼月",
+          "tag": "suzutsuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/suzutsuki_%28destroyer%29"
+        },
+        {
+          "label": "照月",
+          "tag": "teruzuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/teruzuki_%28destroyer%29"
+        },
+        {
+          "label": "時津風",
+          "tag": "tokitsukaze_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokitsukaze_%28destroyer%29"
+        },
+        {
+          "label": "つばき",
+          "tag": "tsubaki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsubaki_%28destroyer%29"
+        },
+        {
+          "label": "潮",
+          "tag": "ushio_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ushio_%28destroyer%29"
+        },
+        {
+          "label": "卯月",
+          "tag": "uzuki_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uzuki_%28destroyer%29"
+        },
+        {
+          "label": "雪風",
+          "tag": "yukikaze_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yukikaze_%28destroyer%29"
+        },
+        {
+          "label": "夕立",
+          "tag": "yuudachi_%28destroyer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yuudachi_%28destroyer%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "巡洋艦",
+      "タグ一覧": [
+        {
+          "label": "阿武隈",
+          "tag": "abukuma_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/abukuma_%28cruiser%29"
+        },
+        {
+          "label": "青葉",
+          "tag": "aoba_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/aoba_%28cruiser%29"
+        },
+        {
+          "label": "足柄",
+          "tag": "ashigara_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ashigara_%28cruiser%29"
+        },
+        {
+          "label": "愛宕",
+          "tag": "atago_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/atago_%28cruiser%29"
+        },
+        {
+          "label": "鳥海",
+          "tag": "choukai_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/choukai_%28cruiser%29"
+        },
+        {
+          "label": "古鷹",
+          "tag": "furutaka_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/furutaka_%28cruiser%29"
+        },
+        {
+          "label": "橋立",
+          "tag": "hashidate_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hashidate_%28cruiser%29"
+        },
+        {
+          "label": "厳島",
+          "tag": "itsukushima_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/itsukushima_%28cruiser%29"
+        },
+        {
+          "label": "春日",
+          "tag": "kasuga_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kasuga_%28cruiser%29"
+        },
+        {
+          "label": "香取",
+          "tag": "katori_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/katori_%28cruiser%29"
+        },
+        {
+          "label": "木曽",
+          "tag": "kiso_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kiso_%28cruiser%29"
+        },
+        {
+          "label": "北上",
+          "tag": "kitakami_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kitakami_%28cruiser%29"
+        },
+        {
+          "label": "熊野",
+          "tag": "kumano_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kumano_%28cruiser%29"
+        },
+        {
+          "label": "松島",
+          "tag": "matsushima_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/matsushima_%28cruiser%29"
+        },
+        {
+          "label": "摩耶",
+          "tag": "maya_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/maya_%28cruiser%29"
+        },
+        {
+          "label": "三隈",
+          "tag": "mikuma_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mikuma_%28cruiser%29"
+        },
+        {
+          "label": "最上",
+          "tag": "mogami_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mogami_%28cruiser%29"
+        },
+        {
+          "label": "妙高",
+          "tag": "myoukou_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/myoukou_%28cruiser%29"
+        },
+        {
+          "label": "那珂",
+          "tag": "naka_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/naka_%28cruiser%29"
+        },
+        {
+          "label": "鈴谷",
+          "tag": "suzuya_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/suzuya_%28cruiser%29"
+        },
+        {
+          "label": "高尾",
+          "tag": "takao_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/takao_%28cruiser%29"
+        },
+        {
+          "label": "多摩",
+          "tag": "tama_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tama_%28cruiser%29"
+        },
+        {
+          "label": "矢矧",
+          "tag": "yahagi_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yahagi_%28cruiser%29"
+        },
+        {
+          "label": "吉野",
+          "tag": "yoshino_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yoshino_%28cruiser%29"
+        },
+        {
+          "label": "由良",
+          "tag": "yura_%28cruiser%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yura_%28cruiser%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "潜水艦",
+      "タグ一覧": [
+        {
+          "label": "I-8",
+          "tag": "i-8_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-8_%28submarine%29"
+        },
+        {
+          "label": "I-19",
+          "tag": "i-19_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-19_%28submarine%29"
+        },
+        {
+          "label": "I-41",
+          "tag": "i-41_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-41_%28submarine%29"
+        },
+        {
+          "label": "I-46",
+          "tag": "i-46_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-46_%28submarine%29"
+        },
+        {
+          "label": "I-58",
+          "tag": "i-58_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-58_%28submarine%29"
+        },
+        {
+          "label": "I-68",
+          "tag": "i-68_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-68_%28submarine%29"
+        },
+        {
+          "label": "I-69",
+          "tag": "i-69_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-69_%28submarine%29"
+        },
+        {
+          "label": "I-70",
+          "tag": "i-70_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-70_%28submarine%29"
+        },
+        {
+          "label": "I-400",
+          "tag": "i-400_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-400_%28submarine%29"
+        },
+        {
+          "label": "I-401",
+          "tag": "i-401_%28submarine%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-401_%28submarine%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "戦艦",
+      "タグ一覧": [
+        {
+          "label": "USSアリゾナ（BB-39）",
+          "tag": "uss_arizona_%28bb-39%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_arizona_%28bb-39%29"
+        },
+        {
+          "label": "USSアーカンソー（BB-33）",
+          "tag": "uss_arkansas_%28bb-33%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_arkansas_%28bb-33%29"
+        },
+        {
+          "label": "USSカリフォルニア（BB-44）",
+          "tag": "uss_california_%28bb-44%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_california_%28bb-44%29"
+        },
+        {
+          "label": "USSコロラド（BB-45）",
+          "tag": "uss_colorado_%28bb-45%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_colorado_%28bb-45%29"
+        },
+        {
+          "label": "USSフロリダ（BB-30）",
+          "tag": "uss_florida_%28bb-30%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_florida_%28bb-30%29"
+        },
+        {
+          "label": "USSインディアナ（BB-58）",
+          "tag": "uss_indiana_%28bb-58%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_indiana_%28bb-58%29"
+        },
+        {
+          "label": "USSアイオワ（BB-61）",
+          "tag": "uss_iowa_%28bb-61%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_iowa_%28bb-61%29"
+        },
+        {
+          "label": "USSケンタッキー（BB-66）",
+          "tag": "uss_kentucky_%28bb-66%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_kentucky_%28bb-66%29"
+        },
+        {
+          "label": "USSメリーランド（BB-46）",
+          "tag": "uss_maryland_%28bb-46%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_maryland_%28bb-46%29"
+        },
+        {
+          "label": "USSミズーリ（BB-63）",
+          "tag": "uss_missouri_%28bb-63%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_missouri_%28bb-63%29"
+        },
+        {
+          "label": "USSモンタナ（BB-67）",
+          "tag": "uss_montana_%28bb-67%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_montana_%28bb-67%29"
+        },
+        {
+          "label": "USSネバダ（BB-36）",
+          "tag": "uss_nevada_%28bb-36%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_nevada_%28bb-36%29"
+        },
+        {
+          "label": "USSニュージャージー（BB-62）",
+          "tag": "uss_new_jersey_%28bb-62%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_new_jersey_%28bb-62%29"
+        },
+        {
+          "label": "USSニューヨーク（BB-34）",
+          "tag": "uss_new_york_%28bb-34%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_new_york_%28bb-34%29"
+        },
+        {
+          "label": "USSノースカロライナ（BB-55）",
+          "tag": "uss_north_carolina_%28bb-55%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_north_carolina_%28bb-55%29"
+        },
+        {
+          "label": "USSオクラホマ（BB-37）",
+          "tag": "uss_oklahoma_%28bb-37%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_oklahoma_%28bb-37%29"
+        },
+        {
+          "label": "USSペンシルベニア（BB-38）",
+          "tag": "uss_pennsylvania_%28bb-38%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_pennsylvania_%28bb-38%29"
+        },
+        {
+          "label": "USSサウスダコタ（BB-57）",
+          "tag": "uss_south_dakota_%28bb-57%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_south_dakota_%28bb-57%29"
+        },
+        {
+          "label": "USSテネシー（BB-43）",
+          "tag": "uss_tennessee_%28bb-43%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_tennessee_%28bb-43%29"
+        },
+        {
+          "label": "USSワシントン（BB-56）",
+          "tag": "uss_washington_%28bb-56%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_washington_%28bb-56%29"
+        },
+        {
+          "label": "USSウェストバージニア（BB-48）",
+          "tag": "uss_west_virginia_%28bb-48%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_west_virginia_%28bb-48%29"
+        },
+        {
+          "label": "USSウィスコンシン（BB-64）",
+          "tag": "uss_wisconsin_%28bb-64%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_wisconsin_%28bb-64%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "空母",
+      "タグ一覧": [
+        {
+          "label": "USSインディペンデンス（CVL-22）",
+          "tag": "uss_independence_%28cvl-22%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_independence_%28cvl-22%29"
+        },
+        {
+          "label": "サイパン（CVL-48）",
+          "tag": "uss_saipan_%28cvl-48%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_saipan_%28cvl-48%29"
+        },
+        {
+          "label": "USSボクサー（CV-21）",
+          "tag": "uss_boxer_%28cv-21%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_boxer_%28cv-21%29"
+        },
+        {
+          "label": "USSエンタープライズ（CV-6）",
+          "tag": "uss_enterprise_%28cv-6%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_enterprise_%28cv-6%29"
+        },
+        {
+          "label": "USSエセックス（CV-9）",
+          "tag": "uss_essex_%28cv-9%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_essex_%28cv-9%29"
+        },
+        {
+          "label": "USSホーネット（CV-12）",
+          "tag": "uss_hornet_%28cv-12%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_hornet_%28cv-12%29"
+        },
+        {
+          "label": "USSホーネット（CV-8）",
+          "tag": "uss_hornet_%28cv-8%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_hornet_%28cv-8%29"
+        },
+        {
+          "label": "USSインディペンデンス（CV-62）",
+          "tag": "uss_independence_%28cv-62%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_independence_%28cv-62%29"
+        },
+        {
+          "label": "USSイントレピッド（CV-11）",
+          "tag": "uss_intrepid_%28cv-11%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_intrepid_%28cv-11%29"
+        },
+        {
+          "label": "USSキティホーク（CV-63）",
+          "tag": "uss_kitty_hawk_%28cv-63%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_kitty_hawk_%28cv-63%29"
+        },
+        {
+          "label": "USSラングレー（CV-1）",
+          "tag": "uss_langley_%28cv-1%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_langley_%28cv-1%29"
+        },
+        {
+          "label": "USSレキシントン（CV-16）",
+          "tag": "uss_lexington_%28cv-16%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_lexington_%28cv-16%29"
+        },
+        {
+          "label": "USSレキシントン（CV-2）",
+          "tag": "uss_lexington_%28cv-2%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_lexington_%28cv-2%29"
+        },
+        {
+          "label": "USSレンジャー（CV-4）",
+          "tag": "uss_ranger_%28cv-4%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_ranger_%28cv-4%29"
+        },
+        {
+          "label": "USSレンジャー（CV-61）",
+          "tag": "uss_ranger_%28cv-61%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_ranger_%28cv-61%29"
+        },
+        {
+          "label": "USSサラトガ（CV-3）",
+          "tag": "uss_saratoga_%28cv-3%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_saratoga_%28cv-3%29"
+        },
+        {
+          "label": "USSワスプ（CV-18）",
+          "tag": "uss_wasp_%28cv-18%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_wasp_%28cv-18%29"
+        },
+        {
+          "label": "USSワスプ（CV-7）",
+          "tag": "uss_wasp_%28cv-7%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_wasp_%28cv-7%29"
+        },
+        {
+          "label": "ヨークタウン（CV-10）",
+          "tag": "uss_yorktown_%28cv-10%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_yorktown_%28cv-10%29"
+        },
+        {
+          "label": "ヨークタウン（CV-5）",
+          "tag": "uss_yorktown_%28cv-5%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_yorktown_%28cv-5%29"
+        },
+        {
+          "label": "USSエンタープライズ（CVN-65）",
+          "tag": "uss_enterprise_%28cvn-65%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_enterprise_%28cvn-65%29"
+        },
+        {
+          "label": "ジョージ・H・W・ブッシュ（CVN-77）",
+          "tag": "uss_george_h.w._bush_%28cvn-77%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_george_h.w._bush_%28cvn-77%29"
+        },
+        {
+          "label": "USS ジェラルド・R・フォード (CVN-78)",
+          "tag": "uss_gerald_r_ford_%28cvn-78%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_gerald_r_ford_%28cvn-78%29"
+        },
+        {
+          "label": "ジョン・F・ケネディ（CVN-67）",
+          "tag": "uss_john_f_kennedy_%28cvn-67%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_john_f_kennedy_%28cvn-67%29"
+        },
+        {
+          "label": "ロナルド・レーガン（CVN-76）",
+          "tag": "uss_ronald_reagan_%28cvn-76%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_ronald_reagan_%28cvn-76%29"
+        },
+        {
+          "label": "USSセオドア・ルーズベルト（CVN-71）",
+          "tag": "uss_theodore_roosevelt_%28cvn-71%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_theodore_roosevelt_%28cvn-71%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "駆逐艦",
+      "タグ一覧": [
+        {
+          "label": "アーレイ・バーク（DDG-51）",
+          "tag": "uss_arleigh_burke_%28ddg-51%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_arleigh_burke_%28ddg-51%29"
+        },
+        {
+          "label": "USS シュヴァリエ（DD-805）",
+          "tag": "uss_chevalier_%28dd-805%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_chevalier_%28dd-805%29"
+        },
+        {
+          "label": "USSコンバース（DD-509）",
+          "tag": "uss_converse_%28dd-509%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_converse_%28dd-509%29"
+        },
+        {
+          "label": "USSコリー（DD-463）",
+          "tag": "uss_corry_%28dd-463%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_corry_%28dd-463%29"
+        },
+        {
+          "label": "USSエドサル（DD-219）",
+          "tag": "uss_edsall_%28dd-219%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_edsall_%28dd-219%29"
+        },
+        {
+          "label": "USSエヴェレット・F・ラーソン（DD-830）",
+          "tag": "uss_everett_f._larson_%28dd-830%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_everett_f._larson_%28dd-830%29"
+        },
+        {
+          "label": "USSジョンストン（DD-557）",
+          "tag": "uss_johnston_%28dd-557%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_johnston_%28dd-557%29"
+        },
+        {
+          "label": "USSラフィー（DD-459）",
+          "tag": "uss_laffey_%28dd-459%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_laffey_%28dd-459%29"
+        },
+        {
+          "label": "USSマハン（DD-364）",
+          "tag": "uss_mahan_%28dd-364%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_mahan_%28dd-364%29"
+        },
+        {
+          "label": "モーリー（DD-401）",
+          "tag": "uss_maury_%28dd-401%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_maury_%28dd-401%29"
+        },
+        {
+          "label": "USSマイケル・モンスール（DD-1001）",
+          "tag": "uss_michael_monsoor_%28dd-1001%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_michael_monsoor_%28dd-1001%29"
+        },
+        {
+          "label": "USSニュー（DD-818）",
+          "tag": "uss_new_%28dd-818%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_new_%28dd-818%29"
+        },
+        {
+          "label": "USSオバノン（DD-450）",
+          "tag": "uss_o%27bannon_%28dd-450%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_o%27bannon_%28dd-450%29"
+        },
+        {
+          "label": "USSショー（DD-373）",
+          "tag": "uss_shaw_%28dd-373%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_shaw_%28dd-373%29"
+        },
+        {
+          "label": "USSスミス（DD-378）",
+          "tag": "uss_smith_%28dd-378%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_smith_%28dd-378%29"
+        },
+        {
+          "label": "USSスチュワート（DD-224）",
+          "tag": "uss_stewart_%28dd-224%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_stewart_%28dd-224%29"
+        },
+        {
+          "label": "USSヤナル（DD-541）",
+          "tag": "uss_yarnall_%28dd-541%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_yarnall_%28dd-541%29"
+        },
+        {
+          "label": "USSズムウォルト（DD-1000）",
+          "tag": "uss_zumwalt_%28dd-1000%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_zumwalt_%28dd-1000%29"
+        },
+        {
+          "label": "USS サミュエル・B・ロバーツ (DE-413)",
+          "tag": "uss_samuel_b_roberts_%28de-413%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_samuel_b_roberts_%28de-413%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "潜水艦",
+      "タグ一覧": [
+        {
+          "label": "USSアルバコア（SS-218）",
+          "tag": "uss_albacore_%28ss-218%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_albacore_%28ss-218%29"
+        },
+        {
+          "label": "USSアーチャーフィッシュ（SS-311）",
+          "tag": "uss_archerfish_%28ss-311%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_archerfish_%28ss-311%29"
+        },
+        {
+          "label": "USSカヴァラ（SS-244）",
+          "tag": "uss_cavalla_%28ss-244%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_cavalla_%28ss-244%29"
+        },
+        {
+          "label": "USSチャール（SS-328）",
+          "tag": "uss_charr_%28ss-328%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_charr_%28ss-328%29"
+        },
+        {
+          "label": "USSデイス（SS-247）",
+          "tag": "uss_dace_%28ss-247%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_dace_%28ss-247%29"
+        },
+        {
+          "label": "USSドルフィン（SS-169）",
+          "tag": "uss_dolphin_%28ss-169%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_dolphin_%28ss-169%29"
+        },
+        {
+          "label": "USSガトー（SS-212）",
+          "tag": "uss_gato_%28ss-212%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_gato_%28ss-212%29"
+        },
+        {
+          "label": "USSジャラオ（SS-368）",
+          "tag": "uss_jallao_%28ss-368%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_jallao_%28ss-368%29"
+        },
+        {
+          "label": "USSミンゴ（SS-216）",
+          "tag": "uss_mingo_%28ss-216%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_mingo_%28ss-216%29"
+        },
+        {
+          "label": "USSナーワル（SS-167）",
+          "tag": "uss_narwhal_%28ss-167%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_narwhal_%28ss-167%29"
+        },
+        {
+          "label": "USSレッドフィッシュ（SS-395）",
+          "tag": "uss_redfish_%28ss-395%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_redfish_%28ss-395%29"
+        },
+        {
+          "label": "USSスカルピン（SS-191）",
+          "tag": "uss_sculpin_%28ss-191%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_sculpin_%28ss-191%29"
+        },
+        {
+          "label": "USSスケート（SS-305）",
+          "tag": "uss_skate_%28ss-305%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_skate_%28ss-305%29"
+        },
+        {
+          "label": "USSスペードフィッシュ（SS-411）",
+          "tag": "uss_spadefish_%28ss-411%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_spadefish_%28ss-411%29"
+        },
+        {
+          "label": "USSノーチラス（SSN-571）",
+          "tag": "uss_nautilus_%28ssn-571%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_nautilus_%28ssn-571%29"
+        },
+        {
+          "label": "USSアラバマ（SSBN-731）",
+          "tag": "uss_alabama_%28ssbn-731%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_alabama_%28ssbn-731%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "巡洋艦",
+      "タグ一覧": [
+        {
+          "label": "USSアトランタ（CL-51）",
+          "tag": "uss_atlanta_%28cl-51%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_atlanta_%28cl-51%29"
+        },
+        {
+          "label": "USSボイシ（CL-47）",
+          "tag": "uss_boise_%28cl-47%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_boise_%28cl-47%29"
+        },
+        {
+          "label": "USSヘレナ（CL-50）",
+          "tag": "uss_helena_%28cl-50%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_helena_%28cl-50%29"
+        },
+        {
+          "label": "USSマーブルヘッド（CL-12）",
+          "tag": "uss_marblehead_%28cl-12%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_marblehead_%28cl-12%29"
+        },
+        {
+          "label": "USSモービル（CL-63）",
+          "tag": "uss_mobile_%28cl-63%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_mobile_%28cl-63%29"
+        },
+        {
+          "label": "USSフェニックス（CL-46）",
+          "tag": "uss_phoenix_%28cl-46%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_phoenix_%28cl-46%29"
+        },
+        {
+          "label": "USS ローリー (CL-7)",
+          "tag": "uss_raleigh_%28cl-7%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_raleigh_%28cl-7%29"
+        },
+        {
+          "label": "USSサンディエゴ（CL-53）",
+          "tag": "uss_san_diego_%28cl-53%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_san_diego_%28cl-53%29"
+        },
+        {
+          "label": "USSサンタフェ（CL-60）",
+          "tag": "uss_santa_fe_%28cl-60%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_santa_fe_%28cl-60%29"
+        },
+        {
+          "label": "USSアストリア（CA-34）",
+          "tag": "uss_astoria_%28ca-34%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_astoria_%28ca-34%29"
+        },
+        {
+          "label": "USSチェスター（CA-27）",
+          "tag": "uss_chester_%28ca-27%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_chester_%28ca-27%29"
+        },
+        {
+          "label": "USSシカゴ（CA-29）",
+          "tag": "uss_chicago_%28ca-29%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_chicago_%28ca-29%29"
+        },
+        {
+          "label": "USSデモイン（CA-134）",
+          "tag": "uss_des_moines_%28ca-134%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_des_moines_%28ca-134%29"
+        },
+        {
+          "label": "USSヒューストン（CA-30）",
+          "tag": "uss_houston_%28ca-30%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_houston_%28ca-30%29"
+        },
+        {
+          "label": "USSインディアナポリス（CA-35）",
+          "tag": "uss_indianapolis_%28ca-35%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_indianapolis_%28ca-35%29"
+        },
+        {
+          "label": "USSルイビル（CA-28）",
+          "tag": "uss_louisville_%28ca-28%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_louisville_%28ca-28%29"
+        },
+        {
+          "label": "ニューポート・ニューズ（CA-148）",
+          "tag": "uss_newport_news_%28ca-148%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_newport_news_%28ca-148%29"
+        },
+        {
+          "label": "USSノーサンプトン（CA-26）",
+          "tag": "uss_northampton_%28ca-26%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_northampton_%28ca-26%29"
+        },
+        {
+          "label": "USSペンサコーラ（CA-24）",
+          "tag": "uss_pensacola_%28ca-24%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_pensacola_%28ca-24%29"
+        },
+        {
+          "label": "USSクインシー（CA-39）",
+          "tag": "uss_quincy_%28ca-39%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_quincy_%28ca-39%29"
+        },
+        {
+          "label": "USSセーラム（CA-139）",
+          "tag": "uss_salem_%28ca-139%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_salem_%28ca-139%29"
+        },
+        {
+          "label": "USSソルトレイクシティ（CA-25）",
+          "tag": "uss_salt_lake_city_%28ca-25%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_salt_lake_city_%28ca-25%29"
+        },
+        {
+          "label": "USSサンフランシスコ（CA-38）",
+          "tag": "uss_san_francisco_%28ca-38%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_san_francisco_%28ca-38%29"
+        },
+        {
+          "label": "USSアラスカ（CB-1）",
+          "tag": "uss_alaska_%28cb-1%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_alaska_%28cb-1%29"
+        },
+        {
+          "label": "タイコンデロガ（CG-47）",
+          "tag": "uss_ticonderoga_%28cg-47%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_ticonderoga_%28cg-47%29"
+        },
+        {
+          "label": "USSセントルイス（C-20）",
+          "tag": "uss_st._louis_%28c-20%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_st._louis_%28c-20%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の艦船",
+      "タグ一覧": [
+        {
+          "label": "USSインディペンデンス（LCS-2）",
+          "tag": "uss_independence_%28lcs-2%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_independence_%28lcs-2%29"
+        },
+        {
+          "label": "USSカムデン（AOE-2）",
+          "tag": "uss_camden_%28aoe-2%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_camden_%28aoe-2%29"
+        },
+        {
+          "label": "USSメデューサ（AR-1）",
+          "tag": "uss_medusa_%28ar-1%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_medusa_%28ar-1%29"
+        },
+        {
+          "label": "USSコンスティチューション",
+          "tag": "uss_constitution",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_constitution"
+        },
+        {
+          "label": "USSモニター",
+          "tag": "uss_monitor",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_monitor"
+        },
+        {
+          "label": "USSポウハタン",
+          "tag": "uss_powhatan",
+          "link": "https://danbooru.donmai.us/wiki_pages/uss_powhatan"
+        }
+      ]
+    },
+    {
+      "セクション名": "民間船",
+      "タグ一覧": [
+        {
+          "label": "RMSクイーンエリザベス",
+          "tag": "rms_queen_elizabeth",
+          "link": "https://danbooru.donmai.us/wiki_pages/rms_queen_elizabeth"
+        },
+        {
+          "label": "RMSクイーン・メリー",
+          "tag": "rms_queen_mary",
+          "link": "https://danbooru.donmai.us/wiki_pages/rms_queen_mary"
+        },
+        {
+          "label": "RMSタイタニック号",
+          "tag": "rms_titanic",
+          "link": "https://danbooru.donmai.us/wiki_pages/rms_titanic"
+        },
+        {
+          "label": "橘丸（貨物船 1935年）",
+          "tag": "tachibana_maru_%28cargo_liner_1935%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tachibana_maru_%28cargo_liner_1935%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "船の部品",
+      "タグ一覧": [
+        {
+          "label": "錨",
+          "tag": "anchor",
+          "link": "https://danbooru.donmai.us/wiki_pages/anchor"
+        },
+        {
+          "label": "大砲",
+          "tag": "cannon",
+          "link": "https://danbooru.donmai.us/wiki_pages/cannon"
+        },
+        {
+          "label": "リギング",
+          "tag": "rigging",
+          "link": "https://danbooru.donmai.us/wiki_pages/rigging"
+        },
+        {
+          "label": "砲塔",
+          "tag": "turret",
+          "link": "https://danbooru.donmai.us/wiki_pages/turret"
+        }
+      ]
+    },
+    {
+      "セクション名": "対艦兵器",
+      "タグ一覧": [
+        {
+          "label": "爆弾",
+          "tag": "bomb",
+          "link": "https://danbooru.donmai.us/wiki_pages/bomb"
+        },
+        {
+          "label": "ミサイル",
+          "tag": "missile",
+          "link": "https://danbooru.donmai.us/wiki_pages/missile"
+        },
+        {
+          "label": "機雷",
+          "tag": "naval_mine",
+          "link": "https://danbooru.donmai.us/wiki_pages/naval_mine"
+        },
+        {
+          "label": "魚雷",
+          "tag": "torpedo",
+          "link": "https://danbooru.donmai.us/wiki_pages/torpedo"
+        }
+      ]
+    },
+    {
+      "セクション名": "海事関連",
+      "タグ一覧": [
+        {
+          "label": "戦闘機",
+          "tag": "fighter_jet",
+          "link": "https://danbooru.donmai.us/wiki_pages/fighter_jet"
+        },
+        {
+          "label": "水上飛行機",
+          "tag": "seaplane",
+          "link": "https://danbooru.donmai.us/wiki_pages/seaplane"
+        }
+      ]
+    },
+    {
+      "セクション名": "戦闘",
+      "タグ一覧": [
+        {
+          "label": "湾岸戦争",
+          "tag": "gulf_war",
+          "link": "https://danbooru.donmai.us/wiki_pages/gulf_war"
+        },
+        {
+          "label": "ベトナム",
+          "tag": "vietnam",
+          "link": "https://danbooru.donmai.us/wiki_pages/vietnam"
+        },
+        {
+          "label": "第一次世界大戦",
+          "tag": "world_war_i",
+          "link": "https://danbooru.donmai.us/wiki_pages/world_war_i"
+        },
+        {
+          "label": "第二次世界大戦",
+          "tag": "world_war_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/world_war_ii"
+        }
+      ]
+    },
+    {
+      "セクション名": "マーク/シンボル",
+      "タグ一覧": [
+        {
+          "label": "エンブレム",
+          "tag": "emblem",
+          "link": "https://danbooru.donmai.us/wiki_pages/emblem"
+        },
+        {
+          "label": "鎌と槌",
+          "tag": "hammer_and_sickle",
+          "link": "https://danbooru.donmai.us/wiki_pages/hammer_and_sickle"
+        },
+        {
+          "label": "鉄十字",
+          "tag": "iron_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/iron_cross"
+        },
+        {
+          "label": "痛車",
+          "tag": "itasha",
+          "link": "https://danbooru.donmai.us/wiki_pages/itasha"
+        },
+        {
+          "label": "旭日旗",
+          "tag": "rising_sun_flag",
+          "link": "https://danbooru.donmai.us/wiki_pages/rising_sun_flag"
+        },
+        {
+          "label": "ダビデの星",
+          "tag": "star_of_david",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_of_david"
+        },
+        {
+          "label": "卍",
+          "tag": "swastika",
+          "link": "https://danbooru.donmai.us/wiki_pages/swastika"
+        }
+      ]
+    },
+    {
+      "セクション名": "職業",
+      "タグ一覧": [
+        {
+          "label": "船員",
+          "tag": "sailor",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailor"
+        }
+      ]
+    },
+    {
+      "セクション名": "船員の装備",
+      "タグ一覧": [
+        {
+          "label": "ライフジャケット",
+          "tag": "life_vest",
+          "link": "https://danbooru.donmai.us/wiki_pages/life_vest"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "水上船舶",
+          "tag": "watercraft",
+          "link": "https://danbooru.donmai.us/wiki_pages/watercraft"
+        },
+        {
+          "label": "軍艦",
+          "tag": "warship",
+          "link": "https://danbooru.donmai.us/wiki_pages/warship"
+        },
+        {
+          "label": "メカ娘",
+          "tag": "mecha_musume",
+          "link": "https://danbooru.donmai.us/wiki_pages/mecha_musume"
+        },
+        {
+          "label": "軍隊",
+          "tag": "military",
+          "link": "https://danbooru.donmai.us/wiki_pages/military"
+        },
+        {
+          "label": "海",
+          "tag": "ocean",
+          "link": "https://danbooru.donmai.us/wiki_pages/ocean"
+        },
+        {
+          "label": "タググループ：テクノロジー",
+          "tag": "tag_group%3Atechnology",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Atechnology"
+        },
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
+}

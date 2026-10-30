@@ -1,0 +1,537 @@
+{
+  "カテゴリID": "cards",
+  "カテゴリ名": "カード",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Acards",
+  "セクション一覧": [
+    {
+      "セクション名": "主要",
+      "タグ一覧": [
+        {
+          "label": "カード",
+          "tag": "card",
+          "link": "https://danbooru.donmai.us/wiki_pages/card"
+        },
+        {
+          "label": "カードゲーム",
+          "tag": "card_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_game"
+        },
+        {
+          "label": "ゲームをする",
+          "tag": "playing_games",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_games"
+        },
+        {
+          "label": "トランプの絵柄一覧",
+          "tag": "list_of_playing_card_faces",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_playing_card_faces"
+        }
+      ]
+    },
+    {
+      "セクション名": "画像の構成とスタイル",
+      "タグ一覧": [
+        {
+          "label": "カードの背景",
+          "tag": "card_background",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_background"
+        },
+        {
+          "label": "カード（媒体）",
+          "tag": "card_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_%28medium%29"
+        },
+        {
+          "label": "トランプテーマ",
+          "tag": "playing_card_theme",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_card_theme"
+        }
+      ]
+    },
+    {
+      "セクション名": "単独のカードの配置",
+      "タグ一覧": [
+        {
+          "label": "フローティングカード",
+          "tag": "floating_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/floating_card"
+        }
+      ]
+    },
+    {
+      "セクション名": "複数のカードの配置",
+      "タグ一覧": [
+        {
+          "label": "トランプタワー",
+          "tag": "house_of_cards",
+          "link": "https://danbooru.donmai.us/wiki_pages/house_of_cards"
+        }
+      ]
+    },
+    {
+      "セクション名": "頭・口・首元とカード",
+      "タグ一覧": [
+        {
+          "label": "口の中のカード",
+          "tag": "card_in_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_in_mouth"
+        },
+        {
+          "label": "カードペンダント",
+          "tag": "card_pendant",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_pendant"
+        }
+      ]
+    },
+    {
+      "セクション名": "身体・手とカード",
+      "タグ一覧": [
+        {
+          "label": "胸の間にあるカード",
+          "tag": "card_between_breasts",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_between_breasts"
+        },
+        {
+          "label": "カードを持っている",
+          "tag": "holding_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_card"
+        },
+        {
+          "label": "カードをシャッフルする",
+          "tag": "shuffling_cards",
+          "link": "https://danbooru.donmai.us/wiki_pages/shuffling_cards"
+        }
+      ]
+    },
+    {
+      "セクション名": "カードの種類、スタイル、特徴",
+      "タグ一覧": [
+        {
+          "label": "フラッシュカード",
+          "tag": "flash_cards",
+          "link": "https://danbooru.donmai.us/wiki_pages/flash_cards"
+        },
+        {
+          "label": "グリーティングカード",
+          "tag": "greeting_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/greeting_card"
+        },
+        {
+          "label": "誕生日カード",
+          "tag": "birthday_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/birthday_card"
+        },
+        {
+          "label": "身分証明書",
+          "tag": "id_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/id_card"
+        },
+        {
+          "label": "クレジットカード",
+          "tag": "credit_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/credit_card"
+        },
+        {
+          "label": "ブラッククレジットカード",
+          "tag": "black_credit_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_credit_card"
+        },
+        {
+          "label": "ギフトカード",
+          "tag": "gift_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/gift_card"
+        },
+        {
+          "label": "PASMO",
+          "tag": "pasmo",
+          "link": "https://danbooru.donmai.us/wiki_pages/pasmo"
+        },
+        {
+          "label": "電話カード",
+          "tag": "phonecard",
+          "link": "https://danbooru.donmai.us/wiki_pages/phonecard"
+        },
+        {
+          "label": "Suica",
+          "tag": "suica",
+          "link": "https://danbooru.donmai.us/wiki_pages/suica"
+        },
+        {
+          "label": "トレーディングカード",
+          "tag": "trading_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/trading_card"
+        },
+        {
+          "label": "ツェナーカード",
+          "tag": "zener_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/zener_card"
+        }
+      ]
+    },
+    {
+      "セクション名": "色別カード",
+      "タグ一覧": [
+        {
+          "label": "ブルーカード",
+          "tag": "blue_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_card"
+        },
+        {
+          "label": "グレーカード",
+          "tag": "grey_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_card"
+        },
+        {
+          "label": "紫色のカード",
+          "tag": "purple_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_card"
+        },
+        {
+          "label": "レッドカード",
+          "tag": "red_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_card"
+        },
+        {
+          "label": "白い空白のカード",
+          "tag": "white_blank_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_blank_card"
+        },
+        {
+          "label": "イエローカード",
+          "tag": "yellow_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_card"
+        }
+      ]
+    },
+    {
+      "セクション名": "一般的なカードゲーム・タロット",
+      "タグ一覧": [
+        {
+          "label": "ビンゴカード",
+          "tag": "bingo_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/bingo_card"
+        },
+        {
+          "label": "花札",
+          "tag": "hanafuda",
+          "link": "https://danbooru.donmai.us/wiki_pages/hanafuda"
+        },
+        {
+          "label": "百人一首",
+          "tag": "hyakunin_isshu",
+          "link": "https://danbooru.donmai.us/wiki_pages/hyakunin_isshu"
+        },
+        {
+          "label": "かるた",
+          "tag": "karuta_%28card_game%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/karuta_%28card_game%29"
+        },
+        {
+          "label": "いろはかるた",
+          "tag": "iroha_karuta",
+          "link": "https://danbooru.donmai.us/wiki_pages/iroha_karuta"
+        },
+        {
+          "label": "歌ガルタ",
+          "tag": "uta-garuta",
+          "link": "https://danbooru.donmai.us/wiki_pages/uta-garuta"
+        },
+        {
+          "label": "トランプ",
+          "tag": "playing_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_card"
+        },
+        {
+          "label": "エース",
+          "tag": "ace_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_%28playing_card%29"
+        },
+        {
+          "label": "ブラックジャック",
+          "tag": "blackjack_%28game%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/blackjack_%28game%29"
+        },
+        {
+          "label": "ジョーカー",
+          "tag": "joker_%28playing_card%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/joker_%28playing_card%29"
+        },
+        {
+          "label": "トランプテーマ",
+          "tag": "playing_card_theme",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_card_theme"
+        },
+        {
+          "label": "ポーカー",
+          "tag": "poker",
+          "link": "https://danbooru.donmai.us/wiki_pages/poker"
+        },
+        {
+          "label": "ソリティア",
+          "tag": "solitaire",
+          "link": "https://danbooru.donmai.us/wiki_pages/solitaire"
+        },
+        {
+          "label": "テーマ別トランプ",
+          "tag": "themed_playing_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/themed_playing_card"
+        },
+        {
+          "label": "タロット",
+          "tag": "tarot",
+          "link": "https://danbooru.donmai.us/wiki_pages/tarot"
+        },
+        {
+          "label": "死",
+          "tag": "death_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/death_%28tarot%29"
+        },
+        {
+          "label": "正義",
+          "tag": "justice_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/justice_%28tarot%29"
+        },
+        {
+          "label": "力（タロット）",
+          "tag": "strength_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/strength_%28tarot%29"
+        },
+        {
+          "label": "節制（タロット）",
+          "tag": "temperance_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/temperance_%28tarot%29"
+        },
+        {
+          "label": "戦車",
+          "tag": "the_chariot_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_chariot_%28tarot%29"
+        },
+        {
+          "label": "悪魔",
+          "tag": "the_devil_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_devil_%28tarot%29"
+        },
+        {
+          "label": "皇帝",
+          "tag": "the_emperor_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_emperor_%28tarot%29"
+        },
+        {
+          "label": "皇后",
+          "tag": "the_empress_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_empress_%28tarot%29"
+        },
+        {
+          "label": "愚者（タロット）",
+          "tag": "the_fool_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_fool_%28tarot%29"
+        },
+        {
+          "label": "吊るされた男（タロット）",
+          "tag": "the_hanged_man_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_hanged_man_%28tarot%29"
+        },
+        {
+          "label": "隠者",
+          "tag": "the_hermit_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_hermit_%28tarot%29"
+        },
+        {
+          "label": "法王",
+          "tag": "the_hierophant_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_hierophant_%28tarot%29"
+        },
+        {
+          "label": "女教皇",
+          "tag": "the_high_priestess_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_high_priestess_%28tarot%29"
+        },
+        {
+          "label": "恋人たち",
+          "tag": "the_lovers_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_lovers_%28tarot%29"
+        },
+        {
+          "label": "魔術師",
+          "tag": "the_magician_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_magician_%28tarot%29"
+        },
+        {
+          "label": "月",
+          "tag": "the_moon_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_moon_%28tarot%29"
+        },
+        {
+          "label": "星",
+          "tag": "the_star_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_star_%28tarot%29"
+        },
+        {
+          "label": "太陽",
+          "tag": "the_sun_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_sun_%28tarot%29"
+        },
+        {
+          "label": "塔",
+          "tag": "the_tower_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_tower_%28tarot%29"
+        },
+        {
+          "label": "世界",
+          "tag": "the_world_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_world_%28tarot%29"
+        },
+        {
+          "label": "運命の輪",
+          "tag": "wheel_of_fortune_%28tarot%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/wheel_of_fortune_%28tarot%29"
+        },
+        {
+          "label": "ウノ",
+          "tag": "uno_%28game%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uno_%28game%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "カードに関連する作品・TCG",
+      "タグ一覧": [
+        {
+          "label": "爆丸",
+          "tag": "bakugan",
+          "link": "https://danbooru.donmai.us/wiki_pages/bakugan"
+        },
+        {
+          "label": "カードキャプターさくら",
+          "tag": "cardcaptor_sakura",
+          "link": "https://danbooru.donmai.us/wiki_pages/cardcaptor_sakura"
+        },
+        {
+          "label": "クロウカード",
+          "tag": "clow_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/clow_card"
+        },
+        {
+          "label": "さくらカード",
+          "tag": "sakura_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/sakura_card"
+        },
+        {
+          "label": "クリアカード",
+          "tag": "clear_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/clear_card"
+        },
+        {
+          "label": "カードファイト!! ヴァンガード",
+          "tag": "cardfight%21%21_vanguard",
+          "link": "https://danbooru.donmai.us/wiki_pages/cardfight%21%21_vanguard"
+        },
+        {
+          "label": "ちはやふる",
+          "tag": "chihayafuru",
+          "link": "https://danbooru.donmai.us/wiki_pages/chihayafuru"
+        },
+        {
+          "label": "恐竜キング",
+          "tag": "dinosaur_king",
+          "link": "https://danbooru.donmai.us/wiki_pages/dinosaur_king"
+        },
+        {
+          "label": "デュエル・マスターズ",
+          "tag": "duel_masters",
+          "link": "https://danbooru.donmai.us/wiki_pages/duel_masters"
+        },
+        {
+          "label": "ファンタジスタドール",
+          "tag": "fantasista_doll",
+          "link": "https://danbooru.donmai.us/wiki_pages/fantasista_doll"
+        },
+        {
+          "label": "フューチャーカード バディファイト",
+          "tag": "future_card_buddyfight",
+          "link": "https://danbooru.donmai.us/wiki_pages/future_card_buddyfight"
+        },
+        {
+          "label": "ハースストーン",
+          "tag": "hearthstone",
+          "link": "https://danbooru.donmai.us/wiki_pages/hearthstone"
+        },
+        {
+          "label": "ラクエンロジック",
+          "tag": "luck_%26_logic",
+          "link": "https://danbooru.donmai.us/wiki_pages/luck_%26_logic"
+        },
+        {
+          "label": "マジック：ザ・ギャザリング",
+          "tag": "magic%3A_the_gathering",
+          "link": "https://danbooru.donmai.us/wiki_pages/magic%3A_the_gathering"
+        },
+        {
+          "label": "ミトスとレイエンダス",
+          "tag": "mitos_y_leyendas",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitos_y_leyendas"
+        },
+        {
+          "label": "ポケモン",
+          "tag": "pokemon",
+          "link": "https://danbooru.donmai.us/wiki_pages/pokemon"
+        },
+        {
+          "label": "ポケモントレーディングカードゲーム",
+          "tag": "pokemon_tcg",
+          "link": "https://danbooru.donmai.us/wiki_pages/pokemon_tcg"
+        },
+        {
+          "label": "ポケモンカード",
+          "tag": "pokemon_card",
+          "link": "https://danbooru.donmai.us/wiki_pages/pokemon_card"
+        },
+        {
+          "label": "シャドウバース",
+          "tag": "shadowverse",
+          "link": "https://danbooru.donmai.us/wiki_pages/shadowverse"
+        },
+        {
+          "label": "遊戯王",
+          "tag": "yu-gi-oh%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/yu-gi-oh%21"
+        },
+        {
+          "label": "デュエルモンスター",
+          "tag": "duel_monster",
+          "link": "https://danbooru.donmai.us/wiki_pages/duel_monster"
+        },
+        {
+          "label": "遊戯王ラッシュデュエル",
+          "tag": "yu-gi-oh%21_rush_duel",
+          "link": "https://danbooru.donmai.us/wiki_pages/yu-gi-oh%21_rush_duel"
+        },
+        {
+          "label": "ヴァイスシュヴァルツ",
+          "tag": "weiss_schwarz",
+          "link": "https://danbooru.donmai.us/wiki_pages/weiss_schwarz"
+        },
+        {
+          "label": "ウィクロス",
+          "tag": "wixoss",
+          "link": "https://danbooru.donmai.us/wiki_pages/wixoss"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他・未分類",
+      "タグ一覧": [
+        {
+          "label": "カードクリーチャー",
+          "tag": "card_creature",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_creature"
+        },
+        {
+          "label": "オーラのあるカード",
+          "tag": "card_with_aura",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_with_aura"
+        }
+      ]
+    }
+  ]
+}

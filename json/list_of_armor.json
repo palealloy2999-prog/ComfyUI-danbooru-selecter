@@ -1,0 +1,822 @@
+﻿{
+    "カテゴリID":  "list_of_armor",
+    "カテゴリ名":  "鎧・防具一覧",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=list_of_armor",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "頭",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "装甲ツインテール",
+                                         "tag":  "armored_twintails",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armored_twintails"
+                                     },
+                                     {
+                                         "label":  "フェースプレート",
+                                         "tag":  "faceplate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faceplate"
+                                     },
+                                     {
+                                         "label":  "額当て",
+                                         "tag":  "forehead_protector",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/forehead_protector"
+                                     },
+                                     {
+                                         "label":  "兜",
+                                         "tag":  "helm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/helm"
+                                     },
+                                     {
+                                         "label":  "ヘルメット",
+                                         "tag":  "helmet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/helmet"
+                                     },
+                                     {
+                                         "label":  "アーメット",
+                                         "tag":  "armet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armet"
+                                     },
+                                     {
+                                         "label":  "バシネット",
+                                         "tag":  "bascinet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bascinet"
+                                     },
+                                     {
+                                         "label":  "モリオン",
+                                         "tag":  "morion",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/morion"
+                                     },
+                                     {
+                                         "label":  "ケトルヘルム",
+                                         "tag":  "kettle_helm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kettle_helm"
+                                     },
+                                     {
+                                         "label":  "兜",
+                                         "tag":  "kabuto_%28helmet%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kabuto_%28helmet%29"
+                                     },
+                                     {
+                                         "label":  "鼻ヘルメット",
+                                         "tag":  "nasal_helmet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nasal_helmet"
+                                     },
+                                     {
+                                         "label":  "ピスヘルメット",
+                                         "tag":  "pith_helmet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pith_helmet"
+                                     },
+                                     {
+                                         "label":  "サレット",
+                                         "tag":  "sallet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sallet"
+                                     },
+                                     {
+                                         "label":  "スパイク付きヘルメット",
+                                         "tag":  "spiked_helmet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spiked_helmet"
+                                     },
+                                     {
+                                         "label":  "翼のあるヘルメット",
+                                         "tag":  "winged_helmet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_helmet"
+                                     },
+                                     {
+                                         "label":  "バイザー（鎧）",
+                                         "tag":  "visor_%28armor%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/visor_%28armor%29"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "首",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アヴェンテール",
+                                         "tag":  "aventail",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/aventail"
+                                     },
+                                     {
+                                         "label":  "bevor",
+                                         "tag":  "bevor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bevor"
+                                     },
+                                     {
+                                         "label":  "喉当て",
+                                         "tag":  "gorget",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gorget"
+                                     },
+                                     {
+                                         "label":  "錣（兜の首覆い）",
+                                         "tag":  "shikoro",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shikoro"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "肩",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "肩甲",
+                                         "tag":  "pauldrons",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pauldrons"
+                                     },
+                                     {
+                                         "label":  "肩パッド",
+                                         "tag":  "shoulder_pads",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoulder_pads"
+                                     },
+                                     {
+                                         "label":  "袖（鎧）",
+                                         "tag":  "sode",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sode"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "腕",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "上腕の装甲",
+                                         "tag":  "rerebrace",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rerebrace"
+                                     },
+                                     {
+                                         "label":  "アームガード",
+                                         "tag":  "arm_guards",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_guards"
+                                     },
+                                     {
+                                         "label":  "肘の装甲",
+                                         "tag":  "couter",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/couter"
+                                     },
+                                     {
+                                         "label":  "ロンデル",
+                                         "tag":  "rondel",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rondel"
+                                     },
+                                     {
+                                         "label":  "ブレイサー",
+                                         "tag":  "bracer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bracer"
+                                     },
+                                     {
+                                         "label":  "肘パッド",
+                                         "tag":  "elbow_pads",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/elbow_pads"
+                                     },
+                                     {
+                                         "label":  "ガントレット",
+                                         "tag":  "gauntlets",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gauntlets"
+                                     },
+                                     {
+                                         "label":  "籠手",
+                                         "tag":  "kote",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kote"
+                                     },
+                                     {
+                                         "label":  "黒籠手",
+                                         "tag":  "kurokote",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kurokote"
+                                     },
+                                     {
+                                         "label":  "腕当て",
+                                         "tag":  "vambraces",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vambraces"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "胴体",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "胸当て",
+                                         "tag":  "breastplate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/breastplate"
+                                     },
+                                     {
+                                         "label":  "胸甲",
+                                         "tag":  "cuirass",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cuirass"
+                                     },
+                                     {
+                                         "label":  "筋肉胸当て",
+                                         "tag":  "muscle_cuirass",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/muscle_cuirass"
+                                     },
+                                     {
+                                         "label":  "胸当て",
+                                         "tag":  "muneate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/muneate"
+                                     },
+                                     {
+                                         "label":  "防弾チョッキ",
+                                         "tag":  "bulletproof_vest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bulletproof_vest"
+                                     },
+                                     {
+                                         "label":  "鎖かたびら",
+                                         "tag":  "chainmail",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chainmail"
+                                     },
+                                     {
+                                         "label":  "鱗状の鎧",
+                                         "tag":  "scale_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scale_armor"
+                                     },
+                                     {
+                                         "label":  "亜麻布の鎧",
+                                         "tag":  "linothorax",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/linothorax"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "鼠径部",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "股板",
+                                         "tag":  "crotch_plate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crotch_plate"
+                                     },
+                                     {
+                                         "label":  "腰の装甲",
+                                         "tag":  "faulds",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faulds"
+                                     },
+                                     {
+                                         "label":  "草摺",
+                                         "tag":  "kusazuri",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kusazuri"
+                                     },
+                                     {
+                                         "label":  "コッドピース",
+                                         "tag":  "codpiece",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/codpiece"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "脚",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "装甲ブーツ",
+                                         "tag":  "armored_boots",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armored_boots"
+                                     },
+                                     {
+                                         "label":  "サバトン",
+                                         "tag":  "sabaton",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sabaton"
+                                     },
+                                     {
+                                         "label":  "キュイス",
+                                         "tag":  "cuisses",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cuisses"
+                                     },
+                                     {
+                                         "label":  "腰の装甲",
+                                         "tag":  "faulds",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faulds"
+                                     },
+                                     {
+                                         "label":  "すね当て",
+                                         "tag":  "greaves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/greaves"
+                                     },
+                                     {
+                                         "label":  "膝ガード",
+                                         "tag":  "knee_guards",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knee_guards"
+                                     },
+                                     {
+                                         "label":  "膝パッド",
+                                         "tag":  "knee_pads",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knee_pads"
+                                     },
+                                     {
+                                         "label":  "草摺",
+                                         "tag":  "kusazuri",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kusazuri"
+                                     },
+                                     {
+                                         "label":  "脚鎧",
+                                         "tag":  "leg_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leg_armor"
+                                     },
+                                     {
+                                         "label":  "ポリン",
+                                         "tag":  "poleyn",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/poleyn"
+                                     },
+                                     {
+                                         "label":  "すね当て",
+                                         "tag":  "shin_guards",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shin_guards"
+                                     },
+                                     {
+                                         "label":  "脛当て",
+                                         "tag":  "suneate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/suneate"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "盾",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "シールド",
+                                         "tag":  "shield",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shield"
+                                     },
+                                     {
+                                         "label":  "防弾シールド",
+                                         "tag":  "ballistic_shield",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ballistic_shield"
+                                     },
+                                     {
+                                         "label":  "ビームシールド",
+                                         "tag":  "beam_shield",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/beam_shield"
+                                     },
+                                     {
+                                         "label":  "バックラー",
+                                         "tag":  "buckler",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/buckler"
+                                     },
+                                     {
+                                         "label":  "暴動鎮圧用の盾",
+                                         "tag":  "riot_shield",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/riot_shield"
+                                     },
+                                     {
+                                         "label":  "パヴィス",
+                                         "tag":  "pavise",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pavise"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "セット",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ビキニアーマー",
+                                         "tag":  "bikini_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bikini_armor"
+                                     },
+                                     {
+                                         "label":  "リバースビキニアーマー",
+                                         "tag":  "reverse_bikini_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/reverse_bikini_armor"
+                                     },
+                                     {
+                                         "label":  "防具",
+                                         "tag":  "bougu",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bougu"
+                                     },
+                                     {
+                                         "label":  "防爆スーツ",
+                                         "tag":  "bomb_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bomb_suit"
+                                     },
+                                     {
+                                         "label":  "外骨格",
+                                         "tag":  "exoskeleton",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/exoskeleton"
+                                     },
+                                     {
+                                         "label":  "フルアーマー",
+                                         "tag":  "full_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/full_armor"
+                                     },
+                                     {
+                                         "label":  "パワーアーマー",
+                                         "tag":  "power_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_armor"
+                                     },
+                                     {
+                                         "label":  "パワースーツ",
+                                         "tag":  "power_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_suit"
+                                     },
+                                     {
+                                         "label":  "プレートアーマー",
+                                         "tag":  "plate_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plate_armor"
+                                     },
+                                     {
+                                         "label":  "日本の鎧",
+                                         "tag":  "japanese_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/japanese_armor"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "日本の防具",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "防具",
+                                         "tag":  "bougu",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bougu"
+                                     },
+                                     {
+                                         "label":  "兜",
+                                         "tag":  "kabuto_%28helmet%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kabuto_%28helmet%29"
+                                     },
+                                     {
+                                         "label":  "籠手",
+                                         "tag":  "kote",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kote"
+                                     },
+                                     {
+                                         "label":  "胴",
+                                         "tag":  "dou",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dou"
+                                     },
+                                     {
+                                         "label":  "黒籠手",
+                                         "tag":  "kurokote",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kurokote"
+                                     },
+                                     {
+                                         "label":  "草摺",
+                                         "tag":  "kusazuri",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kusazuri"
+                                     },
+                                     {
+                                         "label":  "胸当て",
+                                         "tag":  "muneate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/muneate"
+                                     },
+                                     {
+                                         "label":  "日本の鎧",
+                                         "tag":  "japanese_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/japanese_armor"
+                                     },
+                                     {
+                                         "label":  "錣（兜の首覆い）",
+                                         "tag":  "shikoro",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shikoro"
+                                     },
+                                     {
+                                         "label":  "袖（鎧）",
+                                         "tag":  "sode",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sode"
+                                     },
+                                     {
+                                         "label":  "脛当て",
+                                         "tag":  "suneate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/suneate"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "古代/中世",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "胸当て",
+                                         "tag":  "breastplate",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/breastplate"
+                                     },
+                                     {
+                                         "label":  "胸甲",
+                                         "tag":  "cuirass",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cuirass"
+                                     },
+                                     {
+                                         "label":  "バックラー",
+                                         "tag":  "buckler",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/buckler"
+                                     },
+                                     {
+                                         "label":  "鎖かたびら",
+                                         "tag":  "chainmail",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chainmail"
+                                     },
+                                     {
+                                         "label":  "腰の装甲",
+                                         "tag":  "faulds",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faulds"
+                                     },
+                                     {
+                                         "label":  "ガントレット",
+                                         "tag":  "gauntlets",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gauntlets"
+                                     },
+                                     {
+                                         "label":  "すね当て",
+                                         "tag":  "greaves",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/greaves"
+                                     },
+                                     {
+                                         "label":  "兜",
+                                         "tag":  "helm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/helm"
+                                     },
+                                     {
+                                         "label":  "モリオン",
+                                         "tag":  "morion",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/morion"
+                                     },
+                                     {
+                                         "label":  "ケトルヘルム",
+                                         "tag":  "kettle_helm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kettle_helm"
+                                     },
+                                     {
+                                         "label":  "鱗状の鎧",
+                                         "tag":  "scale_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scale_armor"
+                                     },
+                                     {
+                                         "label":  "腕当て",
+                                         "tag":  "vambraces",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/vambraces"
+                                     },
+                                     {
+                                         "label":  "バイザー（鎧）",
+                                         "tag":  "visor_%28armor%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/visor_%28armor%29"
+                                     },
+                                     {
+                                         "label":  "翼のあるヘルメット",
+                                         "tag":  "winged_helmet",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_helmet"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "現代",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "防弾チョッキ",
+                                         "tag":  "bulletproof_vest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bulletproof_vest"
+                                     },
+                                     {
+                                         "label":  "防弾チョッキ",
+                                         "tag":  "bulletproof_vest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bulletproof_vest"
+                                     },
+                                     {
+                                         "label":  "防爆スーツ",
+                                         "tag":  "bomb_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bomb_suit"
+                                     },
+                                     {
+                                         "label":  "暴動鎮圧用の盾",
+                                         "tag":  "riot_shield",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/riot_shield"
+                                     },
+                                     {
+                                         "label":  "すね当て",
+                                         "tag":  "shin_guards",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shin_guards"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "未来・SF",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ビームシールド",
+                                         "tag":  "beam_shield",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/beam_shield"
+                                     },
+                                     {
+                                         "label":  "外骨格",
+                                         "tag":  "exoskeleton",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/exoskeleton"
+                                     },
+                                     {
+                                         "label":  "パワーアーマー",
+                                         "tag":  "power_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_armor"
+                                     },
+                                     {
+                                         "label":  "パワースーツ",
+                                         "tag":  "power_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_suit"
+                                     },
+                                     {
+                                         "label":  "グラビティスーツ（メトロイド）",
+                                         "tag":  "gravity_suit_%28metroid%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gravity_suit_%28metroid%29"
+                                     },
+                                     {
+                                         "label":  "SEVAスーツ",
+                                         "tag":  "seva_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seva_suit"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "トレーニング",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "防具",
+                                         "tag":  "bougu",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bougu"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "人物",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "征服者",
+                                         "tag":  "conquistador",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/conquistador"
+                                     },
+                                     {
+                                         "label":  "騎士",
+                                         "tag":  "knight",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knight"
+                                     },
+                                     {
+                                         "label":  "ダークナイト",
+                                         "tag":  "dark_knight",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dark_knight"
+                                     },
+                                     {
+                                         "label":  "軍団兵",
+                                         "tag":  "legionnaire",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/legionnaire"
+                                     },
+                                     {
+                                         "label":  "バイキング",
+                                         "tag":  "viking",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/viking"
+                                     },
+                                     {
+                                         "label":  "軍事オペレーター",
+                                         "tag":  "military_operator",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/military_operator"
+                                     },
+                                     {
+                                         "label":  "翼のある騎兵",
+                                         "tag":  "winged_hussar",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_hussar"
+                                     },
+                                     {
+                                         "label":  "武士",
+                                         "tag":  "samurai",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/samurai"
+                                     },
+                                     {
+                                         "label":  "兵士",
+                                         "tag":  "soldier",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/soldier"
+                                     },
+                                     {
+                                         "label":  "ストームトルーパー",
+                                         "tag":  "stormtrooper",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stormtrooper"
+                                     },
+                                     {
+                                         "label":  "スイス衛兵",
+                                         "tag":  "swiss_guard",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/swiss_guard"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "固有名のある鎧",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アルタイルの鎧",
+                                         "tag":  "armor_of_altair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armor_of_altair"
+                                     },
+                                     {
+                                         "label":  "バーサーカーアーマー",
+                                         "tag":  "berserker_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/berserker_armor"
+                                     },
+                                     {
+                                         "label":  "グラビティスーツ（メトロイド）",
+                                         "tag":  "gravity_suit_%28metroid%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gravity_suit_%28metroid%29"
+                                     },
+                                     {
+                                         "label":  "ハイカットアーマー",
+                                         "tag":  "high-cut_armor_%28persona%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/high-cut_armor_%28persona%29"
+                                     },
+                                     {
+                                         "label":  "N7アーマー",
+                                         "tag":  "n7_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/n7_armor"
+                                     },
+                                     {
+                                         "label":  "プロテクトギア",
+                                         "tag":  "protect_gear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/protect_gear"
+                                     },
+                                     {
+                                         "label":  "SEVAスーツ",
+                                         "tag":  "seva_suit",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seva_suit"
+                                     },
+                                     {
+                                         "label":  "ターミネーターアーマー",
+                                         "tag":  "terminator_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/terminator_armor"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "その他",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "馬鎧",
+                                         "tag":  "barding",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/barding"
+                                     },
+                                     {
+                                         "label":  "壊れた鎧",
+                                         "tag":  "broken_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/broken_armor"
+                                     },
+                                     {
+                                         "label":  "革の鎧",
+                                         "tag":  "leather_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leather_armor"
+                                     },
+                                     {
+                                         "label":  "裸の鎧",
+                                         "tag":  "naked_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/naked_armor"
+                                     },
+                                     {
+                                         "label":  "華やかな鎧",
+                                         "tag":  "ornate_armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ornate_armor"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "鎧",
+                                         "tag":  "armor",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armor"
+                                     },
+                                     {
+                                         "label":  "装甲付きのドレス",
+                                         "tag":  "armored_dress",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/armored_dress"
+                                     },
+                                     {
+                                         "label":  "バラクラバ",
+                                         "tag":  "balaclava",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/balaclava"
+                                     },
+                                     {
+                                         "label":  "テンプル騎士団",
+                                         "tag":  "knights_templar",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knights_templar"
+                                     },
+                                     {
+                                         "label":  "メカ娘",
+                                         "tag":  "mecha_musume",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/mecha_musume"
+                                     },
+                                     {
+                                         "label":  "中世の",
+                                         "tag":  "medieval",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/medieval"
+                                     },
+                                     {
+                                         "label":  "タバード",
+                                         "tag":  "tabard",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tabard"
+                                     },
+                                     {
+                                         "label":  "武器のリスト",
+                                         "tag":  "list_of_weapons",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_weapons"
+                                     },
+                                     {
+                                         "label":  "タググループ：服装",
+                                         "tag":  "tag_group%3Aattire",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+                                     },
+                                     {
+                                         "label":  "タググループ：帽子・頭飾り",
+                                         "tag":  "tag_group%3Aheadwear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aheadwear"
+                                     },
+                                     {
+                                         "label":  "メタウィキのリスト",
+                                         "tag":  "list_of_meta-wikis",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+                                     }
+                                 ]
+                    }
+                ]
+}

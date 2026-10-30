@@ -1,0 +1,122 @@
+{
+  "カテゴリID": "pool_group%3Aeducational",
+  "カテゴリ名": "プールグループ:教育",
+  "カテゴリリンク": "https://danbooru.donmai.us/wiki_pages/pool_group%3Aeducational",
+  "セクション一覧": [
+    {
+      "セクション名": "基本レッスン",
+      "タグ一覧": [
+        {
+          "label": "絵の描き方を学ぶ",
+          "tag": "Learning How to Draw",
+          "link":"https://danbooru.donmai.us/pools/322"
+        },
+        {
+          "label": "美しい手",
+          "tag": "Perfect Hands",
+          "link":"https://danbooru.donmai.us/pools/73"
+        },
+        {
+          "label": "いろいろな目を描いてみよう！",
+          "tag": "Let's Draw Various Eyes!",
+          "link":"https://danbooru.donmai.us/pools/704"
+        },
+        {
+          "label": "いろいろな目を描いてみよう！2",
+          "tag": "Let's Draw Various Eyes! 2",
+          "link":"https://danbooru.donmai.us/pools/3379"
+        },
+        {
+          "label": "表情練習",
+          "tag": "Facial Expression Training",
+          "link":"https://danbooru.donmai.us/pools/965"
+        },
+        {
+          "label": "35種類の表情",
+          "tag": "Expression 35",
+          "link":"https://danbooru.donmai.us/pools/630"
+        }
+      ]
+    },
+    {
+      "セクション名": "応用レッスン",
+      "タグ一覧": [
+        {
+          "label": "絵師向け資料：人体構造",
+          "tag": "Artist helper: anatomy",
+          "link":"https://danbooru.donmai.us/pools/86"
+        },
+        {
+          "label": "絵師向け資料：短縮法",
+          "tag": "Artist helper: Foreshortening",
+          "link":"https://danbooru.donmai.us/pools/68"
+        },
+        {
+          "label": "ポーズリファレンス",
+          "tag": "Pose references",
+          "link":"https://danbooru.donmai.us/pools/1635"
+        },
+        {
+          "label": "陰影表現の技法",
+          "tag": "Expert Shading",
+          "link":"https://danbooru.donmai.us/pools/3574"
+        }
+      ]
+    },
+    {
+      "セクション名": "各種の練習・参考一覧",
+      "タグ一覧": [
+        {
+          "label": "さまざまな絵柄",
+          "tag": "Different Styles",
+          "link":"https://danbooru.donmai.us/pools/739"
+        },
+        {
+          "label": "ちょっとエッチな表情練習",
+          "tag": "Slightly naughty expressions practice",
+          "link":"https://danbooru.donmai.us/pools/719"
+        },
+        {
+          "label": "さまざまな赤面顔",
+          "tag": "Various Blushing Faces",
+          "link":"https://danbooru.donmai.us/pools/705"
+        },
+        {
+          "label": "私の素敵な妻のヘアスタイル",
+          "tag": "Hairstyles of My Wonderful Wife",
+          "link":"https://danbooru.donmai.us/pools/622"
+        },
+        {
+          "label": "カップルでイチャイチャ!",
+          "tag": "Flirting as a Couple!",
+          "link":"https://danbooru.donmai.us/pools/2210"
+        },
+        {
+          "label": "いちゃつく 10 画像レスポンス",
+          "tag": "Flirting 10 Image-response",
+          "link":"https://danbooru.donmai.us/pools/1432"
+        },
+        {
+          "label": "年齢別のキャラクター描き分け",
+          "tag": "Draw a Character at Various Ages",
+          "link":"https://danbooru.donmai.us/pools/1975"
+        },
+        {
+          "label": "10年間の上達記録",
+          "tag": "Decadal Progress Record",
+          "link":"https://danbooru.donmai.us/pools/2864"
+        },
+        {
+          "label": "好きなキャラクターの男女描き分け",
+          "tag": "Your Favorite Character as Male and Female",
+          "link":"https://danbooru.donmai.us/pools/1405"
+        },
+        {
+          "label": "両手で描いてみよう！",
+          "tag": "Let's Try Drawing With Both Hands!",
+          "link":"https://danbooru.donmai.us/pools/2875"
+        }
+      ]
+    }
+  ]
+}

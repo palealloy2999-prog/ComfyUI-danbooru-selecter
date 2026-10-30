@@ -1,0 +1,2212 @@
+{
+  "カテゴリID": "list_of_ground_vehicles",
+  "カテゴリ名": "陸上車両一覧",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=list_of_ground_vehicles",
+  "セクション一覧": [
+    {
+      "セクション名": "基本",
+      "タグ一覧": [
+        {
+          "label": "陸上車両",
+          "tag": "ground_vehicle",
+          "link": "https://danbooru.donmai.us/wiki_pages/ground_vehicle"
+        }
+      ]
+    },
+    {
+      "セクション名": "軍用車両",
+      "タグ一覧": [
+        {
+          "label": "軍用車両",
+          "tag": "military_vehicle",
+          "link": "https://danbooru.donmai.us/wiki_pages/military_vehicle"
+        }
+      ]
+    },
+    {
+      "セクション名": "中国",
+      "タグ一覧": [
+        {
+          "label": "59型",
+          "tag": "type_59_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_59_%28tank%29"
+        },
+        {
+          "label": "ZTZ-96",
+          "tag": "ztz-96",
+          "link": "https://danbooru.donmai.us/wiki_pages/ztz-96"
+        },
+        {
+          "label": "ZTZ-99",
+          "tag": "ztz-99",
+          "link": "https://danbooru.donmai.us/wiki_pages/ztz-99"
+        },
+        {
+          "label": "タイプ62",
+          "tag": "type_62_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_62_%28tank%29"
+        },
+        {
+          "label": "HQ-17",
+          "tag": "hq-17",
+          "link": "https://danbooru.donmai.us/wiki_pages/hq-17"
+        },
+        {
+          "label": "PGZ-09",
+          "tag": "pgz-09",
+          "link": "https://danbooru.donmai.us/wiki_pages/pgz-09"
+        },
+        {
+          "label": "PGZ-80",
+          "tag": "pgz-80",
+          "link": "https://danbooru.donmai.us/wiki_pages/pgz-80"
+        },
+        {
+          "label": "VN-17歩兵戦闘車",
+          "tag": "vn-17_ifv",
+          "link": "https://danbooru.donmai.us/wiki_pages/vn-17_ifv"
+        }
+      ]
+    },
+    {
+      "セクション名": "フィンランド",
+      "タグ一覧": [
+        {
+          "label": "BT-42",
+          "tag": "bt-42",
+          "link": "https://danbooru.donmai.us/wiki_pages/bt-42"
+        },
+        {
+          "label": "シス・ナス",
+          "tag": "sisu_nasu",
+          "link": "https://danbooru.donmai.us/wiki_pages/sisu_nasu"
+        }
+      ]
+    },
+    {
+      "セクション名": "フランス",
+      "タグ一覧": [
+        {
+          "label": "AMX-13",
+          "tag": "amx-13",
+          "link": "https://danbooru.donmai.us/wiki_pages/amx-13"
+        },
+        {
+          "label": "AMX-40（1940年）",
+          "tag": "amx-40",
+          "link": "https://danbooru.donmai.us/wiki_pages/amx-40"
+        },
+        {
+          "label": "AMX ELC",
+          "tag": "amx_elc",
+          "link": "https://danbooru.donmai.us/wiki_pages/amx_elc"
+        },
+        {
+          "label": "FT-17",
+          "tag": "ft-17",
+          "link": "https://danbooru.donmai.us/wiki_pages/ft-17"
+        },
+        {
+          "label": "ホッチキス h39",
+          "tag": "hotchkiss_h39",
+          "link": "https://danbooru.donmai.us/wiki_pages/hotchkiss_h39"
+        },
+        {
+          "label": "ルノー R35",
+          "tag": "renault_r35",
+          "link": "https://danbooru.donmai.us/wiki_pages/renault_r35"
+        },
+        {
+          "label": "FCM 36",
+          "tag": "fcm_36",
+          "link": "https://danbooru.donmai.us/wiki_pages/fcm_36"
+        },
+        {
+          "label": "ソミュア S35",
+          "tag": "somua_s35",
+          "link": "https://danbooru.donmai.us/wiki_pages/somua_s35"
+        },
+        {
+          "label": "チャーB1",
+          "tag": "char_b1",
+          "link": "https://danbooru.donmai.us/wiki_pages/char_b1"
+        },
+        {
+          "label": "シャール2C",
+          "tag": "char_2c",
+          "link": "https://danbooru.donmai.us/wiki_pages/char_2c"
+        },
+        {
+          "label": "AMX-30（戦車）",
+          "tag": "amx-30_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/amx-30_%28tank%29"
+        },
+        {
+          "label": "ルクレール（戦車）",
+          "tag": "leclerc_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/leclerc_%28tank%29"
+        },
+        {
+          "label": "AMX-50 フォッシュ",
+          "tag": "amx-50_foch",
+          "link": "https://danbooru.donmai.us/wiki_pages/amx-50_foch"
+        },
+        {
+          "label": "ベスパ 150 TAP",
+          "tag": "vespa_150_tap",
+          "link": "https://danbooru.donmai.us/wiki_pages/vespa_150_tap"
+        }
+      ]
+    },
+    {
+      "セクション名": "ドイツ",
+      "タグ一覧": [
+        {
+          "label": "A7V",
+          "tag": "a7v_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/a7v_%28tank%29"
+        },
+        {
+          "label": "38(t)戦車",
+          "tag": "panzer_38%28t%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzer_38%28t%29"
+        },
+        {
+          "label": "Pz.Kpfw. I",
+          "tag": "panzer_i",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzer_i"
+        },
+        {
+          "label": "Pz.Kpfw. II",
+          "tag": "panzer_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzer_ii"
+        },
+        {
+          "label": "E-50",
+          "tag": "entwicklung_50",
+          "link": "https://danbooru.donmai.us/wiki_pages/entwicklung_50"
+        },
+        {
+          "label": "Pz.Kpfw. III",
+          "tag": "panzer_iii",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzer_iii"
+        },
+        {
+          "label": "Pz.Kpfw. IV",
+          "tag": "panzer_iv",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzer_iv"
+        },
+        {
+          "label": "Pz.Kpfw. V パンサー",
+          "tag": "panther_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/panther_%28tank%29"
+        },
+        {
+          "label": "E-75",
+          "tag": "entwicklung_75",
+          "link": "https://danbooru.donmai.us/wiki_pages/entwicklung_75"
+        },
+        {
+          "label": "Pz.Kpfw. VI タイガー",
+          "tag": "tiger_i",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiger_i"
+        },
+        {
+          "label": "Pz.Kpfw. VI Ausf. B タイガー II",
+          "tag": "tiger_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiger_ii"
+        },
+        {
+          "label": "Pz.Kpfw. VI タイガー (P)",
+          "tag": "tiger_%28p%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiger_%28p%29"
+        },
+        {
+          "label": "Pz.Kpfw. VII Lowe",
+          "tag": "lowe_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lowe_%28tank%29"
+        },
+        {
+          "label": "E-100",
+          "tag": "e-100",
+          "link": "https://danbooru.donmai.us/wiki_pages/e-100"
+        },
+        {
+          "label": "ランドクロイツァー P1000 ラッテ",
+          "tag": "landkreuzer_p1000_ratte",
+          "link": "https://danbooru.donmai.us/wiki_pages/landkreuzer_p1000_ratte"
+        },
+        {
+          "label": "Pz.Kpfw. VIII マウス",
+          "tag": "maus_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/maus_%28tank%29"
+        },
+        {
+          "label": "III号突撃砲",
+          "tag": "sturmgeschutz_iii",
+          "link": "https://danbooru.donmai.us/wiki_pages/sturmgeschutz_iii"
+        },
+        {
+          "label": "StuG IV",
+          "tag": "sturmgeschutz_iv",
+          "link": "https://danbooru.donmai.us/wiki_pages/sturmgeschutz_iv"
+        },
+        {
+          "label": "ブルンバー",
+          "tag": "sturmpanzer_iv_brummbar",
+          "link": "https://danbooru.donmai.us/wiki_pages/sturmpanzer_iv_brummbar"
+        },
+        {
+          "label": "シュトゥルムティーガー",
+          "tag": "sturmtiger",
+          "link": "https://danbooru.donmai.us/wiki_pages/sturmtiger"
+        },
+        {
+          "label": "エレファント",
+          "tag": "elefant",
+          "link": "https://danbooru.donmai.us/wiki_pages/elefant"
+        },
+        {
+          "label": "ヤークトパンター",
+          "tag": "jagdpanther",
+          "link": "https://danbooru.donmai.us/wiki_pages/jagdpanther"
+        },
+        {
+          "label": "ヤークトパンターII",
+          "tag": "jagdpanther_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/jagdpanther_ii"
+        },
+        {
+          "label": "ヤークトパンツァー 38(t)",
+          "tag": "jagdpanzer_38%28t%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jagdpanzer_38%28t%29"
+        },
+        {
+          "label": "ヤークトティーガー",
+          "tag": "jagdtiger",
+          "link": "https://danbooru.donmai.us/wiki_pages/jagdtiger"
+        },
+        {
+          "label": "マーダーIII",
+          "tag": "marder_iii",
+          "link": "https://danbooru.donmai.us/wiki_pages/marder_iii"
+        },
+        {
+          "label": "カール・ゲラート",
+          "tag": "karl_gerat",
+          "link": "https://danbooru.donmai.us/wiki_pages/karl_gerat"
+        },
+        {
+          "label": "パンツァーハウビッツェ 2000",
+          "tag": "panzerhaubitze_2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzerhaubitze_2000"
+        },
+        {
+          "label": "シュヴェラー・グスタフ",
+          "tag": "schwerer_gustav",
+          "link": "https://danbooru.donmai.us/wiki_pages/schwerer_gustav"
+        },
+        {
+          "label": "レオパルド1",
+          "tag": "leopard_1",
+          "link": "https://danbooru.donmai.us/wiki_pages/leopard_1"
+        },
+        {
+          "label": "レオパルド2",
+          "tag": "leopard_2",
+          "link": "https://danbooru.donmai.us/wiki_pages/leopard_2"
+        },
+        {
+          "label": "ケッテンクラート",
+          "tag": "kettenkrad",
+          "link": "https://danbooru.donmai.us/wiki_pages/kettenkrad"
+        },
+        {
+          "label": "キューベルワーゲン",
+          "tag": "kubelwagen",
+          "link": "https://danbooru.donmai.us/wiki_pages/kubelwagen"
+        },
+        {
+          "label": "ミネンラウマー",
+          "tag": "minenraumer",
+          "link": "https://danbooru.donmai.us/wiki_pages/minenraumer"
+        },
+        {
+          "label": "シュビムワーゲン",
+          "tag": "schwimmwagen",
+          "link": "https://danbooru.donmai.us/wiki_pages/schwimmwagen"
+        },
+        {
+          "label": "Sdkfz 9",
+          "tag": "sdkfz_9",
+          "link": "https://danbooru.donmai.us/wiki_pages/sdkfz_9"
+        },
+        {
+          "label": "Sdkfz 222",
+          "tag": "sdkfz_222",
+          "link": "https://danbooru.donmai.us/wiki_pages/sdkfz_222"
+        },
+        {
+          "label": "Sdkfz 250",
+          "tag": "sdkfz_250",
+          "link": "https://danbooru.donmai.us/wiki_pages/sdkfz_250"
+        },
+        {
+          "label": "Sdkfz 251",
+          "tag": "sdkfz_251",
+          "link": "https://danbooru.donmai.us/wiki_pages/sdkfz_251"
+        },
+        {
+          "label": "TPz フックス",
+          "tag": "tpz_fuchs",
+          "link": "https://danbooru.donmai.us/wiki_pages/tpz_fuchs"
+        }
+      ]
+    },
+    {
+      "セクション名": "イラン",
+      "タグ一覧": [
+        {
+          "label": "ティアム",
+          "tag": "tiam_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiam_%28tank%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "イスラエル",
+      "タグ一覧": [
+        {
+          "label": "メルカバ",
+          "tag": "merkava_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/merkava_%28tank%29"
+        },
+        {
+          "label": "マクベット",
+          "tag": "m163_machbet",
+          "link": "https://danbooru.donmai.us/wiki_pages/m163_machbet"
+        }
+      ]
+    },
+    {
+      "セクション名": "イタリア",
+      "タグ一覧": [
+        {
+          "label": "カルロ・ヴェローチェ CV-33",
+          "tag": "carro_veloce_cv-33",
+          "link": "https://danbooru.donmai.us/wiki_pages/carro_veloce_cv-33"
+        },
+        {
+          "label": "L3",
+          "tag": "l3_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/l3_%28tank%29"
+        },
+        {
+          "label": "カルロ・アルマート p40",
+          "tag": "carro_armato_p40",
+          "link": "https://danbooru.donmai.us/wiki_pages/carro_armato_p40"
+        },
+        {
+          "label": "C1 アリエテ",
+          "tag": "c1_ariete",
+          "link": "https://danbooru.donmai.us/wiki_pages/c1_ariete"
+        },
+        {
+          "label": "セモベンテ 75/18",
+          "tag": "semovente_75%2F18",
+          "link": "https://danbooru.donmai.us/wiki_pages/semovente_75%2F18"
+        },
+        {
+          "label": "B1 チェンタウロ",
+          "tag": "b1_centauro",
+          "link": "https://danbooru.donmai.us/wiki_pages/b1_centauro"
+        },
+        {
+          "label": "オトマティック",
+          "tag": "otomatic",
+          "link": "https://danbooru.donmai.us/wiki_pages/otomatic"
+        }
+      ]
+    },
+    {
+      "セクション名": "日本",
+      "タグ一覧": [
+        {
+          "label": "特3号",
+          "tag": "toku-3-gou_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/toku-3-gou_%28tank%29"
+        },
+        {
+          "label": "97式テケ",
+          "tag": "type_97_te-ke",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_97_te-ke"
+        },
+        {
+          "label": "タイプ2 ケト",
+          "tag": "type_2_ke-to",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_2_ke-to"
+        },
+        {
+          "label": "九五式軽戦車 ハ号",
+          "tag": "type_95_ha-gou",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_95_ha-gou"
+        },
+        {
+          "label": "三式中戦車 チヌ",
+          "tag": "type_3_chi-nu",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_3_chi-nu"
+        },
+        {
+          "label": "四式中戦車 チト",
+          "tag": "type_4_chi-to",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_4_chi-to"
+        },
+        {
+          "label": "五式中戦車 チリ",
+          "tag": "type_5_chi-ri",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_5_chi-ri"
+        },
+        {
+          "label": "八九式戦車 伊号",
+          "tag": "type_89_i-gou",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_89_i-gou"
+        },
+        {
+          "label": "九七式チハ",
+          "tag": "type_97_chi-ha",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_97_chi-ha"
+        },
+        {
+          "label": "91式重戦車",
+          "tag": "experimental_type_91_heavy_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/experimental_type_91_heavy_tank"
+        },
+        {
+          "label": "オイ車",
+          "tag": "o-i_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/o-i_%28tank%29"
+        },
+        {
+          "label": "四式・五式重戦車",
+          "tag": "type_4%2F5_superheavy_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_4%2F5_superheavy_tank"
+        },
+        {
+          "label": "タイプ5 ホリ",
+          "tag": "type_5_ho-ri",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_5_ho-ri"
+        },
+        {
+          "label": "10式戦車",
+          "tag": "type_10_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_10_%28tank%29"
+        },
+        {
+          "label": "61式戦車",
+          "tag": "type_61_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_61_%28tank%29"
+        },
+        {
+          "label": "74式戦車",
+          "tag": "type_74_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_74_%28tank%29"
+        },
+        {
+          "label": "90式戦車",
+          "tag": "type_90_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_90_%28tank%29"
+        },
+        {
+          "label": "89式歩兵戦闘車",
+          "tag": "type_89_ifv",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_89_ifv"
+        },
+        {
+          "label": "16式機動戦闘車",
+          "tag": "type_16_maneuver_combat_vehicle",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_16_maneuver_combat_vehicle"
+        },
+        {
+          "label": "60式自走106mm無反動砲",
+          "tag": "type_60_self-propelled_106mm_recoilless_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_60_self-propelled_106mm_recoilless_gun"
+        },
+        {
+          "label": "90式TKR",
+          "tag": "type_90_tkr",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_90_tkr"
+        },
+        {
+          "label": "95式",
+          "tag": "type_95_reconnaissance_car",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_95_reconnaissance_car"
+        },
+        {
+          "label": "87式自走高射機関砲",
+          "tag": "type_87_self-propelled_anti_aircraft_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/type_87_self-propelled_anti_aircraft_gun"
+        }
+      ]
+    },
+    {
+      "セクション名": "北朝鮮",
+      "タグ一覧": [
+        {
+          "label": "ポクプンホ",
+          "tag": "pokpung-ho",
+          "link": "https://danbooru.donmai.us/wiki_pages/pokpung-ho"
+        }
+      ]
+    },
+    {
+      "セクション名": "韓国",
+      "タグ一覧": [
+        {
+          "label": "K1",
+          "tag": "k1_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/k1_%28tank%29"
+        },
+        {
+          "label": "K2 ブラックパンサー",
+          "tag": "k2_black_panther",
+          "link": "https://danbooru.donmai.us/wiki_pages/k2_black_panther"
+        },
+        {
+          "label": "K9サンダー",
+          "tag": "k9_thunder",
+          "link": "https://danbooru.donmai.us/wiki_pages/k9_thunder"
+        },
+        {
+          "label": "K21",
+          "tag": "k21",
+          "link": "https://danbooru.donmai.us/wiki_pages/k21"
+        },
+        {
+          "label": "K30 美穂",
+          "tag": "k30_biho",
+          "link": "https://danbooru.donmai.us/wiki_pages/k30_biho"
+        }
+      ]
+    },
+    {
+      "セクション名": "ポーランド",
+      "タグ一覧": [
+        {
+          "label": "TKS",
+          "tag": "tks_tankette",
+          "link": "https://danbooru.donmai.us/wiki_pages/tks_tankette"
+        },
+        {
+          "label": "PL-01",
+          "tag": "pl-01",
+          "link": "https://danbooru.donmai.us/wiki_pages/pl-01"
+        }
+      ]
+    },
+    {
+      "セクション名": "ロシア/ソビエト連邦",
+      "タグ一覧": [
+        {
+          "label": "ツァーリ・タンク",
+          "tag": "tsar_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsar_tank"
+        },
+        {
+          "label": "BT-7",
+          "tag": "bt-7",
+          "link": "https://danbooru.donmai.us/wiki_pages/bt-7"
+        },
+        {
+          "label": "T-26",
+          "tag": "t-26",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-26"
+        },
+        {
+          "label": "T-50",
+          "tag": "t-50_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-50_tank"
+        },
+        {
+          "label": "T-28",
+          "tag": "t-28_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-28_%28tank%29"
+        },
+        {
+          "label": "T-34",
+          "tag": "t-34",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-34"
+        },
+        {
+          "label": "T-44",
+          "tag": "t-44",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-44"
+        },
+        {
+          "label": "IS-1",
+          "tag": "is-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/is-1"
+        },
+        {
+          "label": "IS-2",
+          "tag": "is-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/is-2"
+        },
+        {
+          "label": "IS-3",
+          "tag": "is-3",
+          "link": "https://danbooru.donmai.us/wiki_pages/is-3"
+        },
+        {
+          "label": "IS-6",
+          "tag": "is-6",
+          "link": "https://danbooru.donmai.us/wiki_pages/is-6"
+        },
+        {
+          "label": "KV-1",
+          "tag": "kv-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/kv-1"
+        },
+        {
+          "label": "Kv-2",
+          "tag": "kv-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/kv-2"
+        },
+        {
+          "label": "オブジェクト279",
+          "tag": "object_279",
+          "link": "https://danbooru.donmai.us/wiki_pages/object_279"
+        },
+        {
+          "label": "オブジェクト705A",
+          "tag": "object_705a",
+          "link": "https://danbooru.donmai.us/wiki_pages/object_705a"
+        },
+        {
+          "label": "SMK",
+          "tag": "smk_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/smk_%28tank%29"
+        },
+        {
+          "label": "T-10",
+          "tag": "t-10",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-10"
+        },
+        {
+          "label": "T-35",
+          "tag": "t-35",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-35"
+        },
+        {
+          "label": "ASU-57",
+          "tag": "asu-57",
+          "link": "https://danbooru.donmai.us/wiki_pages/asu-57"
+        },
+        {
+          "label": "ASU-85",
+          "tag": "asu-85",
+          "link": "https://danbooru.donmai.us/wiki_pages/asu-85"
+        },
+        {
+          "label": "ISU-152",
+          "tag": "isu-152",
+          "link": "https://danbooru.donmai.us/wiki_pages/isu-152"
+        },
+        {
+          "label": "オブジェクト704",
+          "tag": "object_704",
+          "link": "https://danbooru.donmai.us/wiki_pages/object_704"
+        },
+        {
+          "label": "SU-76",
+          "tag": "su-76",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-76"
+        },
+        {
+          "label": "SU-85",
+          "tag": "su-85",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-85"
+        },
+        {
+          "label": "SU-100",
+          "tag": "su-100",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-100"
+        },
+        {
+          "label": "203mm B-4",
+          "tag": "203mm_b-4",
+          "link": "https://danbooru.donmai.us/wiki_pages/203mm_b-4"
+        },
+        {
+          "label": "BM-13 カチューシャ",
+          "tag": "bm-13_katyusha",
+          "link": "https://danbooru.donmai.us/wiki_pages/bm-13_katyusha"
+        },
+        {
+          "label": "ISU-122",
+          "tag": "isu-122",
+          "link": "https://danbooru.donmai.us/wiki_pages/isu-122"
+        },
+        {
+          "label": "SU-122",
+          "tag": "su-122",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-122"
+        },
+        {
+          "label": "SU-152",
+          "tag": "su-152",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-152"
+        },
+        {
+          "label": "「ブラックイーグル」",
+          "tag": "black_eagle_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_eagle_tank"
+        },
+        {
+          "label": "T-14 アルマータ",
+          "tag": "t-14_armata",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-14_armata"
+        },
+        {
+          "label": "T-54",
+          "tag": "t-54_%28soviet%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-54_%28soviet%29"
+        },
+        {
+          "label": "T-55",
+          "tag": "t-55",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-55"
+        },
+        {
+          "label": "T-62",
+          "tag": "t-62",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-62"
+        },
+        {
+          "label": "T-64",
+          "tag": "t-64",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-64"
+        },
+        {
+          "label": "T-72",
+          "tag": "t-72",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-72"
+        },
+        {
+          "label": "T-80",
+          "tag": "t-80",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-80"
+        },
+        {
+          "label": "T-90",
+          "tag": "t-90",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-90"
+        },
+        {
+          "label": "BMD-3",
+          "tag": "bmd-3",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmd-3"
+        },
+        {
+          "label": "BMP-1",
+          "tag": "bmp-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmp-1"
+        },
+        {
+          "label": "BMP-2",
+          "tag": "bmp-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmp-2"
+        },
+        {
+          "label": "BMP-3",
+          "tag": "bmp-3",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmp-3"
+        },
+        {
+          "label": "BRDM",
+          "tag": "brdm",
+          "link": "https://danbooru.donmai.us/wiki_pages/brdm"
+        },
+        {
+          "label": "BTR-80",
+          "tag": "btr-80",
+          "link": "https://danbooru.donmai.us/wiki_pages/btr-80"
+        },
+        {
+          "label": "BTR-90",
+          "tag": "btr-90",
+          "link": "https://danbooru.donmai.us/wiki_pages/btr-90"
+        },
+        {
+          "label": "ZSU-23-4",
+          "tag": "zsu-23-4",
+          "link": "https://danbooru.donmai.us/wiki_pages/zsu-23-4"
+        },
+        {
+          "label": "BA-64",
+          "tag": "ba-64",
+          "link": "https://danbooru.donmai.us/wiki_pages/ba-64"
+        }
+      ]
+    },
+    {
+      "セクション名": "スウェーデン",
+      "タグ一覧": [
+        {
+          "label": "ストリズヴァグン 103",
+          "tag": "stridsvagn_103",
+          "link": "https://danbooru.donmai.us/wiki_pages/stridsvagn_103"
+        }
+      ]
+    },
+    {
+      "セクション名": "台湾",
+      "タグ一覧": [
+        {
+          "label": "CM-11 ブレイブタイガー",
+          "tag": "cm-11_brave_tiger",
+          "link": "https://danbooru.donmai.us/wiki_pages/cm-11_brave_tiger"
+        },
+        {
+          "label": "CM-32",
+          "tag": "cm-32",
+          "link": "https://danbooru.donmai.us/wiki_pages/cm-32"
+        }
+      ]
+    },
+    {
+      "セクション名": "イギリス",
+      "タグ一覧": [
+        {
+          "label": "マークI戦車",
+          "tag": "mark_i_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/mark_i_tank"
+        },
+        {
+          "label": "マークIV戦車",
+          "tag": "mark_iv_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/mark_iv_tank"
+        },
+        {
+          "label": "A34 コメット",
+          "tag": "comet_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/comet_%28tank%29"
+        },
+        {
+          "label": "Mk. VIII クロムウェル",
+          "tag": "cromwell_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cromwell_%28tank%29"
+        },
+        {
+          "label": "Mk. VI クルセイダー",
+          "tag": "crusader_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/crusader_%28tank%29"
+        },
+        {
+          "label": "Mk. II マチルダ",
+          "tag": "matilda_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/matilda_%28tank%29"
+        },
+        {
+          "label": "シャーマン・ファイアフライ",
+          "tag": "sherman_firefly",
+          "link": "https://danbooru.donmai.us/wiki_pages/sherman_firefly"
+        },
+        {
+          "label": "ヴィッカース中戦車Mk.3",
+          "tag": "vickers_medium_mark_iii",
+          "link": "https://danbooru.donmai.us/wiki_pages/vickers_medium_mark_iii"
+        },
+        {
+          "label": "A43 ブラックプリンス",
+          "tag": "black_prince_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_prince_%28tank%29"
+        },
+        {
+          "label": "Mk. III バレンタイン",
+          "tag": "valentine_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/valentine_%28tank%29"
+        },
+        {
+          "label": "Mk. IV チャーチル",
+          "tag": "churchill_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/churchill_%28tank%29"
+        },
+        {
+          "label": "A39 トータス",
+          "tag": "tortoise_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tortoise_%28tank%29"
+        },
+        {
+          "label": "TOG II",
+          "tag": "tog_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/tog_ii"
+        },
+        {
+          "label": "FV215",
+          "tag": "fv215",
+          "link": "https://danbooru.donmai.us/wiki_pages/fv215"
+        },
+        {
+          "label": "センチュリオン",
+          "tag": "centurion_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/centurion_%28tank%29"
+        },
+        {
+          "label": "ダイムラーAEC",
+          "tag": "aec_armored_command_vehicle",
+          "link": "https://danbooru.donmai.us/wiki_pages/aec_armored_command_vehicle"
+        },
+        {
+          "label": "フェレット偵察車",
+          "tag": "ferret_scout_car",
+          "link": "https://danbooru.donmai.us/wiki_pages/ferret_scout_car"
+        },
+        {
+          "label": "ランドローバー ディフェンダー",
+          "tag": "land_rover_defender",
+          "link": "https://danbooru.donmai.us/wiki_pages/land_rover_defender"
+        }
+      ]
+    },
+    {
+      "セクション名": "アメリカ合衆国",
+      "タグ一覧": [
+        {
+          "label": "M3 スチュアート",
+          "tag": "m3_stuart",
+          "link": "https://danbooru.donmai.us/wiki_pages/m3_stuart"
+        },
+        {
+          "label": "M24 チャフィー",
+          "tag": "m24_chaffee",
+          "link": "https://danbooru.donmai.us/wiki_pages/m24_chaffee"
+        },
+        {
+          "label": "M41 ウォーカーブルドッグ",
+          "tag": "m41_walker_bulldog",
+          "link": "https://danbooru.donmai.us/wiki_pages/m41_walker_bulldog"
+        },
+        {
+          "label": "T49",
+          "tag": "t49_light_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/t49_light_tank"
+        },
+        {
+          "label": "M551 シェリダン",
+          "tag": "m551_sheridan",
+          "link": "https://danbooru.donmai.us/wiki_pages/m551_sheridan"
+        },
+        {
+          "label": "T1 カニンガム",
+          "tag": "t1_cunningham",
+          "link": "https://danbooru.donmai.us/wiki_pages/t1_cunningham"
+        },
+        {
+          "label": "M3 リー",
+          "tag": "m3_lee",
+          "link": "https://danbooru.donmai.us/wiki_pages/m3_lee"
+        },
+        {
+          "label": "M4シャーマン",
+          "tag": "m4_sherman",
+          "link": "https://danbooru.donmai.us/wiki_pages/m4_sherman"
+        },
+        {
+          "label": "M4A3E2「ジャンボ」",
+          "tag": "m4a3e2_jumbo",
+          "link": "https://danbooru.donmai.us/wiki_pages/m4a3e2_jumbo"
+        },
+        {
+          "label": "M4A3E8「イージー8」",
+          "tag": "m4a3e8",
+          "link": "https://danbooru.donmai.us/wiki_pages/m4a3e8"
+        },
+        {
+          "label": "M26パーシング",
+          "tag": "m26_pershing",
+          "link": "https://danbooru.donmai.us/wiki_pages/m26_pershing"
+        },
+        {
+          "label": "T26E4 スーパーパーシング",
+          "tag": "t26e4_superpershing",
+          "link": "https://danbooru.donmai.us/wiki_pages/t26e4_superpershing"
+        },
+        {
+          "label": "M6",
+          "tag": "m6_heavy_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/m6_heavy_tank"
+        },
+        {
+          "label": "T14",
+          "tag": "t14_heavy_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/t14_heavy_tank"
+        },
+        {
+          "label": "T29",
+          "tag": "t29_heavy_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/t29_heavy_tank"
+        },
+        {
+          "label": "T34",
+          "tag": "t34_heavy_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/t34_heavy_tank"
+        },
+        {
+          "label": "T110",
+          "tag": "t110_heavy_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/t110_heavy_tank"
+        },
+        {
+          "label": "T28/T95",
+          "tag": "t28_super_heavy_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/t28_super_heavy_tank"
+        },
+        {
+          "label": "M10 ウルヴァリン",
+          "tag": "m10_tank_destroyer",
+          "link": "https://danbooru.donmai.us/wiki_pages/m10_tank_destroyer"
+        },
+        {
+          "label": "M36 ジャクソン",
+          "tag": "m36_jackson",
+          "link": "https://danbooru.donmai.us/wiki_pages/m36_jackson"
+        },
+        {
+          "label": "M18ヘルキャット",
+          "tag": "m18_hellcat",
+          "link": "https://danbooru.donmai.us/wiki_pages/m18_hellcat"
+        },
+        {
+          "label": "M50オントス",
+          "tag": "m50_ontos",
+          "link": "https://danbooru.donmai.us/wiki_pages/m50_ontos"
+        },
+        {
+          "label": "M7プリースト",
+          "tag": "m7_priest",
+          "link": "https://danbooru.donmai.us/wiki_pages/m7_priest"
+        },
+        {
+          "label": "M270 MLRS",
+          "tag": "m270_mlrs",
+          "link": "https://danbooru.donmai.us/wiki_pages/m270_mlrs"
+        },
+        {
+          "label": "M1エイブラムス",
+          "tag": "m1_abrams",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1_abrams"
+        },
+        {
+          "label": "M46パットン",
+          "tag": "m46_patton",
+          "link": "https://danbooru.donmai.us/wiki_pages/m46_patton"
+        },
+        {
+          "label": "M47パットン",
+          "tag": "m47_patton",
+          "link": "https://danbooru.donmai.us/wiki_pages/m47_patton"
+        },
+        {
+          "label": "M48パットン",
+          "tag": "m48_patton",
+          "link": "https://danbooru.donmai.us/wiki_pages/m48_patton"
+        },
+        {
+          "label": "M60",
+          "tag": "m60_%28machine_gun%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/m60_%28machine_gun%29"
+        },
+        {
+          "label": "M60A2",
+          "tag": "m60a2",
+          "link": "https://danbooru.donmai.us/wiki_pages/m60a2"
+        },
+        {
+          "label": "LAV-25",
+          "tag": "lav-25",
+          "link": "https://danbooru.donmai.us/wiki_pages/lav-25"
+        },
+        {
+          "label": "M113",
+          "tag": "m113",
+          "link": "https://danbooru.donmai.us/wiki_pages/m113"
+        },
+        {
+          "label": "M2 ブラッドリー",
+          "tag": "m2_bradley",
+          "link": "https://danbooru.donmai.us/wiki_pages/m2_bradley"
+        },
+        {
+          "label": "ストライカー",
+          "tag": "stryker_%28afv%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/stryker_%28afv%29"
+        },
+        {
+          "label": "ハンヴィー",
+          "tag": "humvee",
+          "link": "https://danbooru.donmai.us/wiki_pages/humvee"
+        },
+        {
+          "label": "軍用ジープ",
+          "tag": "military_jeep",
+          "link": "https://danbooru.donmai.us/wiki_pages/military_jeep"
+        }
+      ]
+    },
+    {
+      "セクション名": "フランス",
+      "タグ一覧": [
+        {
+          "label": "ブガッティ・シロン",
+          "tag": "bugatti_chiron",
+          "link": "https://danbooru.donmai.us/wiki_pages/bugatti_chiron"
+        },
+        {
+          "label": "ブガッティ・ヴェイロン",
+          "tag": "bugatti_veyron",
+          "link": "https://danbooru.donmai.us/wiki_pages/bugatti_veyron"
+        },
+        {
+          "label": "プジョー 103",
+          "tag": "peugeot_103",
+          "link": "https://danbooru.donmai.us/wiki_pages/peugeot_103"
+        },
+        {
+          "label": "ルノー・アルピーヌ A310",
+          "tag": "renault_alpine_a310",
+          "link": "https://danbooru.donmai.us/wiki_pages/renault_alpine_a310"
+        }
+      ]
+    },
+    {
+      "セクション名": "ドイツ",
+      "タグ一覧": [
+        {
+          "label": "アウディ R8",
+          "tag": "audi_r8",
+          "link": "https://danbooru.donmai.us/wiki_pages/audi_r8"
+        },
+        {
+          "label": "BMW HP4",
+          "tag": "bmw_hp4",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmw_hp4"
+        },
+        {
+          "label": "BMW I8",
+          "tag": "bmw_i8",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmw_i8"
+        },
+        {
+          "label": "BMW M4",
+          "tag": "bmw_m4",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmw_m4"
+        },
+        {
+          "label": "BMW R75",
+          "tag": "bmw_r75",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmw_r75"
+        },
+        {
+          "label": "BMW S1000RR",
+          "tag": "bmw_s1000rr",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmw_s1000rr"
+        },
+        {
+          "label": "BMW Z4",
+          "tag": "bmw_z4",
+          "link": "https://danbooru.donmai.us/wiki_pages/bmw_z4"
+        },
+        {
+          "label": "ポルシェ356",
+          "tag": "porsche_356",
+          "link": "https://danbooru.donmai.us/wiki_pages/porsche_356"
+        },
+        {
+          "label": "ポルシェ911",
+          "tag": "porsche_911",
+          "link": "https://danbooru.donmai.us/wiki_pages/porsche_911"
+        },
+        {
+          "label": "ポルシェ918",
+          "tag": "porsche_918",
+          "link": "https://danbooru.donmai.us/wiki_pages/porsche_918"
+        },
+        {
+          "label": "トラバント",
+          "tag": "trabant",
+          "link": "https://danbooru.donmai.us/wiki_pages/trabant"
+        },
+        {
+          "label": "フォルクスワーゲン ビートル",
+          "tag": "volkswagen_beetle",
+          "link": "https://danbooru.donmai.us/wiki_pages/volkswagen_beetle"
+        },
+        {
+          "label": "フォルクスワーゲン ゴルフ",
+          "tag": "volkswagen_golf",
+          "link": "https://danbooru.donmai.us/wiki_pages/volkswagen_golf"
+        },
+        {
+          "label": "フォルクスワーゲン タイプ2",
+          "tag": "volkswagen_type_2",
+          "link": "https://danbooru.donmai.us/wiki_pages/volkswagen_type_2"
+        }
+      ]
+    },
+    {
+      "セクション名": "イタリア",
+      "タグ一覧": [
+        {
+          "label": "フェラーリ458イタリア",
+          "tag": "ferrari_458_italia",
+          "link": "https://danbooru.donmai.us/wiki_pages/ferrari_458_italia"
+        },
+        {
+          "label": "フェラーリ F8 トリブート",
+          "tag": "ferrari_f8_tributo",
+          "link": "https://danbooru.donmai.us/wiki_pages/ferrari_f8_tributo"
+        },
+        {
+          "label": "フェラーリ ラフェラーリ",
+          "tag": "ferrari_laferrari",
+          "link": "https://danbooru.donmai.us/wiki_pages/ferrari_laferrari"
+        },
+        {
+          "label": "フィアット500",
+          "tag": "fiat_500",
+          "link": "https://danbooru.donmai.us/wiki_pages/fiat_500"
+        },
+        {
+          "label": "ランボルギーニ・アヴェンタドール",
+          "tag": "lamborghini_aventador",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamborghini_aventador"
+        },
+        {
+          "label": "ランボルギーニ・ディアブロ",
+          "tag": "lamborghini_diablo",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamborghini_diablo"
+        },
+        {
+          "label": "ランボルギーニ・カウンタック",
+          "tag": "lamborghini_countach",
+          "link": "https://danbooru.donmai.us/wiki_pages/lamborghini_countach"
+        },
+        {
+          "label": "マセラティ ギブリ",
+          "tag": "maserati_ghibli",
+          "link": "https://danbooru.donmai.us/wiki_pages/maserati_ghibli"
+        },
+        {
+          "label": "ランチア・ストラトス",
+          "tag": "lancia_stratos",
+          "link": "https://danbooru.donmai.us/wiki_pages/lancia_stratos"
+        },
+        {
+          "label": "ランチア デルタ S4",
+          "tag": "lancia_delta_s4",
+          "link": "https://danbooru.donmai.us/wiki_pages/lancia_delta_s4"
+        },
+        {
+          "label": "ベスパ",
+          "tag": "vespa",
+          "link": "https://danbooru.donmai.us/wiki_pages/vespa"
+        }
+      ]
+    },
+    {
+      "セクション名": "日本",
+      "タグ一覧": [
+        {
+          "label": "ダイハツ ミゼット",
+          "tag": "daihatsu_midget",
+          "link": "https://danbooru.donmai.us/wiki_pages/daihatsu_midget"
+        },
+        {
+          "label": "トゥクトゥク",
+          "tag": "tuk-tuk",
+          "link": "https://danbooru.donmai.us/wiki_pages/tuk-tuk"
+        },
+        {
+          "label": "ホンダシビック",
+          "tag": "honda_civic",
+          "link": "https://danbooru.donmai.us/wiki_pages/honda_civic"
+        },
+        {
+          "label": "ホンダNSX",
+          "tag": "honda_nsx",
+          "link": "https://danbooru.donmai.us/wiki_pages/honda_nsx"
+        },
+        {
+          "label": "ホンダS2000",
+          "tag": "honda_s2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/honda_s2000"
+        },
+        {
+          "label": "いすゞエルフ",
+          "tag": "isuzu_elf",
+          "link": "https://danbooru.donmai.us/wiki_pages/isuzu_elf"
+        },
+        {
+          "label": "マツダ2",
+          "tag": "mazda_2",
+          "link": "https://danbooru.donmai.us/wiki_pages/mazda_2"
+        },
+        {
+          "label": "マツダ3",
+          "tag": "mazda_3",
+          "link": "https://danbooru.donmai.us/wiki_pages/mazda_3"
+        },
+        {
+          "label": "マツダ コスモ",
+          "tag": "mazda_cosmo",
+          "link": "https://danbooru.donmai.us/wiki_pages/mazda_cosmo"
+        },
+        {
+          "label": "マツダ RX-7",
+          "tag": "mazda_rx-7",
+          "link": "https://danbooru.donmai.us/wiki_pages/mazda_rx-7"
+        },
+        {
+          "label": "マツダ RX-8",
+          "tag": "mazda_rx-8",
+          "link": "https://danbooru.donmai.us/wiki_pages/mazda_rx-8"
+        },
+        {
+          "label": "三菱ふそう",
+          "tag": "mitsubishi_fusou",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitsubishi_fusou"
+        },
+        {
+          "label": "三菱ランサーエボリューション",
+          "tag": "mitsubishi_lancer_evolution",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitsubishi_lancer_evolution"
+        },
+        {
+          "label": "日産 180SX",
+          "tag": "nissan_180sx",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan_180sx"
+        },
+        {
+          "label": "日産350Z",
+          "tag": "nissan_350z",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan_350z"
+        },
+        {
+          "label": "日産フェアレディ",
+          "tag": "nissan_fairlady",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan_fairlady"
+        },
+        {
+          "label": "日産 GT-R",
+          "tag": "nissan_gt-r",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan_gt-r"
+        },
+        {
+          "label": "日産IDx",
+          "tag": "nissan_idx",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan_idx"
+        },
+        {
+          "label": "日産シルビアS13",
+          "tag": "nissan_silvia_s13",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan_silvia_s13"
+        },
+        {
+          "label": "日産シルビアS15",
+          "tag": "nissan_silvia_s15",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan_silvia_s15"
+        },
+        {
+          "label": "日産シルエイティ",
+          "tag": "nissan_sileighty",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan_sileighty"
+        },
+        {
+          "label": "日産スカイライン",
+          "tag": "nissan_skyline",
+          "link": "https://danbooru.donmai.us/wiki_pages/nissan_skyline"
+        },
+        {
+          "label": "スバル360",
+          "tag": "subaru_360",
+          "link": "https://danbooru.donmai.us/wiki_pages/subaru_360"
+        },
+        {
+          "label": "スバルBRZ",
+          "tag": "subaru_brz",
+          "link": "https://danbooru.donmai.us/wiki_pages/subaru_brz"
+        },
+        {
+          "label": "スバル インプレッサ",
+          "tag": "subaru_impreza",
+          "link": "https://danbooru.donmai.us/wiki_pages/subaru_impreza"
+        },
+        {
+          "label": "スズキ ジクサー SF250",
+          "tag": "suzuki_gixxer_sf_250",
+          "link": "https://danbooru.donmai.us/wiki_pages/suzuki_gixxer_sf_250"
+        },
+        {
+          "label": "トヨタ86",
+          "tag": "toyota_86",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_86"
+        },
+        {
+          "label": "トヨタカローラ",
+          "tag": "toyota_corolla",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_corolla"
+        },
+        {
+          "label": "トヨタ スプリンタートレノ",
+          "tag": "toyota_sprinter_trueno",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_sprinter_trueno"
+        },
+        {
+          "label": "トヨタ スプリンタートレノ",
+          "tag": "toyota_sprinter_trueno",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_sprinter_trueno"
+        },
+        {
+          "label": "トヨタ クラウン",
+          "tag": "toyota_crown",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_crown"
+        },
+        {
+          "label": "トヨタ ハイエース",
+          "tag": "toyota_hiace",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_hiace"
+        },
+        {
+          "label": "トヨタ ハイラックス",
+          "tag": "toyota_hilux",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_hilux"
+        },
+        {
+          "label": "トヨタ MR2",
+          "tag": "toyota_mr2",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_mr2"
+        },
+        {
+          "label": "トヨタ スプリンタートレノ",
+          "tag": "toyota_sprinter_trueno",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_sprinter_trueno"
+        },
+        {
+          "label": "トヨタ スポーツ800",
+          "tag": "toyota_sports_800",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_sports_800"
+        },
+        {
+          "label": "トヨタ スターレット",
+          "tag": "toyota_starlet",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_starlet"
+        },
+        {
+          "label": "トヨタ スープラ",
+          "tag": "toyota_supra",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyota_supra"
+        }
+      ]
+    },
+    {
+      "セクション名": "ロシア/ソビエト連邦",
+      "タグ一覧": [
+        {
+          "label": "ラダ（自動車）",
+          "tag": "lada_%28car%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lada_%28car%29"
+        },
+        {
+          "label": "GAZ-66",
+          "tag": "gaz-66",
+          "link": "https://danbooru.donmai.us/wiki_pages/gaz-66"
+        }
+      ]
+    },
+    {
+      "セクション名": "イギリス",
+      "タグ一覧": [
+        {
+          "label": "アストンマーティン DB11",
+          "tag": "aston_martin_db11",
+          "link": "https://danbooru.donmai.us/wiki_pages/aston_martin_db11"
+        },
+        {
+          "label": "ミニクーパー",
+          "tag": "mini_cooper",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_cooper"
+        },
+        {
+          "label": "ジャガー C-X75",
+          "tag": "jaguar_c-x75",
+          "link": "https://danbooru.donmai.us/wiki_pages/jaguar_c-x75"
+        },
+        {
+          "label": "ランドローバー",
+          "tag": "land_rover_%28company%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/land_rover_%28company%29"
+        },
+        {
+          "label": "ロータス・エラン",
+          "tag": "lotus_elan",
+          "link": "https://danbooru.donmai.us/wiki_pages/lotus_elan"
+        },
+        {
+          "label": "ロータス・エリーゼ",
+          "tag": "lotus_elise",
+          "link": "https://danbooru.donmai.us/wiki_pages/lotus_elise"
+        },
+        {
+          "label": "ロータス・エスプリ",
+          "tag": "lotus_esprit",
+          "link": "https://danbooru.donmai.us/wiki_pages/lotus_esprit"
+        },
+        {
+          "label": "ミニクーパー",
+          "tag": "mini_cooper",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_cooper"
+        },
+        {
+          "label": "モリスマリーナ",
+          "tag": "morris_marina",
+          "link": "https://danbooru.donmai.us/wiki_pages/morris_marina"
+        },
+        {
+          "label": "リライアント・ロビン",
+          "tag": "reliant_robin",
+          "link": "https://danbooru.donmai.us/wiki_pages/reliant_robin"
+        },
+        {
+          "label": "トライアンフ スピットファイア",
+          "tag": "triumph_spitfire",
+          "link": "https://danbooru.donmai.us/wiki_pages/triumph_spitfire"
+        },
+        {
+          "label": "ティレルP34",
+          "tag": "tyrrell_p34",
+          "link": "https://danbooru.donmai.us/wiki_pages/tyrrell_p34"
+        }
+      ]
+    },
+    {
+      "セクション名": "アメリカ合衆国",
+      "タグ一覧": [
+        {
+          "label": "シボレー・カマロ",
+          "tag": "chevrolet_camaro",
+          "link": "https://danbooru.donmai.us/wiki_pages/chevrolet_camaro"
+        },
+        {
+          "label": "シボレー コルベット",
+          "tag": "chevrolet_corvette",
+          "link": "https://danbooru.donmai.us/wiki_pages/chevrolet_corvette"
+        },
+        {
+          "label": "デロリアン DMC-1",
+          "tag": "delorean",
+          "link": "https://danbooru.donmai.us/wiki_pages/delorean"
+        },
+        {
+          "label": "ダッジ・チャレンジャー",
+          "tag": "dodge_challenger",
+          "link": "https://danbooru.donmai.us/wiki_pages/dodge_challenger"
+        },
+        {
+          "label": "ダッジ チャージャー",
+          "tag": "dodge_charger",
+          "link": "https://danbooru.donmai.us/wiki_pages/dodge_charger"
+        },
+        {
+          "label": "ダッジ・モナコ",
+          "tag": "dodge_monaco",
+          "link": "https://danbooru.donmai.us/wiki_pages/dodge_monaco"
+        },
+        {
+          "label": "フォード モデルT",
+          "tag": "ford_model_t",
+          "link": "https://danbooru.donmai.us/wiki_pages/ford_model_t"
+        },
+        {
+          "label": "フォードGT",
+          "tag": "ford_gt",
+          "link": "https://danbooru.donmai.us/wiki_pages/ford_gt"
+        },
+        {
+          "label": "フォード・マスタング",
+          "tag": "ford_mustang",
+          "link": "https://danbooru.donmai.us/wiki_pages/ford_mustang"
+        },
+        {
+          "label": "ハマー",
+          "tag": "hummer",
+          "link": "https://danbooru.donmai.us/wiki_pages/hummer"
+        }
+      ]
+    },
+    {
+      "セクション名": "架空の車両",
+      "タグ一覧": [
+        {
+          "label": "ベインブレード",
+          "tag": "baneblade",
+          "link": "https://danbooru.donmai.us/wiki_pages/baneblade"
+        },
+        {
+          "label": "エーデルワイス",
+          "tag": "edelweiss_%28senjou_no_valkyria%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/edelweiss_%28senjou_no_valkyria%29"
+        },
+        {
+          "label": "金田正太郎のバイク",
+          "tag": "kaneda_shoutarou%27s_bike",
+          "link": "https://danbooru.donmai.us/wiki_pages/kaneda_shoutarou%27s_bike"
+        },
+        {
+          "label": "ランドマスター",
+          "tag": "landmaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/landmaster"
+        },
+        {
+          "label": "ライトサイクル",
+          "tag": "lightcycle",
+          "link": "https://danbooru.donmai.us/wiki_pages/lightcycle"
+        },
+        {
+          "label": "メーザータンク",
+          "tag": "maser_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/maser_tank"
+        },
+        {
+          "label": "レマン・ラス",
+          "tag": "leman_russ_%28tank%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/leman_russ_%28tank%29"
+        },
+        {
+          "label": "スコーピオン",
+          "tag": "scorpion_%28halo%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/scorpion_%28halo%29"
+        },
+        {
+          "label": "シャムロック",
+          "tag": "shamrock_%28senjou_no_valkyria%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shamrock_%28senjou_no_valkyria%29"
+        },
+        {
+          "label": "SV-001「メタルスラッグ」",
+          "tag": "sv001_%28metal_slug%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sv001_%28metal_slug%29"
+        },
+        {
+          "label": "T-100 ヴァルスク",
+          "tag": "t-100_varsuk",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-100_varsuk"
+        },
+        {
+          "label": "ワートホグ（Halo）",
+          "tag": "warthog_%28halo%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/warthog_%28halo%29"
+        },
+        {
+          "label": "レイス",
+          "tag": "wraith_%28halo%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/wraith_%28halo%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "種類",
+      "タグ一覧": [
+        {
+          "label": "全地形対応車",
+          "tag": "all-terrain_vehicle",
+          "link": "https://danbooru.donmai.us/wiki_pages/all-terrain_vehicle"
+        },
+        {
+          "label": "救急車",
+          "tag": "ambulance",
+          "link": "https://danbooru.donmai.us/wiki_pages/ambulance"
+        },
+        {
+          "label": "装甲兵員輸送車",
+          "tag": "armored_personnel_carrier",
+          "link": "https://danbooru.donmai.us/wiki_pages/armored_personnel_carrier"
+        },
+        {
+          "label": "装甲回収車",
+          "tag": "armored_recovery_vehicle",
+          "link": "https://danbooru.donmai.us/wiki_pages/armored_recovery_vehicle"
+        },
+        {
+          "label": "装甲車",
+          "tag": "armored_vehicle",
+          "link": "https://danbooru.donmai.us/wiki_pages/armored_vehicle"
+        },
+        {
+          "label": "自転車",
+          "tag": "bicycle",
+          "link": "https://danbooru.donmai.us/wiki_pages/bicycle"
+        },
+        {
+          "label": "バス",
+          "tag": "bus",
+          "link": "https://danbooru.donmai.us/wiki_pages/bus"
+        },
+        {
+          "label": "車",
+          "tag": "car",
+          "link": "https://danbooru.donmai.us/wiki_pages/car"
+        },
+        {
+          "label": "パトカー",
+          "tag": "police_car",
+          "link": "https://danbooru.donmai.us/wiki_pages/police_car"
+        },
+        {
+          "label": "タクシー",
+          "tag": "taxi",
+          "link": "https://danbooru.donmai.us/wiki_pages/taxi"
+        },
+        {
+          "label": "ドリルタンク",
+          "tag": "drill_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/drill_tank"
+        },
+        {
+          "label": "ハーフトラック",
+          "tag": "half-track",
+          "link": "https://danbooru.donmai.us/wiki_pages/half-track"
+        },
+        {
+          "label": "オートバイ",
+          "tag": "motorcycle",
+          "link": "https://danbooru.donmai.us/wiki_pages/motorcycle"
+        },
+        {
+          "label": "自動車",
+          "tag": "motor_vehicle",
+          "link": "https://danbooru.donmai.us/wiki_pages/motor_vehicle"
+        },
+        {
+          "label": "自走砲",
+          "tag": "self-propelled_artillery",
+          "link": "https://danbooru.donmai.us/wiki_pages/self-propelled_artillery"
+        },
+        {
+          "label": "蒸気ローラー",
+          "tag": "steamroller",
+          "link": "https://danbooru.donmai.us/wiki_pages/steamroller"
+        },
+        {
+          "label": "戦車",
+          "tag": "tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank"
+        },
+        {
+          "label": "駆逐戦車",
+          "tag": "tank_destroyer",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank_destroyer"
+        },
+        {
+          "label": "電車",
+          "tag": "train",
+          "link": "https://danbooru.donmai.us/wiki_pages/train"
+        },
+        {
+          "label": "装甲列車",
+          "tag": "armored_train",
+          "link": "https://danbooru.donmai.us/wiki_pages/armored_train"
+        },
+        {
+          "label": "列車砲",
+          "tag": "railway_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/railway_gun"
+        },
+        {
+          "label": "トラック",
+          "tag": "truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/truck"
+        },
+        {
+          "label": "コンクリートミキサー車",
+          "tag": "concrete_mixer_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/concrete_mixer_truck"
+        },
+        {
+          "label": "ダンプトラック",
+          "tag": "dump_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/dump_truck"
+        },
+        {
+          "label": "運搬トラック",
+          "tag": "haul_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/haul_truck"
+        },
+        {
+          "label": "フラットベッドトラック",
+          "tag": "flatbed_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/flatbed_truck"
+        },
+        {
+          "label": "消防車",
+          "tag": "fire_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire_truck"
+        },
+        {
+          "label": "ゴミ収集車",
+          "tag": "garbage_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/garbage_truck"
+        },
+        {
+          "label": "モンスタートラック",
+          "tag": "monster_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/monster_truck"
+        },
+        {
+          "label": "ピックアップトラック",
+          "tag": "pickup_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/pickup_truck"
+        },
+        {
+          "label": "大型トラック",
+          "tag": "semi_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/semi_truck"
+        },
+        {
+          "label": "タンクローリー",
+          "tag": "tank_truck",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank_truck"
+        },
+        {
+          "label": "テクニカル",
+          "tag": "technical",
+          "link": "https://danbooru.donmai.us/wiki_pages/technical"
+        },
+        {
+          "label": "無砲塔戦車",
+          "tag": "turretless_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/turretless_tank"
+        },
+        {
+          "label": "バン",
+          "tag": "van",
+          "link": "https://danbooru.donmai.us/wiki_pages/van"
+        }
+      ]
+    },
+    {
+      "セクション名": "車両部品",
+      "タグ一覧": [
+        {
+          "label": "履帯",
+          "tag": "caterpillar_tracks",
+          "link": "https://danbooru.donmai.us/wiki_pages/caterpillar_tracks"
+        },
+        {
+          "label": "排気",
+          "tag": "exhaust",
+          "link": "https://danbooru.donmai.us/wiki_pages/exhaust"
+        },
+        {
+          "label": "ハッチ",
+          "tag": "hatch",
+          "link": "https://danbooru.donmai.us/wiki_pages/hatch"
+        },
+        {
+          "label": "ワイパー",
+          "tag": "wipers",
+          "link": "https://danbooru.donmai.us/wiki_pages/wipers"
+        },
+        {
+          "label": "ナンバープレート",
+          "tag": "license_plate",
+          "link": "https://danbooru.donmai.us/wiki_pages/license_plate"
+        },
+        {
+          "label": "地雷ローラー",
+          "tag": "mine_roller",
+          "link": "https://danbooru.donmai.us/wiki_pages/mine_roller"
+        },
+        {
+          "label": "船の砲塔",
+          "tag": "ship_turret",
+          "link": "https://danbooru.donmai.us/wiki_pages/ship_turret"
+        },
+        {
+          "label": "ハンドル",
+          "tag": "steering_wheel",
+          "link": "https://danbooru.donmai.us/wiki_pages/steering_wheel"
+        },
+        {
+          "label": "戦車砲",
+          "tag": "tank_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank_gun"
+        },
+        {
+          "label": "戦車の砲塔",
+          "tag": "tank_turret",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank_turret"
+        },
+        {
+          "label": "車内",
+          "tag": "vehicle_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/vehicle_interior"
+        },
+        {
+          "label": "戦車の内部",
+          "tag": "tank_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank_interior"
+        },
+        {
+          "label": "車両用マフラー",
+          "tag": "vehicle_muffler",
+          "link": "https://danbooru.donmai.us/wiki_pages/vehicle_muffler"
+        },
+        {
+          "label": "車輪",
+          "tag": "wheel",
+          "link": "https://danbooru.donmai.us/wiki_pages/wheel"
+        },
+        {
+          "label": "未使用タイヤ",
+          "tag": "unused_tire",
+          "link": "https://danbooru.donmai.us/wiki_pages/unused_tire"
+        },
+        {
+          "label": "スペアタイヤ",
+          "tag": "spare_tire",
+          "link": "https://danbooru.donmai.us/wiki_pages/spare_tire"
+        }
+      ]
+    },
+    {
+      "セクション名": "対車両兵器",
+      "タグ一覧": [
+        {
+          "label": "対戦車犬",
+          "tag": "anti-tank_dog",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-tank_dog"
+        },
+        {
+          "label": "対戦車手榴弾",
+          "tag": "anti-tank_grenade",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-tank_grenade"
+        },
+        {
+          "label": "対戦車砲",
+          "tag": "anti-tank_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-tank_gun"
+        },
+        {
+          "label": "対物ライフル",
+          "tag": "anti-materiel_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-materiel_rifle"
+        },
+        {
+          "label": "対戦車地雷",
+          "tag": "anti-tank_mine",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-tank_mine"
+        },
+        {
+          "label": "対物ライフル",
+          "tag": "anti-materiel_rifle",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-materiel_rifle"
+        },
+        {
+          "label": "バズーカ",
+          "tag": "bazooka",
+          "link": "https://danbooru.donmai.us/wiki_pages/bazooka"
+        },
+        {
+          "label": "ゴリアテ（遠隔操作爆薬車）",
+          "tag": "goliath_tracked_mine",
+          "link": "https://danbooru.donmai.us/wiki_pages/goliath_tracked_mine"
+        },
+        {
+          "label": "パンツァーファウスト",
+          "tag": "panzerfaust",
+          "link": "https://danbooru.donmai.us/wiki_pages/panzerfaust"
+        }
+      ]
+    },
+    {
+      "セクション名": "戦闘",
+      "タグ一覧": [
+        {
+          "label": "湾岸戦争",
+          "tag": "gulf_war",
+          "link": "https://danbooru.donmai.us/wiki_pages/gulf_war"
+        },
+        {
+          "label": "朝鮮戦争",
+          "tag": "korean_war",
+          "link": "https://danbooru.donmai.us/wiki_pages/korean_war"
+        },
+        {
+          "label": "ベトナム戦争",
+          "tag": "vietnam_war",
+          "link": "https://danbooru.donmai.us/wiki_pages/vietnam_war"
+        },
+        {
+          "label": "第一次世界大戦",
+          "tag": "world_war_i",
+          "link": "https://danbooru.donmai.us/wiki_pages/world_war_i"
+        },
+        {
+          "label": "第二次世界大戦",
+          "tag": "world_war_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/world_war_ii"
+        }
+      ]
+    },
+    {
+      "セクション名": "マーク/シンボル",
+      "タグ一覧": [
+        {
+          "label": "バルケンクロイツ",
+          "tag": "balkenkreuz",
+          "link": "https://danbooru.donmai.us/wiki_pages/balkenkreuz"
+        },
+        {
+          "label": "シェブロン",
+          "tag": "chevron_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/chevron_%28symbol%29"
+        },
+        {
+          "label": "エンブレム",
+          "tag": "emblem",
+          "link": "https://danbooru.donmai.us/wiki_pages/emblem"
+        },
+        {
+          "label": "鎌と槌",
+          "tag": "hammer_and_sickle",
+          "link": "https://danbooru.donmai.us/wiki_pages/hammer_and_sickle"
+        },
+        {
+          "label": "鉄十字",
+          "tag": "iron_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/iron_cross"
+        },
+        {
+          "label": "痛車",
+          "tag": "itasha",
+          "link": "https://danbooru.donmai.us/wiki_pages/itasha"
+        },
+        {
+          "label": "侵略ストライプ",
+          "tag": "invasion_stripes",
+          "link": "https://danbooru.donmai.us/wiki_pages/invasion_stripes"
+        },
+        {
+          "label": "旭日旗",
+          "tag": "rising_sun_flag",
+          "link": "https://danbooru.donmai.us/wiki_pages/rising_sun_flag"
+        },
+        {
+          "label": "赤い星",
+          "tag": "red_star",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_star"
+        },
+        {
+          "label": "ダビデの星",
+          "tag": "star_of_david",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_of_david"
+        },
+        {
+          "label": "卍",
+          "tag": "swastika",
+          "link": "https://danbooru.donmai.us/wiki_pages/swastika"
+        },
+        {
+          "label": "Z（ロシア語の記号）",
+          "tag": "z_%28russian_symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/z_%28russian_symbol%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "職業・動作",
+      "タグ一覧": [
+        {
+          "label": "運転",
+          "tag": "driving",
+          "link": "https://danbooru.donmai.us/wiki_pages/driving"
+        },
+        {
+          "label": "整備士",
+          "tag": "mechanic",
+          "link": "https://danbooru.donmai.us/wiki_pages/mechanic"
+        }
+      ]
+    },
+    {
+      "セクション名": "乗員用装備",
+      "タグ一覧": [
+        {
+          "label": "ヘッドフォン",
+          "tag": "headphones",
+          "link": "https://danbooru.donmai.us/wiki_pages/headphones"
+        },
+        {
+          "label": "ヘルメット",
+          "tag": "helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/helmet"
+        },
+        {
+          "label": "戦車砲弾",
+          "tag": "tank_shell",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank_shell"
+        },
+        {
+          "label": "喉マイク",
+          "tag": "throat_microphone",
+          "link": "https://danbooru.donmai.us/wiki_pages/throat_microphone"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "メカ娘",
+          "tag": "mecha_musume",
+          "link": "https://danbooru.donmai.us/wiki_pages/mecha_musume"
+        },
+        {
+          "label": "メカ名の特定依頼",
+          "tag": "mecha_request",
+          "link": "https://danbooru.donmai.us/wiki_pages/mecha_request"
+        },
+        {
+          "label": "タンクデサント",
+          "tag": "tank_desant",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank_desant"
+        },
+        {
+          "label": "車両の特定依頼",
+          "tag": "vehicle_request",
+          "link": "https://danbooru.donmai.us/wiki_pages/vehicle_request"
+        },
+        {
+          "label": "ストライカーユニット",
+          "tag": "striker_unit",
+          "link": "https://danbooru.donmai.us/wiki_pages/striker_unit"
+        },
+        {
+          "label": "車関連タグ一覧",
+          "tag": "list_of_car-related_tags",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_car-related_tags"
+        },
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        },
+        {
+          "label": "タググループ：テクノロジー",
+          "tag": "tag_group%3Atechnology",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Atechnology"
+        }
+      ]
+    }
+  ]
+}

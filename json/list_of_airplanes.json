@@ -1,0 +1,2312 @@
+{
+  "カテゴリID": "list_of_airplanes",
+  "カテゴリ名": "飛行機一覧",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=list_of_airplanes",
+  "セクション一覧": [
+    {
+      "セクション名": "目次",
+      "タグ一覧": [
+        {
+          "label": "はじめに",
+          "tag": "31423#dtext-intro",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-intro"
+        },
+        {
+          "label": "軍事",
+          "tag": "31423#dtext-military",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-military"
+        },
+        {
+          "label": "中国",
+          "tag": "31423#dtext-mil-china",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-china"
+        },
+        {
+          "label": "フランス",
+          "tag": "31423#dtext-mil-france",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-france"
+        },
+        {
+          "label": "ドイツ",
+          "tag": "31423#dtext-mil-germany",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-germany"
+        },
+        {
+          "label": "イタリア",
+          "tag": "31423#dtext-mil-italy",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-italy"
+        },
+        {
+          "label": "日本",
+          "tag": "31423#dtext-mil-japan",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-japan"
+        },
+        {
+          "label": "多国籍共同開発",
+          "tag": "31423#dtext-mil-multi",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-multi"
+        },
+        {
+          "label": "ロシア/ソ連",
+          "tag": "31423#dtext-mil-russia",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-russia"
+        },
+        {
+          "label": "スウェーデン",
+          "tag": "31423#dtext-mil-sweden",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-sweden"
+        },
+        {
+          "label": "イギリス",
+          "tag": "31423#dtext-mil-united_kingdom",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-united_kingdom"
+        },
+        {
+          "label": "アメリカ合衆国",
+          "tag": "31423#dtext-mil-united_states",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-mil-united_states"
+        },
+        {
+          "label": "民間機",
+          "tag": "31423#dtext-civilian",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-civilian"
+        },
+        {
+          "label": "架空の",
+          "tag": "31423#dtext-fictional",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-fictional"
+        },
+        {
+          "label": "種類",
+          "tag": "31423#dtext-types",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-types"
+        },
+        {
+          "label": "その他",
+          "tag": "31423#dtext-misc",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc"
+        },
+        {
+          "label": "航空会社/アクロバットチーム",
+          "tag": "31423#dtext-misc-teams",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc-teams"
+        },
+        {
+          "label": "空軍",
+          "tag": "31423#dtext-misc-airforce",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc-airforce"
+        },
+        {
+          "label": "飛行機部品",
+          "tag": "31423#dtext-misc-parts",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc-parts"
+        },
+        {
+          "label": "対空兵器",
+          "tag": "31423#dtext-misc-aa_weapon",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc-aa_weapon"
+        },
+        {
+          "label": "航空関連",
+          "tag": "31423#dtext-misc-related",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc-related"
+        },
+        {
+          "label": "戦闘",
+          "tag": "31423#dtext-misc-combat",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc-combat"
+        },
+        {
+          "label": "マーキング/シンボル",
+          "tag": "31423#dtext-misc-symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc-symbol"
+        },
+        {
+          "label": "職業",
+          "tag": "31423#dtext-misc-jobs",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc-jobs"
+        },
+        {
+          "label": "パイロットギア",
+          "tag": "31423#dtext-misc-gear",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-misc-gear"
+        },
+        {
+          "label": "参照",
+          "tag": "31423#dtext-see_also",
+          "link": "https://danbooru.donmai.us/wiki_pages/31423#dtext-see_also"
+        }
+      ]
+    },
+    {
+      "セクション名": "はじめに",
+      "タグ一覧": [
+        {
+          "label": "飛行機",
+          "tag": "airplane",
+          "link": "https://danbooru.donmai.us/wiki_pages/airplane"
+        }
+      ]
+    },
+    {
+      "セクション名": "中国",
+      "タグ一覧": [
+        {
+          "label": "成都 J-7",
+          "tag": "chengdu_j-7",
+          "link": "https://danbooru.donmai.us/wiki_pages/chengdu_j-7"
+        },
+        {
+          "label": "瀋陽 J-8",
+          "tag": "shenyang_j-8",
+          "link": "https://danbooru.donmai.us/wiki_pages/shenyang_j-8"
+        },
+        {
+          "label": "成都 J-10",
+          "tag": "chengdu_j-10",
+          "link": "https://danbooru.donmai.us/wiki_pages/chengdu_j-10"
+        },
+        {
+          "label": "瀋陽 J-15",
+          "tag": "shenyang_j-15",
+          "link": "https://danbooru.donmai.us/wiki_pages/shenyang_j-15"
+        },
+        {
+          "label": "瀋陽 J-16",
+          "tag": "shenyang_j-16",
+          "link": "https://danbooru.donmai.us/wiki_pages/shenyang_j-16"
+        },
+        {
+          "label": "成都 J-20",
+          "tag": "chengdu_j-20",
+          "link": "https://danbooru.donmai.us/wiki_pages/chengdu_j-20"
+        },
+        {
+          "label": "瀋陽 J-31",
+          "tag": "shenyang_j-31",
+          "link": "https://danbooru.donmai.us/wiki_pages/shenyang_j-31"
+        },
+        {
+          "label": "瀋陽 J-35",
+          "tag": "shenyang_j-35",
+          "link": "https://danbooru.donmai.us/wiki_pages/shenyang_j-35"
+        },
+        {
+          "label": "成都 J-36",
+          "tag": "chengdu_j-36",
+          "link": "https://danbooru.donmai.us/wiki_pages/chengdu_j-36"
+        },
+        {
+          "label": "陝西省 KJ-200",
+          "tag": "kj-200",
+          "link": "https://danbooru.donmai.us/wiki_pages/kj-200"
+        },
+        {
+          "label": "西安H-6",
+          "tag": "h-6",
+          "link": "https://danbooru.donmai.us/wiki_pages/h-6"
+        },
+        {
+          "label": "西安H-20",
+          "tag": "xi%27an_h-20",
+          "link": "https://danbooru.donmai.us/wiki_pages/xi%27an_h-20"
+        },
+        {
+          "label": "西安JH-7",
+          "tag": "jh-7",
+          "link": "https://danbooru.donmai.us/wiki_pages/jh-7"
+        }
+      ]
+    },
+    {
+      "セクション名": "フランス",
+      "タグ一覧": [
+        {
+          "label": "ブレゲ 14",
+          "tag": "breguet_14",
+          "link": "https://danbooru.donmai.us/wiki_pages/breguet_14"
+        },
+        {
+          "label": "ミラージュIII",
+          "tag": "mirage_iii",
+          "link": "https://danbooru.donmai.us/wiki_pages/mirage_iii"
+        },
+        {
+          "label": "ミラージュ2000",
+          "tag": "mirage_2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/mirage_2000"
+        },
+        {
+          "label": "ベッソン MB.411",
+          "tag": "besson_mb.411",
+          "link": "https://danbooru.donmai.us/wiki_pages/besson_mb.411"
+        },
+        {
+          "label": "ダッソー・ラファール",
+          "tag": "dassault_rafale",
+          "link": "https://danbooru.donmai.us/wiki_pages/dassault_rafale"
+        },
+        {
+          "label": "VG-33",
+          "tag": "vg-33",
+          "link": "https://danbooru.donmai.us/wiki_pages/vg-33"
+        },
+        {
+          "label": "ロワール 130",
+          "tag": "loire_130",
+          "link": "https://danbooru.donmai.us/wiki_pages/loire_130"
+        }
+      ]
+    },
+    {
+      "セクション名": "ドイツ",
+      "タグ一覧": [
+        {
+          "label": "アルバトロスDIII",
+          "tag": "albatros_diii",
+          "link": "https://danbooru.donmai.us/wiki_pages/albatros_diii"
+        },
+        {
+          "label": "AR196",
+          "tag": "ar_196",
+          "link": "https://danbooru.donmai.us/wiki_pages/ar_196"
+        },
+        {
+          "label": "BF 109",
+          "tag": "bf_109",
+          "link": "https://danbooru.donmai.us/wiki_pages/bf_109"
+        },
+        {
+          "label": "BF 110",
+          "tag": "bf_110",
+          "link": "https://danbooru.donmai.us/wiki_pages/bf_110"
+        },
+        {
+          "label": "BV 138",
+          "tag": "bv_138",
+          "link": "https://danbooru.donmai.us/wiki_pages/bv_138"
+        },
+        {
+          "label": "BV 155",
+          "tag": "bv_155",
+          "link": "https://danbooru.donmai.us/wiki_pages/bv_155"
+        },
+        {
+          "label": "D.VII",
+          "tag": "d.vii",
+          "link": "https://danbooru.donmai.us/wiki_pages/d.vii"
+        },
+        {
+          "label": "Do 24",
+          "tag": "do_24",
+          "link": "https://danbooru.donmai.us/wiki_pages/do_24"
+        },
+        {
+          "label": "DO 335",
+          "tag": "do_335",
+          "link": "https://danbooru.donmai.us/wiki_pages/do_335"
+        },
+        {
+          "label": "DR.i",
+          "tag": "dr.i",
+          "link": "https://danbooru.donmai.us/wiki_pages/dr.i"
+        },
+        {
+          "label": "EF 128",
+          "tag": "ef_128",
+          "link": "https://danbooru.donmai.us/wiki_pages/ef_128"
+        },
+        {
+          "label": "FI 156",
+          "tag": "fi_156",
+          "link": "https://danbooru.donmai.us/wiki_pages/fi_156"
+        },
+        {
+          "label": "FI 167",
+          "tag": "fi_167",
+          "link": "https://danbooru.donmai.us/wiki_pages/fi_167"
+        },
+        {
+          "label": "FW58",
+          "tag": "fw_58",
+          "link": "https://danbooru.donmai.us/wiki_pages/fw_58"
+        },
+        {
+          "label": "FW 190",
+          "tag": "fw_190",
+          "link": "https://danbooru.donmai.us/wiki_pages/fw_190"
+        },
+        {
+          "label": "FW 200",
+          "tag": "fw_200",
+          "link": "https://danbooru.donmai.us/wiki_pages/fw_200"
+        },
+        {
+          "label": "HE 59",
+          "tag": "he_59",
+          "link": "https://danbooru.donmai.us/wiki_pages/he_59"
+        },
+        {
+          "label": "HE 100",
+          "tag": "he_100",
+          "link": "https://danbooru.donmai.us/wiki_pages/he_100"
+        },
+        {
+          "label": "HE 111",
+          "tag": "he_111",
+          "link": "https://danbooru.donmai.us/wiki_pages/he_111"
+        },
+        {
+          "label": "HE 115",
+          "tag": "he_115",
+          "link": "https://danbooru.donmai.us/wiki_pages/he_115"
+        },
+        {
+          "label": "HE 162",
+          "tag": "he_162",
+          "link": "https://danbooru.donmai.us/wiki_pages/he_162"
+        },
+        {
+          "label": "HE 219",
+          "tag": "he_219",
+          "link": "https://danbooru.donmai.us/wiki_pages/he_219"
+        },
+        {
+          "label": "HE 280",
+          "tag": "he_280",
+          "link": "https://danbooru.donmai.us/wiki_pages/he_280"
+        },
+        {
+          "label": "HE レルチェ",
+          "tag": "he_lerche",
+          "link": "https://danbooru.donmai.us/wiki_pages/he_lerche"
+        },
+        {
+          "label": "HS123",
+          "tag": "hs_123",
+          "link": "https://danbooru.donmai.us/wiki_pages/hs_123"
+        },
+        {
+          "label": "HS129",
+          "tag": "hs_129",
+          "link": "https://danbooru.donmai.us/wiki_pages/hs_129"
+        },
+        {
+          "label": "HO 229",
+          "tag": "ho_229",
+          "link": "https://danbooru.donmai.us/wiki_pages/ho_229"
+        },
+        {
+          "label": "JU52",
+          "tag": "ju_52",
+          "link": "https://danbooru.donmai.us/wiki_pages/ju_52"
+        },
+        {
+          "label": "JU87",
+          "tag": "ju_87",
+          "link": "https://danbooru.donmai.us/wiki_pages/ju_87"
+        },
+        {
+          "label": "JU88",
+          "tag": "ju_88",
+          "link": "https://danbooru.donmai.us/wiki_pages/ju_88"
+        },
+        {
+          "label": "JU 290",
+          "tag": "ju_290",
+          "link": "https://danbooru.donmai.us/wiki_pages/ju_290"
+        },
+        {
+          "label": "ME 163",
+          "tag": "me_163",
+          "link": "https://danbooru.donmai.us/wiki_pages/me_163"
+        },
+        {
+          "label": "ME 210",
+          "tag": "me_210",
+          "link": "https://danbooru.donmai.us/wiki_pages/me_210"
+        },
+        {
+          "label": "ME 262",
+          "tag": "me_262",
+          "link": "https://danbooru.donmai.us/wiki_pages/me_262"
+        },
+        {
+          "label": "ME 321",
+          "tag": "me_321",
+          "link": "https://danbooru.donmai.us/wiki_pages/me_321"
+        },
+        {
+          "label": "ME 410",
+          "tag": "me_410",
+          "link": "https://danbooru.donmai.us/wiki_pages/me_410"
+        },
+        {
+          "label": "TA 152",
+          "tag": "ta_152",
+          "link": "https://danbooru.donmai.us/wiki_pages/ta_152"
+        },
+        {
+          "label": "TA 154",
+          "tag": "ta_154",
+          "link": "https://danbooru.donmai.us/wiki_pages/ta_154"
+        },
+        {
+          "label": "TA 183",
+          "tag": "ta_183",
+          "link": "https://danbooru.donmai.us/wiki_pages/ta_183"
+        },
+        {
+          "label": "トリプフリューゲル",
+          "tag": "triebfluegel",
+          "link": "https://danbooru.donmai.us/wiki_pages/triebfluegel"
+        }
+      ]
+    },
+    {
+      "セクション名": "イタリア",
+      "タグ一覧": [
+        {
+          "label": "カント25",
+          "tag": "cant_25",
+          "link": "https://danbooru.donmai.us/wiki_pages/cant_25"
+        },
+        {
+          "label": "Z.506 エアローネ",
+          "tag": "z.506_airone",
+          "link": "https://danbooru.donmai.us/wiki_pages/z.506_airone"
+        },
+        {
+          "label": "CR.42 ファルコ",
+          "tag": "cr.42_falco",
+          "link": "https://danbooru.donmai.us/wiki_pages/cr.42_falco"
+        },
+        {
+          "label": "G.50 フレッチャ",
+          "tag": "g.50_freccia",
+          "link": "https://danbooru.donmai.us/wiki_pages/g.50_freccia"
+        },
+        {
+          "label": "G.55 チェンタウロ",
+          "tag": "g.55_centauro",
+          "link": "https://danbooru.donmai.us/wiki_pages/g.55_centauro"
+        },
+        {
+          "label": "イマーム RO.43",
+          "tag": "imam_ro.43",
+          "link": "https://danbooru.donmai.us/wiki_pages/imam_ro.43"
+        },
+        {
+          "label": "MC.200 サエッタ",
+          "tag": "mc.200_saetta",
+          "link": "https://danbooru.donmai.us/wiki_pages/mc.200_saetta"
+        },
+        {
+          "label": "MC.202 フォルゴレ",
+          "tag": "mc.202_folgore",
+          "link": "https://danbooru.donmai.us/wiki_pages/mc.202_folgore"
+        },
+        {
+          "label": "MC.205 ベルトロ",
+          "tag": "mc.205_veltro",
+          "link": "https://danbooru.donmai.us/wiki_pages/mc.205_veltro"
+        },
+        {
+          "label": "SM.79 スパルヴィエロ",
+          "tag": "sm.79_sparviero",
+          "link": "https://danbooru.donmai.us/wiki_pages/sm.79_sparviero"
+        }
+      ]
+    },
+    {
+      "セクション名": "日本",
+      "タグ一覧": [
+        {
+          "label": "A5M",
+          "tag": "a5m",
+          "link": "https://danbooru.donmai.us/wiki_pages/a5m"
+        },
+        {
+          "label": "A6M零戦",
+          "tag": "a6m_zero",
+          "link": "https://danbooru.donmai.us/wiki_pages/a6m_zero"
+        },
+        {
+          "label": "A6M2-N",
+          "tag": "a6m2-n",
+          "link": "https://danbooru.donmai.us/wiki_pages/a6m2-n"
+        },
+        {
+          "label": "A7M 烈風",
+          "tag": "a7m_reppuu",
+          "link": "https://danbooru.donmai.us/wiki_pages/a7m_reppuu"
+        },
+        {
+          "label": "愛知H9A",
+          "tag": "aichi_h9a",
+          "link": "https://danbooru.donmai.us/wiki_pages/aichi_h9a"
+        },
+        {
+          "label": "B5N",
+          "tag": "b5n",
+          "link": "https://danbooru.donmai.us/wiki_pages/b5n"
+        },
+        {
+          "label": "B6N 天山",
+          "tag": "b6n_tenzan",
+          "link": "https://danbooru.donmai.us/wiki_pages/b6n_tenzan"
+        },
+        {
+          "label": "B7A 流星",
+          "tag": "b7a_ryuusei",
+          "link": "https://danbooru.donmai.us/wiki_pages/b7a_ryuusei"
+        },
+        {
+          "label": "C5M",
+          "tag": "c5m",
+          "link": "https://danbooru.donmai.us/wiki_pages/c5m"
+        },
+        {
+          "label": "C6N 彩雲",
+          "tag": "c6n_saiun",
+          "link": "https://danbooru.donmai.us/wiki_pages/c6n_saiun"
+        },
+        {
+          "label": "D3A",
+          "tag": "d3a",
+          "link": "https://danbooru.donmai.us/wiki_pages/d3a"
+        },
+        {
+          "label": "D4Yすいせい",
+          "tag": "d4y_suisei",
+          "link": "https://danbooru.donmai.us/wiki_pages/d4y_suisei"
+        },
+        {
+          "label": "E-767",
+          "tag": "e-767",
+          "link": "https://danbooru.donmai.us/wiki_pages/e-767"
+        },
+        {
+          "label": "E13A",
+          "tag": "e13a",
+          "link": "https://danbooru.donmai.us/wiki_pages/e13a"
+        },
+        {
+          "label": "E16A 瑞雲",
+          "tag": "e16a_zuiun",
+          "link": "https://danbooru.donmai.us/wiki_pages/e16a_zuiun"
+        },
+        {
+          "label": "三菱 F-1",
+          "tag": "mitsubishi_f-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitsubishi_f-1"
+        },
+        {
+          "label": "三菱 F-2",
+          "tag": "mitsubishi_f-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitsubishi_f-2"
+        },
+        {
+          "label": "F1M",
+          "tag": "f1m",
+          "link": "https://danbooru.donmai.us/wiki_pages/f1m"
+        },
+        {
+          "label": "G4M",
+          "tag": "g4m",
+          "link": "https://danbooru.donmai.us/wiki_pages/g4m"
+        },
+        {
+          "label": "G8N 連山",
+          "tag": "g8n_renzan",
+          "link": "https://danbooru.donmai.us/wiki_pages/g8n_renzan"
+        },
+        {
+          "label": "G10N 富岳",
+          "tag": "g10n_fugaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/g10n_fugaku"
+        },
+        {
+          "label": "H6K",
+          "tag": "h6k",
+          "link": "https://danbooru.donmai.us/wiki_pages/h6k"
+        },
+        {
+          "label": "H8K",
+          "tag": "h8k",
+          "link": "https://danbooru.donmai.us/wiki_pages/h8k"
+        },
+        {
+          "label": "M6A 晴嵐",
+          "tag": "m6a_seiran",
+          "link": "https://danbooru.donmai.us/wiki_pages/m6a_seiran"
+        },
+        {
+          "label": "MXY-7 桜花",
+          "tag": "mxy-7_ohka",
+          "link": "https://danbooru.donmai.us/wiki_pages/mxy-7_ohka"
+        },
+        {
+          "label": "N1K",
+          "tag": "n1k",
+          "link": "https://danbooru.donmai.us/wiki_pages/n1k"
+        },
+        {
+          "label": "J1N 月光",
+          "tag": "j1n_gekkou",
+          "link": "https://danbooru.donmai.us/wiki_pages/j1n_gekkou"
+        },
+        {
+          "label": "J2M 雷電",
+          "tag": "j2m_raiden",
+          "link": "https://danbooru.donmai.us/wiki_pages/j2m_raiden"
+        },
+        {
+          "label": "J4M 閃電",
+          "tag": "j4m_senden",
+          "link": "https://danbooru.donmai.us/wiki_pages/j4m_senden"
+        },
+        {
+          "label": "J7W震電",
+          "tag": "j7w_shinden",
+          "link": "https://danbooru.donmai.us/wiki_pages/j7w_shinden"
+        },
+        {
+          "label": "J8M 秋水",
+          "tag": "j8m_shuusui",
+          "link": "https://danbooru.donmai.us/wiki_pages/j8m_shuusui"
+        },
+        {
+          "label": "橘花",
+          "tag": "kikka_%28airplane%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kikka_%28airplane%29"
+        },
+        {
+          "label": "かつおどりラムジェット機",
+          "tag": "katsuodori_ramjet_plane",
+          "link": "https://danbooru.donmai.us/wiki_pages/katsuodori_ramjet_plane"
+        },
+        {
+          "label": "キ15",
+          "tag": "ki-15",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-15"
+        },
+        {
+          "label": "キ-20",
+          "tag": "ki-20",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-20"
+        },
+        {
+          "label": "キ27",
+          "tag": "ki-27",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-27"
+        },
+        {
+          "label": "キ43 隼",
+          "tag": "ki-43_hayabusa",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-43_hayabusa"
+        },
+        {
+          "label": "キ44 鍾馗",
+          "tag": "ki-44_shouki",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-44_shouki"
+        },
+        {
+          "label": "キ45 屠龍",
+          "tag": "ki-45_toryu",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-45_toryu"
+        },
+        {
+          "label": "キ46",
+          "tag": "ki-46",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-46"
+        },
+        {
+          "label": "Ki-49 呑龍",
+          "tag": "ki-49_donryuu",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-49_donryuu"
+        },
+        {
+          "label": "キ61 飛燕",
+          "tag": "ki-61_hien",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-61_hien"
+        },
+        {
+          "label": "キ67",
+          "tag": "ki-67",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-67"
+        },
+        {
+          "label": "キ84 疾風",
+          "tag": "ki-84_hayate",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-84_hayate"
+        },
+        {
+          "label": "キ98",
+          "tag": "ki-98",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-98"
+        },
+        {
+          "label": "キ100",
+          "tag": "ki-100",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-100"
+        },
+        {
+          "label": "キ201 火龍",
+          "tag": "ki-201_karyuu",
+          "link": "https://danbooru.donmai.us/wiki_pages/ki-201_karyuu"
+        },
+        {
+          "label": "P-1",
+          "tag": "p-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-1"
+        },
+        {
+          "label": "P-2",
+          "tag": "p-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-2"
+        },
+        {
+          "label": "P1Y",
+          "tag": "p1y",
+          "link": "https://danbooru.donmai.us/wiki_pages/p1y"
+        },
+        {
+          "label": "Q1W 東海",
+          "tag": "q1w_toukai",
+          "link": "https://danbooru.donmai.us/wiki_pages/q1w_toukai"
+        },
+        {
+          "label": "カワサキ T-4",
+          "tag": "kawasaki_t-4",
+          "link": "https://danbooru.donmai.us/wiki_pages/kawasaki_t-4"
+        },
+        {
+          "label": "三菱 T-2",
+          "tag": "mitsubishi_t-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitsubishi_t-2"
+        },
+        {
+          "label": "US-2",
+          "tag": "us-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/us-2"
+        },
+        {
+          "label": "88式軽爆撃機",
+          "tag": "type88_light_bomber",
+          "link": "https://danbooru.donmai.us/wiki_pages/type88_light_bomber"
+        },
+        {
+          "label": "X-2 シンシン",
+          "tag": "x-2_shinshin",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-2_shinshin"
+        }
+      ]
+    },
+    {
+      "セクション名": "多国籍共同開発",
+      "タグ一覧": [
+        {
+          "label": "EFタイフーン",
+          "tag": "ef_typhoon",
+          "link": "https://danbooru.donmai.us/wiki_pages/ef_typhoon"
+        },
+        {
+          "label": "パナヴィア トーネード",
+          "tag": "panavia_tornado_%28aircraft%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/panavia_tornado_%28aircraft%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "ロシア/ソビエト連邦",
+      "タグ一覧": [
+        {
+          "label": "I-152",
+          "tag": "i-152",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-152"
+        },
+        {
+          "label": "I-153",
+          "tag": "polikarpov_i-153",
+          "link": "https://danbooru.donmai.us/wiki_pages/polikarpov_i-153"
+        },
+        {
+          "label": "I-16",
+          "tag": "i-16",
+          "link": "https://danbooru.donmai.us/wiki_pages/i-16"
+        },
+        {
+          "label": "IL-2",
+          "tag": "il-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/il-2"
+        },
+        {
+          "label": "IL-4",
+          "tag": "il-4",
+          "link": "https://danbooru.donmai.us/wiki_pages/il-4"
+        },
+        {
+          "label": "LA-5",
+          "tag": "la-5",
+          "link": "https://danbooru.donmai.us/wiki_pages/la-5"
+        },
+        {
+          "label": "LA-7",
+          "tag": "la-7",
+          "link": "https://danbooru.donmai.us/wiki_pages/la-7"
+        },
+        {
+          "label": "LA-11",
+          "tag": "la-11",
+          "link": "https://danbooru.donmai.us/wiki_pages/la-11"
+        },
+        {
+          "label": "LaGG-3",
+          "tag": "lagg-3",
+          "link": "https://danbooru.donmai.us/wiki_pages/lagg-3"
+        },
+        {
+          "label": "ミグ1",
+          "tag": "mig-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/mig-1"
+        },
+        {
+          "label": "ミグ1.44",
+          "tag": "mig-1.44",
+          "link": "https://danbooru.donmai.us/wiki_pages/mig-1.44"
+        },
+        {
+          "label": "ミグ15",
+          "tag": "mig-15",
+          "link": "https://danbooru.donmai.us/wiki_pages/mig-15"
+        },
+        {
+          "label": "ミグ17",
+          "tag": "mig-17",
+          "link": "https://danbooru.donmai.us/wiki_pages/mig-17"
+        },
+        {
+          "label": "ミグ21",
+          "tag": "mig-21",
+          "link": "https://danbooru.donmai.us/wiki_pages/mig-21"
+        },
+        {
+          "label": "ミグ23",
+          "tag": "mig-23",
+          "link": "https://danbooru.donmai.us/wiki_pages/mig-23"
+        },
+        {
+          "label": "ミグ25",
+          "tag": "mig-25",
+          "link": "https://danbooru.donmai.us/wiki_pages/mig-25"
+        },
+        {
+          "label": "ミグ29",
+          "tag": "mig-29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mig-29"
+        },
+        {
+          "label": "ミグ31",
+          "tag": "mig-31",
+          "link": "https://danbooru.donmai.us/wiki_pages/mig-31"
+        },
+        {
+          "label": "PO-2",
+          "tag": "po-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/po-2"
+        },
+        {
+          "label": "SU-24",
+          "tag": "su-24",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-24"
+        },
+        {
+          "label": "SU-25 グラーフ / フロッグフット",
+          "tag": "su-25",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-25"
+        },
+        {
+          "label": "SU-27",
+          "tag": "su-27",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-27"
+        },
+        {
+          "label": "SU-30",
+          "tag": "su-30",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-30"
+        },
+        {
+          "label": "SU-33",
+          "tag": "su-33",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-33"
+        },
+        {
+          "label": "SU-34",
+          "tag": "su-34",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-34"
+        },
+        {
+          "label": "SU-35",
+          "tag": "su-35",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-35"
+        },
+        {
+          "label": "SU-37",
+          "tag": "su-37",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-37"
+        },
+        {
+          "label": "SU-47 ベルクト",
+          "tag": "su-47_berkut",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-47_berkut"
+        },
+        {
+          "label": "SU-57 / PAK FA",
+          "tag": "su-57",
+          "link": "https://danbooru.donmai.us/wiki_pages/su-57"
+        },
+        {
+          "label": "TU-22",
+          "tag": "tu-22",
+          "link": "https://danbooru.donmai.us/wiki_pages/tu-22"
+        },
+        {
+          "label": "TU-22M",
+          "tag": "tu-22m",
+          "link": "https://danbooru.donmai.us/wiki_pages/tu-22m"
+        },
+        {
+          "label": "TU-28",
+          "tag": "tu-28",
+          "link": "https://danbooru.donmai.us/wiki_pages/tu-28"
+        },
+        {
+          "label": "TU-95",
+          "tag": "tu-95",
+          "link": "https://danbooru.donmai.us/wiki_pages/tu-95"
+        },
+        {
+          "label": "TU-160",
+          "tag": "tu-160",
+          "link": "https://danbooru.donmai.us/wiki_pages/tu-160"
+        },
+        {
+          "label": "ヤク-1",
+          "tag": "yak-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/yak-1"
+        },
+        {
+          "label": "ヤク9",
+          "tag": "yak-9",
+          "link": "https://danbooru.donmai.us/wiki_pages/yak-9"
+        },
+        {
+          "label": "ヤク-28",
+          "tag": "yak-28",
+          "link": "https://danbooru.donmai.us/wiki_pages/yak-28"
+        },
+        {
+          "label": "ヤク141",
+          "tag": "yak-141",
+          "link": "https://danbooru.donmai.us/wiki_pages/yak-141"
+        }
+      ]
+    },
+    {
+      "セクション名": "スウェーデン",
+      "タグ一覧": [
+        {
+          "label": "サーブ ドラケン",
+          "tag": "saab_draken",
+          "link": "https://danbooru.donmai.us/wiki_pages/saab_draken"
+        },
+        {
+          "label": "サーブ・グリペン",
+          "tag": "saab_gripen",
+          "link": "https://danbooru.donmai.us/wiki_pages/saab_gripen"
+        },
+        {
+          "label": "サーブ ヴィゲン",
+          "tag": "saab_viggen",
+          "link": "https://danbooru.donmai.us/wiki_pages/saab_viggen"
+        }
+      ]
+    },
+    {
+      "セクション名": "イギリス",
+      "タグ一覧": [
+        {
+          "label": "エアコ DH.4",
+          "tag": "airco_dh.4",
+          "link": "https://danbooru.donmai.us/wiki_pages/airco_dh.4"
+        },
+        {
+          "label": "アブロ ランカスター",
+          "tag": "avro_lancaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/avro_lancaster"
+        },
+        {
+          "label": "アブロ バルカン",
+          "tag": "avro_vulcan",
+          "link": "https://danbooru.donmai.us/wiki_pages/avro_vulcan"
+        },
+        {
+          "label": "ブラックバーン・バッカニア",
+          "tag": "blackburn_buccaneer",
+          "link": "https://danbooru.donmai.us/wiki_pages/blackburn_buccaneer"
+        },
+        {
+          "label": "ブラックバーン・ロック",
+          "tag": "blackburn_roc",
+          "link": "https://danbooru.donmai.us/wiki_pages/blackburn_roc"
+        },
+        {
+          "label": "ボルトン＝ポール・デファイアント",
+          "tag": "bolton-paul_defiant",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolton-paul_defiant"
+        },
+        {
+          "label": "ブリストル・ボーファイター",
+          "tag": "bristol_beaufighter",
+          "link": "https://danbooru.donmai.us/wiki_pages/bristol_beaufighter"
+        },
+        {
+          "label": "デ・ハビランド モスキート",
+          "tag": "de_havilland_mosquito",
+          "link": "https://danbooru.donmai.us/wiki_pages/de_havilland_mosquito"
+        },
+        {
+          "label": "デ・ハビランド シービクセン",
+          "tag": "de_havilland_sea_vixen",
+          "link": "https://danbooru.donmai.us/wiki_pages/de_havilland_sea_vixen"
+        },
+        {
+          "label": "デ・ハビランド タイガーモス",
+          "tag": "de_havilland_tiger_moth",
+          "link": "https://danbooru.donmai.us/wiki_pages/de_havilland_tiger_moth"
+        },
+        {
+          "label": "デ・ハビランド・ヴァンパイア",
+          "tag": "de_havilland_vampire",
+          "link": "https://danbooru.donmai.us/wiki_pages/de_havilland_vampire"
+        },
+        {
+          "label": "フェアリー・アルバコア",
+          "tag": "fairey_albacore",
+          "link": "https://danbooru.donmai.us/wiki_pages/fairey_albacore"
+        },
+        {
+          "label": "フェアリーバラクーダ",
+          "tag": "fairey_barracuda",
+          "link": "https://danbooru.donmai.us/wiki_pages/fairey_barracuda"
+        },
+        {
+          "label": "フェアリー フルマー",
+          "tag": "fairey_fulmar",
+          "link": "https://danbooru.donmai.us/wiki_pages/fairey_fulmar"
+        },
+        {
+          "label": "フェアリー ファイアフライ",
+          "tag": "fairey_firefly",
+          "link": "https://danbooru.donmai.us/wiki_pages/fairey_firefly"
+        },
+        {
+          "label": "フェアリー ガネット",
+          "tag": "fairey_gannet",
+          "link": "https://danbooru.donmai.us/wiki_pages/fairey_gannet"
+        },
+        {
+          "label": "フェアリーソードフィッシュ",
+          "tag": "fairey_swordfish",
+          "link": "https://danbooru.donmai.us/wiki_pages/fairey_swordfish"
+        },
+        {
+          "label": "グロスター メテオ",
+          "tag": "gloster_meteor",
+          "link": "https://danbooru.donmai.us/wiki_pages/gloster_meteor"
+        },
+        {
+          "label": "グロスター・スパローホーク",
+          "tag": "gloster_sparrowhawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/gloster_sparrowhawk"
+        },
+        {
+          "label": "ホーカーハリアー",
+          "tag": "hawker_harrier",
+          "link": "https://danbooru.donmai.us/wiki_pages/hawker_harrier"
+        },
+        {
+          "label": "ホーカーハリケーン",
+          "tag": "hawker_hurricane",
+          "link": "https://danbooru.donmai.us/wiki_pages/hawker_hurricane"
+        },
+        {
+          "label": "ホーカー シーフューリー",
+          "tag": "hawker_sea_fury",
+          "link": "https://danbooru.donmai.us/wiki_pages/hawker_sea_fury"
+        },
+        {
+          "label": "ホーカー シーホーク",
+          "tag": "hawker_sea_hawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/hawker_sea_hawk"
+        },
+        {
+          "label": "ホーカー テンペスト",
+          "tag": "hawker_tempest",
+          "link": "https://danbooru.donmai.us/wiki_pages/hawker_tempest"
+        },
+        {
+          "label": "ホーカー トルネード",
+          "tag": "hawker_tornado",
+          "link": "https://danbooru.donmai.us/wiki_pages/hawker_tornado"
+        },
+        {
+          "label": "ホーカー・タイフーン",
+          "tag": "hawker_typhoon",
+          "link": "https://danbooru.donmai.us/wiki_pages/hawker_typhoon"
+        },
+        {
+          "label": "ソッピースキャメル",
+          "tag": "sopwith_camel",
+          "link": "https://danbooru.donmai.us/wiki_pages/sopwith_camel"
+        },
+        {
+          "label": "スーパーマリンシミター",
+          "tag": "supermarine_scimitar",
+          "link": "https://danbooru.donmai.us/wiki_pages/supermarine_scimitar"
+        },
+        {
+          "label": "スーパーマリン スピットファイア",
+          "tag": "supermarine_spitfire",
+          "link": "https://danbooru.donmai.us/wiki_pages/supermarine_spitfire"
+        },
+        {
+          "label": "スーパーマリン シーファイア",
+          "tag": "supermarine_seafire",
+          "link": "https://danbooru.donmai.us/wiki_pages/supermarine_seafire"
+        },
+        {
+          "label": "スーパーマリン・スパイトフル",
+          "tag": "supermarine_spiteful",
+          "link": "https://danbooru.donmai.us/wiki_pages/supermarine_spiteful"
+        },
+        {
+          "label": "スーパーマリン ウォーラス",
+          "tag": "supermarine_walrus",
+          "link": "https://danbooru.donmai.us/wiki_pages/supermarine_walrus"
+        },
+        {
+          "label": "BAC TSR-2",
+          "tag": "tsr-2",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsr-2"
+        },
+        {
+          "label": "ウェストランド・ライサンダー",
+          "tag": "westland_lysander",
+          "link": "https://danbooru.donmai.us/wiki_pages/westland_lysander"
+        },
+        {
+          "label": "ウェストランドワイバーン",
+          "tag": "westland_wyvern",
+          "link": "https://danbooru.donmai.us/wiki_pages/westland_wyvern"
+        }
+      ]
+    },
+    {
+      "セクション名": "アメリカ合衆国",
+      "タグ一覧": [
+        {
+          "label": "A-1 スカイレイダー",
+          "tag": "a-1_skyraider",
+          "link": "https://danbooru.donmai.us/wiki_pages/a-1_skyraider"
+        },
+        {
+          "label": "A-4 スカイホーク",
+          "tag": "a-4_skyhawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/a-4_skyhawk"
+        },
+        {
+          "label": "A-5 ヴィジランテ",
+          "tag": "a-5_vigilante",
+          "link": "https://danbooru.donmai.us/wiki_pages/a-5_vigilante"
+        },
+        {
+          "label": "A-6イントルーダー",
+          "tag": "a-6_intruder",
+          "link": "https://danbooru.donmai.us/wiki_pages/a-6_intruder"
+        },
+        {
+          "label": "A-10 サンダーボルト II",
+          "tag": "a-10_thunderbolt_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/a-10_thunderbolt_ii"
+        },
+        {
+          "label": "AC-130 スペクター",
+          "tag": "ac-130_spectre",
+          "link": "https://danbooru.donmai.us/wiki_pages/ac-130_spectre"
+        },
+        {
+          "label": "A2D スカイシャーク",
+          "tag": "a2d_skyshark",
+          "link": "https://danbooru.donmai.us/wiki_pages/a2d_skyshark"
+        },
+        {
+          "label": "B-1 ランサー",
+          "tag": "b-1_lancer",
+          "link": "https://danbooru.donmai.us/wiki_pages/b-1_lancer"
+        },
+        {
+          "label": "B-2 スピリット",
+          "tag": "b-2_spirit",
+          "link": "https://danbooru.donmai.us/wiki_pages/b-2_spirit"
+        },
+        {
+          "label": "B-17 フライングフォートレス",
+          "tag": "b-17_flying_fortress",
+          "link": "https://danbooru.donmai.us/wiki_pages/b-17_flying_fortress"
+        },
+        {
+          "label": "B-24 リベレーター",
+          "tag": "b-24_liberator",
+          "link": "https://danbooru.donmai.us/wiki_pages/b-24_liberator"
+        },
+        {
+          "label": "B-25 ミッチェル",
+          "tag": "b-25_mitchell",
+          "link": "https://danbooru.donmai.us/wiki_pages/b-25_mitchell"
+        },
+        {
+          "label": "B-29 スーパーフォートレス",
+          "tag": "b-29_superfortress",
+          "link": "https://danbooru.donmai.us/wiki_pages/b-29_superfortress"
+        },
+        {
+          "label": "B-36 ピースメーカー",
+          "tag": "b-36_peacemaker",
+          "link": "https://danbooru.donmai.us/wiki_pages/b-36_peacemaker"
+        },
+        {
+          "label": "B-52 ストラトフォートレス",
+          "tag": "b-52_stratofortress",
+          "link": "https://danbooru.donmai.us/wiki_pages/b-52_stratofortress"
+        },
+        {
+          "label": "C-5M スーパーギャラクシー",
+          "tag": "c-5m_super_galaxy",
+          "link": "https://danbooru.donmai.us/wiki_pages/c-5m_super_galaxy"
+        },
+        {
+          "label": "C-46コマンドー",
+          "tag": "c-46_commando",
+          "link": "https://danbooru.donmai.us/wiki_pages/c-46_commando"
+        },
+        {
+          "label": "C-47",
+          "tag": "c-47",
+          "link": "https://danbooru.donmai.us/wiki_pages/c-47"
+        },
+        {
+          "label": "C-130 ハーキュリーズ",
+          "tag": "c-130_hercules",
+          "link": "https://danbooru.donmai.us/wiki_pages/c-130_hercules"
+        },
+        {
+          "label": "C-141 スターリフター",
+          "tag": "c-141_starlifter",
+          "link": "https://danbooru.donmai.us/wiki_pages/c-141_starlifter"
+        },
+        {
+          "label": "E-2 ホークアイ",
+          "tag": "e-2_hawkeye",
+          "link": "https://danbooru.donmai.us/wiki_pages/e-2_hawkeye"
+        },
+        {
+          "label": "E-3 セントリー",
+          "tag": "e-3_sentry",
+          "link": "https://danbooru.donmai.us/wiki_pages/e-3_sentry"
+        },
+        {
+          "label": "EA-6 プラウラー",
+          "tag": "ea-6_prowler",
+          "link": "https://danbooru.donmai.us/wiki_pages/ea-6_prowler"
+        },
+        {
+          "label": "F-4 ファントム II",
+          "tag": "f-4_phantom_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-4_phantom_ii"
+        },
+        {
+          "label": "F-5フリーダムファイター",
+          "tag": "f-5_freedom_fighter",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-5_freedom_fighter"
+        },
+        {
+          "label": "F-8クルセイダー",
+          "tag": "f-8_crusader",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-8_crusader"
+        },
+        {
+          "label": "F-11 タイガー",
+          "tag": "f-11_tiger",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-11_tiger"
+        },
+        {
+          "label": "F-14 トムキャット",
+          "tag": "f-14_tomcat",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-14_tomcat"
+        },
+        {
+          "label": "F-15イーグル",
+          "tag": "f-15_eagle",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-15_eagle"
+        },
+        {
+          "label": "F-15S/MTD",
+          "tag": "f-15s%2Fmtd",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-15s%2Fmtd"
+        },
+        {
+          "label": "F-16 ファイティング・ファルコン",
+          "tag": "f-16_fighting_falcon",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-16_fighting_falcon"
+        },
+        {
+          "label": "F-18ホーネット",
+          "tag": "f-18_hornet",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-18_hornet"
+        },
+        {
+          "label": "F/A-18E スーパーホーネット",
+          "tag": "f%2Fa-18e_super_hornet",
+          "link": "https://danbooru.donmai.us/wiki_pages/f%2Fa-18e_super_hornet"
+        },
+        {
+          "label": "F-20 タイガーシャーク",
+          "tag": "f-20_tigershark",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-20_tigershark"
+        },
+        {
+          "label": "F-22 ラプター",
+          "tag": "f-22_raptor",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-22_raptor"
+        },
+        {
+          "label": "F-35 ライトニング II",
+          "tag": "f-35_lightning_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-35_lightning_ii"
+        },
+        {
+          "label": "F-86 セイバー",
+          "tag": "f-86_sabre",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-86_sabre"
+        },
+        {
+          "label": "F-86D セイバー",
+          "tag": "f-86d_sabre",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-86d_sabre"
+        },
+        {
+          "label": "F-94 スターファイア",
+          "tag": "f-94_starfire",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-94_starfire"
+        },
+        {
+          "label": "F-104 スターファイター",
+          "tag": "f-104_starfighter",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-104_starfighter"
+        },
+        {
+          "label": "F-105 サンダーチーフ",
+          "tag": "f-105_thunderchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-105_thunderchief"
+        },
+        {
+          "label": "F-106 デルタダート",
+          "tag": "f-106_delta_dart",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-106_delta_dart"
+        },
+        {
+          "label": "F-111 アードバーク",
+          "tag": "f-111_aardvark",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-111_aardvark"
+        },
+        {
+          "label": "F-117 ナイトホーク",
+          "tag": "f-117_nighthawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/f-117_nighthawk"
+        },
+        {
+          "label": "FHファントム",
+          "tag": "fh_phantom",
+          "link": "https://danbooru.donmai.us/wiki_pages/fh_phantom"
+        },
+        {
+          "label": "F2A バッファロー",
+          "tag": "f2a_buffalo",
+          "link": "https://danbooru.donmai.us/wiki_pages/f2a_buffalo"
+        },
+        {
+          "label": "F2Y シーダート",
+          "tag": "f2y_sea_dart",
+          "link": "https://danbooru.donmai.us/wiki_pages/f2y_sea_dart"
+        },
+        {
+          "label": "F4Fワイルドキャット",
+          "tag": "f4f_wildcat",
+          "link": "https://danbooru.donmai.us/wiki_pages/f4f_wildcat"
+        },
+        {
+          "label": "F4Uコルセア",
+          "tag": "f4u_corsair",
+          "link": "https://danbooru.donmai.us/wiki_pages/f4u_corsair"
+        },
+        {
+          "label": "F6Fヘルキャット",
+          "tag": "f6f_hellcat",
+          "link": "https://danbooru.donmai.us/wiki_pages/f6f_hellcat"
+        },
+        {
+          "label": "F7F タイガーキャット",
+          "tag": "f7f_tigercat",
+          "link": "https://danbooru.donmai.us/wiki_pages/f7f_tigercat"
+        },
+        {
+          "label": "F8F ベアキャット",
+          "tag": "f8f_bearcat",
+          "link": "https://danbooru.donmai.us/wiki_pages/f8f_bearcat"
+        },
+        {
+          "label": "F9C スパローホーク",
+          "tag": "f9c_sparrowhawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/f9c_sparrowhawk"
+        },
+        {
+          "label": "FM-2 ワイルドキャット",
+          "tag": "fm-2_wildcat",
+          "link": "https://danbooru.donmai.us/wiki_pages/fm-2_wildcat"
+        },
+        {
+          "label": "JRMマース",
+          "tag": "jrm_mars",
+          "link": "https://danbooru.donmai.us/wiki_pages/jrm_mars"
+        },
+        {
+          "label": "J2Fダック",
+          "tag": "j2f_duck",
+          "link": "https://danbooru.donmai.us/wiki_pages/j2f_duck"
+        },
+        {
+          "label": "KC-10 エクステンダー",
+          "tag": "kc-10_extender",
+          "link": "https://danbooru.donmai.us/wiki_pages/kc-10_extender"
+        },
+        {
+          "label": "KC-135 ストラトタンカー",
+          "tag": "kc-135_stratotanker",
+          "link": "https://danbooru.donmai.us/wiki_pages/kc-135_stratotanker"
+        },
+        {
+          "label": "OV-10 ブロンコ",
+          "tag": "ov-10_bronco",
+          "link": "https://danbooru.donmai.us/wiki_pages/ov-10_bronco"
+        },
+        {
+          "label": "P-38 ライトニング",
+          "tag": "p-38_lightning",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-38_lightning"
+        },
+        {
+          "label": "P-39 エアラコブラ",
+          "tag": "p-39_airacobra",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-39_airacobra"
+        },
+        {
+          "label": "P-40 ウォーホーク",
+          "tag": "p-40_warhawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-40_warhawk"
+        },
+        {
+          "label": "P-47 サンダーボルト",
+          "tag": "p-47_thunderbolt",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-47_thunderbolt"
+        },
+        {
+          "label": "P-51 マスタング",
+          "tag": "p-51_mustang",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-51_mustang"
+        },
+        {
+          "label": "P-61 ブラックウィドウ",
+          "tag": "p-61_black_widow",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-61_black_widow"
+        },
+        {
+          "label": "P-75イーグル",
+          "tag": "p-75_eagle",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-75_eagle"
+        },
+        {
+          "label": "P-80 シューティングスター",
+          "tag": "p-80_shooting_star",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-80_shooting_star"
+        },
+        {
+          "label": "P-82 ツインマスタング",
+          "tag": "p-82_twin_mustang",
+          "link": "https://danbooru.donmai.us/wiki_pages/p-82_twin_mustang"
+        },
+        {
+          "label": "P6M シーマスター",
+          "tag": "p6m_seamaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/p6m_seamaster"
+        },
+        {
+          "label": "PBYカタリナ",
+          "tag": "pby_catalina",
+          "link": "https://danbooru.donmai.us/wiki_pages/pby_catalina"
+        },
+        {
+          "label": "SR-71 ブラックバード",
+          "tag": "sr-71_blackbird",
+          "link": "https://danbooru.donmai.us/wiki_pages/sr-71_blackbird"
+        },
+        {
+          "label": "SBDドーントレス",
+          "tag": "sbd_dauntless",
+          "link": "https://danbooru.donmai.us/wiki_pages/sbd_dauntless"
+        },
+        {
+          "label": "SB2C ヘルダイバー",
+          "tag": "sb2c_helldiver",
+          "link": "https://danbooru.donmai.us/wiki_pages/sb2c_helldiver"
+        },
+        {
+          "label": "T-6 テキサン",
+          "tag": "t-6_texan",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-6_texan"
+        },
+        {
+          "label": "T-38 タロン",
+          "tag": "t-38_talon",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-38_talon"
+        },
+        {
+          "label": "TBD デヴァステーター",
+          "tag": "tbd_devastator",
+          "link": "https://danbooru.donmai.us/wiki_pages/tbd_devastator"
+        },
+        {
+          "label": "TBFアベンジャー",
+          "tag": "tbf_avenger",
+          "link": "https://danbooru.donmai.us/wiki_pages/tbf_avenger"
+        },
+        {
+          "label": "U-2 ドラゴンレディ",
+          "tag": "u-2_dragon_lady",
+          "link": "https://danbooru.donmai.us/wiki_pages/u-2_dragon_lady"
+        },
+        {
+          "label": "V-22オスプレイ",
+          "tag": "v-22_osprey",
+          "link": "https://danbooru.donmai.us/wiki_pages/v-22_osprey"
+        },
+        {
+          "label": "X-1",
+          "tag": "x-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-1"
+        },
+        {
+          "label": "XF5U",
+          "tag": "xf5u",
+          "link": "https://danbooru.donmai.us/wiki_pages/xf5u"
+        },
+        {
+          "label": "XFY-1",
+          "tag": "xfy-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/xfy-1"
+        },
+        {
+          "label": "X-15",
+          "tag": "x-15",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-15"
+        },
+        {
+          "label": "X-24",
+          "tag": "x-24",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-24"
+        },
+        {
+          "label": "X-29",
+          "tag": "x-29",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-29"
+        },
+        {
+          "label": "X-36",
+          "tag": "x-36",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-36"
+        },
+        {
+          "label": "XB-35",
+          "tag": "xb-35",
+          "link": "https://danbooru.donmai.us/wiki_pages/xb-35"
+        },
+        {
+          "label": "XF-85 ゴブリン",
+          "tag": "xf-85_goblin",
+          "link": "https://danbooru.donmai.us/wiki_pages/xf-85_goblin"
+        },
+        {
+          "label": "XP-79",
+          "tag": "xp-79",
+          "link": "https://danbooru.donmai.us/wiki_pages/xp-79"
+        }
+      ]
+    },
+    {
+      "セクション名": "民間機",
+      "タグ一覧": [
+        {
+          "label": "エアバスA320",
+          "tag": "airbus_a320",
+          "link": "https://danbooru.donmai.us/wiki_pages/airbus_a320"
+        },
+        {
+          "label": "エアバスA330",
+          "tag": "airbus_a330",
+          "link": "https://danbooru.donmai.us/wiki_pages/airbus_a330"
+        },
+        {
+          "label": "エアバスA340",
+          "tag": "airbus_a340",
+          "link": "https://danbooru.donmai.us/wiki_pages/airbus_a340"
+        },
+        {
+          "label": "エアバスA350",
+          "tag": "airbus_a350",
+          "link": "https://danbooru.donmai.us/wiki_pages/airbus_a350"
+        },
+        {
+          "label": "エアバスA380",
+          "tag": "airbus_a380",
+          "link": "https://danbooru.donmai.us/wiki_pages/airbus_a380"
+        },
+        {
+          "label": "アントノフ An-148",
+          "tag": "an-148",
+          "link": "https://danbooru.donmai.us/wiki_pages/an-148"
+        },
+        {
+          "label": "アントノフ An-225",
+          "tag": "antonov_an-225",
+          "link": "https://danbooru.donmai.us/wiki_pages/antonov_an-225"
+        },
+        {
+          "label": "ボーイング727",
+          "tag": "boeing_727",
+          "link": "https://danbooru.donmai.us/wiki_pages/boeing_727"
+        },
+        {
+          "label": "ボーイング737",
+          "tag": "boeing_737",
+          "link": "https://danbooru.donmai.us/wiki_pages/boeing_737"
+        },
+        {
+          "label": "ボーイング737 MAX",
+          "tag": "boeing_737_max",
+          "link": "https://danbooru.donmai.us/wiki_pages/boeing_737_max"
+        },
+        {
+          "label": "ボーイング747",
+          "tag": "boeing_747",
+          "link": "https://danbooru.donmai.us/wiki_pages/boeing_747"
+        },
+        {
+          "label": "ボーイング767",
+          "tag": "boeing_767",
+          "link": "https://danbooru.donmai.us/wiki_pages/boeing_767"
+        },
+        {
+          "label": "ボーイング787ドリームライナー",
+          "tag": "boeing_787",
+          "link": "https://danbooru.donmai.us/wiki_pages/boeing_787"
+        },
+        {
+          "label": "コンコルド",
+          "tag": "concorde",
+          "link": "https://danbooru.donmai.us/wiki_pages/concorde"
+        },
+        {
+          "label": "マクドネル・ダグラス DC-10",
+          "tag": "dc-10",
+          "link": "https://danbooru.donmai.us/wiki_pages/dc-10"
+        },
+        {
+          "label": "マクドネル・ダグラス MD-11",
+          "tag": "md-11",
+          "link": "https://danbooru.donmai.us/wiki_pages/md-11"
+        }
+      ]
+    },
+    {
+      "セクション名": "架空の航空機",
+      "タグ一覧": [
+        {
+          "label": "ADF-01 ファルケン",
+          "tag": "adf-01_falken",
+          "link": "https://danbooru.donmai.us/wiki_pages/adf-01_falken"
+        },
+        {
+          "label": "ADF-11F レイヴン",
+          "tag": "adf-11f_raven",
+          "link": "https://danbooru.donmai.us/wiki_pages/adf-11f_raven"
+        },
+        {
+          "label": "ADFX-01 モーガン",
+          "tag": "adfx-01_morgan",
+          "link": "https://danbooru.donmai.us/wiki_pages/adfx-01_morgan"
+        },
+        {
+          "label": "ADFX-02 モーガン",
+          "tag": "adfx-02_morgan",
+          "link": "https://danbooru.donmai.us/wiki_pages/adfx-02_morgan"
+        },
+        {
+          "label": "ADFX-10",
+          "tag": "adfx-10",
+          "link": "https://danbooru.donmai.us/wiki_pages/adfx-10"
+        },
+        {
+          "label": "ADFX-10F",
+          "tag": "adfx-10f",
+          "link": "https://danbooru.donmai.us/wiki_pages/adfx-10f"
+        },
+        {
+          "label": "アーセナル・バード",
+          "tag": "arsenal_bird",
+          "link": "https://danbooru.donmai.us/wiki_pages/arsenal_bird"
+        },
+        {
+          "label": "カーチスR3C-0",
+          "tag": "curtiss_r3c-0",
+          "link": "https://danbooru.donmai.us/wiki_pages/curtiss_r3c-0"
+        },
+        {
+          "label": "GAF-1",
+          "tag": "gaf-1",
+          "link": "https://danbooru.donmai.us/wiki_pages/gaf-1"
+        },
+        {
+          "label": "R-101 デルフィヌス I",
+          "tag": "r-101_delphinus_i",
+          "link": "https://danbooru.donmai.us/wiki_pages/r-101_delphinus_i"
+        },
+        {
+          "label": "R-102 デルフィヌス II",
+          "tag": "r-102_delphinus_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/r-102_delphinus_ii"
+        },
+        {
+          "label": "R-103 デルフィヌスIII",
+          "tag": "r-103_delphinus_iii",
+          "link": "https://danbooru.donmai.us/wiki_pages/r-103_delphinus_iii"
+        },
+        {
+          "label": "サヴォイア S.21",
+          "tag": "savoia_s.21",
+          "link": "https://danbooru.donmai.us/wiki_pages/savoia_s.21"
+        },
+        {
+          "label": "T-65 Xウイング",
+          "tag": "t-65_x-wing",
+          "link": "https://danbooru.donmai.us/wiki_pages/t-65_x-wing"
+        },
+        {
+          "label": "X-02 ワイバーン",
+          "tag": "x-02_wyvern",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-02_wyvern"
+        }
+      ]
+    },
+    {
+      "セクション名": "航空会社/アクロバットチーム",
+      "タグ一覧": [
+        {
+          "label": "アリタリア航空",
+          "tag": "alitalia",
+          "link": "https://danbooru.donmai.us/wiki_pages/alitalia"
+        },
+        {
+          "label": "全日本空輸",
+          "tag": "all_nippon_airways",
+          "link": "https://danbooru.donmai.us/wiki_pages/all_nippon_airways"
+        },
+        {
+          "label": "ブルーエンジェルス",
+          "tag": "blue_angels_%28team%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_angels_%28team%29"
+        },
+        {
+          "label": "ブルーインパルス",
+          "tag": "blue_impulse_%28team%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_impulse_%28team%29"
+        },
+        {
+          "label": "キャセイパシフィック航空",
+          "tag": "cathay_pacific",
+          "link": "https://danbooru.donmai.us/wiki_pages/cathay_pacific"
+        },
+        {
+          "label": "日本航空",
+          "tag": "japan_airlines",
+          "link": "https://danbooru.donmai.us/wiki_pages/japan_airlines"
+        },
+        {
+          "label": "パトルイユ・スイス",
+          "tag": "patrouille_suisse",
+          "link": "https://danbooru.donmai.us/wiki_pages/patrouille_suisse"
+        },
+        {
+          "label": "カンタス航空",
+          "tag": "qantas",
+          "link": "https://danbooru.donmai.us/wiki_pages/qantas"
+        },
+        {
+          "label": "シンガポール航空",
+          "tag": "singapore_airlines",
+          "link": "https://danbooru.donmai.us/wiki_pages/singapore_airlines"
+        },
+        {
+          "label": "サンダーバード",
+          "tag": "thunderbirds_%28team%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/thunderbirds_%28team%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "空軍",
+      "タグ一覧": [
+        {
+          "label": "イラン・イスラム共和国空軍",
+          "tag": "islamic_republic_of_iran_air_force",
+          "link": "https://danbooru.donmai.us/wiki_pages/islamic_republic_of_iran_air_force"
+        },
+        {
+          "label": "ドイツ帝国飛行隊",
+          "tag": "imperial_german_flying_corps",
+          "link": "https://danbooru.donmai.us/wiki_pages/imperial_german_flying_corps"
+        },
+        {
+          "label": "ドイツ空軍",
+          "tag": "luftwaffe",
+          "link": "https://danbooru.donmai.us/wiki_pages/luftwaffe"
+        },
+        {
+          "label": "航空自衛隊",
+          "tag": "japan_air_self-defense_force",
+          "link": "https://danbooru.donmai.us/wiki_pages/japan_air_self-defense_force"
+        },
+        {
+          "label": "朝鮮人民空軍",
+          "tag": "korean_people%27s_air_force",
+          "link": "https://danbooru.donmai.us/wiki_pages/korean_people%27s_air_force"
+        },
+        {
+          "label": "中国人民解放軍空軍",
+          "tag": "people%27s_liberation_army_air_force",
+          "link": "https://danbooru.donmai.us/wiki_pages/people%27s_liberation_army_air_force"
+        },
+        {
+          "label": "イタリア空軍",
+          "tag": "regia_aeronautica",
+          "link": "https://danbooru.donmai.us/wiki_pages/regia_aeronautica"
+        },
+        {
+          "label": "イギリス空軍",
+          "tag": "royal_air_force",
+          "link": "https://danbooru.donmai.us/wiki_pages/royal_air_force"
+        },
+        {
+          "label": "ロシア空軍",
+          "tag": "russian_air_force",
+          "link": "https://danbooru.donmai.us/wiki_pages/russian_air_force"
+        },
+        {
+          "label": "ソビエト空軍",
+          "tag": "soviet_air_force",
+          "link": "https://danbooru.donmai.us/wiki_pages/soviet_air_force"
+        },
+        {
+          "label": "アメリカ空軍",
+          "tag": "united_states_air_force",
+          "link": "https://danbooru.donmai.us/wiki_pages/united_states_air_force"
+        },
+        {
+          "label": "ベトナム人民空軍",
+          "tag": "vietnam_people%27s_air_force",
+          "link": "https://danbooru.donmai.us/wiki_pages/vietnam_people%27s_air_force"
+        }
+      ]
+    },
+    {
+      "セクション名": "飛行機の部品",
+      "タグ一覧": [
+        {
+          "label": "アフターバーナー",
+          "tag": "afterburner",
+          "link": "https://danbooru.donmai.us/wiki_pages/afterburner"
+        },
+        {
+          "label": "エアブレーキ",
+          "tag": "airbrake",
+          "link": "https://danbooru.donmai.us/wiki_pages/airbrake"
+        },
+        {
+          "label": "飛行機の内部",
+          "tag": "airplane_interior",
+          "link": "https://danbooru.donmai.us/wiki_pages/airplane_interior"
+        },
+        {
+          "label": "カナード",
+          "tag": "canards",
+          "link": "https://danbooru.donmai.us/wiki_pages/canards"
+        },
+        {
+          "label": "キャノピー（風防）",
+          "tag": "canopy_%28aircraft%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/canopy_%28aircraft%29"
+        },
+        {
+          "label": "コックピット",
+          "tag": "cockpit",
+          "link": "https://danbooru.donmai.us/wiki_pages/cockpit"
+        },
+        {
+          "label": "グラスコックピット",
+          "tag": "glass_cockpit",
+          "link": "https://danbooru.donmai.us/wiki_pages/glass_cockpit"
+        },
+        {
+          "label": "オープンコックピット",
+          "tag": "open_cockpit",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_cockpit"
+        },
+        {
+          "label": "二重反転プロペラ",
+          "tag": "contra-rotating_propellers",
+          "link": "https://danbooru.donmai.us/wiki_pages/contra-rotating_propellers"
+        },
+        {
+          "label": "増槽",
+          "tag": "drop_tank",
+          "link": "https://danbooru.donmai.us/wiki_pages/drop_tank"
+        },
+        {
+          "label": "着陸装置",
+          "tag": "landing_gear",
+          "link": "https://danbooru.donmai.us/wiki_pages/landing_gear"
+        },
+        {
+          "label": "ポンツーン",
+          "tag": "pontoon",
+          "link": "https://danbooru.donmai.us/wiki_pages/pontoon"
+        },
+        {
+          "label": "プロペラ",
+          "tag": "propeller",
+          "link": "https://danbooru.donmai.us/wiki_pages/propeller"
+        }
+      ]
+    },
+    {
+      "セクション名": "対空兵器",
+      "タグ一覧": [
+        {
+          "label": "88 フラック",
+          "tag": "88_flak",
+          "link": "https://danbooru.donmai.us/wiki_pages/88_flak"
+        },
+        {
+          "label": "対空砲",
+          "tag": "anti-aircraft_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-aircraft_gun"
+        },
+        {
+          "label": "高射砲",
+          "tag": "flak",
+          "link": "https://danbooru.donmai.us/wiki_pages/flak"
+        },
+        {
+          "label": "ミサイル",
+          "tag": "missile",
+          "link": "https://danbooru.donmai.us/wiki_pages/missile"
+        }
+      ]
+    },
+    {
+      "セクション名": "航空関連",
+      "タグ一覧": [
+        {
+          "label": "空母",
+          "tag": "aircraft_carrier",
+          "link": "https://danbooru.donmai.us/wiki_pages/aircraft_carrier"
+        },
+        {
+          "label": "空港",
+          "tag": "airport",
+          "link": "https://danbooru.donmai.us/wiki_pages/airport"
+        },
+        {
+          "label": "飛行機雲",
+          "tag": "contrail",
+          "link": "https://danbooru.donmai.us/wiki_pages/contrail"
+        },
+        {
+          "label": "管制塔",
+          "tag": "control_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/control_tower"
+        },
+        {
+          "label": "飛行甲板",
+          "tag": "flight_deck",
+          "link": "https://danbooru.donmai.us/wiki_pages/flight_deck"
+        },
+        {
+          "label": "格納庫",
+          "tag": "hangar",
+          "link": "https://danbooru.donmai.us/wiki_pages/hangar"
+        },
+        {
+          "label": "着陸",
+          "tag": "landing",
+          "link": "https://danbooru.donmai.us/wiki_pages/landing"
+        },
+        {
+          "label": "軍事基地",
+          "tag": "military_base",
+          "link": "https://danbooru.donmai.us/wiki_pages/military_base"
+        },
+        {
+          "label": "滑走路",
+          "tag": "runway",
+          "link": "https://danbooru.donmai.us/wiki_pages/runway"
+        }
+      ]
+    },
+    {
+      "セクション名": "戦闘",
+      "タグ一覧": [
+        {
+          "label": "空中戦",
+          "tag": "aerial_battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/aerial_battle"
+        },
+        {
+          "label": "ドッグファイト",
+          "tag": "dogfight",
+          "link": "https://danbooru.donmai.us/wiki_pages/dogfight"
+        },
+        {
+          "label": "湾岸戦争",
+          "tag": "gulf_war",
+          "link": "https://danbooru.donmai.us/wiki_pages/gulf_war"
+        },
+        {
+          "label": "朝鮮戦争",
+          "tag": "korean_war",
+          "link": "https://danbooru.donmai.us/wiki_pages/korean_war"
+        },
+        {
+          "label": "ベトナム戦争",
+          "tag": "vietnam_war",
+          "link": "https://danbooru.donmai.us/wiki_pages/vietnam_war"
+        },
+        {
+          "label": "第一次世界大戦",
+          "tag": "world_war_i",
+          "link": "https://danbooru.donmai.us/wiki_pages/world_war_i"
+        },
+        {
+          "label": "第二次世界大戦",
+          "tag": "world_war_ii",
+          "link": "https://danbooru.donmai.us/wiki_pages/world_war_ii"
+        }
+      ]
+    },
+    {
+      "セクション名": "マーク/シンボル",
+      "タグ一覧": [
+        {
+          "label": "エンブレム",
+          "tag": "emblem",
+          "link": "https://danbooru.donmai.us/wiki_pages/emblem"
+        },
+        {
+          "label": "鎌と槌",
+          "tag": "hammer_and_sickle",
+          "link": "https://danbooru.donmai.us/wiki_pages/hammer_and_sickle"
+        },
+        {
+          "label": "鉄十字",
+          "tag": "iron_cross",
+          "link": "https://danbooru.donmai.us/wiki_pages/iron_cross"
+        },
+        {
+          "label": "痛車",
+          "tag": "itasha",
+          "link": "https://danbooru.donmai.us/wiki_pages/itasha"
+        },
+        {
+          "label": "キルマーキング",
+          "tag": "kill_markings",
+          "link": "https://danbooru.donmai.us/wiki_pages/kill_markings"
+        },
+        {
+          "label": "ノーズアート",
+          "tag": "nose_art",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_art"
+        },
+        {
+          "label": "旭日旗",
+          "tag": "rising_sun_flag",
+          "link": "https://danbooru.donmai.us/wiki_pages/rising_sun_flag"
+        },
+        {
+          "label": "ダビデの星",
+          "tag": "star_of_david",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_of_david"
+        },
+        {
+          "label": "卍",
+          "tag": "swastika",
+          "link": "https://danbooru.donmai.us/wiki_pages/swastika"
+        }
+      ]
+    },
+    {
+      "セクション名": "職業",
+      "タグ一覧": [
+        {
+          "label": "客室乗務員",
+          "tag": "flight_attendant",
+          "link": "https://danbooru.donmai.us/wiki_pages/flight_attendant"
+        },
+        {
+          "label": "パイロット",
+          "tag": "pilot",
+          "link": "https://danbooru.donmai.us/wiki_pages/pilot"
+        },
+        {
+          "label": "旅行添乗員",
+          "tag": "travel_attendant",
+          "link": "https://danbooru.donmai.us/wiki_pages/travel_attendant"
+        }
+      ]
+    },
+    {
+      "セクション名": "操縦士の装備",
+      "タグ一覧": [
+        {
+          "label": "飛行士帽",
+          "tag": "aviator_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/aviator_cap"
+        },
+        {
+          "label": "飛行士用ゴーグル",
+          "tag": "aviator_goggles",
+          "link": "https://danbooru.donmai.us/wiki_pages/aviator_goggles"
+        },
+        {
+          "label": "ヘッドアップディスプレイ",
+          "tag": "heads-up_display",
+          "link": "https://danbooru.donmai.us/wiki_pages/heads-up_display"
+        },
+        {
+          "label": "酸素マスク",
+          "tag": "oxygen_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/oxygen_mask"
+        },
+        {
+          "label": "Gスーツ",
+          "tag": "g-suit",
+          "link": "https://danbooru.donmai.us/wiki_pages/g-suit"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "航空機",
+          "tag": "aircraft",
+          "link": "https://danbooru.donmai.us/wiki_pages/aircraft"
+        },
+        {
+          "label": "飛行船",
+          "tag": "airship",
+          "link": "https://danbooru.donmai.us/wiki_pages/airship"
+        },
+        {
+          "label": "グライダー",
+          "tag": "glider",
+          "link": "https://danbooru.donmai.us/wiki_pages/glider"
+        },
+        {
+          "label": "ガンシップ",
+          "tag": "gunship",
+          "link": "https://danbooru.donmai.us/wiki_pages/gunship"
+        },
+        {
+          "label": "ジャイロコプター",
+          "tag": "gyrocopter",
+          "link": "https://danbooru.donmai.us/wiki_pages/gyrocopter"
+        },
+        {
+          "label": "ヘリコプター",
+          "tag": "helicopter",
+          "link": "https://danbooru.donmai.us/wiki_pages/helicopter"
+        },
+        {
+          "label": "ヒルシュゲヴァイアンテナ",
+          "tag": "hirschgeweih_antennas",
+          "link": "https://danbooru.donmai.us/wiki_pages/hirschgeweih_antennas"
+        },
+        {
+          "label": "メカ娘",
+          "tag": "mecha_musume",
+          "link": "https://danbooru.donmai.us/wiki_pages/mecha_musume"
+        },
+        {
+          "label": "軍隊",
+          "tag": "military",
+          "link": "https://danbooru.donmai.us/wiki_pages/military"
+        },
+        {
+          "label": "ストライカーユニット",
+          "tag": "striker_unit",
+          "link": "https://danbooru.donmai.us/wiki_pages/striker_unit"
+        },
+        {
+          "label": "無人航空機",
+          "tag": "uav",
+          "link": "https://danbooru.donmai.us/wiki_pages/uav"
+        },
+        {
+          "label": "タググループ：テクノロジー",
+          "tag": "tag_group%3Atechnology",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Atechnology"
+        },
+        {
+          "label": "ヘリコプター一覧",
+          "tag": "list_of_helicopters",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_helicopters"
+        },
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
+}

@@ -4,8 +4,6 @@
 
 # Local catalogs and documentation
 /custom/
-/json/
-/README*
 /TRANSLATION_GUIDE_JA.md
 
 # Tests, sample fixtures, and translation work

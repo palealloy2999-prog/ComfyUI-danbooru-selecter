@@ -1,0 +1,2377 @@
+{
+  "カテゴリID": "real_world_locations",
+  "カテゴリ名": "実在の場所",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Areal_world_locations",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "現実世界の場所",
+          "tag": "real_world_location",
+          "link": "https://danbooru.donmai.us/wiki_pages/real_world_location"
+        }
+      ]
+    },
+    {
+      "セクション名": "国・地域・都市",
+      "タグ一覧": [
+        {
+          "label": "アフガニスタン",
+          "tag": "afghanistan",
+          "link": "https://danbooru.donmai.us/wiki_pages/afghanistan"
+        },
+        {
+          "label": "アルジェリア",
+          "tag": "algeria",
+          "link": "https://danbooru.donmai.us/wiki_pages/algeria"
+        },
+        {
+          "label": "アルゼンチン",
+          "tag": "argentina",
+          "link": "https://danbooru.donmai.us/wiki_pages/argentina"
+        },
+        {
+          "label": "アルメニア",
+          "tag": "armenia",
+          "link": "https://danbooru.donmai.us/wiki_pages/armenia"
+        },
+        {
+          "label": "オーストラリア",
+          "tag": "australia",
+          "link": "https://danbooru.donmai.us/wiki_pages/australia"
+        },
+        {
+          "label": "メルボルン",
+          "tag": "melbourne",
+          "link": "https://danbooru.donmai.us/wiki_pages/melbourne"
+        },
+        {
+          "label": "シドニー",
+          "tag": "sydney",
+          "link": "https://danbooru.donmai.us/wiki_pages/sydney"
+        },
+        {
+          "label": "オーストリア",
+          "tag": "austria",
+          "link": "https://danbooru.donmai.us/wiki_pages/austria"
+        },
+        {
+          "label": "ウィーン",
+          "tag": "vienna",
+          "link": "https://danbooru.donmai.us/wiki_pages/vienna"
+        },
+        {
+          "label": "アゼルバイジャン",
+          "tag": "azerbaijan",
+          "link": "https://danbooru.donmai.us/wiki_pages/azerbaijan"
+        },
+        {
+          "label": "バクー",
+          "tag": "baku_%28azerbaijan%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/baku_%28azerbaijan%29"
+        },
+        {
+          "label": "バーレーン",
+          "tag": "bahrain",
+          "link": "https://danbooru.donmai.us/wiki_pages/bahrain"
+        },
+        {
+          "label": "バングラデシュ",
+          "tag": "bangladesh",
+          "link": "https://danbooru.donmai.us/wiki_pages/bangladesh"
+        },
+        {
+          "label": "ベラルーシ",
+          "tag": "belarus",
+          "link": "https://danbooru.donmai.us/wiki_pages/belarus"
+        },
+        {
+          "label": "ベルギー",
+          "tag": "belgium",
+          "link": "https://danbooru.donmai.us/wiki_pages/belgium"
+        },
+        {
+          "label": "ボリビア",
+          "tag": "bolivia",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolivia"
+        },
+        {
+          "label": "ボスニア・ヘルツェゴビナ",
+          "tag": "bosnia_and_herzegovina",
+          "link": "https://danbooru.donmai.us/wiki_pages/bosnia_and_herzegovina"
+        },
+        {
+          "label": "ブラジル",
+          "tag": "brazil",
+          "link": "https://danbooru.donmai.us/wiki_pages/brazil"
+        },
+        {
+          "label": "リオデジャネイロ",
+          "tag": "rio_de_janeiro",
+          "link": "https://danbooru.donmai.us/wiki_pages/rio_de_janeiro"
+        },
+        {
+          "label": "ブルガリア",
+          "tag": "bulgaria",
+          "link": "https://danbooru.donmai.us/wiki_pages/bulgaria"
+        },
+        {
+          "label": "ブルキナファソ",
+          "tag": "burkina_faso",
+          "link": "https://danbooru.donmai.us/wiki_pages/burkina_faso"
+        },
+        {
+          "label": "カンボジア",
+          "tag": "cambodia",
+          "link": "https://danbooru.donmai.us/wiki_pages/cambodia"
+        },
+        {
+          "label": "カメルーン",
+          "tag": "cameroon",
+          "link": "https://danbooru.donmai.us/wiki_pages/cameroon"
+        },
+        {
+          "label": "カナダ",
+          "tag": "canada",
+          "link": "https://danbooru.donmai.us/wiki_pages/canada"
+        },
+        {
+          "label": "ノバスコシア州",
+          "tag": "nova_scotia",
+          "link": "https://danbooru.donmai.us/wiki_pages/nova_scotia"
+        },
+        {
+          "label": "ケベック",
+          "tag": "quebec",
+          "link": "https://danbooru.donmai.us/wiki_pages/quebec"
+        },
+        {
+          "label": "トロント",
+          "tag": "toronto",
+          "link": "https://danbooru.donmai.us/wiki_pages/toronto"
+        },
+        {
+          "label": "チリ",
+          "tag": "chile",
+          "link": "https://danbooru.donmai.us/wiki_pages/chile"
+        },
+        {
+          "label": "イースター島",
+          "tag": "easter_island",
+          "link": "https://danbooru.donmai.us/wiki_pages/easter_island"
+        },
+        {
+          "label": "中国",
+          "tag": "china",
+          "link": "https://danbooru.donmai.us/wiki_pages/china"
+        },
+        {
+          "label": "北京",
+          "tag": "beijing",
+          "link": "https://danbooru.donmai.us/wiki_pages/beijing"
+        },
+        {
+          "label": "上海",
+          "tag": "shanghai",
+          "link": "https://danbooru.donmai.us/wiki_pages/shanghai"
+        },
+        {
+          "label": "香港",
+          "tag": "hong_kong",
+          "link": "https://danbooru.donmai.us/wiki_pages/hong_kong"
+        },
+        {
+          "label": "マカオ",
+          "tag": "macau",
+          "link": "https://danbooru.donmai.us/wiki_pages/macau"
+        },
+        {
+          "label": "深セン",
+          "tag": "shenzhen",
+          "link": "https://danbooru.donmai.us/wiki_pages/shenzhen"
+        },
+        {
+          "label": "コロンビア",
+          "tag": "colombia",
+          "link": "https://danbooru.donmai.us/wiki_pages/colombia"
+        },
+        {
+          "label": "コスタリカ",
+          "tag": "costa_rica",
+          "link": "https://danbooru.donmai.us/wiki_pages/costa_rica"
+        },
+        {
+          "label": "コートジボワール",
+          "tag": "cote_d%27ivoire",
+          "link": "https://danbooru.donmai.us/wiki_pages/cote_d%27ivoire"
+        },
+        {
+          "label": "クロアチア",
+          "tag": "croatia",
+          "link": "https://danbooru.donmai.us/wiki_pages/croatia"
+        },
+        {
+          "label": "キューバ",
+          "tag": "cuba",
+          "link": "https://danbooru.donmai.us/wiki_pages/cuba"
+        },
+        {
+          "label": "キプロス",
+          "tag": "cyprus",
+          "link": "https://danbooru.donmai.us/wiki_pages/cyprus"
+        },
+        {
+          "label": "チェコ共和国",
+          "tag": "czech_republic",
+          "link": "https://danbooru.donmai.us/wiki_pages/czech_republic"
+        },
+        {
+          "label": "プラハ",
+          "tag": "prague",
+          "link": "https://danbooru.donmai.us/wiki_pages/prague"
+        },
+        {
+          "label": "デンマーク",
+          "tag": "denmark",
+          "link": "https://danbooru.donmai.us/wiki_pages/denmark"
+        },
+        {
+          "label": "グリーンランド",
+          "tag": "greenland",
+          "link": "https://danbooru.donmai.us/wiki_pages/greenland"
+        },
+        {
+          "label": "ドミニカ共和国",
+          "tag": "dominican_republic",
+          "link": "https://danbooru.donmai.us/wiki_pages/dominican_republic"
+        },
+        {
+          "label": "エクアドル",
+          "tag": "ecuador",
+          "link": "https://danbooru.donmai.us/wiki_pages/ecuador"
+        },
+        {
+          "label": "エジプト",
+          "tag": "egypt",
+          "link": "https://danbooru.donmai.us/wiki_pages/egypt"
+        },
+        {
+          "label": "エルサルバドル",
+          "tag": "el_salvador",
+          "link": "https://danbooru.donmai.us/wiki_pages/el_salvador"
+        },
+        {
+          "label": "エストニア",
+          "tag": "estonia",
+          "link": "https://danbooru.donmai.us/wiki_pages/estonia"
+        },
+        {
+          "label": "エチオピア",
+          "tag": "ethiopia",
+          "link": "https://danbooru.donmai.us/wiki_pages/ethiopia"
+        },
+        {
+          "label": "フィンランド",
+          "tag": "finland",
+          "link": "https://danbooru.donmai.us/wiki_pages/finland"
+        },
+        {
+          "label": "フランス",
+          "tag": "france",
+          "link": "https://danbooru.donmai.us/wiki_pages/france"
+        },
+        {
+          "label": "コルシカ島",
+          "tag": "corsica",
+          "link": "https://danbooru.donmai.us/wiki_pages/corsica"
+        },
+        {
+          "label": "フランス領ギアナ",
+          "tag": "french_guiana",
+          "link": "https://danbooru.donmai.us/wiki_pages/french_guiana"
+        },
+        {
+          "label": "パリ",
+          "tag": "paris",
+          "link": "https://danbooru.donmai.us/wiki_pages/paris"
+        },
+        {
+          "label": "マルセイユ",
+          "tag": "marseille",
+          "link": "https://danbooru.donmai.us/wiki_pages/marseille"
+        },
+        {
+          "label": "ジョージア",
+          "tag": "georgia_%28country%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/georgia_%28country%29"
+        },
+        {
+          "label": "ドイツ",
+          "tag": "germany",
+          "link": "https://danbooru.donmai.us/wiki_pages/germany"
+        },
+        {
+          "label": "ベルリン",
+          "tag": "berlin",
+          "link": "https://danbooru.donmai.us/wiki_pages/berlin"
+        },
+        {
+          "label": "ガーナ",
+          "tag": "ghana",
+          "link": "https://danbooru.donmai.us/wiki_pages/ghana"
+        },
+        {
+          "label": "ギリシャ",
+          "tag": "greece",
+          "link": "https://danbooru.donmai.us/wiki_pages/greece"
+        },
+        {
+          "label": "グアテマラ",
+          "tag": "guatemala",
+          "link": "https://danbooru.donmai.us/wiki_pages/guatemala"
+        },
+        {
+          "label": "ガイアナ",
+          "tag": "guyana",
+          "link": "https://danbooru.donmai.us/wiki_pages/guyana"
+        },
+        {
+          "label": "ハイチ",
+          "tag": "haiti",
+          "link": "https://danbooru.donmai.us/wiki_pages/haiti"
+        },
+        {
+          "label": "ホンジュラス",
+          "tag": "honduras",
+          "link": "https://danbooru.donmai.us/wiki_pages/honduras"
+        },
+        {
+          "label": "ハンガリー",
+          "tag": "hungary",
+          "link": "https://danbooru.donmai.us/wiki_pages/hungary"
+        },
+        {
+          "label": "アイスランド",
+          "tag": "iceland",
+          "link": "https://danbooru.donmai.us/wiki_pages/iceland"
+        },
+        {
+          "label": "インド",
+          "tag": "india",
+          "link": "https://danbooru.donmai.us/wiki_pages/india"
+        },
+        {
+          "label": "インドネシア",
+          "tag": "indonesia",
+          "link": "https://danbooru.donmai.us/wiki_pages/indonesia"
+        },
+        {
+          "label": "イラン",
+          "tag": "iran",
+          "link": "https://danbooru.donmai.us/wiki_pages/iran"
+        },
+        {
+          "label": "イラク",
+          "tag": "iraq",
+          "link": "https://danbooru.donmai.us/wiki_pages/iraq"
+        },
+        {
+          "label": "バグダッド",
+          "tag": "baghdad",
+          "link": "https://danbooru.donmai.us/wiki_pages/baghdad"
+        },
+        {
+          "label": "アイルランド",
+          "tag": "ireland",
+          "link": "https://danbooru.donmai.us/wiki_pages/ireland"
+        },
+        {
+          "label": "ダブリン",
+          "tag": "dublin",
+          "link": "https://danbooru.donmai.us/wiki_pages/dublin"
+        },
+        {
+          "label": "イスラエル",
+          "tag": "israel",
+          "link": "https://danbooru.donmai.us/wiki_pages/israel"
+        },
+        {
+          "label": "西エルサレム",
+          "tag": "jerusalem",
+          "link": "https://danbooru.donmai.us/wiki_pages/jerusalem"
+        },
+        {
+          "label": "イタリア",
+          "tag": "italy",
+          "link": "https://danbooru.donmai.us/wiki_pages/italy"
+        },
+        {
+          "label": "フィレンツェ",
+          "tag": "florence_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/florence_%28city%29"
+        },
+        {
+          "label": "ミラノ",
+          "tag": "milan",
+          "link": "https://danbooru.donmai.us/wiki_pages/milan"
+        },
+        {
+          "label": "ナポリ",
+          "tag": "naples",
+          "link": "https://danbooru.donmai.us/wiki_pages/naples"
+        },
+        {
+          "label": "ローマ",
+          "tag": "rome_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rome_%28city%29"
+        },
+        {
+          "label": "ヴェネツィア",
+          "tag": "venice",
+          "link": "https://danbooru.donmai.us/wiki_pages/venice"
+        },
+        {
+          "label": "ジャマイカ",
+          "tag": "jamaica",
+          "link": "https://danbooru.donmai.us/wiki_pages/jamaica"
+        },
+        {
+          "label": "日本",
+          "tag": "japan",
+          "link": "https://danbooru.donmai.us/wiki_pages/japan"
+        },
+        {
+          "label": "愛知県",
+          "tag": "aichi_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/aichi_prefecture"
+        },
+        {
+          "label": "名古屋",
+          "tag": "nagoya_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagoya_%28city%29"
+        },
+        {
+          "label": "常滑市",
+          "tag": "tokoname_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokoname_city"
+        },
+        {
+          "label": "秋田県",
+          "tag": "akita_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/akita_prefecture"
+        },
+        {
+          "label": "青森県",
+          "tag": "aomori_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/aomori_prefecture"
+        },
+        {
+          "label": "千葉県",
+          "tag": "chiba_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/chiba_prefecture"
+        },
+        {
+          "label": "千葉",
+          "tag": "chiba_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/chiba_%28city%29"
+        },
+        {
+          "label": "鴨川",
+          "tag": "kamogawa_%28chiba%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kamogawa_%28chiba%29"
+        },
+        {
+          "label": "松戸",
+          "tag": "matsudo_%28chiba%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/matsudo_%28chiba%29"
+        },
+        {
+          "label": "愛媛県",
+          "tag": "ehime_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/ehime_prefecture"
+        },
+        {
+          "label": "松山",
+          "tag": "matsuyama_%28ehime%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/matsuyama_%28ehime%29"
+        },
+        {
+          "label": "福井県",
+          "tag": "fukui_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/fukui_prefecture"
+        },
+        {
+          "label": "福岡県",
+          "tag": "fukuoka_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/fukuoka_prefecture"
+        },
+        {
+          "label": "福岡",
+          "tag": "fukuoka_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fukuoka_%28city%29"
+        },
+        {
+          "label": "福島県",
+          "tag": "fukushima_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/fukushima_prefecture"
+        },
+        {
+          "label": "岐阜県",
+          "tag": "gifu_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/gifu_prefecture"
+        },
+        {
+          "label": "群馬県",
+          "tag": "gunma_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/gunma_prefecture"
+        },
+        {
+          "label": "広島県",
+          "tag": "hiroshima_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/hiroshima_prefecture"
+        },
+        {
+          "label": "広島",
+          "tag": "hiroshima",
+          "link": "https://danbooru.donmai.us/wiki_pages/hiroshima"
+        },
+        {
+          "label": "呉",
+          "tag": "kure_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kure_%28city%29"
+        },
+        {
+          "label": "尾道",
+          "tag": "onomichi_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/onomichi_%28city%29"
+        },
+        {
+          "label": "竹原",
+          "tag": "takehara_%28hiroshima%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/takehara_%28hiroshima%29"
+        },
+        {
+          "label": "北海道",
+          "tag": "hokkaido",
+          "link": "https://danbooru.donmai.us/wiki_pages/hokkaido"
+        },
+        {
+          "label": "函館",
+          "tag": "hakodate_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hakodate_%28city%29"
+        },
+        {
+          "label": "小樽",
+          "tag": "otaru_%28hokkaido%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/otaru_%28hokkaido%29"
+        },
+        {
+          "label": "札幌",
+          "tag": "sapporo_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sapporo_%28city%29"
+        },
+        {
+          "label": "稚内",
+          "tag": "wakkanai",
+          "link": "https://danbooru.donmai.us/wiki_pages/wakkanai"
+        },
+        {
+          "label": "兵庫県",
+          "tag": "hyogo_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/hyogo_prefecture"
+        },
+        {
+          "label": "神戸",
+          "tag": "kobe",
+          "link": "https://danbooru.donmai.us/wiki_pages/kobe"
+        },
+        {
+          "label": "茨城県",
+          "tag": "ibaraki_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/ibaraki_prefecture"
+        },
+        {
+          "label": "大洗",
+          "tag": "ooarai_%28ibaraki%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ooarai_%28ibaraki%29"
+        },
+        {
+          "label": "石川県",
+          "tag": "ishikawa_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/ishikawa_prefecture"
+        },
+        {
+          "label": "金沢",
+          "tag": "kanazawa_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kanazawa_%28city%29"
+        },
+        {
+          "label": "岩手県",
+          "tag": "iwate_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/iwate_prefecture"
+        },
+        {
+          "label": "盛岡",
+          "tag": "morioka",
+          "link": "https://danbooru.donmai.us/wiki_pages/morioka"
+        },
+        {
+          "label": "香川県",
+          "tag": "kagawa_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/kagawa_prefecture"
+        },
+        {
+          "label": "鹿児島県",
+          "tag": "kagoshima_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/kagoshima_prefecture"
+        },
+        {
+          "label": "神奈川",
+          "tag": "kanagawa",
+          "link": "https://danbooru.donmai.us/wiki_pages/kanagawa"
+        },
+        {
+          "label": "藤沢",
+          "tag": "fujisawa_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fujisawa_%28city%29"
+        },
+        {
+          "label": "鎌倉",
+          "tag": "kamakura_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kamakura_%28city%29"
+        },
+        {
+          "label": "川崎",
+          "tag": "kawasaki_%28kanagawa%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kawasaki_%28kanagawa%29"
+        },
+        {
+          "label": "横浜",
+          "tag": "yokohama",
+          "link": "https://danbooru.donmai.us/wiki_pages/yokohama"
+        },
+        {
+          "label": "横須賀",
+          "tag": "yokosuka",
+          "link": "https://danbooru.donmai.us/wiki_pages/yokosuka"
+        },
+        {
+          "label": "高知県",
+          "tag": "kochi_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/kochi_prefecture"
+        },
+        {
+          "label": "熊本県",
+          "tag": "kumamoto_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/kumamoto_prefecture"
+        },
+        {
+          "label": "京都府",
+          "tag": "kyoto_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/kyoto_prefecture"
+        },
+        {
+          "label": "京都",
+          "tag": "kyoto",
+          "link": "https://danbooru.donmai.us/wiki_pages/kyoto"
+        },
+        {
+          "label": "舞鶴",
+          "tag": "maizuru_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/maizuru_%28city%29"
+        },
+        {
+          "label": "三重県",
+          "tag": "mie_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/mie_prefecture"
+        },
+        {
+          "label": "宮城県",
+          "tag": "miyagi_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/miyagi_prefecture"
+        },
+        {
+          "label": "仙台",
+          "tag": "sendai_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sendai_%28city%29"
+        },
+        {
+          "label": "宮崎県",
+          "tag": "miyazaki_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/miyazaki_prefecture"
+        },
+        {
+          "label": "長野県",
+          "tag": "nagano_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagano_prefecture"
+        },
+        {
+          "label": "岡谷市",
+          "tag": "okaya_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/okaya_city"
+        },
+        {
+          "label": "諏訪市",
+          "tag": "suwa_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/suwa_city"
+        },
+        {
+          "label": "長崎県",
+          "tag": "nagasaki_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagasaki_prefecture"
+        },
+        {
+          "label": "長崎",
+          "tag": "nagasaki",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagasaki"
+        },
+        {
+          "label": "佐世保",
+          "tag": "sasebo",
+          "link": "https://danbooru.donmai.us/wiki_pages/sasebo"
+        },
+        {
+          "label": "奈良県",
+          "tag": "nara_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/nara_prefecture"
+        },
+        {
+          "label": "奈良",
+          "tag": "nara_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nara_%28city%29"
+        },
+        {
+          "label": "新潟県",
+          "tag": "niigata_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/niigata_prefecture"
+        },
+        {
+          "label": "大分県",
+          "tag": "oita_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/oita_prefecture"
+        },
+        {
+          "label": "岡山県",
+          "tag": "okayama_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/okayama_prefecture"
+        },
+        {
+          "label": "沖縄",
+          "tag": "okinawa",
+          "link": "https://danbooru.donmai.us/wiki_pages/okinawa"
+        },
+        {
+          "label": "那覇市",
+          "tag": "naha_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/naha_city"
+        },
+        {
+          "label": "大阪府",
+          "tag": "osaka_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/osaka_prefecture"
+        },
+        {
+          "label": "大阪",
+          "tag": "osaka_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/osaka_%28city%29"
+        },
+        {
+          "label": "佐賀県",
+          "tag": "saga_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/saga_prefecture"
+        },
+        {
+          "label": "埼玉県",
+          "tag": "saitama_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/saitama_prefecture"
+        },
+        {
+          "label": "川越",
+          "tag": "kawagoe_%28saitama%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kawagoe_%28saitama%29"
+        },
+        {
+          "label": "さいたま市",
+          "tag": "saitama_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/saitama_%28city%29"
+        },
+        {
+          "label": "滋賀県",
+          "tag": "shiga_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/shiga_prefecture"
+        },
+        {
+          "label": "草津",
+          "tag": "kusatsu_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kusatsu_%28city%29"
+        },
+        {
+          "label": "大津",
+          "tag": "otsu_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/otsu_%28city%29"
+        },
+        {
+          "label": "島根県",
+          "tag": "shimane_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/shimane_prefecture"
+        },
+        {
+          "label": "静岡県",
+          "tag": "shizuoka_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/shizuoka_prefecture"
+        },
+        {
+          "label": "熱海",
+          "tag": "atami_%28shizuoka%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/atami_%28shizuoka%29"
+        },
+        {
+          "label": "沼津",
+          "tag": "numazu",
+          "link": "https://danbooru.donmai.us/wiki_pages/numazu"
+        },
+        {
+          "label": "栃木県",
+          "tag": "tochigi_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/tochigi_prefecture"
+        },
+        {
+          "label": "徳島県",
+          "tag": "tokushima_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokushima_prefecture"
+        },
+        {
+          "label": "東京都",
+          "tag": "tokyo_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_prefecture"
+        },
+        {
+          "label": "府中市",
+          "tag": "fuchu_%28tokyo%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fuchu_%28tokyo%29"
+        },
+        {
+          "label": "東京",
+          "tag": "tokyo_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_%28city%29"
+        },
+        {
+          "label": "立川",
+          "tag": "tachikawa_%28tokyo%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tachikawa_%28tokyo%29"
+        },
+        {
+          "label": "鳥取県",
+          "tag": "tottori_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/tottori_prefecture"
+        },
+        {
+          "label": "富山県",
+          "tag": "toyama_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyama_prefecture"
+        },
+        {
+          "label": "富山市",
+          "tag": "toyama_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/toyama_city"
+        },
+        {
+          "label": "和歌山県",
+          "tag": "wakayama_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/wakayama_prefecture"
+        },
+        {
+          "label": "九度山",
+          "tag": "kudoyama_%28town%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kudoyama_%28town%29"
+        },
+        {
+          "label": "山形県",
+          "tag": "yamagata_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamagata_prefecture"
+        },
+        {
+          "label": "山口県",
+          "tag": "yamaguchi_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaguchi_prefecture"
+        },
+        {
+          "label": "山梨県",
+          "tag": "yamanashi_prefecture",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamanashi_prefecture"
+        },
+        {
+          "label": "ヨルダン",
+          "tag": "jordan",
+          "link": "https://danbooru.donmai.us/wiki_pages/jordan"
+        },
+        {
+          "label": "カザフスタン",
+          "tag": "kazakhstan",
+          "link": "https://danbooru.donmai.us/wiki_pages/kazakhstan"
+        },
+        {
+          "label": "ケニア",
+          "tag": "kenya",
+          "link": "https://danbooru.donmai.us/wiki_pages/kenya"
+        },
+        {
+          "label": "韓国",
+          "tag": "korea",
+          "link": "https://danbooru.donmai.us/wiki_pages/korea"
+        },
+        {
+          "label": "北朝鮮",
+          "tag": "north_korea",
+          "link": "https://danbooru.donmai.us/wiki_pages/north_korea"
+        },
+        {
+          "label": "韓国",
+          "tag": "south_korea",
+          "link": "https://danbooru.donmai.us/wiki_pages/south_korea"
+        },
+        {
+          "label": "ソウル",
+          "tag": "seoul",
+          "link": "https://danbooru.donmai.us/wiki_pages/seoul"
+        },
+        {
+          "label": "コソボ",
+          "tag": "kosovo",
+          "link": "https://danbooru.donmai.us/wiki_pages/kosovo"
+        },
+        {
+          "label": "キルギスタン",
+          "tag": "kyrgyzstan",
+          "link": "https://danbooru.donmai.us/wiki_pages/kyrgyzstan"
+        },
+        {
+          "label": "ラオス",
+          "tag": "laos",
+          "link": "https://danbooru.donmai.us/wiki_pages/laos"
+        },
+        {
+          "label": "ラトビア",
+          "tag": "latvia",
+          "link": "https://danbooru.donmai.us/wiki_pages/latvia"
+        },
+        {
+          "label": "リベリア",
+          "tag": "liberia",
+          "link": "https://danbooru.donmai.us/wiki_pages/liberia"
+        },
+        {
+          "label": "リビア",
+          "tag": "libya",
+          "link": "https://danbooru.donmai.us/wiki_pages/libya"
+        },
+        {
+          "label": "リトアニア",
+          "tag": "lithuania",
+          "link": "https://danbooru.donmai.us/wiki_pages/lithuania"
+        },
+        {
+          "label": "ルクセンブルク",
+          "tag": "luxembourg",
+          "link": "https://danbooru.donmai.us/wiki_pages/luxembourg"
+        },
+        {
+          "label": "マダガスカル",
+          "tag": "madagascar",
+          "link": "https://danbooru.donmai.us/wiki_pages/madagascar"
+        },
+        {
+          "label": "マラウイ",
+          "tag": "malawi",
+          "link": "https://danbooru.donmai.us/wiki_pages/malawi"
+        },
+        {
+          "label": "マレーシア",
+          "tag": "malaysia",
+          "link": "https://danbooru.donmai.us/wiki_pages/malaysia"
+        },
+        {
+          "label": "クアラルンプール",
+          "tag": "kuala_lumpur",
+          "link": "https://danbooru.donmai.us/wiki_pages/kuala_lumpur"
+        },
+        {
+          "label": "メキシコ",
+          "tag": "mexico",
+          "link": "https://danbooru.donmai.us/wiki_pages/mexico"
+        },
+        {
+          "label": "メキシコシティ",
+          "tag": "mexico_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/mexico_city"
+        },
+        {
+          "label": "モルドバ",
+          "tag": "moldova",
+          "link": "https://danbooru.donmai.us/wiki_pages/moldova"
+        },
+        {
+          "label": "モナコ",
+          "tag": "monaco_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/monaco_%28city%29"
+        },
+        {
+          "label": "モンゴル",
+          "tag": "mongolia",
+          "link": "https://danbooru.donmai.us/wiki_pages/mongolia"
+        },
+        {
+          "label": "モンテネグロ",
+          "tag": "montenegro",
+          "link": "https://danbooru.donmai.us/wiki_pages/montenegro"
+        },
+        {
+          "label": "モロッコ",
+          "tag": "morocco",
+          "link": "https://danbooru.donmai.us/wiki_pages/morocco"
+        },
+        {
+          "label": "モザンビーク",
+          "tag": "mozambique",
+          "link": "https://danbooru.donmai.us/wiki_pages/mozambique"
+        },
+        {
+          "label": "ミャンマー",
+          "tag": "myanmar",
+          "link": "https://danbooru.donmai.us/wiki_pages/myanmar"
+        },
+        {
+          "label": "ナミビア",
+          "tag": "namibia",
+          "link": "https://danbooru.donmai.us/wiki_pages/namibia"
+        },
+        {
+          "label": "ネパール",
+          "tag": "nepal",
+          "link": "https://danbooru.donmai.us/wiki_pages/nepal"
+        },
+        {
+          "label": "オランダ",
+          "tag": "netherlands",
+          "link": "https://danbooru.donmai.us/wiki_pages/netherlands"
+        },
+        {
+          "label": "ニュージーランド",
+          "tag": "new_zealand",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_zealand"
+        },
+        {
+          "label": "ニカラグア",
+          "tag": "nicaragua",
+          "link": "https://danbooru.donmai.us/wiki_pages/nicaragua"
+        },
+        {
+          "label": "ナイジェリア",
+          "tag": "nigeria",
+          "link": "https://danbooru.donmai.us/wiki_pages/nigeria"
+        },
+        {
+          "label": "北マケドニア",
+          "tag": "north_macedonia",
+          "link": "https://danbooru.donmai.us/wiki_pages/north_macedonia"
+        },
+        {
+          "label": "ノルウェー",
+          "tag": "norway",
+          "link": "https://danbooru.donmai.us/wiki_pages/norway"
+        },
+        {
+          "label": "パキスタン",
+          "tag": "pakistan",
+          "link": "https://danbooru.donmai.us/wiki_pages/pakistan"
+        },
+        {
+          "label": "パレスチナ",
+          "tag": "palestine",
+          "link": "https://danbooru.donmai.us/wiki_pages/palestine"
+        },
+        {
+          "label": "ガザ地区",
+          "tag": "gaza",
+          "link": "https://danbooru.donmai.us/wiki_pages/gaza"
+        },
+        {
+          "label": "東エルサレム",
+          "tag": "jerusalem",
+          "link": "https://danbooru.donmai.us/wiki_pages/jerusalem"
+        },
+        {
+          "label": "パナマ",
+          "tag": "panama",
+          "link": "https://danbooru.donmai.us/wiki_pages/panama"
+        },
+        {
+          "label": "パラグアイ",
+          "tag": "paraguay",
+          "link": "https://danbooru.donmai.us/wiki_pages/paraguay"
+        },
+        {
+          "label": "ペルー",
+          "tag": "peru",
+          "link": "https://danbooru.donmai.us/wiki_pages/peru"
+        },
+        {
+          "label": "フィリピン",
+          "tag": "philippines",
+          "link": "https://danbooru.donmai.us/wiki_pages/philippines"
+        },
+        {
+          "label": "ポーランド",
+          "tag": "poland",
+          "link": "https://danbooru.donmai.us/wiki_pages/poland"
+        },
+        {
+          "label": "ポルトガル",
+          "tag": "portugal",
+          "link": "https://danbooru.donmai.us/wiki_pages/portugal"
+        },
+        {
+          "label": "カタール",
+          "tag": "qatar",
+          "link": "https://danbooru.donmai.us/wiki_pages/qatar"
+        },
+        {
+          "label": "ルーマニア",
+          "tag": "romania",
+          "link": "https://danbooru.donmai.us/wiki_pages/romania"
+        },
+        {
+          "label": "ロシア",
+          "tag": "russia",
+          "link": "https://danbooru.donmai.us/wiki_pages/russia"
+        },
+        {
+          "label": "モスクワ",
+          "tag": "moscow",
+          "link": "https://danbooru.donmai.us/wiki_pages/moscow"
+        },
+        {
+          "label": "サンクトペテルブルク",
+          "tag": "saint_petersburg",
+          "link": "https://danbooru.donmai.us/wiki_pages/saint_petersburg"
+        },
+        {
+          "label": "ウラジオストク",
+          "tag": "vladivostok",
+          "link": "https://danbooru.donmai.us/wiki_pages/vladivostok"
+        },
+        {
+          "label": "サウジアラビア",
+          "tag": "saudi_arabia",
+          "link": "https://danbooru.donmai.us/wiki_pages/saudi_arabia"
+        },
+        {
+          "label": "セネガル",
+          "tag": "senegal",
+          "link": "https://danbooru.donmai.us/wiki_pages/senegal"
+        },
+        {
+          "label": "セルビア",
+          "tag": "serbia",
+          "link": "https://danbooru.donmai.us/wiki_pages/serbia"
+        },
+        {
+          "label": "シンガポール",
+          "tag": "singapore",
+          "link": "https://danbooru.donmai.us/wiki_pages/singapore"
+        },
+        {
+          "label": "スロバキア",
+          "tag": "slovakia",
+          "link": "https://danbooru.donmai.us/wiki_pages/slovakia"
+        },
+        {
+          "label": "スロベニア",
+          "tag": "slovenia",
+          "link": "https://danbooru.donmai.us/wiki_pages/slovenia"
+        },
+        {
+          "label": "南アフリカ",
+          "tag": "south_africa",
+          "link": "https://danbooru.donmai.us/wiki_pages/south_africa"
+        },
+        {
+          "label": "スペイン",
+          "tag": "spain",
+          "link": "https://danbooru.donmai.us/wiki_pages/spain"
+        },
+        {
+          "label": "バルセロナ",
+          "tag": "barcelona",
+          "link": "https://danbooru.donmai.us/wiki_pages/barcelona"
+        },
+        {
+          "label": "マドリード",
+          "tag": "madrid",
+          "link": "https://danbooru.donmai.us/wiki_pages/madrid"
+        },
+        {
+          "label": "スウェーデン",
+          "tag": "sweden",
+          "link": "https://danbooru.donmai.us/wiki_pages/sweden"
+        },
+        {
+          "label": "ストックホルム",
+          "tag": "stockholm",
+          "link": "https://danbooru.donmai.us/wiki_pages/stockholm"
+        },
+        {
+          "label": "ヴィスビー",
+          "tag": "visby",
+          "link": "https://danbooru.donmai.us/wiki_pages/visby"
+        },
+        {
+          "label": "スイス",
+          "tag": "switzerland",
+          "link": "https://danbooru.donmai.us/wiki_pages/switzerland"
+        },
+        {
+          "label": "シリア",
+          "tag": "syria",
+          "link": "https://danbooru.donmai.us/wiki_pages/syria"
+        },
+        {
+          "label": "台湾",
+          "tag": "taiwan",
+          "link": "https://danbooru.donmai.us/wiki_pages/taiwan"
+        },
+        {
+          "label": "台北",
+          "tag": "taipei",
+          "link": "https://danbooru.donmai.us/wiki_pages/taipei"
+        },
+        {
+          "label": "高雄",
+          "tag": "kaohsiung",
+          "link": "https://danbooru.donmai.us/wiki_pages/kaohsiung"
+        },
+        {
+          "label": "タジキスタン",
+          "tag": "tajikistan",
+          "link": "https://danbooru.donmai.us/wiki_pages/tajikistan"
+        },
+        {
+          "label": "タイ",
+          "tag": "thailand",
+          "link": "https://danbooru.donmai.us/wiki_pages/thailand"
+        },
+        {
+          "label": "トリニダード・トバゴ",
+          "tag": "trinidad_and_tobago",
+          "link": "https://danbooru.donmai.us/wiki_pages/trinidad_and_tobago"
+        },
+        {
+          "label": "チュニジア",
+          "tag": "tunisia",
+          "link": "https://danbooru.donmai.us/wiki_pages/tunisia"
+        },
+        {
+          "label": "トルコ",
+          "tag": "turkey_%28country%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/turkey_%28country%29"
+        },
+        {
+          "label": "イスタンブール",
+          "tag": "istanbul",
+          "link": "https://danbooru.donmai.us/wiki_pages/istanbul"
+        },
+        {
+          "label": "トルクメニスタン",
+          "tag": "turkmenistan",
+          "link": "https://danbooru.donmai.us/wiki_pages/turkmenistan"
+        },
+        {
+          "label": "ウクライナ",
+          "tag": "ukraine",
+          "link": "https://danbooru.donmai.us/wiki_pages/ukraine"
+        },
+        {
+          "label": "チェルノブイリ",
+          "tag": "chernobyl",
+          "link": "https://danbooru.donmai.us/wiki_pages/chernobyl"
+        },
+        {
+          "label": "プリピャチ",
+          "tag": "pripyat",
+          "link": "https://danbooru.donmai.us/wiki_pages/pripyat"
+        },
+        {
+          "label": "アラブ首長国連邦",
+          "tag": "united_arab_emirates",
+          "link": "https://danbooru.donmai.us/wiki_pages/united_arab_emirates"
+        },
+        {
+          "label": "ドバイ",
+          "tag": "dubai",
+          "link": "https://danbooru.donmai.us/wiki_pages/dubai"
+        },
+        {
+          "label": "イギリス",
+          "tag": "united_kingdom",
+          "link": "https://danbooru.donmai.us/wiki_pages/united_kingdom"
+        },
+        {
+          "label": "イングランド",
+          "tag": "england",
+          "link": "https://danbooru.donmai.us/wiki_pages/england"
+        },
+        {
+          "label": "ロンドン",
+          "tag": "london",
+          "link": "https://danbooru.donmai.us/wiki_pages/london"
+        },
+        {
+          "label": "フォークランド諸島",
+          "tag": "falkland_islands",
+          "link": "https://danbooru.donmai.us/wiki_pages/falkland_islands"
+        },
+        {
+          "label": "北アイルランド",
+          "tag": "northern_ireland",
+          "link": "https://danbooru.donmai.us/wiki_pages/northern_ireland"
+        },
+        {
+          "label": "スコットランド",
+          "tag": "scotland",
+          "link": "https://danbooru.donmai.us/wiki_pages/scotland"
+        },
+        {
+          "label": "エディンバラ",
+          "tag": "edinburgh_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/edinburgh_%28city%29"
+        },
+        {
+          "label": "ウェールズ",
+          "tag": "wales",
+          "link": "https://danbooru.donmai.us/wiki_pages/wales"
+        },
+        {
+          "label": "アメリカ合衆国",
+          "tag": "united_states",
+          "link": "https://danbooru.donmai.us/wiki_pages/united_states"
+        },
+        {
+          "label": "アラスカ",
+          "tag": "alaska",
+          "link": "https://danbooru.donmai.us/wiki_pages/alaska"
+        },
+        {
+          "label": "アリゾナ",
+          "tag": "arizona_%28state%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/arizona_%28state%29"
+        },
+        {
+          "label": "カリフォルニア",
+          "tag": "california",
+          "link": "https://danbooru.donmai.us/wiki_pages/california"
+        },
+        {
+          "label": "ロサンゼルス",
+          "tag": "los_angeles",
+          "link": "https://danbooru.donmai.us/wiki_pages/los_angeles"
+        },
+        {
+          "label": "サンフランシスコ",
+          "tag": "san_francisco",
+          "link": "https://danbooru.donmai.us/wiki_pages/san_francisco"
+        },
+        {
+          "label": "シカゴ",
+          "tag": "chicago",
+          "link": "https://danbooru.donmai.us/wiki_pages/chicago"
+        },
+        {
+          "label": "コロラド州",
+          "tag": "colorado",
+          "link": "https://danbooru.donmai.us/wiki_pages/colorado"
+        },
+        {
+          "label": "フロリダ",
+          "tag": "florida_%28location%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/florida_%28location%29"
+        },
+        {
+          "label": "マイアミ",
+          "tag": "miami",
+          "link": "https://danbooru.donmai.us/wiki_pages/miami"
+        },
+        {
+          "label": "ジョージア",
+          "tag": "georgia_%28state%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/georgia_%28state%29"
+        },
+        {
+          "label": "アトランタ",
+          "tag": "atlanta_%28city%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/atlanta_%28city%29"
+        },
+        {
+          "label": "ハワイ",
+          "tag": "hawaii",
+          "link": "https://danbooru.donmai.us/wiki_pages/hawaii"
+        },
+        {
+          "label": "インディアナ州",
+          "tag": "indiana",
+          "link": "https://danbooru.donmai.us/wiki_pages/indiana"
+        },
+        {
+          "label": "アイオワ州",
+          "tag": "iowa",
+          "link": "https://danbooru.donmai.us/wiki_pages/iowa"
+        },
+        {
+          "label": "ルイジアナ州",
+          "tag": "louisiana",
+          "link": "https://danbooru.donmai.us/wiki_pages/louisiana"
+        },
+        {
+          "label": "メリーランド州",
+          "tag": "maryland",
+          "link": "https://danbooru.donmai.us/wiki_pages/maryland"
+        },
+        {
+          "label": "マサチューセッツ州",
+          "tag": "massachusetts",
+          "link": "https://danbooru.donmai.us/wiki_pages/massachusetts"
+        },
+        {
+          "label": "ボストン",
+          "tag": "boston",
+          "link": "https://danbooru.donmai.us/wiki_pages/boston"
+        },
+        {
+          "label": "ミシガン州",
+          "tag": "michigan",
+          "link": "https://danbooru.donmai.us/wiki_pages/michigan"
+        },
+        {
+          "label": "ミネソタ州",
+          "tag": "minnesota",
+          "link": "https://danbooru.donmai.us/wiki_pages/minnesota"
+        },
+        {
+          "label": "ネバダ州",
+          "tag": "nevada",
+          "link": "https://danbooru.donmai.us/wiki_pages/nevada"
+        },
+        {
+          "label": "ラスベガス",
+          "tag": "las_vegas",
+          "link": "https://danbooru.donmai.us/wiki_pages/las_vegas"
+        },
+        {
+          "label": "ニューヨーク",
+          "tag": "new_york_%28state%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_york_%28state%29"
+        },
+        {
+          "label": "ニューヨーク市",
+          "tag": "new_york_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_york_city"
+        },
+        {
+          "label": "ノースカロライナ州",
+          "tag": "north_carolina_%28state%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/north_carolina_%28state%29"
+        },
+        {
+          "label": "オハイオ州",
+          "tag": "ohio",
+          "link": "https://danbooru.donmai.us/wiki_pages/ohio"
+        },
+        {
+          "label": "オレゴン",
+          "tag": "oregon",
+          "link": "https://danbooru.donmai.us/wiki_pages/oregon"
+        },
+        {
+          "label": "ポートランド",
+          "tag": "portland_%28oregon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/portland_%28oregon%29"
+        },
+        {
+          "label": "プエルトリコ",
+          "tag": "puerto_rico",
+          "link": "https://danbooru.donmai.us/wiki_pages/puerto_rico"
+        },
+        {
+          "label": "シアトル",
+          "tag": "seattle",
+          "link": "https://danbooru.donmai.us/wiki_pages/seattle"
+        },
+        {
+          "label": "テキサス",
+          "tag": "texas",
+          "link": "https://danbooru.donmai.us/wiki_pages/texas"
+        },
+        {
+          "label": "ヒューストン",
+          "tag": "houston",
+          "link": "https://danbooru.donmai.us/wiki_pages/houston"
+        },
+        {
+          "label": "ユタ州",
+          "tag": "utah",
+          "link": "https://danbooru.donmai.us/wiki_pages/utah"
+        },
+        {
+          "label": "ワシントンD.C.",
+          "tag": "washington_d.c.",
+          "link": "https://danbooru.donmai.us/wiki_pages/washington_d.c."
+        },
+        {
+          "label": "ワイオミング州",
+          "tag": "wyoming",
+          "link": "https://danbooru.donmai.us/wiki_pages/wyoming"
+        },
+        {
+          "label": "ウルグアイ",
+          "tag": "uruguay",
+          "link": "https://danbooru.donmai.us/wiki_pages/uruguay"
+        },
+        {
+          "label": "ウズベキスタン",
+          "tag": "uzbekistan",
+          "link": "https://danbooru.donmai.us/wiki_pages/uzbekistan"
+        },
+        {
+          "label": "バチカン市国",
+          "tag": "vatican",
+          "link": "https://danbooru.donmai.us/wiki_pages/vatican"
+        },
+        {
+          "label": "ベネズエラ",
+          "tag": "venezuela",
+          "link": "https://danbooru.donmai.us/wiki_pages/venezuela"
+        },
+        {
+          "label": "ベトナム",
+          "tag": "vietnam",
+          "link": "https://danbooru.donmai.us/wiki_pages/vietnam"
+        },
+        {
+          "label": "ジンバブエ",
+          "tag": "zimbabwe",
+          "link": "https://danbooru.donmai.us/wiki_pages/zimbabwe"
+        }
+      ]
+    },
+    {
+      "セクション名": "かつて存在した国",
+      "タグ一覧": [
+        {
+          "label": "オーストリア＝ハンガリー",
+          "tag": "austria-hungary",
+          "link": "https://danbooru.donmai.us/wiki_pages/austria-hungary"
+        },
+        {
+          "label": "ビザンチン帝国",
+          "tag": "byzantine_empire",
+          "link": "https://danbooru.donmai.us/wiki_pages/byzantine_empire"
+        },
+        {
+          "label": "南部連合",
+          "tag": "confederate_states_of_america",
+          "link": "https://danbooru.donmai.us/wiki_pages/confederate_states_of_america"
+        },
+        {
+          "label": "チェコスロバキア",
+          "tag": "czechoslovakia",
+          "link": "https://danbooru.donmai.us/wiki_pages/czechoslovakia"
+        },
+        {
+          "label": "ドイツ民主共和国",
+          "tag": "east_germany",
+          "link": "https://danbooru.donmai.us/wiki_pages/east_germany"
+        },
+        {
+          "label": "神聖ローマ帝国",
+          "tag": "holy_roman_empire",
+          "link": "https://danbooru.donmai.us/wiki_pages/holy_roman_empire"
+        },
+        {
+          "label": "オスマン帝国",
+          "tag": "ottoman_empire",
+          "link": "https://danbooru.donmai.us/wiki_pages/ottoman_empire"
+        },
+        {
+          "label": "プロイセン",
+          "tag": "prussia",
+          "link": "https://danbooru.donmai.us/wiki_pages/prussia"
+        },
+        {
+          "label": "ローデシア",
+          "tag": "rhodesia",
+          "link": "https://danbooru.donmai.us/wiki_pages/rhodesia"
+        },
+        {
+          "label": "ローマ帝国",
+          "tag": "roman_empire",
+          "link": "https://danbooru.donmai.us/wiki_pages/roman_empire"
+        },
+        {
+          "label": "ロシア帝国",
+          "tag": "russian_empire",
+          "link": "https://danbooru.donmai.us/wiki_pages/russian_empire"
+        },
+        {
+          "label": "ソビエト連邦",
+          "tag": "soviet",
+          "link": "https://danbooru.donmai.us/wiki_pages/soviet"
+        },
+        {
+          "label": "ユーゴスラビア",
+          "tag": "yugoslavia",
+          "link": "https://danbooru.donmai.us/wiki_pages/yugoslavia"
+        }
+      ]
+    },
+    {
+      "セクション名": "北米",
+      "タグ一覧": [
+        {
+          "label": "アルカトラズ",
+          "tag": "alcatraz",
+          "link": "https://danbooru.donmai.us/wiki_pages/alcatraz"
+        },
+        {
+          "label": "独立の天使",
+          "tag": "angel_de_la_independencia",
+          "link": "https://danbooru.donmai.us/wiki_pages/angel_de_la_independencia"
+        },
+        {
+          "label": "ブラッドリーセンター",
+          "tag": "bradley_center",
+          "link": "https://danbooru.donmai.us/wiki_pages/bradley_center"
+        },
+        {
+          "label": "ブルックリン橋",
+          "tag": "brooklyn_bridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/brooklyn_bridge"
+        },
+        {
+          "label": "クライスラービル",
+          "tag": "chrysler_building",
+          "link": "https://danbooru.donmai.us/wiki_pages/chrysler_building"
+        },
+        {
+          "label": "CNタワー",
+          "tag": "cn_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/cn_tower"
+        },
+        {
+          "label": "クアーズ・フィールド",
+          "tag": "coors_field",
+          "link": "https://danbooru.donmai.us/wiki_pages/coors_field"
+        },
+        {
+          "label": "Crypto.comアリーナ",
+          "tag": "crypto.com_arena",
+          "link": "https://danbooru.donmai.us/wiki_pages/crypto.com_arena"
+        },
+        {
+          "label": "ドジャースタジアム",
+          "tag": "dodger_stadium",
+          "link": "https://danbooru.donmai.us/wiki_pages/dodger_stadium"
+        },
+        {
+          "label": "エルカスティージョ",
+          "tag": "el_castillo",
+          "link": "https://danbooru.donmai.us/wiki_pages/el_castillo"
+        },
+        {
+          "label": "エンパイアステートビル",
+          "tag": "empire_state_building",
+          "link": "https://danbooru.donmai.us/wiki_pages/empire_state_building"
+        },
+        {
+          "label": "フェンウェイパーク",
+          "tag": "fenway_park",
+          "link": "https://danbooru.donmai.us/wiki_pages/fenway_park"
+        },
+        {
+          "label": "ゴールデンゲートブリッジ",
+          "tag": "golden_gate_bridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/golden_gate_bridge"
+        },
+        {
+          "label": "グランドキャニオン",
+          "tag": "grand_canyon",
+          "link": "https://danbooru.donmai.us/wiki_pages/grand_canyon"
+        },
+        {
+          "label": "ハードロックスタジアム",
+          "tag": "hard_rock_stadium",
+          "link": "https://danbooru.donmai.us/wiki_pages/hard_rock_stadium"
+        },
+        {
+          "label": "エリア51",
+          "tag": "area_51",
+          "link": "https://danbooru.donmai.us/wiki_pages/area_51"
+        },
+        {
+          "label": "ハリウッド",
+          "tag": "hollywood_sign",
+          "link": "https://danbooru.donmai.us/wiki_pages/hollywood_sign"
+        },
+        {
+          "label": "ロンバードストリート",
+          "tag": "lombard_street",
+          "link": "https://danbooru.donmai.us/wiki_pages/lombard_street"
+        },
+        {
+          "label": "ラシュモア山",
+          "tag": "mount_rushmore",
+          "link": "https://danbooru.donmai.us/wiki_pages/mount_rushmore"
+        },
+        {
+          "label": "ナイアガラの滝",
+          "tag": "niagara_falls",
+          "link": "https://danbooru.donmai.us/wiki_pages/niagara_falls"
+        },
+        {
+          "label": "ワンワールドトレードセンター",
+          "tag": "one_world_trade_center",
+          "link": "https://danbooru.donmai.us/wiki_pages/one_world_trade_center"
+        },
+        {
+          "label": "ワールドトレードセンター",
+          "tag": "world_trade_center",
+          "link": "https://danbooru.donmai.us/wiki_pages/world_trade_center"
+        },
+        {
+          "label": "オラクルパーク",
+          "tag": "oracle_park",
+          "link": "https://danbooru.donmai.us/wiki_pages/oracle_park"
+        },
+        {
+          "label": "ロックフェラーセンター",
+          "tag": "rockefeller_center",
+          "link": "https://danbooru.donmai.us/wiki_pages/rockefeller_center"
+        },
+        {
+          "label": "スペースニードル",
+          "tag": "space_needle",
+          "link": "https://danbooru.donmai.us/wiki_pages/space_needle"
+        },
+        {
+          "label": "自由の女神",
+          "tag": "statue_of_liberty",
+          "link": "https://danbooru.donmai.us/wiki_pages/statue_of_liberty"
+        },
+        {
+          "label": "タイムズスクエア",
+          "tag": "times_square",
+          "link": "https://danbooru.donmai.us/wiki_pages/times_square"
+        },
+        {
+          "label": "トランスアメリカピラミッド",
+          "tag": "transamerica_pyramid",
+          "link": "https://danbooru.donmai.us/wiki_pages/transamerica_pyramid"
+        },
+        {
+          "label": "トロピカーナフィールド",
+          "tag": "tropicana_field",
+          "link": "https://danbooru.donmai.us/wiki_pages/tropicana_field"
+        },
+        {
+          "label": "トランプタワー",
+          "tag": "trump_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/trump_tower"
+        },
+        {
+          "label": "アメリカ合衆国議会議事堂",
+          "tag": "united_states_capitol",
+          "link": "https://danbooru.donmai.us/wiki_pages/united_states_capitol"
+        },
+        {
+          "label": "ワシントン記念塔",
+          "tag": "washington_monument",
+          "link": "https://danbooru.donmai.us/wiki_pages/washington_monument"
+        },
+        {
+          "label": "ホワイトハウス",
+          "tag": "white_house",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_house"
+        },
+        {
+          "label": "ウィリスタワー",
+          "tag": "willis_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/willis_tower"
+        }
+      ]
+    },
+    {
+      "セクション名": "南アメリカ",
+      "タグ一覧": [
+        {
+          "label": "キリスト像",
+          "tag": "christ_the_redeemer",
+          "link": "https://danbooru.donmai.us/wiki_pages/christ_the_redeemer"
+        },
+        {
+          "label": "マチュピチュ",
+          "tag": "machu_picchu",
+          "link": "https://danbooru.donmai.us/wiki_pages/machu_picchu"
+        },
+        {
+          "label": "聖母被昇天",
+          "tag": "our_lady_of_the_assumption",
+          "link": "https://danbooru.donmai.us/wiki_pages/our_lady_of_the_assumption"
+        }
+      ]
+    },
+    {
+      "セクション名": "アジア",
+      "タグ一覧": [
+        {
+          "label": "アル・マスジド・アル・ナバウィー",
+          "tag": "al-masjid_al-nabawi",
+          "link": "https://danbooru.donmai.us/wiki_pages/al-masjid_al-nabawi"
+        },
+        {
+          "label": "アンコールワット",
+          "tag": "angkor_wat",
+          "link": "https://danbooru.donmai.us/wiki_pages/angkor_wat"
+        },
+        {
+          "label": "中国銀行タワー",
+          "tag": "bank_of_china_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/bank_of_china_tower"
+        },
+        {
+          "label": "ボロブドゥール寺院",
+          "tag": "borobudur_temple",
+          "link": "https://danbooru.donmai.us/wiki_pages/borobudur_temple"
+        },
+        {
+          "label": "ブルジュ・アル・アラブ",
+          "tag": "burj_al_arab",
+          "link": "https://danbooru.donmai.us/wiki_pages/burj_al_arab"
+        },
+        {
+          "label": "ブルジュ・ハリファ",
+          "tag": "burj_khalifa",
+          "link": "https://danbooru.donmai.us/wiki_pages/burj_khalifa"
+        },
+        {
+          "label": "広州塔",
+          "tag": "canton_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/canton_tower"
+        },
+        {
+          "label": "中部国際空港",
+          "tag": "chubu_centrair_international_airport",
+          "link": "https://danbooru.donmai.us/wiki_pages/chubu_centrair_international_airport"
+        },
+        {
+          "label": "岩のドーム",
+          "tag": "dome_of_the_rock",
+          "link": "https://danbooru.donmai.us/wiki_pages/dome_of_the_rock"
+        },
+        {
+          "label": "紫禁城",
+          "tag": "forbidden_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/forbidden_city"
+        },
+        {
+          "label": "伏見稲荷大社",
+          "tag": "fushimi_inari_taisha",
+          "link": "https://danbooru.donmai.us/wiki_pages/fushimi_inari_taisha"
+        },
+        {
+          "label": "銀座和光",
+          "tag": "ginza_wako",
+          "link": "https://danbooru.donmai.us/wiki_pages/ginza_wako"
+        },
+        {
+          "label": "万里の長城",
+          "tag": "great_wall_of_china",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_wall_of_china"
+        },
+        {
+          "label": "姫路城",
+          "tag": "himeji_castle",
+          "link": "https://danbooru.donmai.us/wiki_pages/himeji_castle"
+        },
+        {
+          "label": "原爆ドーム",
+          "tag": "hiroshima_peace_memorial",
+          "link": "https://danbooru.donmai.us/wiki_pages/hiroshima_peace_memorial"
+        },
+        {
+          "label": "JRセントラルタワーズ",
+          "tag": "jr_central_towers",
+          "link": "https://danbooru.donmai.us/wiki_pages/jr_central_towers"
+        },
+        {
+          "label": "雷門",
+          "tag": "kaminarimon",
+          "link": "https://danbooru.donmai.us/wiki_pages/kaminarimon"
+        },
+        {
+          "label": "神田明神",
+          "tag": "kanda_shrine",
+          "link": "https://danbooru.donmai.us/wiki_pages/kanda_shrine"
+        },
+        {
+          "label": "熊本城",
+          "tag": "kumamoto_castle",
+          "link": "https://danbooru.donmai.us/wiki_pages/kumamoto_castle"
+        },
+        {
+          "label": "松江城",
+          "tag": "matsue_castle",
+          "link": "https://danbooru.donmai.us/wiki_pages/matsue_castle"
+        },
+        {
+          "label": "モード学園コクーンタワー",
+          "tag": "mode_gakuen_cocoon_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/mode_gakuen_cocoon_tower"
+        },
+        {
+          "label": "富士山",
+          "tag": "mount_fuji",
+          "link": "https://danbooru.donmai.us/wiki_pages/mount_fuji"
+        },
+        {
+          "label": "名古屋城",
+          "tag": "nagoya_castle",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagoya_castle"
+        },
+        {
+          "label": "南禅寺水路閣",
+          "tag": "nanzen-ji_aqueduct",
+          "link": "https://danbooru.donmai.us/wiki_pages/nanzen-ji_aqueduct"
+        },
+        {
+          "label": "国会議事堂",
+          "tag": "national_diet_building",
+          "link": "https://danbooru.donmai.us/wiki_pages/national_diet_building"
+        },
+        {
+          "label": "新国立競技場",
+          "tag": "new_national_stadium",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_national_stadium"
+        },
+        {
+          "label": "NTTドコモ代々木ビル",
+          "tag": "ntt_docomo_yoyogi_building",
+          "link": "https://danbooru.donmai.us/wiki_pages/ntt_docomo_yoyogi_building"
+        },
+        {
+          "label": "大洗マリンタワー",
+          "tag": "ooarai_marine_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/ooarai_marine_tower"
+        },
+        {
+          "label": "東方明珠塔",
+          "tag": "oriental_pearl_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/oriental_pearl_tower"
+        },
+        {
+          "label": "大阪城",
+          "tag": "osaka_castle",
+          "link": "https://danbooru.donmai.us/wiki_pages/osaka_castle"
+        },
+        {
+          "label": "澎湖天后宮",
+          "tag": "penghu_tianho_temple",
+          "link": "https://danbooru.donmai.us/wiki_pages/penghu_tianho_temple"
+        },
+        {
+          "label": "ペトラ",
+          "tag": "petra_%28jordan%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/petra_%28jordan%29"
+        },
+        {
+          "label": "ペトロナスツインタワー",
+          "tag": "petronas_twin_towers",
+          "link": "https://danbooru.donmai.us/wiki_pages/petronas_twin_towers"
+        },
+        {
+          "label": "総統府",
+          "tag": "presidential_office_building",
+          "link": "https://danbooru.donmai.us/wiki_pages/presidential_office_building"
+        },
+        {
+          "label": "総統府",
+          "tag": "presidential_office_building",
+          "link": "https://danbooru.donmai.us/wiki_pages/presidential_office_building"
+        },
+        {
+          "label": "例のプール",
+          "tag": "rei_no_pool",
+          "link": "https://danbooru.donmai.us/wiki_pages/rei_no_pool"
+        },
+        {
+          "label": "Saw, Sawing（彫刻）",
+          "tag": "saw_sawing",
+          "link": "https://danbooru.donmai.us/wiki_pages/saw_sawing"
+        },
+        {
+          "label": "渋谷109",
+          "tag": "shibuya_109",
+          "link": "https://danbooru.donmai.us/wiki_pages/shibuya_109"
+        },
+        {
+          "label": "新宿パークタワー",
+          "tag": "shinjuku_park_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/shinjuku_park_tower"
+        },
+        {
+          "label": "台北101",
+          "tag": "taipei_101",
+          "link": "https://danbooru.donmai.us/wiki_pages/taipei_101"
+        },
+        {
+          "label": "タージ・マハル",
+          "tag": "taj_mahal",
+          "link": "https://danbooru.donmai.us/wiki_pages/taj_mahal"
+        },
+        {
+          "label": "天安門広場",
+          "tag": "tiananmen_square",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiananmen_square"
+        },
+        {
+          "label": "渡月橋",
+          "tag": "togetsukyou_bridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/togetsukyou_bridge"
+        },
+        {
+          "label": "東京ビッグサイト",
+          "tag": "tokyo_big_sight",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_big_sight"
+        },
+        {
+          "label": "東京都庁",
+          "tag": "tokyo_city_hall",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_city_hall"
+        },
+        {
+          "label": "東京スカイツリー",
+          "tag": "tokyo_skytree",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_skytree"
+        },
+        {
+          "label": "東京タワー",
+          "tag": "tokyo_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_tower"
+        },
+        {
+          "label": "太陽の塔",
+          "tag": "tower_of_the_sun",
+          "link": "https://danbooru.donmai.us/wiki_pages/tower_of_the_sun"
+        },
+        {
+          "label": "通天閣",
+          "tag": "tsuutenkaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsuutenkaku"
+        },
+        {
+          "label": "梅田スカイビル",
+          "tag": "umeda_sky_building",
+          "link": "https://danbooru.donmai.us/wiki_pages/umeda_sky_building"
+        },
+        {
+          "label": "鷲宮神社",
+          "tag": "washinomiya_shrine",
+          "link": "https://danbooru.donmai.us/wiki_pages/washinomiya_shrine"
+        },
+        {
+          "label": "靖国神社",
+          "tag": "yasukuni_shrine",
+          "link": "https://danbooru.donmai.us/wiki_pages/yasukuni_shrine"
+        },
+        {
+          "label": "横浜ランドマークタワー",
+          "tag": "yokohama_landmark_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/yokohama_landmark_tower"
+        }
+      ]
+    },
+    {
+      "セクション名": "ヨーロッパ",
+      "タグ一覧": [
+        {
+          "label": "アリアンツ・アレーナ",
+          "tag": "allianz_arena",
+          "link": "https://danbooru.donmai.us/wiki_pages/allianz_arena"
+        },
+        {
+          "label": "アンフィールド",
+          "tag": "anfield_%28stadium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/anfield_%28stadium%29"
+        },
+        {
+          "label": "凱旋門",
+          "tag": "arc_de_triomphe",
+          "link": "https://danbooru.donmai.us/wiki_pages/arc_de_triomphe"
+        },
+        {
+          "label": "ベルレモンビル",
+          "tag": "berlaymont_building",
+          "link": "https://danbooru.donmai.us/wiki_pages/berlaymont_building"
+        },
+        {
+          "label": "ベルリンの壁",
+          "tag": "berlin_wall",
+          "link": "https://danbooru.donmai.us/wiki_pages/berlin_wall"
+        },
+        {
+          "label": "ベルリンテレビ塔",
+          "tag": "berliner_fernsehturm",
+          "link": "https://danbooru.donmai.us/wiki_pages/berliner_fernsehturm"
+        },
+        {
+          "label": "ブラモールレーン",
+          "tag": "bramall_lane",
+          "link": "https://danbooru.donmai.us/wiki_pages/bramall_lane"
+        },
+        {
+          "label": "ブランデンブルク門",
+          "tag": "brandenburg_gate",
+          "link": "https://danbooru.donmai.us/wiki_pages/brandenburg_gate"
+        },
+        {
+          "label": "バッキンガム宮殿",
+          "tag": "buckingham_palace",
+          "link": "https://danbooru.donmai.us/wiki_pages/buckingham_palace"
+        },
+        {
+          "label": "カンプ・ノウ",
+          "tag": "camp_nou",
+          "link": "https://danbooru.donmai.us/wiki_pages/camp_nou"
+        },
+        {
+          "label": "サンタ・エウラリア大聖堂",
+          "tag": "cathedral_of_santa_eulalia",
+          "link": "https://danbooru.donmai.us/wiki_pages/cathedral_of_santa_eulalia"
+        },
+        {
+          "label": "チェルノブイリ原子力発電所",
+          "tag": "chernobyl_npp",
+          "link": "https://danbooru.donmai.us/wiki_pages/chernobyl_npp"
+        },
+        {
+          "label": "血の上の救世主教会",
+          "tag": "church_of_the_savior_on_blood",
+          "link": "https://danbooru.donmai.us/wiki_pages/church_of_the_savior_on_blood"
+        },
+        {
+          "label": "ケルン大聖堂",
+          "tag": "cologne_cathedral",
+          "link": "https://danbooru.donmai.us/wiki_pages/cologne_cathedral"
+        },
+        {
+          "label": "コロッセオ",
+          "tag": "colosseum",
+          "link": "https://danbooru.donmai.us/wiki_pages/colosseum"
+        },
+        {
+          "label": "エッフェル塔",
+          "tag": "eiffel_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/eiffel_tower"
+        },
+        {
+          "label": "エリザベスタワー",
+          "tag": "elizabeth_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/elizabeth_tower"
+        },
+        {
+          "label": "サンティアゴ・ベルナベウ・スタジアム",
+          "tag": "estadio_santiago_bernabeu",
+          "link": "https://danbooru.donmai.us/wiki_pages/estadio_santiago_bernabeu"
+        },
+        {
+          "label": "フィレンツェ大聖堂",
+          "tag": "florence_cathedral",
+          "link": "https://danbooru.donmai.us/wiki_pages/florence_cathedral"
+        },
+        {
+          "label": "アヤソフィア",
+          "tag": "hagia_sophia",
+          "link": "https://danbooru.donmai.us/wiki_pages/hagia_sophia"
+        },
+        {
+          "label": "ピサの斜塔",
+          "tag": "leaning_tower_of_pisa",
+          "link": "https://danbooru.donmai.us/wiki_pages/leaning_tower_of_pisa"
+        },
+        {
+          "label": "ルーブルピラミッド",
+          "tag": "louvre_pyramid",
+          "link": "https://danbooru.donmai.us/wiki_pages/louvre_pyramid"
+        },
+        {
+          "label": "ルクソール・オベリスク",
+          "tag": "luxor_obelisk",
+          "link": "https://danbooru.donmai.us/wiki_pages/luxor_obelisk"
+        },
+        {
+          "label": "ミラノ大聖堂",
+          "tag": "milan_cathedral",
+          "link": "https://danbooru.donmai.us/wiki_pages/milan_cathedral"
+        },
+        {
+          "label": "モン・サン・ミッシェル",
+          "tag": "mont_st-michel",
+          "link": "https://danbooru.donmai.us/wiki_pages/mont_st-michel"
+        },
+        {
+          "label": "モスクワ・クレムリン",
+          "tag": "moscow_kremlin",
+          "link": "https://danbooru.donmai.us/wiki_pages/moscow_kremlin"
+        },
+        {
+          "label": "ノイシュヴァンシュタイン城",
+          "tag": "neuschwanstein_castle",
+          "link": "https://danbooru.donmai.us/wiki_pages/neuschwanstein_castle"
+        },
+        {
+          "label": "ノートルダム・ド・パリ",
+          "tag": "notre_dame_de_paris",
+          "link": "https://danbooru.donmai.us/wiki_pages/notre_dame_de_paris"
+        },
+        {
+          "label": "議会宮殿",
+          "tag": "palace_of_the_parliament",
+          "link": "https://danbooru.donmai.us/wiki_pages/palace_of_the_parliament"
+        },
+        {
+          "label": "カルロス5世宮殿",
+          "tag": "palacio_de_carlos_v",
+          "link": "https://danbooru.donmai.us/wiki_pages/palacio_de_carlos_v"
+        },
+        {
+          "label": "パルテノン神殿",
+          "tag": "parthenon",
+          "link": "https://danbooru.donmai.us/wiki_pages/parthenon"
+        },
+        {
+          "label": "国会議事堂",
+          "tag": "reichstag",
+          "link": "https://danbooru.donmai.us/wiki_pages/reichstag"
+        },
+        {
+          "label": "サグラダ・ファミリア",
+          "tag": "sagrada_familia",
+          "link": "https://danbooru.donmai.us/wiki_pages/sagrada_familia"
+        },
+        {
+          "label": "サンテルモ",
+          "tag": "sant%27elmo",
+          "link": "https://danbooru.donmai.us/wiki_pages/sant%27elmo"
+        },
+        {
+          "label": "サンスーシ宮殿",
+          "tag": "sanssouci_palace",
+          "link": "https://danbooru.donmai.us/wiki_pages/sanssouci_palace"
+        },
+        {
+          "label": "シェーンブルン宮殿",
+          "tag": "schoenbrunn_palace",
+          "link": "https://danbooru.donmai.us/wiki_pages/schoenbrunn_palace"
+        },
+        {
+          "label": "スパスカヤ塔",
+          "tag": "spasskaya_tower",
+          "link": "https://danbooru.donmai.us/wiki_pages/spasskaya_tower"
+        },
+        {
+          "label": "聖ワシリイ大聖堂",
+          "tag": "st._basil%27s_cathedral",
+          "link": "https://danbooru.donmai.us/wiki_pages/st._basil%27s_cathedral"
+        },
+        {
+          "label": "サン・ピエトロ大聖堂",
+          "tag": "st._peter%27s_basilica",
+          "link": "https://danbooru.donmai.us/wiki_pages/st._peter%27s_basilica"
+        },
+        {
+          "label": "サン・ピエトロ広場",
+          "tag": "st._peter%27s_square",
+          "link": "https://danbooru.donmai.us/wiki_pages/st._peter%27s_square"
+        },
+        {
+          "label": "ストーンヘンジ",
+          "tag": "stonehenge",
+          "link": "https://danbooru.donmai.us/wiki_pages/stonehenge"
+        },
+        {
+          "label": "トラファルガー広場",
+          "tag": "trafalgar_square",
+          "link": "https://danbooru.donmai.us/wiki_pages/trafalgar_square"
+        },
+        {
+          "label": "ウェストミンスター宮殿",
+          "tag": "westminster_palace",
+          "link": "https://danbooru.donmai.us/wiki_pages/westminster_palace"
+        }
+      ]
+    },
+    {
+      "セクション名": "アフリカ",
+      "タグ一覧": [
+        {
+          "label": "アブ・シンベル",
+          "tag": "abu_simbel",
+          "link": "https://danbooru.donmai.us/wiki_pages/abu_simbel"
+        },
+        {
+          "label": "ギザの大ピラミッド",
+          "tag": "great_pyramid_of_giza",
+          "link": "https://danbooru.donmai.us/wiki_pages/great_pyramid_of_giza"
+        }
+      ]
+    },
+    {
+      "セクション名": "オーストラリア / オセアニア",
+      "タグ一覧": [
+        {
+          "label": "モアイ",
+          "tag": "moai",
+          "link": "https://danbooru.donmai.us/wiki_pages/moai"
+        },
+        {
+          "label": "シドニーハーバーブリッジ",
+          "tag": "sydney_harbour_bridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/sydney_harbour_bridge"
+        },
+        {
+          "label": "シドニーオペラハウス",
+          "tag": "sydney_opera_house",
+          "link": "https://danbooru.donmai.us/wiki_pages/sydney_opera_house"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "場所の特定依頼",
+          "tag": "location_request",
+          "link": "https://danbooru.donmai.us/wiki_pages/location_request"
+        },
+        {
+          "label": "タググループ：場所",
+          "tag": "tag_group%3Alocations",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alocations"
+        },
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
+}

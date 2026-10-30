@@ -1,0 +1,817 @@
+{
+  "カテゴリID": "holidays_and_celebrations",
+  "カテゴリ名": "祝祭日・記念日",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aholidays_and_celebrations",
+  "セクション一覧": [
+    {
+      "セクション名": "年1回の祝祭日・記念日",
+      "タグ一覧": [
+        {
+          "label": "正月",
+          "tag": "new_year",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_year"
+        },
+        {
+          "label": "七草の節句",
+          "tag": "nanakusa-no-sekku",
+          "link": "https://danbooru.donmai.us/wiki_pages/nanakusa-no-sekku"
+        },
+        {
+          "label": "旧正月",
+          "tag": "chinese_new_year",
+          "link": "https://danbooru.donmai.us/wiki_pages/chinese_new_year"
+        },
+        {
+          "label": "ツインテールの日",
+          "tag": "twintails_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/twintails_day"
+        },
+        {
+          "label": "節分",
+          "tag": "setsubun",
+          "link": "https://danbooru.donmai.us/wiki_pages/setsubun"
+        },
+        {
+          "label": "バレンタインデー",
+          "tag": "valentine",
+          "link": "https://danbooru.donmai.us/wiki_pages/valentine"
+        },
+        {
+          "label": "猫の日",
+          "tag": "cat_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_day"
+        },
+        {
+          "label": "ひな祭り",
+          "tag": "hinamatsuri",
+          "link": "https://danbooru.donmai.us/wiki_pages/hinamatsuri"
+        },
+        {
+          "label": "国際女性デー",
+          "tag": "women%27s_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/women%27s_day"
+        },
+        {
+          "label": "ミクの日",
+          "tag": "miku_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/miku_day"
+        },
+        {
+          "label": "ホワイトデー",
+          "tag": "white_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_day"
+        },
+        {
+          "label": "聖パトリックの日",
+          "tag": "saint_patrick%27s_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/saint_patrick%27s_day"
+        },
+        {
+          "label": "花見",
+          "tag": "hanami",
+          "link": "https://danbooru.donmai.us/wiki_pages/hanami"
+        },
+        {
+          "label": "イースター",
+          "tag": "easter",
+          "link": "https://danbooru.donmai.us/wiki_pages/easter"
+        },
+        {
+          "label": "エイプリルフール",
+          "tag": "april_fools",
+          "link": "https://danbooru.donmai.us/wiki_pages/april_fools"
+        },
+        {
+          "label": "ソンクラーン",
+          "tag": "songkran",
+          "link": "https://danbooru.donmai.us/wiki_pages/songkran"
+        },
+        {
+          "label": "416日目",
+          "tag": "416_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/416_day"
+        },
+        {
+          "label": "こどもの日",
+          "tag": "kodomo_no_hi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kodomo_no_hi"
+        },
+        {
+          "label": "シンコ・デ・マヨ",
+          "tag": "cinco_de_mayo",
+          "link": "https://danbooru.donmai.us/wiki_pages/cinco_de_mayo"
+        },
+        {
+          "label": "ゴムの日",
+          "tag": "rubber_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/rubber_day"
+        },
+        {
+          "label": "戦勝記念日",
+          "tag": "victory_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/victory_day"
+        },
+        {
+          "label": "母の日",
+          "tag": "mother%27s_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/mother%27s_day"
+        },
+        {
+          "label": "メイドの日",
+          "tag": "maid_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/maid_day"
+        },
+        {
+          "label": "キスの日",
+          "tag": "kiss_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/kiss_day"
+        },
+        {
+          "label": "ドラゴンボートフェスティバル",
+          "tag": "dragon_boat_festival",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragon_boat_festival"
+        },
+        {
+          "label": "ドーナツの日",
+          "tag": "donut_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/donut_day"
+        },
+        {
+          "label": "父の日",
+          "tag": "father%27s_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/father%27s_day"
+        },
+        {
+          "label": "ぬえの日",
+          "tag": "nue_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/nue_day"
+        },
+        {
+          "label": "UFOの日",
+          "tag": "ufo_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/ufo_day"
+        },
+        {
+          "label": "カナダデー",
+          "tag": "canada_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/canada_day"
+        },
+        {
+          "label": "独立記念日",
+          "tag": "fourth_of_july",
+          "link": "https://danbooru.donmai.us/wiki_pages/fourth_of_july"
+        },
+        {
+          "label": "ビキニの日",
+          "tag": "bikini_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_day"
+        },
+        {
+          "label": "七夕",
+          "tag": "tanabata",
+          "link": "https://danbooru.donmai.us/wiki_pages/tanabata"
+        },
+        {
+          "label": "フランス革命記念日",
+          "tag": "bastille_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/bastille_day"
+        },
+        {
+          "label": "お盆",
+          "tag": "obon",
+          "link": "https://danbooru.donmai.us/wiki_pages/obon"
+        },
+        {
+          "label": "海の日",
+          "tag": "marine_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/marine_day"
+        },
+        {
+          "label": "夏祭り",
+          "tag": "summer_festival",
+          "link": "https://danbooru.donmai.us/wiki_pages/summer_festival"
+        },
+        {
+          "label": "パンティーの日",
+          "tag": "panties_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/panties_day"
+        },
+        {
+          "label": "ハニーデー",
+          "tag": "honey_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/honey_day"
+        },
+        {
+          "label": "チルノの日",
+          "tag": "cirno_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/cirno_day"
+        },
+        {
+          "label": "オクトーバーフェスト",
+          "tag": "oktoberfest",
+          "link": "https://danbooru.donmai.us/wiki_pages/oktoberfest"
+        },
+        {
+          "label": "秋夕",
+          "tag": "chuseok",
+          "link": "https://danbooru.donmai.us/wiki_pages/chuseok"
+        },
+        {
+          "label": "中秋節",
+          "tag": "mid-autumn_festival",
+          "link": "https://danbooru.donmai.us/wiki_pages/mid-autumn_festival"
+        },
+        {
+          "label": "月見",
+          "tag": "tsukimi",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsukimi"
+        },
+        {
+          "label": "メガネの日",
+          "tag": "glasses_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/glasses_day"
+        },
+        {
+          "label": "ハロウィン",
+          "tag": "halloween",
+          "link": "https://danbooru.donmai.us/wiki_pages/halloween"
+        },
+        {
+          "label": "死者の日",
+          "tag": "dia_de_muertos",
+          "link": "https://danbooru.donmai.us/wiki_pages/dia_de_muertos"
+        },
+        {
+          "label": "感謝祭",
+          "tag": "thanksgiving",
+          "link": "https://danbooru.donmai.us/wiki_pages/thanksgiving"
+        },
+        {
+          "label": "タイツの日",
+          "tag": "tights_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/tights_day"
+        },
+        {
+          "label": "いいおなかの日",
+          "tag": "stomach_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/stomach_day"
+        },
+        {
+          "label": "ポッキーの日",
+          "tag": "pocky_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/pocky_day"
+        },
+        {
+          "label": "追悼記念日",
+          "tag": "remembrance_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/remembrance_day"
+        },
+        {
+          "label": "七五三",
+          "tag": "shichi-go-san",
+          "link": "https://danbooru.donmai.us/wiki_pages/shichi-go-san"
+        },
+        {
+          "label": "いい夫婦の日",
+          "tag": "ii_fuufu_no_hi",
+          "link": "https://danbooru.donmai.us/wiki_pages/ii_fuufu_no_hi"
+        },
+        {
+          "label": "ハヌカ",
+          "tag": "hanukkah",
+          "link": "https://danbooru.donmai.us/wiki_pages/hanukkah"
+        },
+        {
+          "label": "クリスマス",
+          "tag": "christmas",
+          "link": "https://danbooru.donmai.us/wiki_pages/christmas"
+        }
+      ]
+    },
+    {
+      "セクション名": "年に複数回ある記念日",
+      "タグ一覧": [
+        {
+          "label": "乳房の日",
+          "tag": "breasts_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/breasts_day"
+        },
+        {
+          "label": "バニーデー",
+          "tag": "bunny_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/bunny_day"
+        },
+        {
+          "label": "マンガの日",
+          "tag": "manga_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/manga_day"
+        },
+        {
+          "label": "肉の日",
+          "tag": "meat_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/meat_day"
+        },
+        {
+          "label": "いい肉の日",
+          "tag": "good_meat_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/good_meat_day"
+        },
+        {
+          "label": "いいニーハイの日",
+          "tag": "nice_knee_socks_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/nice_knee_socks_day"
+        },
+        {
+          "label": "いいニーハイの日",
+          "tag": "nice_knee_socks_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/nice_knee_socks_day"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他のイベントと記念行事",
+      "タグ一覧": [
+        {
+          "label": "周年",
+          "tag": "anniversary",
+          "link": "https://danbooru.donmai.us/wiki_pages/anniversary"
+        },
+        {
+          "label": "誕生日",
+          "tag": "birthday",
+          "link": "https://danbooru.donmai.us/wiki_pages/birthday"
+        },
+        {
+          "label": "お誕生日おめでとう",
+          "tag": "happy_birthday",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_birthday"
+        },
+        {
+          "label": "おめでとう",
+          "tag": "congratulations",
+          "link": "https://danbooru.donmai.us/wiki_pages/congratulations"
+        },
+        {
+          "label": "節目のお祝い",
+          "tag": "milestone_celebration",
+          "link": "https://danbooru.donmai.us/wiki_pages/milestone_celebration"
+        },
+        {
+          "label": "ありがとう",
+          "tag": "thank_you",
+          "link": "https://danbooru.donmai.us/wiki_pages/thank_you"
+        }
+      ]
+    },
+    {
+      "セクション名": "元旦",
+      "タグ一覧": [
+        {
+          "label": "あけおめ",
+          "tag": "akeome",
+          "link": "https://danbooru.donmai.us/wiki_pages/akeome"
+        },
+        {
+          "label": "あけましておめでとう",
+          "tag": "happy_new_year",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_new_year"
+        },
+        {
+          "label": "門松",
+          "tag": "kadomatsu",
+          "link": "https://danbooru.donmai.us/wiki_pages/kadomatsu"
+        },
+        {
+          "label": "鏡餅",
+          "tag": "kagami_mochi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kagami_mochi"
+        },
+        {
+          "label": "ことよろ",
+          "tag": "kotoyoro",
+          "link": "https://danbooru.donmai.us/wiki_pages/kotoyoro"
+        },
+        {
+          "label": "もちつき",
+          "tag": "mochitsuki",
+          "link": "https://danbooru.donmai.us/wiki_pages/mochitsuki"
+        },
+        {
+          "label": "年賀状",
+          "tag": "nengajou",
+          "link": "https://danbooru.donmai.us/wiki_pages/nengajou"
+        },
+        {
+          "label": "お年玉",
+          "tag": "otoshidama",
+          "link": "https://danbooru.donmai.us/wiki_pages/otoshidama"
+        },
+        {
+          "label": "しめ飾り",
+          "tag": "shimekazari",
+          "link": "https://danbooru.donmai.us/wiki_pages/shimekazari"
+        }
+      ]
+    },
+    {
+      "セクション名": "中国の旧正月",
+      "タグ一覧": [
+        {
+          "label": "ホンバオ",
+          "tag": "hongbao",
+          "link": "https://danbooru.donmai.us/wiki_pages/hongbao"
+        },
+        {
+          "label": "爆竹",
+          "tag": "firecrackers",
+          "link": "https://danbooru.donmai.us/wiki_pages/firecrackers"
+        },
+        {
+          "label": "花火",
+          "tag": "fireworks",
+          "link": "https://danbooru.donmai.us/wiki_pages/fireworks"
+        },
+        {
+          "label": "倒福",
+          "tag": "dao_fu",
+          "link": "https://danbooru.donmai.us/wiki_pages/dao_fu"
+        },
+        {
+          "label": "年（神話）",
+          "tag": "nian_%28mythology%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nian_%28mythology%29"
+        },
+        {
+          "label": "獅子舞",
+          "tag": "lion_dance",
+          "link": "https://danbooru.donmai.us/wiki_pages/lion_dance"
+        },
+        {
+          "label": "ドラゴンダンス",
+          "tag": "dragon_dance",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragon_dance"
+        }
+      ]
+    },
+    {
+      "セクション名": "春の節分",
+      "タグ一覧": [
+        {
+          "label": "巻き寿司",
+          "tag": "makizushi",
+          "link": "https://danbooru.donmai.us/wiki_pages/makizushi"
+        },
+        {
+          "label": "豆まき",
+          "tag": "mamemaki",
+          "link": "https://danbooru.donmai.us/wiki_pages/mamemaki"
+        },
+        {
+          "label": "ます",
+          "tag": "masu",
+          "link": "https://danbooru.donmai.us/wiki_pages/masu"
+        }
+      ]
+    },
+    {
+      "セクション名": "バレンタインデー",
+      "タグ一覧": [
+        {
+          "label": "チョコレートの箱",
+          "tag": "box_of_chocolates",
+          "link": "https://danbooru.donmai.us/wiki_pages/box_of_chocolates"
+        },
+        {
+          "label": "ハート型のチョコレート",
+          "tag": "heart-shaped_chocolate",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart-shaped_chocolate"
+        },
+        {
+          "label": "ハッピーバレンタイン",
+          "tag": "happy_valentine",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_valentine"
+        },
+        {
+          "label": "ハート型の箱",
+          "tag": "heart-shaped_box",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart-shaped_box"
+        },
+        {
+          "label": "バレンタインデー",
+          "tag": "valentine",
+          "link": "https://danbooru.donmai.us/wiki_pages/valentine"
+        }
+      ]
+    },
+    {
+      "セクション名": "ひな祭り",
+      "タグ一覧": [
+        {
+          "label": "ひな人形",
+          "tag": "hina_ningyou",
+          "link": "https://danbooru.donmai.us/wiki_pages/hina_ningyou"
+        },
+        {
+          "label": "菱餅",
+          "tag": "hishimochi",
+          "link": "https://danbooru.donmai.us/wiki_pages/hishimochi"
+        }
+      ]
+    },
+    {
+      "セクション名": "イースター",
+      "タグ一覧": [
+        {
+          "label": "イースターエッグ",
+          "tag": "easter_egg",
+          "link": "https://danbooru.donmai.us/wiki_pages/easter_egg"
+        }
+      ]
+    },
+    {
+      "セクション名": "ソンクラーン",
+      "タグ一覧": [
+        {
+          "label": "水鉄砲",
+          "tag": "water_gun",
+          "link": "https://danbooru.donmai.us/wiki_pages/water_gun"
+        }
+      ]
+    },
+    {
+      "セクション名": "子供の日",
+      "タグ一覧": [
+        {
+          "label": "柏餅",
+          "tag": "kashiwa_mochi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kashiwa_mochi"
+        },
+        {
+          "label": "鯉のぼり",
+          "tag": "koinobori",
+          "link": "https://danbooru.donmai.us/wiki_pages/koinobori"
+        },
+        {
+          "label": "ちまき",
+          "tag": "zongzi",
+          "link": "https://danbooru.donmai.us/wiki_pages/zongzi"
+        }
+      ]
+    },
+    {
+      "セクション名": "戦勝記念日",
+      "タグ一覧": [
+        {
+          "label": "聖ジョージのリボン",
+          "tag": "ribbon_of_saint_george",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbon_of_saint_george"
+        }
+      ]
+    },
+    {
+      "セクション名": "ドラゴンボートフェスティバル",
+      "タグ一覧": [
+        {
+          "label": "ドラゴンボート",
+          "tag": "dragon_boat",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragon_boat"
+        },
+        {
+          "label": "ちまき",
+          "tag": "zongzi",
+          "link": "https://danbooru.donmai.us/wiki_pages/zongzi"
+        }
+      ]
+    },
+    {
+      "セクション名": "七夕",
+      "タグ一覧": [
+        {
+          "label": "短冊",
+          "tag": "tanzaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/tanzaku"
+        }
+      ]
+    },
+    {
+      "セクション名": "お盆",
+      "タグ一覧": [
+        {
+          "label": "提灯",
+          "tag": "paper_lantern",
+          "link": "https://danbooru.donmai.us/wiki_pages/paper_lantern"
+        },
+        {
+          "label": "水面に浮かぶ灯籠",
+          "tag": "lantern_on_liquid",
+          "link": "https://danbooru.donmai.us/wiki_pages/lantern_on_liquid"
+        },
+        {
+          "label": "精霊馬",
+          "tag": "shouryouuma",
+          "link": "https://danbooru.donmai.us/wiki_pages/shouryouuma"
+        }
+      ]
+    },
+    {
+      "セクション名": "夏祭り",
+      "タグ一覧": [
+        {
+          "label": "空中花火",
+          "tag": "aerial_fireworks",
+          "link": "https://danbooru.donmai.us/wiki_pages/aerial_fireworks"
+        },
+        {
+          "label": "フードスタンド",
+          "tag": "food_stand",
+          "link": "https://danbooru.donmai.us/wiki_pages/food_stand"
+        },
+        {
+          "label": "射撃場",
+          "tag": "shooting_gallery",
+          "link": "https://danbooru.donmai.us/wiki_pages/shooting_gallery"
+        },
+        {
+          "label": "金魚すくい",
+          "tag": "goldfish_scooping",
+          "link": "https://danbooru.donmai.us/wiki_pages/goldfish_scooping"
+        },
+        {
+          "label": "袋詰めの魚",
+          "tag": "bagged_fish",
+          "link": "https://danbooru.donmai.us/wiki_pages/bagged_fish"
+        }
+      ]
+    },
+    {
+      "セクション名": "オクトーバーフェスト",
+      "タグ一覧": [
+        {
+          "label": "ビール",
+          "tag": "beer",
+          "link": "https://danbooru.donmai.us/wiki_pages/beer"
+        },
+        {
+          "label": "ディアンドル",
+          "tag": "dirndl",
+          "link": "https://danbooru.donmai.us/wiki_pages/dirndl"
+        }
+      ]
+    },
+    {
+      "セクション名": "秋夕",
+      "タグ一覧": [
+        {
+          "label": "月うさぎ",
+          "tag": "moon_rabbit",
+          "link": "https://danbooru.donmai.us/wiki_pages/moon_rabbit"
+        },
+        {
+          "label": "サンジョク",
+          "tag": "sanjeok",
+          "link": "https://danbooru.donmai.us/wiki_pages/sanjeok"
+        },
+        {
+          "label": "ソンピョン",
+          "tag": "songpyeon",
+          "link": "https://danbooru.donmai.us/wiki_pages/songpyeon"
+        }
+      ]
+    },
+    {
+      "セクション名": "中秋節",
+      "タグ一覧": [
+        {
+          "label": "嫦娥",
+          "tag": "chang%27e",
+          "link": "https://danbooru.donmai.us/wiki_pages/chang%27e"
+        },
+        {
+          "label": "月餅",
+          "tag": "mooncake",
+          "link": "https://danbooru.donmai.us/wiki_pages/mooncake"
+        },
+        {
+          "label": "月うさぎ",
+          "tag": "moon_rabbit",
+          "link": "https://danbooru.donmai.us/wiki_pages/moon_rabbit"
+        }
+      ]
+    },
+    {
+      "セクション名": "月見",
+      "タグ一覧": [
+        {
+          "label": "月うさぎ",
+          "tag": "moon_rabbit",
+          "link": "https://danbooru.donmai.us/wiki_pages/moon_rabbit"
+        },
+        {
+          "label": "すすき",
+          "tag": "susuki_grass",
+          "link": "https://danbooru.donmai.us/wiki_pages/susuki_grass"
+        },
+        {
+          "label": "月見団子",
+          "tag": "tsukimi_dango",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsukimi_dango"
+        }
+      ]
+    },
+    {
+      "セクション名": "ハロウィン",
+      "タグ一覧": [
+        {
+          "label": "ハッピーハロウィン",
+          "tag": "happy_halloween",
+          "link": "https://danbooru.donmai.us/wiki_pages/happy_halloween"
+        },
+        {
+          "label": "ジャック・オー・ランタン",
+          "tag": "jack-o%27-lantern",
+          "link": "https://danbooru.donmai.us/wiki_pages/jack-o%27-lantern"
+        },
+        {
+          "label": "トリック・オア・トリート",
+          "tag": "trick_or_treat",
+          "link": "https://danbooru.donmai.us/wiki_pages/trick_or_treat"
+        }
+      ]
+    },
+    {
+      "セクション名": "七五三",
+      "タグ一覧": [
+        {
+          "label": "千歳飴",
+          "tag": "chitose_ame",
+          "link": "https://danbooru.donmai.us/wiki_pages/chitose_ame"
+        },
+        {
+          "label": "ひふ",
+          "tag": "hifu",
+          "link": "https://danbooru.donmai.us/wiki_pages/hifu"
+        }
+      ]
+    },
+    {
+      "セクション名": "感謝祭",
+      "タグ一覧": [
+        {
+          "label": "七面鳥",
+          "tag": "turkey_%28food%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/turkey_%28food%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "ハヌカ",
+      "タグ一覧": [
+        {
+          "label": "メノーラー",
+          "tag": "menorah",
+          "link": "https://danbooru.donmai.us/wiki_pages/menorah"
+        }
+      ]
+    },
+    {
+      "セクション名": "クリスマス",
+      "タグ一覧": [
+        {
+          "label": "クリスマスツリー",
+          "tag": "christmas_tree",
+          "link": "https://danbooru.donmai.us/wiki_pages/christmas_tree"
+        },
+        {
+          "label": "メリークリスマス",
+          "tag": "merry_christmas",
+          "link": "https://danbooru.donmai.us/wiki_pages/merry_christmas"
+        },
+        {
+          "label": "ヤドリギ",
+          "tag": "mistletoe",
+          "link": "https://danbooru.donmai.us/wiki_pages/mistletoe"
+        },
+        {
+          "label": "サンタクロース",
+          "tag": "santa_claus",
+          "link": "https://danbooru.donmai.us/wiki_pages/santa_claus"
+        },
+        {
+          "label": "サンタ衣装",
+          "tag": "santa_costume",
+          "link": "https://danbooru.donmai.us/wiki_pages/santa_costume"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "日付のダジャレ",
+          "tag": "date_pun",
+          "link": "https://danbooru.donmai.us/wiki_pages/date_pun"
+        }
+      ]
+    }
+  ]
+}

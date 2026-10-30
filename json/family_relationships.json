@@ -1,0 +1,182 @@
+{
+  "カテゴリID": "family_relationships",
+  "カテゴリ名": "家族関係",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Afamily_relationships",
+  "セクション一覧": [
+    {
+      "セクション名": "家族",
+      "タグ一覧": [
+        {
+          "label": "家族",
+          "tag": "family",
+          "link": "https://danbooru.donmai.us/wiki_pages/family"
+        }
+      ]
+    },
+    {
+      "セクション名": "親子",
+      "タグ一覧": [
+        {
+          "label": "父と息子",
+          "tag": "father_and_son",
+          "link": "https://danbooru.donmai.us/wiki_pages/father_and_son"
+        },
+        {
+          "label": "父と娘",
+          "tag": "father_and_daughter",
+          "link": "https://danbooru.donmai.us/wiki_pages/father_and_daughter"
+        },
+        {
+          "label": "母と息子",
+          "tag": "mother_and_son",
+          "link": "https://danbooru.donmai.us/wiki_pages/mother_and_son"
+        },
+        {
+          "label": "母と娘",
+          "tag": "mother_and_daughter",
+          "link": "https://danbooru.donmai.us/wiki_pages/mother_and_daughter"
+        },
+        {
+          "label": "継親と継子",
+          "tag": "step-parent_and_step-child",
+          "link": "https://danbooru.donmai.us/wiki_pages/step-parent_and_step-child"
+        }
+      ]
+    },
+    {
+      "セクション名": "きょうだい",
+      "タグ一覧": [
+        {
+          "label": "きょうだい",
+          "tag": "siblings",
+          "link": "https://danbooru.donmai.us/wiki_pages/siblings"
+        },
+        {
+          "label": "兄弟",
+          "tag": "brothers",
+          "link": "https://danbooru.donmai.us/wiki_pages/brothers"
+        },
+        {
+          "label": "姉妹",
+          "tag": "sisters",
+          "link": "https://danbooru.donmai.us/wiki_pages/sisters"
+        },
+        {
+          "label": "兄と妹・姉と弟",
+          "tag": "brother_and_sister",
+          "link": "https://danbooru.donmai.us/wiki_pages/brother_and_sister"
+        },
+        {
+          "label": "異父・異母きょうだい",
+          "tag": "half-siblings",
+          "link": "https://danbooru.donmai.us/wiki_pages/half-siblings"
+        },
+        {
+          "label": "連れ子同士のきょうだい",
+          "tag": "step-siblings",
+          "link": "https://danbooru.donmai.us/wiki_pages/step-siblings"
+        }
+      ]
+    },
+    {
+      "セクション名": "双子・多胎児",
+      "タグ一覧": [
+        {
+          "label": "双子",
+          "tag": "twins",
+          "link": "https://danbooru.donmai.us/wiki_pages/twins"
+        },
+        {
+          "label": "三つ子",
+          "tag": "triplets",
+          "link": "https://danbooru.donmai.us/wiki_pages/triplets"
+        },
+        {
+          "label": "四つ子",
+          "tag": "quadruplets",
+          "link": "https://danbooru.donmai.us/wiki_pages/quadruplets"
+        },
+        {
+          "label": "五つ子",
+          "tag": "quintuplets",
+          "link": "https://danbooru.donmai.us/wiki_pages/quintuplets"
+        },
+        {
+          "label": "六つ子",
+          "tag": "sextuplets",
+          "link": "https://danbooru.donmai.us/wiki_pages/sextuplets"
+        },
+        {
+          "label": "七つ子",
+          "tag": "septuplets",
+          "link": "https://danbooru.donmai.us/wiki_pages/septuplets"
+        }
+      ]
+    },
+    {
+      "セクション名": "祖父母と孫",
+      "タグ一覧": [
+        {
+          "label": "祖母と孫娘",
+          "tag": "grandmother_and_granddaughter",
+          "link": "https://danbooru.donmai.us/wiki_pages/grandmother_and_granddaughter"
+        },
+        {
+          "label": "祖母と孫息子",
+          "tag": "grandmother_and_grandson",
+          "link": "https://danbooru.donmai.us/wiki_pages/grandmother_and_grandson"
+        },
+        {
+          "label": "祖父と孫娘",
+          "tag": "grandfather_and_granddaughter",
+          "link": "https://danbooru.donmai.us/wiki_pages/grandfather_and_granddaughter"
+        },
+        {
+          "label": "祖父と孫息子",
+          "tag": "grandfather_and_grandson",
+          "link": "https://danbooru.donmai.us/wiki_pages/grandfather_and_grandson"
+        }
+      ]
+    },
+    {
+      "セクション名": "親戚",
+      "タグ一覧": [
+        {
+          "label": "叔母と姪",
+          "tag": "aunt_and_niece",
+          "link": "https://danbooru.donmai.us/wiki_pages/aunt_and_niece"
+        },
+        {
+          "label": "叔母と甥",
+          "tag": "aunt_and_nephew",
+          "link": "https://danbooru.donmai.us/wiki_pages/aunt_and_nephew"
+        },
+        {
+          "label": "叔父と姪",
+          "tag": "uncle_and_niece",
+          "link": "https://danbooru.donmai.us/wiki_pages/uncle_and_niece"
+        },
+        {
+          "label": "叔父と甥",
+          "tag": "uncle_and_nephew",
+          "link": "https://danbooru.donmai.us/wiki_pages/uncle_and_nephew"
+        },
+        {
+          "label": "いとこ",
+          "tag": "cousins",
+          "link": "https://danbooru.donmai.us/wiki_pages/cousins"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "祖先と子孫",
+          "tag": "ancestor_and_descendant",
+          "link": "https://danbooru.donmai.us/wiki_pages/ancestor_and_descendant"
+        }
+      ]
+    }
+  ]
+}

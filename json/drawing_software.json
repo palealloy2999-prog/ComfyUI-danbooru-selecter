@@ -1,0 +1,647 @@
+{
+  "カテゴリID": "drawing_software",
+  "カテゴリ名": "描画・制作ソフトウェア",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Adrawing_software",
+  "セクション一覧": [
+    {
+      "セクション名": "イラスト制作",
+      "タグ一覧": [
+        {
+          "label": "アドビフレスコ",
+          "tag": "adobe_fresco_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/adobe_fresco_%28medium%29"
+        },
+        {
+          "label": "アドビイラストレーター",
+          "tag": "adobe_illustrator_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/adobe_illustrator_%28medium%29"
+        },
+        {
+          "label": "アフィニティフォト",
+          "tag": "affinity_photo_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/affinity_photo_%28medium%29"
+        },
+        {
+          "label": "アートレイジ",
+          "tag": "artrage_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/artrage_%28medium%29"
+        },
+        {
+          "label": "アートスタジオ",
+          "tag": "artstudio_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/artstudio_%28medium%29"
+        },
+        {
+          "label": "アートウィーバー",
+          "tag": "artweaver_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/artweaver_%28medium%29"
+        },
+        {
+          "label": "オートデスク スケッチブック",
+          "tag": "autodesk_sketchbook_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/autodesk_sketchbook_%28medium%29"
+        },
+        {
+          "label": "アズペインター",
+          "tag": "azpainter_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/azpainter_%28medium%29"
+        },
+        {
+          "label": "クリップスタジオペイント",
+          "tag": "clip_studio_paint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/clip_studio_paint_%28medium%29"
+        },
+        {
+          "label": "Colors!",
+          "tag": "colors%21_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/colors%21_%28medium%29"
+        },
+        {
+          "label": "コーレルDRAW",
+          "tag": "coreldraw_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/coreldraw_%28medium%29"
+        },
+        {
+          "label": "コーレルペインター",
+          "tag": "corel_painter_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/corel_painter_%28medium%29"
+        },
+        {
+          "label": "Corel フォトペイント",
+          "tag": "corel_photo-paint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/corel_photo-paint_%28medium%29"
+        },
+        {
+          "label": "ファイアアルパカ",
+          "tag": "firealpaca_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/firealpaca_%28medium%29"
+        },
+        {
+          "label": "ギンプ",
+          "tag": "gimp_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/gimp_%28medium%29"
+        },
+        {
+          "label": "ヘビーペイント",
+          "tag": "heavypaint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/heavypaint_%28medium%29"
+        },
+        {
+          "label": "華市街",
+          "tag": "huashijie_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/huashijie_%28medium%29"
+        },
+        {
+          "label": "アイビスペイント",
+          "tag": "ibispaint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ibispaint_%28medium%29"
+        },
+        {
+          "label": "Infinite Painter",
+          "tag": "infinite_painter_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/infinite_painter_%28medium%29"
+        },
+        {
+          "label": "インクスケープ",
+          "tag": "inkscape_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/inkscape_%28medium%29"
+        },
+        {
+          "label": "キッドピックス",
+          "tag": "kid_pix_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kid_pix_%28medium%29"
+        },
+        {
+          "label": "クリタ",
+          "tag": "krita_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/krita_%28medium%29"
+        },
+        {
+          "label": "メディバンペイント",
+          "tag": "medibang_paint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/medibang_paint_%28medium%29"
+        },
+        {
+          "label": "マイクロソフトペイント",
+          "tag": "microsoft_paint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft_paint_%28medium%29"
+        },
+        {
+          "label": "マイペイント",
+          "tag": "mypaint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mypaint_%28medium%29"
+        },
+        {
+          "label": "ネコペイント",
+          "tag": "nekopaint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nekopaint_%28medium%29"
+        },
+        {
+          "label": "オープンキャンバス",
+          "tag": "opencanvas_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/opencanvas_%28medium%29"
+        },
+        {
+          "label": "ペイント.NET",
+          "tag": "paint.net_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/paint.net_%28medium%29"
+        },
+        {
+          "label": "ペイントショッププロ",
+          "tag": "paintshop_pro_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/paintshop_pro_%28medium%29"
+        },
+        {
+          "label": "ペイントストームスタジオ",
+          "tag": "paintstorm_studio_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/paintstorm_studio_%28medium%29"
+        },
+        {
+          "label": "ペイントツールSAI",
+          "tag": "painttool_sai_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/painttool_sai_%28medium%29"
+        },
+        {
+          "label": "フォトスケープ",
+          "tag": "photoscape_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/photoscape_%28medium%29"
+        },
+        {
+          "label": "フォトショップ",
+          "tag": "photoshop_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/photoshop_%28medium%29"
+        },
+        {
+          "label": "ピクスアート",
+          "tag": "picsart_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/picsart_%28medium%29"
+        },
+        {
+          "label": "ピクシア",
+          "tag": "pixia_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pixia_%28medium%29"
+        },
+        {
+          "label": "Procreate",
+          "tag": "procreate_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/procreate_%28medium%29"
+        },
+        {
+          "label": "Rebelle",
+          "tag": "rebelle_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rebelle_%28medium%29"
+        },
+        {
+          "label": "Sketchable",
+          "tag": "sketchable_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sketchable_%28medium%29"
+        },
+        {
+          "label": "タックスペイント",
+          "tag": "tuxpaint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tuxpaint_%28medium%29"
+        },
+        {
+          "label": "ウィグリーペイント",
+          "tag": "wigglypaint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/wigglypaint_%28medium%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "ピクセルアート",
+      "タグ一覧": [
+        {
+          "label": "ピクセルアート",
+          "tag": "pixel_art",
+          "link": "https://danbooru.donmai.us/wiki_pages/pixel_art"
+        },
+        {
+          "label": "アセプライト",
+          "tag": "aseprite_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/aseprite_%28medium%29"
+        },
+        {
+          "label": "ドットピクト",
+          "tag": "dotpict_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dotpict_%28medium%29"
+        },
+        {
+          "label": "グラフィックスゲイル",
+          "tag": "graphicsgale_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/graphicsgale_%28medium%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "お絵かき・共同描画",
+      "タグ一覧": [
+        {
+          "label": "お絵かき",
+          "tag": "oekaki",
+          "link": "https://danbooru.donmai.us/wiki_pages/oekaki"
+        },
+        {
+          "label": "Aggie.io",
+          "tag": "aggie.io_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/aggie.io_%28medium%29"
+        },
+        {
+          "label": "ちびペイント",
+          "tag": "chibipaint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/chibipaint_%28medium%29"
+        },
+        {
+          "label": "ドローパイル",
+          "tag": "drawpile_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/drawpile_%28medium%29"
+        },
+        {
+          "label": "iScribble",
+          "tag": "iscribble_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/iscribble_%28medium%29"
+        },
+        {
+          "label": "マジカルドロー",
+          "tag": "magicaldraw_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/magicaldraw_%28medium%29"
+        },
+        {
+          "label": "ペイントチャット",
+          "tag": "paint_chat_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/paint_chat_%28medium%29"
+        },
+        {
+          "label": "しぃペインター",
+          "tag": "shi_painter_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shi_painter_%28medium%29"
+        },
+        {
+          "label": "ホワイトボードフォックス",
+          "tag": "whiteboard_fox_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/whiteboard_fox_%28medium%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "2Dアニメーション",
+      "タグ一覧": [
+        {
+          "label": "アニメーション",
+          "tag": "animated",
+          "link": "https://danbooru.donmai.us/wiki_pages/animated"
+        },
+        {
+          "label": "アドビ アニメイト",
+          "tag": "adobe_animate_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/adobe_animate_%28medium%29"
+        },
+        {
+          "label": "アフターエフェクト",
+          "tag": "after_effects_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/after_effects_%28medium%29"
+        },
+        {
+          "label": "ドラゴンボーンズ",
+          "tag": "dragonbones_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragonbones_%28medium%29"
+        },
+        {
+          "label": "イージートゥーン",
+          "tag": "easytoon_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/easytoon_%28medium%29"
+        },
+        {
+          "label": "エモフリ",
+          "tag": "emofuri",
+          "link": "https://danbooru.donmai.us/wiki_pages/emofuri"
+        },
+        {
+          "label": "FlipaClip",
+          "tag": "flipaclip_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/flipaclip_%28medium%29"
+        },
+        {
+          "label": "うごメモスタジオ",
+          "tag": "flipnote_studio_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/flipnote_studio_%28medium%29"
+        },
+        {
+          "label": "ライブ2D",
+          "tag": "live2d",
+          "link": "https://danbooru.donmai.us/wiki_pages/live2d"
+        },
+        {
+          "label": "モホプロ",
+          "tag": "moho_pro_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/moho_pro_%28medium%29"
+        },
+        {
+          "label": "オープントゥーンズ",
+          "tag": "opentoonz_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/opentoonz_%28medium%29"
+        },
+        {
+          "label": "Spine",
+          "tag": "spine_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/spine_%28medium%29"
+        },
+        {
+          "label": "トゥーネーター",
+          "tag": "toonator_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/toonator_%28medium%29"
+        },
+        {
+          "label": "トゥーンブーム",
+          "tag": "toon_boom_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/toon_boom_%28medium%29"
+        },
+        {
+          "label": "トゥーニオ",
+          "tag": "toonio_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/toonio_%28medium%29"
+        },
+        {
+          "label": "TVペイント",
+          "tag": "tvpaint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tvpaint_%28medium%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "動画編集",
+      "タグ一覧": [
+        {
+          "label": "アクションディレクター",
+          "tag": "actiondirector_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/actiondirector_%28medium%29"
+        },
+        {
+          "label": "アドビプレミア",
+          "tag": "adobe_premiere_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/adobe_premiere_%28medium%29"
+        },
+        {
+          "label": "アフターエフェクト",
+          "tag": "after_effects_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/after_effects_%28medium%29"
+        },
+        {
+          "label": "Alight Motion",
+          "tag": "alight_motion_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/alight_motion_%28medium%29"
+        },
+        {
+          "label": "キャップカット",
+          "tag": "capcut_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/capcut_%28medium%29"
+        },
+        {
+          "label": "Filmora",
+          "tag": "filmora_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/filmora_%28medium%29"
+        },
+        {
+          "label": "ベガスプロ",
+          "tag": "vegas_pro_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/vegas_pro_%28medium%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "3D",
+      "タグ一覧": [
+        {
+          "label": "3D",
+          "tag": "3d",
+          "link": "https://danbooru.donmai.us/wiki_pages/3d"
+        },
+        {
+          "label": "オートデスク 3ds Max",
+          "tag": "autodesk_3ds_max_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/autodesk_3ds_max_%28medium%29"
+        },
+        {
+          "label": "ブレンダー",
+          "tag": "blender_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/blender_%28medium%29"
+        },
+        {
+          "label": "ブロックベンチ",
+          "tag": "blockbench_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/blockbench_%28medium%29"
+        },
+        {
+          "label": "シネマ4D",
+          "tag": "cinema_4d_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cinema_4d_%28medium%29"
+        },
+        {
+          "label": "DAZスタジオ",
+          "tag": "daz_studio_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/daz_studio_%28medium%29"
+        },
+        {
+          "label": "グーエンジン",
+          "tag": "goo_engine_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/goo_engine_%28medium%29"
+        },
+        {
+          "label": "キーショット",
+          "tag": "keyshot_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/keyshot_%28medium%29"
+        },
+        {
+          "label": "コイカツ",
+          "tag": "koikatsu_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/koikatsu_%28medium%29"
+        },
+        {
+          "label": "ライトウェーブ",
+          "tag": "lightwave_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lightwave_%28medium%29"
+        },
+        {
+          "label": "マヤ",
+          "tag": "maya_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/maya_%28medium%29"
+        },
+        {
+          "label": "マイクロソフト ペイント 3D",
+          "tag": "microsoft_paint_3d_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft_paint_3d_%28medium%29"
+        },
+        {
+          "label": "ミクミクダンス",
+          "tag": "mikumikudance_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mikumikudance_%28medium%29"
+        },
+        {
+          "label": "モド",
+          "tag": "modo_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/modo_%28medium%29"
+        },
+        {
+          "label": "Poser",
+          "tag": "poser_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/poser_%28medium%29"
+        },
+        {
+          "label": "ソフトイメージ",
+          "tag": "softimage_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/softimage_%28medium%29"
+        },
+        {
+          "label": "ソースフィルムメーカー",
+          "tag": "source_filmmaker_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/source_filmmaker_%28medium%29"
+        },
+        {
+          "label": "Unity",
+          "tag": "unity_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/unity_%28medium%29"
+        },
+        {
+          "label": "アンリアルエンジン",
+          "tag": "unreal_engine_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/unreal_engine_%28medium%29"
+        },
+        {
+          "label": "XNALara",
+          "tag": "xnalara",
+          "link": "https://danbooru.donmai.us/wiki_pages/xnalara"
+        },
+        {
+          "label": "Zブラシ",
+          "tag": "zbrush_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/zbrush_%28medium%29"
+        },
+        {
+          "label": "ギャリーのモッド",
+          "tag": "garry%27s_mod_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/garry%27s_mod_%28medium%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "ゲームと型破りなソフトウェア",
+      "タグ一覧": [
+        {
+          "label": "アニマルジャム",
+          "tag": "animal_jam_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_jam_%28medium%29"
+        },
+        {
+          "label": "アートアカデミー",
+          "tag": "art_academy_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/art_academy_%28medium%29"
+        },
+        {
+          "label": "デスモス",
+          "tag": "desmos_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/desmos_%28medium%29"
+        },
+        {
+          "label": "グッドノーツ",
+          "tag": "goodnotes_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/goodnotes_%28medium%29"
+        },
+        {
+          "label": "iPhoneメモ",
+          "tag": "iphone_notes_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/iphone_notes_%28medium%29"
+        },
+        {
+          "label": "マイクロソフトエクセル",
+          "tag": "microsoft_excel_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft_excel_%28medium%29"
+        },
+        {
+          "label": "マイクロソフト パワーポイント",
+          "tag": "microsoft_powerpoint_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft_powerpoint_%28medium%29"
+        },
+        {
+          "label": "マイクロソフトワード",
+          "tag": "microsoft_word_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft_word_%28medium%29"
+        },
+        {
+          "label": "マインクラフト",
+          "tag": "minecraft_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/minecraft_%28medium%29"
+        },
+        {
+          "label": "パスパルトゥー",
+          "tag": "passpartout_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/passpartout_%28medium%29"
+        },
+        {
+          "label": "ロブロックス",
+          "tag": "roblox_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/roblox_%28medium%29"
+        },
+        {
+          "label": "Rust",
+          "tag": "rust_%28game%29_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rust_%28game%29_%28medium%29"
+        },
+        {
+          "label": "ストローページ",
+          "tag": "strawpage_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/strawpage_%28medium%29"
+        },
+        {
+          "label": "スワップノート",
+          "tag": "swapnote_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/swapnote_%28medium%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他のツール",
+      "タグ一覧": [
+        {
+          "label": "Adobe Fireworks",
+          "tag": "adobe_fireworks_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/adobe_fireworks_%28medium%29"
+        },
+        {
+          "label": "Flame Painter",
+          "tag": "flame_painter_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/flame_painter_%28medium%29"
+        },
+        {
+          "label": "Google スケッチアップ",
+          "tag": "google_sketchup_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/google_sketchup_%28medium%29"
+        },
+        {
+          "label": "イメージレディ",
+          "tag": "imageready_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/imageready_%28medium%29"
+        },
+        {
+          "label": "ペイントチェイナー",
+          "tag": "paintschainer_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/paintschainer_%28medium%29"
+        },
+        {
+          "label": "Recolored",
+          "tag": "recolored_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/recolored_%28medium%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "Flash",
+          "tag": "flash",
+          "link": "https://danbooru.donmai.us/wiki_pages/flash"
+        }
+      ]
+    }
+  ]
+}

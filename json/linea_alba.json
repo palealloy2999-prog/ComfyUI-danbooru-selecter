@@ -1,0 +1,32 @@
+{
+  "カテゴリID": "linea_alba",
+  "カテゴリ名": "白線（腹部の正中線）",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=linea_alba",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "腹筋",
+          "tag": "abs",
+          "link": "https://danbooru.donmai.us/wiki_pages/abs"
+        },
+        {
+          "label": "腹部",
+          "tag": "stomach",
+          "link": "https://danbooru.donmai.us/wiki_pages/stomach"
+        },
+        {
+          "label": "引き締まった体",
+          "tag": "toned",
+          "link": "https://danbooru.donmai.us/wiki_pages/toned"
+        },
+        {
+          "label": "背中の正中溝",
+          "tag": "median_furrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/median_furrow"
+        }
+      ]
+    }
+  ]
+}

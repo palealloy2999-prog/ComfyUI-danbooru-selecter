@@ -1,0 +1,242 @@
+{
+  "カテゴリID": "patterns",
+  "カテゴリ名": "模様・パターン",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Apatterns",
+  "セクション一覧": [
+    {
+      "セクション名": "日本の伝統的な模様",
+      "タグ一覧": [
+        {
+          "label": "麻の葉文様",
+          "tag": "asa_no_ha_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/asa_no_ha_%28pattern%29"
+        },
+        {
+          "label": "絵霞",
+          "tag": "egasumi",
+          "link": "https://danbooru.donmai.us/wiki_pages/egasumi"
+        },
+        {
+          "label": "源氏車",
+          "tag": "genjiguruma",
+          "link": "https://danbooru.donmai.us/wiki_pages/genjiguruma"
+        },
+        {
+          "label": "御所車",
+          "tag": "goshoguruma",
+          "link": "https://danbooru.donmai.us/wiki_pages/goshoguruma"
+        },
+        {
+          "label": "井桁（いげた）",
+          "tag": "igeta_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/igeta_%28pattern%29"
+        },
+        {
+          "label": "籠目文様",
+          "tag": "kagome_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kagome_%28pattern%29"
+        },
+        {
+          "label": "鹿の子（柄）",
+          "tag": "kanoko_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kanoko_%28pattern%29"
+        },
+        {
+          "label": "唐草（文様）",
+          "tag": "karakusa_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/karakusa_%28pattern%29"
+        },
+        {
+          "label": "菊紋",
+          "tag": "kikumon",
+          "link": "https://danbooru.donmai.us/wiki_pages/kikumon"
+        },
+        {
+          "label": "亀甲文様",
+          "tag": "kikkoumon",
+          "link": "https://danbooru.donmai.us/wiki_pages/kikkoumon"
+        },
+        {
+          "label": "工字繋ぎ",
+          "tag": "kojitsunagi_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kojitsunagi_%28pattern%29"
+        },
+        {
+          "label": "桜紋",
+          "tag": "sakuramon",
+          "link": "https://danbooru.donmai.us/wiki_pages/sakuramon"
+        },
+        {
+          "label": "紗綾形",
+          "tag": "sayagata",
+          "link": "https://danbooru.donmai.us/wiki_pages/sayagata"
+        },
+        {
+          "label": "青海波",
+          "tag": "seigaiha",
+          "link": "https://danbooru.donmai.us/wiki_pages/seigaiha"
+        },
+        {
+          "label": "縞（模様）",
+          "tag": "shima_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shima_%28pattern%29"
+        },
+        {
+          "label": "七宝（しっぽう）",
+          "tag": "shippou_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shippou_%28pattern%29"
+        },
+        {
+          "label": "立涌文様",
+          "tag": "tatewaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/tatewaku"
+        },
+        {
+          "label": "団扇",
+          "tag": "uchiwa_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uchiwa_%28medium%29"
+        },
+        {
+          "label": "鱗文様",
+          "tag": "uroko_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uroko_%28pattern%29"
+        },
+        {
+          "label": "矢絣",
+          "tag": "yagasuri",
+          "link": "https://danbooru.donmai.us/wiki_pages/yagasuri"
+        }
+      ]
+    },
+    {
+      "セクション名": "中国の模様",
+      "タグ一覧": [
+        {
+          "label": "双喜紋",
+          "tag": "double_happiness",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_happiness"
+        },
+        {
+          "label": "雷文・メアンドロス文様",
+          "tag": "meandros",
+          "link": "https://danbooru.donmai.us/wiki_pages/meandros"
+        },
+        {
+          "label": "寿の字",
+          "tag": "shou_%28symbol%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shou_%28symbol%29"
+        },
+        {
+          "label": "祥雲文様",
+          "tag": "xiangyun",
+          "link": "https://danbooru.donmai.us/wiki_pages/xiangyun"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の模様",
+      "タグ一覧": [
+        {
+          "label": "アーガイル",
+          "tag": "argyle",
+          "link": "https://danbooru.donmai.us/wiki_pages/argyle"
+        },
+        {
+          "label": "市松",
+          "tag": "checkered",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered"
+        },
+        {
+          "label": "クロスプリント",
+          "tag": "cross_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_print"
+        },
+        {
+          "label": "フルール・ド・リス",
+          "tag": "fleur-de-lis",
+          "link": "https://danbooru.donmai.us/wiki_pages/fleur-de-lis"
+        },
+        {
+          "label": "花柄",
+          "tag": "floral_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/floral_print"
+        },
+        {
+          "label": "フラワー・オブ・ライフ",
+          "tag": "flower_of_life_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower_of_life_%28pattern%29"
+        },
+        {
+          "label": "ギンガム",
+          "tag": "gingham",
+          "link": "https://danbooru.donmai.us/wiki_pages/gingham"
+        },
+        {
+          "label": "千鳥格子",
+          "tag": "houndstooth",
+          "link": "https://danbooru.donmai.us/wiki_pages/houndstooth"
+        },
+        {
+          "label": "雷文・メアンドロス文様",
+          "tag": "meandros",
+          "link": "https://danbooru.donmai.us/wiki_pages/meandros"
+        },
+        {
+          "label": "ペイズリー",
+          "tag": "paisley",
+          "link": "https://danbooru.donmai.us/wiki_pages/paisley"
+        },
+        {
+          "label": "チェック柄",
+          "tag": "plaid",
+          "link": "https://danbooru.donmai.us/wiki_pages/plaid"
+        },
+        {
+          "label": "水玉模様",
+          "tag": "polka_dot",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot"
+        },
+        {
+          "label": "縞模様",
+          "tag": "striped",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped"
+        },
+        {
+          "label": "グリッドプリント",
+          "tag": "grid_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/grid_print"
+        },
+        {
+          "label": "タググループ：プリント",
+          "tag": "tag_group%3Aprints",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aprints"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "模様のある",
+          "tag": "patterned",
+          "link": "https://danbooru.donmai.us/wiki_pages/patterned"
+        },
+        {
+          "label": "タググループ：画像構成",
+          "tag": "tag_group%3Aimage_composition",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aimage_composition"
+        },
+        {
+          "label": "タググループ：プリント",
+          "tag": "tag_group%3Aprints",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aprints"
+        },
+        {
+          "label": "タググループ：シンボル",
+          "tag": "tag_group%3Asymbols",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asymbols"
+        }
+      ]
+    }
+  ]
+}

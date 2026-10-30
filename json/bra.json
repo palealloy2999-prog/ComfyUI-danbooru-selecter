@@ -1,0 +1,317 @@
+{
+  "カテゴリID": "bra",
+  "カテゴリ名": "ブラジャー",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Abra",
+  "セクション一覧": [
+    {
+      "セクション名": "主要",
+      "タグ一覧": [
+        {
+          "label": "ブラジャー",
+          "tag": "bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra"
+        }
+      ]
+    },
+    {
+      "セクション名": "色",
+      "タグ一覧": [
+        {
+          "label": "水色のブラジャー",
+          "tag": "aqua_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_bra"
+        },
+        {
+          "label": "黒いブラジャー",
+          "tag": "black_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_bra"
+        },
+        {
+          "label": "青いブラジャー",
+          "tag": "blue_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_bra"
+        },
+        {
+          "label": "茶色のブラジャー",
+          "tag": "brown_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_bra"
+        },
+        {
+          "label": "緑のブラジャー",
+          "tag": "green_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_bra"
+        },
+        {
+          "label": "グレーのブラジャー",
+          "tag": "grey_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_bra"
+        },
+        {
+          "label": "オレンジ色のブラジャー",
+          "tag": "orange_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_bra"
+        },
+        {
+          "label": "ピンクのブラジャー",
+          "tag": "pink_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_bra"
+        },
+        {
+          "label": "紫色のブラジャー",
+          "tag": "purple_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_bra"
+        },
+        {
+          "label": "赤いブラジャー",
+          "tag": "red_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_bra"
+        },
+        {
+          "label": "白いブラジャー",
+          "tag": "white_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_bra"
+        },
+        {
+          "label": "黄色いブラジャー",
+          "tag": "yellow_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_bra"
+        }
+      ]
+    },
+    {
+      "セクション名": "複数色",
+      "タグ一覧": [
+        {
+          "label": "カラフルなブラジャー",
+          "tag": "multicolored_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_bra"
+        }
+      ]
+    },
+    {
+      "セクション名": "模様・プリント",
+      "タグ一覧": [
+        {
+          "label": "キャミブラ",
+          "tag": "cami_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/cami_bra"
+        },
+        {
+          "label": "市松模様のブラジャー",
+          "tag": "checkered_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_bra"
+        },
+        {
+          "label": "レースブラジャー",
+          "tag": "lace_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace_bra"
+        },
+        {
+          "label": "レース縁のブラジャー",
+          "tag": "lace-trimmed_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace-trimmed_bra"
+        },
+        {
+          "label": "チェック柄ブラジャー",
+          "tag": "plaid_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/plaid_bra"
+        },
+        {
+          "label": "水玉ブラ",
+          "tag": "polka_dot_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot_bra"
+        },
+        {
+          "label": "プリントブラ",
+          "tag": "print_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_bra"
+        },
+        {
+          "label": "イチゴブラ",
+          "tag": "strawberry_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/strawberry_bra"
+        },
+        {
+          "label": "ストライプブラジャー",
+          "tag": "striped_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_bra"
+        },
+        {
+          "label": "縦縞ブラジャー",
+          "tag": "vertical-striped_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/vertical-striped_bra"
+        }
+      ]
+    },
+    {
+      "セクション名": "形・種類",
+      "タグ一覧": [
+        {
+          "label": "粘着ブラジャー",
+          "tag": "adhesive_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/adhesive_bra"
+        },
+        {
+          "label": "ベルトブラ",
+          "tag": "belt_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/belt_bra"
+        },
+        {
+          "label": "ボウブラ",
+          "tag": "bow_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/bow_bra"
+        },
+        {
+          "label": "ブリッジレスブラ",
+          "tag": "bridgeless_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/bridgeless_bra"
+        },
+        {
+          "label": "カップレスブラ",
+          "tag": "cupless_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/cupless_bra"
+        },
+        {
+          "label": "フリルブラジャー",
+          "tag": "frilled_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/frilled_bra"
+        },
+        {
+          "label": "フロントホックブラ",
+          "tag": "front-hook_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/front-hook_bra"
+        },
+        {
+          "label": "フロントタイブラ",
+          "tag": "front-tie_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/front-tie_bra"
+        },
+        {
+          "label": "授乳ブラジャー",
+          "tag": "nursing_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/nursing_bra"
+        },
+        {
+          "label": "シェルフブラ",
+          "tag": "shelf_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/shelf_bra"
+        },
+        {
+          "label": "スポーツブラ",
+          "tag": "sports_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/sports_bra"
+        },
+        {
+          "label": "ストラップレスブラ",
+          "tag": "strapless_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/strapless_bra"
+        },
+        {
+          "label": "ジュニアブラ",
+          "tag": "training_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/training_bra"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "ブラジャーの調整",
+          "tag": "adjusting_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_bra"
+        },
+        {
+          "label": "ブラジャーを持ち上げる",
+          "tag": "bra_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra_lift"
+        },
+        {
+          "label": "お尻にブラジャー",
+          "tag": "bra_on_ass",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra_on_ass"
+        },
+        {
+          "label": "頭にブラジャー",
+          "tag": "bra_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra_on_head"
+        },
+        {
+          "label": "ブラジャーのちら見え",
+          "tag": "bra_peek",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra_peek"
+        },
+        {
+          "label": "ブラジャーを引っ張る",
+          "tag": "bra_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra_pull"
+        },
+        {
+          "label": "ブラストラップ",
+          "tag": "bra_strap",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra_strap"
+        },
+        {
+          "label": "ブラジャーの中に手を入れる",
+          "tag": "hand_in_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_in_bra"
+        },
+        {
+          "label": "ブラジャーを持つ",
+          "tag": "holding_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_bra"
+        },
+        {
+          "label": "ブラジャーなし",
+          "tag": "no_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_bra"
+        },
+        {
+          "label": "外れたブラジャー",
+          "tag": "open_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_bra"
+        },
+        {
+          "label": "ブラジャーを見せる",
+          "tag": "presenting_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/presenting_bra"
+        },
+        {
+          "label": "破れたブラジャー",
+          "tag": "torn_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_bra"
+        },
+        {
+          "label": "着用していないブラジャー",
+          "tag": "unworn_bra",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_bra"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：服装",
+          "tag": "tag_group%3Aattire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+        },
+        {
+          "label": "タググループ：パンティー",
+          "tag": "tag_group%3Apanties",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apanties"
+        },
+        {
+          "label": "タググループ：性的な衣装・下着",
+          "tag": "tag_group%3Asexual_attire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asexual_attire"
+        },
+        {
+          "label": "ビスチェ",
+          "tag": "bustier",
+          "link": "https://danbooru.donmai.us/wiki_pages/bustier"
+        }
+      ]
+    }
+  ]
+}

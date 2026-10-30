@@ -1,0 +1,642 @@
+{
+  "カテゴリID": "swimsuit",
+  "カテゴリ名": "水着",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=swimsuit",
+  "セクション一覧": [
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "水泳",
+          "tag": "swimming",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimming"
+        },
+        {
+          "label": "入浴",
+          "tag": "bathing",
+          "link": "https://danbooru.donmai.us/wiki_pages/bathing"
+        },
+        {
+          "label": "砂浜・海辺",
+          "tag": "beach",
+          "link": "https://danbooru.donmai.us/wiki_pages/beach"
+        },
+        {
+          "label": "ワンピース水着",
+          "tag": "one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/one-piece_swimsuit"
+        },
+        {
+          "label": "ビキニ",
+          "tag": "bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini"
+        },
+        {
+          "label": "男性用水着",
+          "tag": "male_swimwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/male_swimwear"
+        },
+        {
+          "label": "トランクス型水着",
+          "tag": "swim_trunks",
+          "link": "https://danbooru.donmai.us/wiki_pages/swim_trunks"
+        },
+        {
+          "label": "ブリーフ型水着",
+          "tag": "swim_briefs",
+          "link": "https://danbooru.donmai.us/wiki_pages/swim_briefs"
+        },
+        {
+          "label": "レッグスキン（足首丈の競泳水着）",
+          "tag": "legskin",
+          "link": "https://danbooru.donmai.us/wiki_pages/legskin"
+        },
+        {
+          "label": "ジャマー（膝上丈の競泳水着）",
+          "tag": "jammers",
+          "link": "https://danbooru.donmai.us/wiki_pages/jammers"
+        }
+      ]
+    },
+    {
+      "セクション名": "水着の種類",
+      "タグ一覧": [
+        {
+          "label": "ビキニ",
+          "tag": "bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini"
+        },
+        {
+          "label": "ビキニスカート",
+          "tag": "bikini_skirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_skirt"
+        },
+        {
+          "label": "チェック柄ビキニ",
+          "tag": "checkered_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_bikini"
+        },
+        {
+          "label": "リーフビキニ",
+          "tag": "leaf_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/leaf_bikini"
+        },
+        {
+          "label": "ローレグビキニ",
+          "tag": "lowleg_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/lowleg_bikini"
+        },
+        {
+          "label": "メイドビキニ",
+          "tag": "maid_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/maid_bikini"
+        },
+        {
+          "label": "マイクロビキニ",
+          "tag": "micro_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/micro_bikini"
+        },
+        {
+          "label": "Oリングビキニ",
+          "tag": "o-ring_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/o-ring_bikini"
+        },
+        {
+          "label": "Oリングトップ",
+          "tag": "o-ring_top",
+          "link": "https://danbooru.donmai.us/wiki_pages/o-ring_top"
+        },
+        {
+          "label": "Oリング付きビキニボトム",
+          "tag": "o-ring_bottom",
+          "link": "https://danbooru.donmai.us/wiki_pages/o-ring_bottom"
+        },
+        {
+          "label": "シェルビキニ",
+          "tag": "shell_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/shell_bikini"
+        },
+        {
+          "label": "サイドタイビキニボトム",
+          "tag": "side-tie_bikini_bottom",
+          "link": "https://danbooru.donmai.us/wiki_pages/side-tie_bikini_bottom"
+        },
+        {
+          "label": "スポーツビキニ",
+          "tag": "sports_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/sports_bikini"
+        },
+        {
+          "label": "ストリングビキニ",
+          "tag": "string_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/string_bikini"
+        },
+        {
+          "label": "タンキニ",
+          "tag": "tankini",
+          "link": "https://danbooru.donmai.us/wiki_pages/tankini"
+        },
+        {
+          "label": "トングビキニ",
+          "tag": "thong_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/thong_bikini"
+        },
+        {
+          "label": "ラッシュガード",
+          "tag": "rash_guard",
+          "link": "https://danbooru.donmai.us/wiki_pages/rash_guard"
+        },
+        {
+          "label": "昔ながらの水着",
+          "tag": "old-fashioned_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/old-fashioned_swimsuit"
+        },
+        {
+          "label": "ワンピース水着",
+          "tag": "one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/one-piece_swimsuit"
+        },
+        {
+          "label": "カジュアルなワンピース水着",
+          "tag": "casual_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/casual_one-piece_swimsuit"
+        },
+        {
+          "label": "ドレス水着",
+          "tag": "dress_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/dress_swimsuit"
+        },
+        {
+          "label": "競泳水着",
+          "tag": "competition_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/competition_swimsuit"
+        },
+        {
+          "label": "グリス水着",
+          "tag": "gris_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/gris_swimsuit"
+        },
+        {
+          "label": "モノキニ",
+          "tag": "monokini",
+          "link": "https://danbooru.donmai.us/wiki_pages/monokini"
+        },
+        {
+          "label": "スクール水着",
+          "tag": "school_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/school_swimsuit"
+        },
+        {
+          "label": "スリングショット水着",
+          "tag": "slingshot_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/slingshot_swimsuit"
+        }
+      ]
+    },
+    {
+      "セクション名": "スタイル",
+      "タグ一覧": [
+        {
+          "label": "リボン付き水着",
+          "tag": "bow_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/bow_swimsuit"
+        },
+        {
+          "label": "フリルワンピース水着",
+          "tag": "frilled_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/frilled_one-piece_swimsuit"
+        },
+        {
+          "label": "フリルビキニ",
+          "tag": "frilled_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/frilled_bikini"
+        },
+        {
+          "label": "ハイレグワンピース水着",
+          "tag": "highleg_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/highleg_one-piece_swimsuit"
+        },
+        {
+          "label": "ハイレグビキニ",
+          "tag": "highleg_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/highleg_bikini"
+        },
+        {
+          "label": "水玉模様の水着",
+          "tag": "polka_dot_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot_swimsuit"
+        },
+        {
+          "label": "水玉ビキニ",
+          "tag": "polka_dot_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot_bikini"
+        },
+        {
+          "label": "ストライプ柄ワンピース水着",
+          "tag": "striped_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_one-piece_swimsuit"
+        },
+        {
+          "label": "ストライプビキニ",
+          "tag": "striped_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_bikini"
+        },
+        {
+          "label": "Gストリング",
+          "tag": "g-string",
+          "link": "https://danbooru.donmai.us/wiki_pages/g-string"
+        },
+        {
+          "label": "Tバック",
+          "tag": "thong",
+          "link": "https://danbooru.donmai.us/wiki_pages/thong"
+        }
+      ]
+    },
+    {
+      "セクション名": "色",
+      "タグ一覧": [
+        {
+          "label": "水色のワンピース水着",
+          "tag": "aqua_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_one-piece_swimsuit"
+        },
+        {
+          "label": "黒のワンピース水着",
+          "tag": "black_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_one-piece_swimsuit"
+        },
+        {
+          "label": "青いワンピース水着",
+          "tag": "blue_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_one-piece_swimsuit"
+        },
+        {
+          "label": "茶色のワンピース水着",
+          "tag": "brown_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_one-piece_swimsuit"
+        },
+        {
+          "label": "緑のワンピース水着",
+          "tag": "green_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_one-piece_swimsuit"
+        },
+        {
+          "label": "グレーのワンピース水着",
+          "tag": "grey_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_one-piece_swimsuit"
+        },
+        {
+          "label": "オレンジ色のワンピース水着",
+          "tag": "orange_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_one-piece_swimsuit"
+        },
+        {
+          "label": "ピンクのワンピース水着",
+          "tag": "pink_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_one-piece_swimsuit"
+        },
+        {
+          "label": "赤いワンピース水着",
+          "tag": "red_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_one-piece_swimsuit"
+        },
+        {
+          "label": "紫色のワンピース水着",
+          "tag": "purple_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_one-piece_swimsuit"
+        },
+        {
+          "label": "白いワンピース水着",
+          "tag": "white_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_one-piece_swimsuit"
+        },
+        {
+          "label": "黄色のワンピース水着",
+          "tag": "yellow_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_one-piece_swimsuit"
+        },
+        {
+          "label": "ゴールドワンピース水着",
+          "tag": "gold_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/gold_one-piece_swimsuit"
+        },
+        {
+          "label": "シルバーのワンピース水着",
+          "tag": "silver_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/silver_one-piece_swimsuit"
+        }
+      ]
+    },
+    {
+      "セクション名": "男性用水着",
+      "タグ一覧": [
+        {
+          "label": "ジャマー（膝上丈の競泳水着）",
+          "tag": "jammers",
+          "link": "https://danbooru.donmai.us/wiki_pages/jammers"
+        },
+        {
+          "label": "レッグスキン（足首丈の競泳水着）",
+          "tag": "legskin",
+          "link": "https://danbooru.donmai.us/wiki_pages/legskin"
+        },
+        {
+          "label": "ブリーフ型水着",
+          "tag": "swim_briefs",
+          "link": "https://danbooru.donmai.us/wiki_pages/swim_briefs"
+        },
+        {
+          "label": "トランクス型水着",
+          "tag": "swim_trunks",
+          "link": "https://danbooru.donmai.us/wiki_pages/swim_trunks"
+        },
+        {
+          "label": "ふんどし",
+          "tag": "loincloth",
+          "link": "https://danbooru.donmai.us/wiki_pages/loincloth"
+        },
+        {
+          "label": "ふんどし",
+          "tag": "fundoshi",
+          "link": "https://danbooru.donmai.us/wiki_pages/fundoshi"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の水着関連タグ",
+      "タグ一覧": [
+        {
+          "label": "水着を整える",
+          "tag": "adjusting_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_swimsuit"
+        },
+        {
+          "label": "ビキニトップリフト",
+          "tag": "bikini_top_lift",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_top_lift"
+        },
+        {
+          "label": "ビキニボトムのみ",
+          "tag": "bikini_bottom_only",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_bottom_only"
+        },
+        {
+          "label": "ビキニトップのみ",
+          "tag": "bikini_top_only",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_top_only"
+        },
+        {
+          "label": "水着の中に手",
+          "tag": "hand_under_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_under_swimsuit"
+        },
+        {
+          "label": "ありえない水着",
+          "tag": "impossible_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/impossible_swimsuit"
+        },
+        {
+          "label": "スイムキャップ",
+          "tag": "swim_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/swim_cap"
+        },
+        {
+          "label": "水着をずらす",
+          "tag": "swimsuit_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_aside"
+        },
+        {
+          "label": "ビキニボトムをずらす",
+          "tag": "bikini_bottom_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_bottom_aside"
+        },
+        {
+          "label": "水着コスチューム",
+          "tag": "swimsuit_costume",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_costume"
+        },
+        {
+          "label": "ワンピース水着プル",
+          "tag": "one-piece_swimsuit_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/one-piece_swimsuit_pull"
+        },
+        {
+          "label": "ビキニプル",
+          "tag": "bikini_pull",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini_pull"
+        },
+        {
+          "label": "衣服の下の水着",
+          "tag": "swimsuit_under_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_under_clothes"
+        },
+        {
+          "label": "水着カバーアップ",
+          "tag": "swimsuit_cover-up",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_cover-up"
+        },
+        {
+          "label": "破れた水着",
+          "tag": "torn_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_swimsuit"
+        },
+        {
+          "label": "サロン",
+          "tag": "sarong",
+          "link": "https://danbooru.donmai.us/wiki_pages/sarong"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：服装",
+          "tag": "tag_group%3Aattire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+        },
+        {
+          "label": "水着",
+          "tag": "bathing_suit",
+          "link": "https://danbooru.donmai.us/wiki_pages/bathing_suit"
+        },
+        {
+          "label": "水着",
+          "tag": "mizugi",
+          "link": "https://danbooru.donmai.us/wiki_pages/mizugi"
+        },
+        {
+          "label": "水着",
+          "tag": "swim_suit",
+          "link": "https://danbooru.donmai.us/wiki_pages/swim_suit"
+        },
+        {
+          "label": "水着",
+          "tag": "swimsuits",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuits"
+        },
+        {
+          "label": "タグの別名",
+          "tag": "help:tag_aliases",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_aliases"
+        },
+        {
+          "label": "水着を整える",
+          "tag": "adjusting_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_swimsuit"
+        },
+        {
+          "label": "尻部分が開いた水着",
+          "tag": "assless_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/assless_swimsuit"
+        },
+        {
+          "label": "ビキニ",
+          "tag": "bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/bikini"
+        },
+        {
+          "label": "市松模様の水着",
+          "tag": "checkered_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_swimsuit"
+        },
+        {
+          "label": "cross_swimsuit",
+          "tag": "cross_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_swimsuit"
+        },
+        {
+          "label": "股部分が開いた水着",
+          "tag": "crotchless_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/crotchless_swimsuit"
+        },
+        {
+          "label": "double_frill_skirt_swimsuit",
+          "tag": "double_frill_skirt_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_frill_skirt_swimsuit"
+        },
+        {
+          "label": "水着の中に手",
+          "tag": "hand_under_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_under_swimsuit"
+        },
+        {
+          "label": "impossible_swimsuit",
+          "tag": "impossible_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/impossible_swimsuit"
+        },
+        {
+          "label": "水着の上にジャケット",
+          "tag": "jacket_over_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/jacket_over_swimsuit"
+        },
+        {
+          "label": "レース縁の水着",
+          "tag": "lace-trimmed_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace-trimmed_swimsuit"
+        },
+        {
+          "label": "重ね着した水着",
+          "tag": "layered_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/layered_swimsuit"
+        },
+        {
+          "label": "多色の水着",
+          "tag": "multicolored_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_swimsuit"
+        },
+        {
+          "label": "Oリング付き水着",
+          "tag": "o-ring_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/o-ring_swimsuit"
+        },
+        {
+          "label": "ワンピース水着",
+          "tag": "one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/one-piece_swimsuit"
+        },
+        {
+          "label": "水着の下にパンスト",
+          "tag": "pantyhose_under_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/pantyhose_under_swimsuit"
+        },
+        {
+          "label": "水玉模様の水着",
+          "tag": "polka_dot_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot_swimsuit"
+        },
+        {
+          "label": "柄物の水着",
+          "tag": "print_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_swimsuit"
+        },
+        {
+          "label": "リボン縁の水着",
+          "tag": "ribbon-trimmed_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_swimsuit"
+        },
+        {
+          "label": "スクール水着",
+          "tag": "school_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/school_swimsuit"
+        },
+        {
+          "label": "shared_swimsuit",
+          "tag": "shared_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/shared_swimsuit"
+        },
+        {
+          "label": "スリングショット水着",
+          "tag": "slingshot_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/slingshot_swimsuit"
+        },
+        {
+          "label": "水着をずらす",
+          "tag": "swimsuit_aside",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_aside"
+        },
+        {
+          "label": "水着のスカート",
+          "tag": "swimsuit_skirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_skirt"
+        },
+        {
+          "label": "衣服の下の水着",
+          "tag": "swimsuit_under_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_under_clothes"
+        },
+        {
+          "label": "水着の重ね着",
+          "tag": "swimsuit_under_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/swimsuit_under_swimsuit"
+        },
+        {
+          "label": "張り詰めた水着",
+          "tag": "taut_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/taut_swimsuit"
+        },
+        {
+          "label": "破れた水着",
+          "tag": "torn_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_swimsuit"
+        },
+        {
+          "label": "着用していない水着",
+          "tag": "unworn_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_swimsuit"
+        },
+        {
+          "label": "濡れた水着",
+          "tag": "wet_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/wet_swimsuit"
+        },
+        {
+          "label": "タグの包含関係",
+          "tag": "help:tag_implications",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:tag_implications"
+        }
+      ]
+    }
+  ]
+}

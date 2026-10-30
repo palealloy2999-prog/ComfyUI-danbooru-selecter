@@ -1,0 +1,357 @@
+{
+  "カテゴリID": "fashion_style",
+  "カテゴリ名": "ファッションスタイル",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Afashion_style",
+  "セクション一覧": [
+    {
+      "セクション名": "一般的なスタイル",
+      "タグ一覧": [
+        {
+          "label": "1980年代のファッション",
+          "tag": "1980s_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/1980s_fashion"
+        },
+        {
+          "label": "1990年代のファッション",
+          "tag": "1990s_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/1990s_fashion"
+        },
+        {
+          "label": "貴族の衣装",
+          "tag": "aristocratic_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/aristocratic_clothes"
+        },
+        {
+          "label": "カジュアル",
+          "tag": "casual",
+          "link": "https://danbooru.donmai.us/wiki_pages/casual"
+        },
+        {
+          "label": "フォーマルな服装",
+          "tag": "formal_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/formal_clothes"
+        },
+        {
+          "label": "ゴスファッション",
+          "tag": "goth_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/goth_fashion"
+        },
+        {
+          "label": "パステルゴス",
+          "tag": "pastel_goth",
+          "link": "https://danbooru.donmai.us/wiki_pages/pastel_goth"
+        },
+        {
+          "label": "元気なゴス",
+          "tag": "perky_goth",
+          "link": "https://danbooru.donmai.us/wiki_pages/perky_goth"
+        },
+        {
+          "label": "パンク",
+          "tag": "punk",
+          "link": "https://danbooru.donmai.us/wiki_pages/punk"
+        },
+        {
+          "label": "レイバー",
+          "tag": "raver",
+          "link": "https://danbooru.donmai.us/wiki_pages/raver"
+        },
+        {
+          "label": "スポーツウェア",
+          "tag": "sportswear",
+          "link": "https://danbooru.donmai.us/wiki_pages/sportswear"
+        },
+        {
+          "label": "ストリートウェア",
+          "tag": "streetwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/streetwear"
+        },
+        {
+          "label": "ヒップホップ",
+          "tag": "hip_hop",
+          "link": "https://danbooru.donmai.us/wiki_pages/hip_hop"
+        },
+        {
+          "label": "テックウェア",
+          "tag": "techwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/techwear"
+        },
+        {
+          "label": "Y2Kファッション",
+          "tag": "y2k_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/y2k_fashion"
+        },
+        {
+          "label": "マクブリング",
+          "tag": "mcbling",
+          "link": "https://danbooru.donmai.us/wiki_pages/mcbling"
+        }
+      ]
+    },
+    {
+      "セクション名": "日本のファッションスタイル",
+      "タグ一覧": [
+        {
+          "label": "ボディコン",
+          "tag": "bodycon",
+          "link": "https://danbooru.donmai.us/wiki_pages/bodycon"
+        },
+        {
+          "label": "サイバーファッション",
+          "tag": "cyber_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/cyber_fashion"
+        },
+        {
+          "label": "デコラ",
+          "tag": "decora",
+          "link": "https://danbooru.donmai.us/wiki_pages/decora"
+        },
+        {
+          "label": "シノラー",
+          "tag": "shinora",
+          "link": "https://danbooru.donmai.us/wiki_pages/shinora"
+        },
+        {
+          "label": "フレンチガーリー",
+          "tag": "french_girly",
+          "link": "https://danbooru.donmai.us/wiki_pages/french_girly"
+        },
+        {
+          "label": "ゴシックパンク",
+          "tag": "gothic_punk",
+          "link": "https://danbooru.donmai.us/wiki_pages/gothic_punk"
+        },
+        {
+          "label": "グロかわ",
+          "tag": "gurokawa",
+          "link": "https://danbooru.donmai.us/wiki_pages/gurokawa"
+        },
+        {
+          "label": "ギャル",
+          "tag": "gyaru",
+          "link": "https://danbooru.donmai.us/wiki_pages/gyaru"
+        },
+        {
+          "label": "アゲジョギャル",
+          "tag": "agejo_gyaru",
+          "link": "https://danbooru.donmai.us/wiki_pages/agejo_gyaru"
+        },
+        {
+          "label": "アメカジギャル",
+          "tag": "amekaji_gyaru",
+          "link": "https://danbooru.donmai.us/wiki_pages/amekaji_gyaru"
+        },
+        {
+          "label": "アメスクギャル",
+          "tag": "amesuku_gyaru",
+          "link": "https://danbooru.donmai.us/wiki_pages/amesuku_gyaru"
+        },
+        {
+          "label": "ガングロ",
+          "tag": "ganguro",
+          "link": "https://danbooru.donmai.us/wiki_pages/ganguro"
+        },
+        {
+          "label": "ギャル男",
+          "tag": "gyaruo",
+          "link": "https://danbooru.donmai.us/wiki_pages/gyaruo"
+        },
+        {
+          "label": "姫ギャル",
+          "tag": "hime_gyaru",
+          "link": "https://danbooru.donmai.us/wiki_pages/hime_gyaru"
+        },
+        {
+          "label": "コギャル",
+          "tag": "kogal",
+          "link": "https://danbooru.donmai.us/wiki_pages/kogal"
+        },
+        {
+          "label": "マンバギャル",
+          "tag": "manba_gyaru",
+          "link": "https://danbooru.donmai.us/wiki_pages/manba_gyaru"
+        },
+        {
+          "label": "お姉ギャル",
+          "tag": "onee_gyaru",
+          "link": "https://danbooru.donmai.us/wiki_pages/onee_gyaru"
+        },
+        {
+          "label": "派手子",
+          "tag": "hadeko",
+          "link": "https://danbooru.donmai.us/wiki_pages/hadeko"
+        },
+        {
+          "label": "平成レトロ",
+          "tag": "heisei_retro",
+          "link": "https://danbooru.donmai.us/wiki_pages/heisei_retro"
+        },
+        {
+          "label": "女児服",
+          "tag": "jojifuku",
+          "link": "https://danbooru.donmai.us/wiki_pages/jojifuku"
+        },
+        {
+          "label": "姫かじ",
+          "tag": "himekaji",
+          "link": "https://danbooru.donmai.us/wiki_pages/himekaji"
+        },
+        {
+          "label": "ジャージメイド",
+          "tag": "jersey_maid",
+          "link": "https://danbooru.donmai.us/wiki_pages/jersey_maid"
+        },
+        {
+          "label": "地雷系",
+          "tag": "jirai_kei",
+          "link": "https://danbooru.donmai.us/wiki_pages/jirai_kei"
+        },
+        {
+          "label": "ロリータファッション",
+          "tag": "lolita_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/lolita_fashion"
+        },
+        {
+          "label": "クラシックロリータ",
+          "tag": "classic_lolita",
+          "link": "https://danbooru.donmai.us/wiki_pages/classic_lolita"
+        },
+        {
+          "label": "ゴシックロリータ",
+          "tag": "gothic_lolita",
+          "link": "https://danbooru.donmai.us/wiki_pages/gothic_lolita"
+        },
+        {
+          "label": "華ロリ",
+          "tag": "qi_lolita",
+          "link": "https://danbooru.donmai.us/wiki_pages/qi_lolita"
+        },
+        {
+          "label": "スイートロリータ",
+          "tag": "sweet_lolita",
+          "link": "https://danbooru.donmai.us/wiki_pages/sweet_lolita"
+        },
+        {
+          "label": "和ロリ",
+          "tag": "wa_lolita",
+          "link": "https://danbooru.donmai.us/wiki_pages/wa_lolita"
+        },
+        {
+          "label": "森系",
+          "tag": "mori_kei",
+          "link": "https://danbooru.donmai.us/wiki_pages/mori_kei"
+        },
+        {
+          "label": "王子ファッション",
+          "tag": "ouji_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/ouji_fashion"
+        },
+        {
+          "label": "天使界隈",
+          "tag": "tenshi_kaiwai",
+          "link": "https://danbooru.donmai.us/wiki_pages/tenshi_kaiwai"
+        },
+        {
+          "label": "ヴィジュアル系",
+          "tag": "visual_kei",
+          "link": "https://danbooru.donmai.us/wiki_pages/visual_kei"
+        },
+        {
+          "label": "病みかわいい",
+          "tag": "yami_kawaii",
+          "link": "https://danbooru.donmai.us/wiki_pages/yami_kawaii"
+        },
+        {
+          "label": "ゆめかわいい",
+          "tag": "yume_kawaii",
+          "link": "https://danbooru.donmai.us/wiki_pages/yume_kawaii"
+        }
+      ]
+    },
+    {
+      "セクション名": "西洋のファッションスタイル",
+      "タグ一覧": [
+        {
+          "label": "バレエコア",
+          "tag": "balletcore",
+          "link": "https://danbooru.donmai.us/wiki_pages/balletcore"
+        },
+        {
+          "label": "サイバーゴス",
+          "tag": "cybergoth",
+          "link": "https://danbooru.donmai.us/wiki_pages/cybergoth"
+        },
+        {
+          "label": "Eガール",
+          "tag": "e-girl",
+          "link": "https://danbooru.donmai.us/wiki_pages/e-girl"
+        },
+        {
+          "label": "エモファッション",
+          "tag": "emo_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/emo_fashion"
+        },
+        {
+          "label": "ヒップスター",
+          "tag": "hipster",
+          "link": "https://danbooru.donmai.us/wiki_pages/hipster"
+        },
+        {
+          "label": "モッズファッション",
+          "tag": "mod_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/mod_fashion"
+        },
+        {
+          "label": "オフィスサイレン",
+          "tag": "office_siren",
+          "link": "https://danbooru.donmai.us/wiki_pages/office_siren"
+        },
+        {
+          "label": "シーンファッション",
+          "tag": "scene_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/scene_fashion"
+        },
+        {
+          "label": "ビクトリア朝",
+          "tag": "victorian",
+          "link": "https://danbooru.donmai.us/wiki_pages/victorian"
+        },
+        {
+          "label": "スチームパンク",
+          "tag": "steampunk",
+          "link": "https://danbooru.donmai.us/wiki_pages/steampunk"
+        }
+      ]
+    },
+    {
+      "セクション名": "中国のファッションスタイル",
+      "タグ一覧": [
+        {
+          "label": "ヤビファッション",
+          "tag": "yabi_fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/yabi_fashion"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：服装",
+          "tag": "tag_group%3Aattire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+        },
+        {
+          "label": "ファッション",
+          "tag": "fashion",
+          "link": "https://danbooru.donmai.us/wiki_pages/fashion"
+        },
+        {
+          "label": "タググループ：視覚的な作風",
+          "tag": "tag_group%3Avisual_aesthetic",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Avisual_aesthetic"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "カテゴリID": "year_tags",
+  "カテゴリ名": "制作年・月のタグ",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Ayear_tags",
+  "セクション一覧": [
+    {
+      "セクション名": "はじめに",
+      "タグ一覧": [
+        {
+          "label": "日付の記載",
+          "tag": "dated",
+          "link": "https://danbooru.donmai.us/wiki_pages/dated"
+        },
+        {
+          "label": "日付の記載",
+          "tag": "dated",
+          "link": "https://danbooru.donmai.us/wiki_pages/dated"
+        }
+      ]
+    },
+    {
+      "セクション名": "年の一覧",
+      "タグ一覧": [
+        {
+          "label": "2030",
+          "tag": "~2030",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2030"
+        },
+        {
+          "label": "2029",
+          "tag": "~2029",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2029"
+        },
+        {
+          "label": "2028",
+          "tag": "~2028",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2028"
+        },
+        {
+          "label": "2027",
+          "tag": "~2027",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2027"
+        },
+        {
+          "label": "2026",
+          "tag": "~2026",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2026"
+        },
+        {
+          "label": "2025",
+          "tag": "~2025",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2025"
+        },
+        {
+          "label": "2024",
+          "tag": "~2024",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2024"
+        },
+        {
+          "label": "2023",
+          "tag": "~2023",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2023"
+        },
+        {
+          "label": "2022",
+          "tag": "~2022",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2022"
+        },
+        {
+          "label": "2021",
+          "tag": "~2021",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2021"
+        },
+        {
+          "label": "2020",
+          "tag": "~2020",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2020"
+        },
+        {
+          "label": "2019",
+          "tag": "~2019",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2019"
+        },
+        {
+          "label": "2018",
+          "tag": "~2018",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2018"
+        },
+        {
+          "label": "2017",
+          "tag": "~2017",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2017"
+        },
+        {
+          "label": "2016",
+          "tag": "~2016",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2016"
+        },
+        {
+          "label": "2015",
+          "tag": "~2015",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2015"
+        },
+        {
+          "label": "2014",
+          "tag": "~2014",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2014"
+        },
+        {
+          "label": "2013",
+          "tag": "~2013",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2013"
+        },
+        {
+          "label": "2012",
+          "tag": "~2012",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2012"
+        },
+        {
+          "label": "2011",
+          "tag": "~2011",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2011"
+        },
+        {
+          "label": "2010",
+          "tag": "~2010",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2010"
+        },
+        {
+          "label": "2009",
+          "tag": "~2009",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2009"
+        },
+        {
+          "label": "2008",
+          "tag": "~2008",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2008"
+        },
+        {
+          "label": "2007",
+          "tag": "~2007",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2007"
+        },
+        {
+          "label": "2006",
+          "tag": "~2006",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2006"
+        },
+        {
+          "label": "2005",
+          "tag": "~2005",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2005"
+        },
+        {
+          "label": "2004",
+          "tag": "~2004",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2004"
+        },
+        {
+          "label": "2003",
+          "tag": "~2003",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2003"
+        },
+        {
+          "label": "2002",
+          "tag": "~2002",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2002"
+        },
+        {
+          "label": "2001",
+          "tag": "~2001",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2001"
+        },
+        {
+          "label": "2000",
+          "tag": "~2000",
+          "link": "https://danbooru.donmai.us/wiki_pages/~2000"
+        },
+        {
+          "label": "1999",
+          "tag": "~1999",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1999"
+        },
+        {
+          "label": "1998",
+          "tag": "~1998",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1998"
+        },
+        {
+          "label": "1997",
+          "tag": "~1997",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1997"
+        },
+        {
+          "label": "1996",
+          "tag": "~1996",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1996"
+        },
+        {
+          "label": "1995",
+          "tag": "~1995",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1995"
+        },
+        {
+          "label": "1994",
+          "tag": "~1994",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1994"
+        },
+        {
+          "label": "1993",
+          "tag": "~1993",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1993"
+        },
+        {
+          "label": "1992",
+          "tag": "~1992",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1992"
+        },
+        {
+          "label": "1991",
+          "tag": "~1991",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1991"
+        },
+        {
+          "label": "1990",
+          "tag": "~1990",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1990"
+        },
+        {
+          "label": "1989",
+          "tag": "~1989",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1989"
+        },
+        {
+          "label": "1988",
+          "tag": "~1988",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1988"
+        },
+        {
+          "label": "1987",
+          "tag": "~1987",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1987"
+        },
+        {
+          "label": "1986",
+          "tag": "~1986",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1986"
+        },
+        {
+          "label": "1985",
+          "tag": "~1985",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1985"
+        },
+        {
+          "label": "1984年",
+          "tag": "1984_%28year%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/1984_%28year%29"
+        },
+        {
+          "label": "1983",
+          "tag": "~1983",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1983"
+        },
+        {
+          "label": "1982",
+          "tag": "~1982",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1982"
+        },
+        {
+          "label": "1981",
+          "tag": "~1981",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1981"
+        },
+        {
+          "label": "1980",
+          "tag": "~1980",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1980"
+        },
+        {
+          "label": "1979",
+          "tag": "~1979",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1979"
+        },
+        {
+          "label": "1978",
+          "tag": "~1978",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1978"
+        },
+        {
+          "label": "1977",
+          "tag": "~1977",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1977"
+        },
+        {
+          "label": "1976",
+          "tag": "~1976",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1976"
+        },
+        {
+          "label": "1975",
+          "tag": "~1975",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1975"
+        },
+        {
+          "label": "1974",
+          "tag": "~1974",
+          "link": "https://danbooru.donmai.us/wiki_pages/~1974"
+        }
+      ]
+    },
+    {
+      "セクション名": "月の一覧（グレゴリオ暦・ユリウス暦）",
+      "タグ一覧": [
+        {
+          "label": "1月",
+          "tag": "january",
+          "link": "https://danbooru.donmai.us/wiki_pages/january"
+        },
+        {
+          "label": "2月",
+          "tag": "february",
+          "link": "https://danbooru.donmai.us/wiki_pages/february"
+        },
+        {
+          "label": "3月",
+          "tag": "march",
+          "link": "https://danbooru.donmai.us/wiki_pages/march"
+        },
+        {
+          "label": "4月",
+          "tag": "april",
+          "link": "https://danbooru.donmai.us/wiki_pages/april"
+        },
+        {
+          "label": "5月",
+          "tag": "may_%28calendar%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/may_%28calendar%29"
+        },
+        {
+          "label": "6月",
+          "tag": "june",
+          "link": "https://danbooru.donmai.us/wiki_pages/june"
+        },
+        {
+          "label": "7月",
+          "tag": "july",
+          "link": "https://danbooru.donmai.us/wiki_pages/july"
+        },
+        {
+          "label": "8月",
+          "tag": "august",
+          "link": "https://danbooru.donmai.us/wiki_pages/august"
+        },
+        {
+          "label": "9月",
+          "tag": "september",
+          "link": "https://danbooru.donmai.us/wiki_pages/september"
+        },
+        {
+          "label": "10月",
+          "tag": "october",
+          "link": "https://danbooru.donmai.us/wiki_pages/october"
+        },
+        {
+          "label": "11月",
+          "tag": "november",
+          "link": "https://danbooru.donmai.us/wiki_pages/november"
+        },
+        {
+          "label": "12月",
+          "tag": "december",
+          "link": "https://danbooru.donmai.us/wiki_pages/december"
+        }
+      ]
+    }
+  ]
+}

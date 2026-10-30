@@ -1,0 +1,1352 @@
+﻿{
+    "カテゴリID":  "posture",
+    "カテゴリ名":  "姿勢",
+    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aposture",
+    "セクション一覧":  [
+                    {
+                        "セクション名":  "基本姿勢",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ひざまずく",
+                                         "tag":  "kneeling",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kneeling"
+                                     },
+                                     {
+                                         "label":  "片膝をついて",
+                                         "tag":  "on_one_knee",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/on_one_knee"
+                                     },
+                                     {
+                                         "label":  "横たわる",
+                                         "tag":  "lying",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lying"
+                                     },
+                                     {
+                                         "label":  "足を組む",
+                                         "tag":  "crossed_legs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crossed_legs"
+                                     },
+                                     {
+                                         "label":  "胎児の姿勢",
+                                         "tag":  "fetal_position",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fetal_position"
+                                     },
+                                     {
+                                         "label":  "仰向け",
+                                         "tag":  "on_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/on_back"
+                                     },
+                                     {
+                                         "label":  "横向き",
+                                         "tag":  "on_side",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/on_side"
+                                     },
+                                     {
+                                         "label":  "うつ伏せ",
+                                         "tag":  "on_stomach",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/on_stomach"
+                                     },
+                                     {
+                                         "label":  "座る",
+                                         "tag":  "sitting",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sitting"
+                                     },
+                                     {
+                                         "label":  "足裏を合わせた座り方",
+                                         "tag":  "butterfly_sitting",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/butterfly_sitting"
+                                     },
+                                     {
+                                         "label":  "足を組む",
+                                         "tag":  "crossed_legs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crossed_legs"
+                                     },
+                                     {
+                                         "label":  "四の字座り",
+                                         "tag":  "figure_four_sitting",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/figure_four_sitting"
+                                     },
+                                     {
+                                         "label":  "あぐら",
+                                         "tag":  "indian_style",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/indian_style"
+                                     },
+                                     {
+                                         "label":  "結跏趺坐",
+                                         "tag":  "lotus_position",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/lotus_position"
+                                     },
+                                     {
+                                         "label":  "自分の足を抱きしめる",
+                                         "tag":  "hugging_own_legs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hugging_own_legs"
+                                     },
+                                     {
+                                         "label":  "もたれる",
+                                         "tag":  "reclining",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/reclining"
+                                     },
+                                     {
+                                         "label":  "正座",
+                                         "tag":  "seiza",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/seiza"
+                                     },
+                                     {
+                                         "label":  "人の上に座る",
+                                         "tag":  "sitting_on_person",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sitting_on_person"
+                                     },
+                                     {
+                                         "label":  "頭の上に座る",
+                                         "tag":  "sitting_on_head",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sitting_on_head"
+                                     },
+                                     {
+                                         "label":  "膝の上に座る",
+                                         "tag":  "sitting_on_lap",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sitting_on_lap"
+                                     },
+                                     {
+                                         "label":  "肩車",
+                                         "tag":  "shoulder_carry",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoulder_carry"
+                                     },
+                                     {
+                                         "label":  "人間椅子",
+                                         "tag":  "human_chair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/human_chair"
+                                     },
+                                     {
+                                         "label":  "またがる",
+                                         "tag":  "straddling",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/straddling"
+                                     },
+                                     {
+                                         "label":  "太ももをまたぐ",
+                                         "tag":  "thigh_straddling",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/thigh_straddling"
+                                     },
+                                     {
+                                         "label":  "直立開脚",
+                                         "tag":  "upright_straddle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/upright_straddle"
+                                     },
+                                     {
+                                         "label":  "割座",
+                                         "tag":  "wariza",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wariza"
+                                     },
+                                     {
+                                         "label":  "横座り",
+                                         "tag":  "yokozuwari",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yokozuwari"
+                                     },
+                                     {
+                                         "label":  "立っている",
+                                         "tag":  "standing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/standing"
+                                     },
+                                     {
+                                         "label":  "バランスをとる",
+                                         "tag":  "balancing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/balancing"
+                                     },
+                                     {
+                                         "label":  "足を組む",
+                                         "tag":  "crossed_legs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crossed_legs"
+                                     },
+                                     {
+                                         "label":  "足を広げる",
+                                         "tag":  "legs_apart",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/legs_apart"
+                                     },
+                                     {
+                                         "label":  "片足で立つ",
+                                         "tag":  "standing_on_one_leg",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/standing_on_one_leg"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "体の動き",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "バランスをとる",
+                                         "tag":  "balancing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/balancing"
+                                     },
+                                     {
+                                         "label":  "這う",
+                                         "tag":  "crawling",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crawling"
+                                     },
+                                     {
+                                         "label":  "待機モーション",
+                                         "tag":  "idle_animation",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/idle_animation"
+                                     },
+                                     {
+                                         "label":  "空中",
+                                         "tag":  "midair",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/midair"
+                                     },
+                                     {
+                                         "label":  "落下",
+                                         "tag":  "falling",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/falling"
+                                     },
+                                     {
+                                         "label":  "フローティング",
+                                         "tag":  "floating",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/floating"
+                                     },
+                                     {
+                                         "label":  "フライング",
+                                         "tag":  "flying",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flying"
+                                     },
+                                     {
+                                         "label":  "ジャンプ",
+                                         "tag":  "jumping",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/jumping"
+                                     },
+                                     {
+                                         "label":  "ホッピング",
+                                         "tag":  "hopping",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hopping"
+                                     },
+                                     {
+                                         "label":  "飛びかかる",
+                                         "tag":  "pouncing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pouncing"
+                                     },
+                                     {
+                                         "label":  "ランニング",
+                                         "tag":  "running",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/running"
+                                     },
+                                     {
+                                         "label":  "歩く",
+                                         "tag":  "walking",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/walking"
+                                     },
+                                     {
+                                         "label":  "ウォーキングサイクル",
+                                         "tag":  "walk_cycle",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/walk_cycle"
+                                     },
+                                     {
+                                         "label":  "壁を歩く",
+                                         "tag":  "wallwalking",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wallwalking"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "全身に影響を及ぼす可能性のあるその他の姿勢",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "四つん這い",
+                                         "tag":  "all_fours",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/all_fours"
+                                     },
+                                     {
+                                         "label":  "トップダウン・ボトムアップ",
+                                         "tag":  "top-down_bottom-up",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/top-down_bottom-up"
+                                     },
+                                     {
+                                         "label":  "平伏",
+                                         "tag":  "prostration",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/prostration"
+                                     },
+                                     {
+                                         "label":  "ベアポジション",
+                                         "tag":  "bear_position",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bear_position"
+                                     },
+                                     {
+                                         "label":  "がに股の姿勢",
+                                         "tag":  "bowlegged_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bowlegged_pose"
+                                     },
+                                     {
+                                         "label":  "チェストスタンド",
+                                         "tag":  "chest_stand",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chest_stand"
+                                     },
+                                     {
+                                         "label":  "チェストスタンド逆立ち",
+                                         "tag":  "chest_stand_handstand",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/chest_stand_handstand"
+                                     },
+                                     {
+                                         "label":  "三つ折り",
+                                         "tag":  "triplefold",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/triplefold"
+                                     },
+                                     {
+                                         "label":  "ルッペルベンド",
+                                         "tag":  "ruppelbend",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ruppelbend"
+                                     },
+                                     {
+                                         "label":  "四つ折り",
+                                         "tag":  "quadfold",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/quadfold"
+                                     },
+                                     {
+                                         "label":  "身をすくめる",
+                                         "tag":  "cowering",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cowering"
+                                     },
+                                     {
+                                         "label":  "十字架刑",
+                                         "tag":  "crucifixion",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crucifixion"
+                                     },
+                                     {
+                                         "label":  "顔面落下",
+                                         "tag":  "faceplant",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/faceplant"
+                                     },
+                                     {
+                                         "label":  "完全なサソリ",
+                                         "tag":  "full_scorpion",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/full_scorpion"
+                                     },
+                                     {
+                                         "label":  "戦闘姿勢",
+                                         "tag":  "fighting_stance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fighting_stance"
+                                     },
+                                     {
+                                         "label":  "抜刀術の構え",
+                                         "tag":  "battoujutsu_stance",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/battoujutsu_stance"
+                                     },
+                                     {
+                                         "label":  "スプレッドイーグルポジション",
+                                         "tag":  "spread_eagle_position",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spread_eagle_position"
+                                     },
+                                     {
+                                         "label":  "しゃがむ",
+                                         "tag":  "squatting",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/squatting"
+                                     },
+                                     {
+                                         "label":  "ストレッチ",
+                                         "tag":  "stretching",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stretching"
+                                     },
+                                     {
+                                         "label":  "ヒーロー着地",
+                                         "tag":  "superhero_landing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/superhero_landing"
+                                     },
+                                     {
+                                         "label":  "逆さまに",
+                                         "tag":  "upside-down",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/upside-down"
+                                     },
+                                     {
+                                         "label":  "逆立ち",
+                                         "tag":  "handstand",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/handstand"
+                                     },
+                                     {
+                                         "label":  "頭で支える倒立",
+                                         "tag":  "headstand",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/headstand"
+                                     },
+                                     {
+                                         "label":  "ヨガ",
+                                         "tag":  "yoga",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/yoga"
+                                     },
+                                     {
+                                         "label":  "蠍座のポーズ",
+                                         "tag":  "scorpion_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/scorpion_pose"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "身体を支える場所",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "アームサポート",
+                                         "tag":  "arm_support",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_support"
+                                     },
+                                     {
+                                         "label":  "手で頭を支える",
+                                         "tag":  "head_rest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_rest"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "頭の姿勢",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "こちらを見る",
+                                         "tag":  "looking_at_viewer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/looking_at_viewer"
+                                     },
+                                     {
+                                         "label":  "横を見る",
+                                         "tag":  "looking_to_the_side",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/looking_to_the_side"
+                                     },
+                                     {
+                                         "label":  "遠くを見る",
+                                         "tag":  "looking_afar",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/looking_afar"
+                                     },
+                                     {
+                                         "label":  "タググループ：目・瞳",
+                                         "tag":  "tag_group%3Aeyes_tags",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyes_tags"
+                                     },
+                                     {
+                                         "label":  "こちらを見る",
+                                         "tag":  "looking_at_viewer",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/looking_at_viewer"
+                                     },
+                                     {
+                                         "label":  "横を見る",
+                                         "tag":  "looking_to_the_side",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/looking_to_the_side"
+                                     },
+                                     {
+                                         "label":  "遠くを見る",
+                                         "tag":  "looking_afar",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/looking_afar"
+                                     },
+                                     {
+                                         "label":  "頭を下げる",
+                                         "tag":  "head_down",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_down"
+                                     },
+                                     {
+                                         "label":  "頭を傾ける",
+                                         "tag":  "head_tilt",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_tilt"
+                                     },
+                                     {
+                                         "label":  "頭を後ろに下げる",
+                                         "tag":  "head_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_back"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "胴体の傾き",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "背中を反らす",
+                                         "tag":  "arched_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arched_back"
+                                     },
+                                     {
+                                         "label":  "背中が曲がっている",
+                                         "tag":  "bent_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bent_back"
+                                     },
+                                     {
+                                         "label":  "前かがみ",
+                                         "tag":  "bent_over",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bent_over"
+                                     },
+                                     {
+                                         "label":  "後ろに寄りかかる",
+                                         "tag":  "leaning_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leaning_back"
+                                     },
+                                     {
+                                         "label":  "前かがみになる",
+                                         "tag":  "leaning_forward",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leaning_forward"
+                                     },
+                                     {
+                                         "label":  "猫背",
+                                         "tag":  "slouching",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/slouching"
+                                     },
+                                     {
+                                         "label":  "背中を反らせる",
+                                         "tag":  "sway_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sway_back"
+                                     },
+                                     {
+                                         "label":  "ねじれた胴体",
+                                         "tag":  "twisted_torso",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/twisted_torso"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "基本的な腕の位置",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "片腕を背中に回す",
+                                         "tag":  "arm_behind_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_behind_back"
+                                     },
+                                     {
+                                         "label":  "両腕を背中に回す",
+                                         "tag":  "arms_behind_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arms_behind_back"
+                                     },
+                                     {
+                                         "label":  "両腕を背中に回す",
+                                         "tag":  "arms_behind_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arms_behind_back"
+                                     },
+                                     {
+                                         "label":  "片腕を上げる",
+                                         "tag":  "arm_up",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_up"
+                                     },
+                                     {
+                                         "label":  "腕を頭の後ろに回す",
+                                         "tag":  "arm_behind_head",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_behind_head"
+                                     },
+                                     {
+                                         "label":  "あかんべえ",
+                                         "tag":  "akanbe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/akanbe"
+                                     },
+                                     {
+                                         "label":  "敬礼",
+                                         "tag":  "salute",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/salute"
+                                     },
+                                     {
+                                         "label":  "口に指を当てて静かにの合図",
+                                         "tag":  "shushing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shushing"
+                                     },
+                                     {
+                                         "label":  "目元でピースサイン",
+                                         "tag":  "v_over_eye",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/v_over_eye"
+                                     },
+                                     {
+                                         "label":  "手を振る",
+                                         "tag":  "waving",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/waving"
+                                     },
+                                     {
+                                         "label":  "タググループ：ジェスチャー",
+                                         "tag":  "tag_group%3Agestures",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Agestures"
+                                     },
+                                     {
+                                         "label":  "あかんべえ",
+                                         "tag":  "akanbe",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/akanbe"
+                                     },
+                                     {
+                                         "label":  "敬礼",
+                                         "tag":  "salute",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/salute"
+                                     },
+                                     {
+                                         "label":  "口に指を当てて静かにの合図",
+                                         "tag":  "shushing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shushing"
+                                     },
+                                     {
+                                         "label":  "目元でピースサイン",
+                                         "tag":  "v_over_eye",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/v_over_eye"
+                                     },
+                                     {
+                                         "label":  "手を振る",
+                                         "tag":  "waving",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/waving"
+                                     },
+                                     {
+                                         "label":  "勝利のポーズ",
+                                         "tag":  "victory_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/victory_pose"
+                                     },
+                                     {
+                                         "label":  "両腕を上げる",
+                                         "tag":  "arms_up",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arms_up"
+                                     },
+                                     {
+                                         "label":  "\\o/",
+                                         "tag":  "%5Co%2F",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/%5Co%2F"
+                                     },
+                                     {
+                                         "label":  "腕を頭の後ろに組む",
+                                         "tag":  "arms_behind_head",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arms_behind_head"
+                                     },
+                                     {
+                                         "label":  "抱っこを求める",
+                                         "tag":  "carry_me",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/carry_me"
+                                     },
+                                     {
+                                         "label":  "手でハートを作る",
+                                         "tag":  "heart_hands",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_hands"
+                                     },
+                                     {
+                                         "label":  "指で枠を作る",
+                                         "tag":  "finger_frame",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/finger_frame"
+                                     },
+                                     {
+                                         "label":  "手で角を作る",
+                                         "tag":  "horns_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/horns_pose"
+                                     },
+                                     {
+                                         "label":  "タググループ：ジェスチャー",
+                                         "tag":  "tag_group%3Agestures",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Agestures"
+                                     },
+                                     {
+                                         "label":  "抱っこを求める",
+                                         "tag":  "carry_me",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/carry_me"
+                                     },
+                                     {
+                                         "label":  "手でハートを作る",
+                                         "tag":  "heart_hands",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_hands"
+                                     },
+                                     {
+                                         "label":  "指で枠を作る",
+                                         "tag":  "finger_frame",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/finger_frame"
+                                     },
+                                     {
+                                         "label":  "手で角を作る",
+                                         "tag":  "horns_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/horns_pose"
+                                     },
+                                     {
+                                         "label":  "伸ばした腕",
+                                         "tag":  "outstretched_arm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/outstretched_arm"
+                                     },
+                                     {
+                                         "label":  "伸ばした腕",
+                                         "tag":  "outstretched_arms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/outstretched_arms"
+                                     },
+                                     {
+                                         "label":  "腕を広げる",
+                                         "tag":  "spread_arms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spread_arms"
+                                     },
+                                     {
+                                         "label":  "片腕を体の横に下ろす",
+                                         "tag":  "arm_at_side",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_at_side"
+                                     },
+                                     {
+                                         "label":  "両腕を体の横に下ろす",
+                                         "tag":  "arms_at_sides",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arms_at_sides"
+                                     },
+                                     {
+                                         "label":  "両腕を体の横に下ろす",
+                                         "tag":  "arms_at_sides",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arms_at_sides"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "より具体的な腕の位置",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "飛行機のように腕を広げる",
+                                         "tag":  "airplane_arms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/airplane_arms"
+                                     },
+                                     {
+                                         "label":  "腕を組む",
+                                         "tag":  "crossed_arms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crossed_arms"
+                                     },
+                                     {
+                                         "label":  "力こぶを作る",
+                                         "tag":  "flexing",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/flexing"
+                                     },
+                                     {
+                                         "label":  "太陽を讃えよ",
+                                         "tag":  "praise_the_sun",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/praise_the_sun"
+                                     },
+                                     {
+                                         "label":  "手を伸ばす",
+                                         "tag":  "reaching",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/reaching"
+                                     },
+                                     {
+                                         "label":  "肩をすくめる",
+                                         "tag":  "shrugging",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shrugging"
+                                     },
+                                     {
+                                         "label":  "Tポーズ",
+                                         "tag":  "t-pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/t-pose"
+                                     },
+                                     {
+                                         "label":  "Aポーズ",
+                                         "tag":  "a-pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/a-pose"
+                                     },
+                                     {
+                                         "label":  "Vアームズ",
+                                         "tag":  "v_arms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/v_arms"
+                                     },
+                                     {
+                                         "label":  "Wアームズ",
+                                         "tag":  "w_arms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/w_arms"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "手の位置",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "自分の顎を撫でる",
+                                         "tag":  "stroking_own_chin",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/stroking_own_chin"
+                                     },
+                                     {
+                                         "label":  "差し出された手",
+                                         "tag":  "outstretched_hand",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/outstretched_hand"
+                                     },
+                                     {
+                                         "label":  "自分の耳に手を当てる",
+                                         "tag":  "hand_on_own_ear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_own_ear"
+                                     },
+                                     {
+                                         "label":  "自分の尻に手を当てる",
+                                         "tag":  "hand_on_own_ass",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_own_ass"
+                                     },
+                                     {
+                                         "label":  "ポケットに片手を入れる",
+                                         "tag":  "hand_in_pocket",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_in_pocket"
+                                     },
+                                     {
+                                         "label":  "タググループ：手",
+                                         "tag":  "tag_group%3Ahands",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahands"
+                                     },
+                                     {
+                                         "label":  "自分の耳に手を当てる",
+                                         "tag":  "hand_on_own_ear",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_own_ear"
+                                     },
+                                     {
+                                         "label":  "自分の尻に手を当てる",
+                                         "tag":  "hand_on_own_ass",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_own_ass"
+                                     },
+                                     {
+                                         "label":  "ポケットに片手を入れる",
+                                         "tag":  "hand_in_pocket",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_in_pocket"
+                                     },
+                                     {
+                                         "label":  "タググループ：ジェスチャー",
+                                         "tag":  "tag_group%3Agestures",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Agestures"
+                                     },
+                                     {
+                                         "label":  "ピースサイン",
+                                         "tag":  "v",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/v"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "手が触れ合う（1人以上のキャラクター）",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "絡み合った指",
+                                         "tag":  "interlocked_fingers",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/interlocked_fingers"
+                                     },
+                                     {
+                                         "label":  "自分の手を握りしめて",
+                                         "tag":  "own_hands_clasped",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/own_hands_clasped"
+                                     },
+                                     {
+                                         "label":  "手を携えて",
+                                         "tag":  "own_hands_together",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/own_hands_together"
+                                     },
+                                     {
+                                         "label":  "スターハンズ",
+                                         "tag":  "star_hands",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/star_hands"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "腰",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "コントラポスト",
+                                         "tag":  "contrapposto",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/contrapposto"
+                                     },
+                                     {
+                                         "label":  "背中を反らせる",
+                                         "tag":  "sway_back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sway_back"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "脚の位置",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "足首を組む",
+                                         "tag":  "crossed_ankles",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/crossed_ankles"
+                                     },
+                                     {
+                                         "label":  "折り畳まれた",
+                                         "tag":  "folded",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/folded"
+                                     },
+                                     {
+                                         "label":  "足を上げて",
+                                         "tag":  "leg_up",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leg_up"
+                                     },
+                                     {
+                                         "label":  "足を上げる",
+                                         "tag":  "legs_up",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/legs_up"
+                                     },
+                                     {
+                                         "label":  "膝を胸につける",
+                                         "tag":  "knees_to_chest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knees_to_chest"
+                                     },
+                                     {
+                                         "label":  "脚を頭の上に回す",
+                                         "tag":  "legs_over_head",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/legs_over_head"
+                                     },
+                                     {
+                                         "label":  "脚上げ",
+                                         "tag":  "leg_lift",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leg_lift"
+                                     },
+                                     {
+                                         "label":  "伸ばした足",
+                                         "tag":  "outstretched_leg",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/outstretched_leg"
+                                     },
+                                     {
+                                         "label":  "スプリット",
+                                         "tag":  "split",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/split"
+                                     },
+                                     {
+                                         "label":  "鳩のポーズ",
+                                         "tag":  "pigeon_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pigeon_pose"
+                                     },
+                                     {
+                                         "label":  "スタンディングスプリット",
+                                         "tag":  "standing_split",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/standing_split"
+                                     },
+                                     {
+                                         "label":  "足を広げる",
+                                         "tag":  "spread_legs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/spread_legs"
+                                     },
+                                     {
+                                         "label":  "ワトソンクロス",
+                                         "tag":  "watson_cross",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/watson_cross"
+                                     },
+                                     {
+                                         "label":  "キャプテン・モーガンのポーズ",
+                                         "tag":  "captain_morgan_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/captain_morgan_pose"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "膝の位置",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "膝を広げ、足を揃える",
+                                         "tag":  "knees_apart_feet_together",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knees_apart_feet_together"
+                                     },
+                                     {
+                                         "label":  "膝を合わせて足を広げる",
+                                         "tag":  "knees_together_feet_apart",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knees_together_feet_apart"
+                                     },
+                                     {
+                                         "label":  "膝を上げる",
+                                         "tag":  "knee_up",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knee_up"
+                                     },
+                                     {
+                                         "label":  "膝を上げる",
+                                         "tag":  "knees_up",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/knees_up"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "足の位置",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "背屈",
+                                         "tag":  "dorsiflexion",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dorsiflexion"
+                                     },
+                                     {
+                                         "label":  "内股",
+                                         "tag":  "pigeon-toed",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/pigeon-toed"
+                                     },
+                                     {
+                                         "label":  "足底屈曲",
+                                         "tag":  "plantar_flexion",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/plantar_flexion"
+                                     },
+                                     {
+                                         "label":  "つま先立ち",
+                                         "tag":  "tiptoes",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tiptoes"
+                                     },
+                                     {
+                                         "label":  "つま先キス",
+                                         "tag":  "tiptoe_kiss",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tiptoe_kiss"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "少なくとも2人のキャラクターの姿勢",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "尻同士",
+                                         "tag":  "ass-to-ass",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ass-to-ass"
+                                     },
+                                     {
+                                         "label":  "背中合わせ",
+                                         "tag":  "back-to-back",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/back-to-back"
+                                     },
+                                     {
+                                         "label":  "腹合わせ",
+                                         "tag":  "belly-to-belly",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/belly-to-belly"
+                                     },
+                                     {
+                                         "label":  "頬から胸へ",
+                                         "tag":  "cheek-to-breast",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cheek-to-breast"
+                                     },
+                                     {
+                                         "label":  "頬を合わせる",
+                                         "tag":  "cheek-to-cheek",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/cheek-to-cheek"
+                                     },
+                                     {
+                                         "label":  "アイコンタクト",
+                                         "tag":  "eye_contact",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/eye_contact"
+                                     },
+                                     {
+                                         "label":  "対面",
+                                         "tag":  "face-to-face",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/face-to-face"
+                                     },
+                                     {
+                                         "label":  "額を合わせる",
+                                         "tag":  "forehead-to-forehead",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/forehead-to-forehead"
+                                     },
+                                     {
+                                         "label":  "頭を胸に当てる",
+                                         "tag":  "head_on_chest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_on_chest"
+                                     },
+                                     {
+                                         "label":  "頭を合わせて",
+                                         "tag":  "heads_together",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/heads_together"
+                                     },
+                                     {
+                                         "label":  "手をつなぐ",
+                                         "tag":  "holding_hands",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_hands"
+                                     },
+                                     {
+                                         "label":  "レッグロック",
+                                         "tag":  "leg_lock",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/leg_lock"
+                                     },
+                                     {
+                                         "label":  "腕を組んで",
+                                         "tag":  "locked_arms",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/locked_arms"
+                                     },
+                                     {
+                                         "label":  "膝上",
+                                         "tag":  "over_the_knee",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/over_the_knee"
+                                     },
+                                     {
+                                         "label":  "乳首同士",
+                                         "tag":  "nipple-to-nipple",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/nipple-to-nipple"
+                                     },
+                                     {
+                                         "label":  "鼻が触れ合う",
+                                         "tag":  "noses_touching",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/noses_touching"
+                                     },
+                                     {
+                                         "label":  "肩を並べて",
+                                         "tag":  "shoulder-to-shoulder",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoulder-to-shoulder"
+                                     },
+                                     {
+                                         "label":  "テールロック",
+                                         "tag":  "tail_lock",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tail_lock"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "3人以上の姿勢",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "サークル形成",
+                                         "tag":  "circle_formation",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/circle_formation"
+                                     },
+                                     {
+                                         "label":  "グループハグ",
+                                         "tag":  "group_hug",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/group_hug"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ハグ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ハグ",
+                                         "tag":  "hug",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hug"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "一人でもできる抱擁",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "自分の足を抱きしめる",
+                                         "tag":  "hugging_own_legs",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hugging_own_legs"
+                                     },
+                                     {
+                                         "label":  "物を抱きしめる",
+                                         "tag":  "hugging_object",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hugging_object"
+                                     },
+                                     {
+                                         "label":  "尻尾を抱きしめる",
+                                         "tag":  "hugging_tail",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hugging_tail"
+                                     },
+                                     {
+                                         "label":  "ウィングハグ",
+                                         "tag":  "wing_hug",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_hug"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "二人以上の抱擁",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "腕に抱きつく",
+                                         "tag":  "arm_hug",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_hug"
+                                     },
+                                     {
+                                         "label":  "後ろから抱きしめる",
+                                         "tag":  "hug_from_behind",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/hug_from_behind"
+                                     },
+                                     {
+                                         "label":  "ウエストハグ",
+                                         "tag":  "waist_hug",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/waist_hug"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "人を抱える・運ぶ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ベビーキャリー",
+                                         "tag":  "baby_carry",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/baby_carry"
+                                     },
+                                     {
+                                         "label":  "運ぶ",
+                                         "tag":  "carrying",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/carrying"
+                                     },
+                                     {
+                                         "label":  "携行式胸当て",
+                                         "tag":  "carried_breast_rest",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/carried_breast_rest"
+                                     },
+                                     {
+                                         "label":  "肩に担ぐ",
+                                         "tag":  "carrying_over_shoulder",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/carrying_over_shoulder"
+                                     },
+                                     {
+                                         "label":  "脇に抱えて運ぶ",
+                                         "tag":  "carrying_under_arm",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/carrying_under_arm"
+                                     },
+                                     {
+                                         "label":  "チャイルドキャリー",
+                                         "tag":  "child_carry",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/child_carry"
+                                     },
+                                     {
+                                         "label":  "消防士の担ぎ",
+                                         "tag":  "fireman%27s_carry",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/fireman%27s_carry"
+                                     },
+                                     {
+                                         "label":  "おんぶ",
+                                         "tag":  "piggyback",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/piggyback"
+                                     },
+                                     {
+                                         "label":  "お姫様抱っこ",
+                                         "tag":  "princess_carry",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/princess_carry"
+                                     },
+                                     {
+                                         "label":  "肩車",
+                                         "tag":  "shoulder_carry",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/shoulder_carry"
+                                     },
+                                     {
+                                         "label":  "肩に座る",
+                                         "tag":  "sitting_on_shoulder",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/sitting_on_shoulder"
+                                     },
+                                     {
+                                         "label":  "肩の上に立つ",
+                                         "tag":  "standing_on_shoulder",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/standing_on_shoulder"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "ポーズ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ウサギのポーズ",
+                                         "tag":  "rabbit_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/rabbit_pose"
+                                     },
+                                     {
+                                         "label":  "手で角を作る",
+                                         "tag":  "horns_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/horns_pose"
+                                     },
+                                     {
+                                         "label":  "前足のポーズ",
+                                         "tag":  "paw_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/paw_pose"
+                                     },
+                                     {
+                                         "label":  "爪のポーズ",
+                                         "tag":  "claw_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/claw_pose"
+                                     },
+                                     {
+                                         "label":  "アーチャーポーズ",
+                                         "tag":  "archer_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/archer_pose"
+                                     },
+                                     {
+                                         "label":  "ブラス・ドヌール",
+                                         "tag":  "bras_d%27honneur",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/bras_d%27honneur"
+                                     },
+                                     {
+                                         "label":  "ボディブリッジ",
+                                         "tag":  "body_bridge",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/body_bridge"
+                                     },
+                                     {
+                                         "label":  "コントラポスト",
+                                         "tag":  "contrapposto",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/contrapposto"
+                                     },
+                                     {
+                                         "label":  "どじっこポーズ",
+                                         "tag":  "dojikko_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dojikko_pose"
+                                     },
+                                     {
+                                         "label":  "ゴーストポーズ",
+                                         "tag":  "ghost_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ghost_pose"
+                                     },
+                                     {
+                                         "label":  "犬神家の一族のポーズ",
+                                         "tag":  "inugami-ke_no_ichizoku_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/inugami-ke_no_ichizoku_pose"
+                                     },
+                                     {
+                                         "label":  "文字のポーズ",
+                                         "tag":  "letter_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/letter_pose"
+                                     },
+                                     {
+                                         "label":  "お嬢様ポーズ",
+                                         "tag":  "ojou-sama_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/ojou-sama_pose"
+                                     },
+                                     {
+                                         "label":  "サボテンポーズ",
+                                         "tag":  "saboten_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/saboten_pose"
+                                     },
+                                     {
+                                         "label":  "左右対称の手のポーズ",
+                                         "tag":  "symmetrical_hand_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/symmetrical_hand_pose"
+                                     },
+                                     {
+                                         "label":  "勝利のポーズ",
+                                         "tag":  "victory_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/victory_pose"
+                                     },
+                                     {
+                                         "label":  "悪役ポーズ",
+                                         "tag":  "villain_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/villain_pose"
+                                     },
+                                     {
+                                         "label":  "ゾンビポーズ",
+                                         "tag":  "zombie_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/zombie_pose"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "特徴的なポーズ",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "ゲンドウポーズ",
+                                         "tag":  "gendou_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/gendou_pose"
+                                     },
+                                     {
+                                         "label":  "ジョジョポーズ",
+                                         "tag":  "jojo_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/jojo_pose"
+                                     },
+                                     {
+                                         "label":  "ディオ・ブランドのポーズ",
+                                         "tag":  "dio_brando%27s_pose_%28jojo%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/dio_brando%27s_pose_%28jojo%29"
+                                     },
+                                     {
+                                         "label":  "ジョルノ・ジョバァーナのポーズ",
+                                         "tag":  "giorno_giovanna%27s_pose_%28jojo%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/giorno_giovanna%27s_pose_%28jojo%29"
+                                     },
+                                     {
+                                         "label":  "スーパーマンのように露出させる",
+                                         "tag":  "superman_exposure",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/superman_exposure"
+                                     },
+                                     {
+                                         "label":  "ジョナサン・ジョースターのポーズ",
+                                         "tag":  "jonathan_joestar%27s_pose_%28jojo%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/jonathan_joestar%27s_pose_%28jojo%29"
+                                     },
+                                     {
+                                         "label":  "空条承太郎のポーズ",
+                                         "tag":  "kujo_jotaro%27s_pose_%28jojo%29",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kujo_jotaro%27s_pose_%28jojo%29"
+                                     },
+                                     {
+                                         "label":  "金剛のポーズ",
+                                         "tag":  "kongou_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kongou_pose"
+                                     },
+                                     {
+                                         "label":  "九条カレンのポーズ",
+                                         "tag":  "kujou_karen_pose",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/kujou_karen_pose"
+                                     }
+                                 ]
+                    },
+                    {
+                        "セクション名":  "参照",
+                        "タグ一覧":  [
+                                     {
+                                         "label":  "タググループ：ジェスチャー",
+                                         "tag":  "tag_group%3Agestures",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Agestures"
+                                     },
+                                     {
+                                         "label":  "タググループ：性交体位",
+                                         "tag":  "tag_group%3Asexual_positions",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Asexual_positions"
+                                     },
+                                     {
+                                         "label":  "ポーズ一覧",
+                                         "tag":  "list_of_poses",
+                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_poses"
+                                     }
+                                 ]
+                    }
+                ]
+}

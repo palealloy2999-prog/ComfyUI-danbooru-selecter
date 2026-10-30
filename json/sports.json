@@ -1,0 +1,2257 @@
+{
+  "カテゴリID": "sports",
+  "カテゴリ名": "スポーツ",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Asports",
+  "セクション一覧": [
+    {
+      "セクション名": "主要",
+      "タグ一覧": [
+        {
+          "label": "スポーツをする",
+          "tag": "playing_sports",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_sports"
+        }
+      ]
+    },
+    {
+      "セクション名": "スポーツ",
+      "タグ一覧": [
+        {
+          "label": "アメフト",
+          "tag": "american_football",
+          "link": "https://danbooru.donmai.us/wiki_pages/american_football"
+        },
+        {
+          "label": "バドミントン",
+          "tag": "badminton",
+          "link": "https://danbooru.donmai.us/wiki_pages/badminton"
+        },
+        {
+          "label": "野球",
+          "tag": "baseball",
+          "link": "https://danbooru.donmai.us/wiki_pages/baseball"
+        },
+        {
+          "label": "バスケットボール",
+          "tag": "basketball",
+          "link": "https://danbooru.donmai.us/wiki_pages/basketball"
+        },
+        {
+          "label": "ビリヤード",
+          "tag": "billiards",
+          "link": "https://danbooru.donmai.us/wiki_pages/billiards"
+        },
+        {
+          "label": "ボウリング",
+          "tag": "bowling",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowling"
+        },
+        {
+          "label": "ボクシング",
+          "tag": "boxing",
+          "link": "https://danbooru.donmai.us/wiki_pages/boxing"
+        },
+        {
+          "label": "クロッケー",
+          "tag": "croquet",
+          "link": "https://danbooru.donmai.us/wiki_pages/croquet"
+        },
+        {
+          "label": "カーリング",
+          "tag": "curling",
+          "link": "https://danbooru.donmai.us/wiki_pages/curling"
+        },
+        {
+          "label": "ドッジボール",
+          "tag": "dodgeball",
+          "link": "https://danbooru.donmai.us/wiki_pages/dodgeball"
+        },
+        {
+          "label": "フェンシング",
+          "tag": "fencing",
+          "link": "https://danbooru.donmai.us/wiki_pages/fencing"
+        },
+        {
+          "label": "フィールドホッケー",
+          "tag": "field_hockey",
+          "link": "https://danbooru.donmai.us/wiki_pages/field_hockey"
+        },
+        {
+          "label": "ゲートボール",
+          "tag": "gateball",
+          "link": "https://danbooru.donmai.us/wiki_pages/gateball"
+        },
+        {
+          "label": "ゴルフ",
+          "tag": "golf",
+          "link": "https://danbooru.donmai.us/wiki_pages/golf"
+        },
+        {
+          "label": "体操",
+          "tag": "gymnastics",
+          "link": "https://danbooru.donmai.us/wiki_pages/gymnastics"
+        },
+        {
+          "label": "新体操",
+          "tag": "rhythmic_gymnastics",
+          "link": "https://danbooru.donmai.us/wiki_pages/rhythmic_gymnastics"
+        },
+        {
+          "label": "アイスホッケー",
+          "tag": "ice_hockey",
+          "link": "https://danbooru.donmai.us/wiki_pages/ice_hockey"
+        },
+        {
+          "label": "アイススケート",
+          "tag": "ice_skating",
+          "link": "https://danbooru.donmai.us/wiki_pages/ice_skating"
+        },
+        {
+          "label": "柔道",
+          "tag": "judo",
+          "link": "https://danbooru.donmai.us/wiki_pages/judo"
+        },
+        {
+          "label": "カバディ",
+          "tag": "kabaddi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kabaddi"
+        },
+        {
+          "label": "蹴鞠",
+          "tag": "kemari",
+          "link": "https://danbooru.donmai.us/wiki_pages/kemari"
+        },
+        {
+          "label": "ラクロス",
+          "tag": "lacrosse",
+          "link": "https://danbooru.donmai.us/wiki_pages/lacrosse"
+        },
+        {
+          "label": "ムエタイ",
+          "tag": "muay_thai",
+          "link": "https://danbooru.donmai.us/wiki_pages/muay_thai"
+        },
+        {
+          "label": "レース",
+          "tag": "racing",
+          "link": "https://danbooru.donmai.us/wiki_pages/racing"
+        },
+        {
+          "label": "ラグビー",
+          "tag": "rugby",
+          "link": "https://danbooru.donmai.us/wiki_pages/rugby"
+        },
+        {
+          "label": "セパタクロー",
+          "tag": "sepak_takraw",
+          "link": "https://danbooru.donmai.us/wiki_pages/sepak_takraw"
+        },
+        {
+          "label": "スキー",
+          "tag": "skiing",
+          "link": "https://danbooru.donmai.us/wiki_pages/skiing"
+        },
+        {
+          "label": "サッカー",
+          "tag": "soccer",
+          "link": "https://danbooru.donmai.us/wiki_pages/soccer"
+        },
+        {
+          "label": "相撲",
+          "tag": "sumo",
+          "link": "https://danbooru.donmai.us/wiki_pages/sumo"
+        },
+        {
+          "label": "卓球",
+          "tag": "table_tennis",
+          "link": "https://danbooru.donmai.us/wiki_pages/table_tennis"
+        },
+        {
+          "label": "テニス",
+          "tag": "tennis",
+          "link": "https://danbooru.donmai.us/wiki_pages/tennis"
+        },
+        {
+          "label": "陸上競技",
+          "tag": "track_and_field",
+          "link": "https://danbooru.donmai.us/wiki_pages/track_and_field"
+        },
+        {
+          "label": "バレーボール",
+          "tag": "volleyball",
+          "link": "https://danbooru.donmai.us/wiki_pages/volleyball"
+        },
+        {
+          "label": "ビーチバレー",
+          "tag": "beach_volleyball",
+          "link": "https://danbooru.donmai.us/wiki_pages/beach_volleyball"
+        },
+        {
+          "label": "水上バレーボール",
+          "tag": "water_volleyball",
+          "link": "https://danbooru.donmai.us/wiki_pages/water_volleyball"
+        },
+        {
+          "label": "水球",
+          "tag": "water_polo",
+          "link": "https://danbooru.donmai.us/wiki_pages/water_polo"
+        },
+        {
+          "label": "レスリング",
+          "tag": "wrestling",
+          "link": "https://danbooru.donmai.us/wiki_pages/wrestling"
+        }
+      ]
+    },
+    {
+      "セクション名": "装備とオブジェクト",
+      "タグ一覧": [
+        {
+          "label": "ボール",
+          "tag": "ball",
+          "link": "https://danbooru.donmai.us/wiki_pages/ball"
+        },
+        {
+          "label": "ビーチボール",
+          "tag": "beachball",
+          "link": "https://danbooru.donmai.us/wiki_pages/beachball"
+        },
+        {
+          "label": "ボウリングボール",
+          "tag": "bowling_ball",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowling_ball"
+        },
+        {
+          "label": "ビリヤードボール",
+          "tag": "billiard_ball",
+          "link": "https://danbooru.donmai.us/wiki_pages/billiard_ball"
+        },
+        {
+          "label": "アメフト",
+          "tag": "american_football_%28object%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/american_football_%28object%29"
+        },
+        {
+          "label": "ゴルフボール",
+          "tag": "golf_ball",
+          "link": "https://danbooru.donmai.us/wiki_pages/golf_ball"
+        },
+        {
+          "label": "ビー玉",
+          "tag": "marble_%28toy%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/marble_%28toy%29"
+        },
+        {
+          "label": "ラグビーボール",
+          "tag": "rugby_ball",
+          "link": "https://danbooru.donmai.us/wiki_pages/rugby_ball"
+        },
+        {
+          "label": "サッカーボール",
+          "tag": "soccer_ball",
+          "link": "https://danbooru.donmai.us/wiki_pages/soccer_ball"
+        },
+        {
+          "label": "テニスボール",
+          "tag": "tennis_ball",
+          "link": "https://danbooru.donmai.us/wiki_pages/tennis_ball"
+        },
+        {
+          "label": "ジャージ",
+          "tag": "jersey",
+          "link": "https://danbooru.donmai.us/wiki_pages/jersey"
+        },
+        {
+          "label": "スポーツウェア",
+          "tag": "sportswear",
+          "link": "https://danbooru.donmai.us/wiki_pages/sportswear"
+        },
+        {
+          "label": "野球帽",
+          "tag": "baseball_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/baseball_cap"
+        },
+        {
+          "label": "野球ユニフォーム",
+          "tag": "baseball_jersey",
+          "link": "https://danbooru.donmai.us/wiki_pages/baseball_jersey"
+        },
+        {
+          "label": "野球ユニフォーム",
+          "tag": "baseball_uniform",
+          "link": "https://danbooru.donmai.us/wiki_pages/baseball_uniform"
+        },
+        {
+          "label": "バスケットボールのユニフォーム",
+          "tag": "basketball_uniform",
+          "link": "https://danbooru.donmai.us/wiki_pages/basketball_uniform"
+        },
+        {
+          "label": "ホッケーセーター",
+          "tag": "hockey_sweater",
+          "link": "https://danbooru.donmai.us/wiki_pages/hockey_sweater"
+        },
+        {
+          "label": "サッカーユニフォーム",
+          "tag": "soccer_uniform",
+          "link": "https://danbooru.donmai.us/wiki_pages/soccer_uniform"
+        },
+        {
+          "label": "テニスユニフォーム",
+          "tag": "tennis_uniform",
+          "link": "https://danbooru.donmai.us/wiki_pages/tennis_uniform"
+        },
+        {
+          "label": "野球のバット",
+          "tag": "baseball_bat",
+          "link": "https://danbooru.donmai.us/wiki_pages/baseball_bat"
+        },
+        {
+          "label": "ボウリンググローブ",
+          "tag": "bowling_glove",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowling_glove"
+        },
+        {
+          "label": "ボウリングのピン",
+          "tag": "bowling_pin",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowling_pin"
+        },
+        {
+          "label": "キュースティック",
+          "tag": "cue_stick",
+          "link": "https://danbooru.donmai.us/wiki_pages/cue_stick"
+        },
+        {
+          "label": "ゴルフクラブ",
+          "tag": "golf_club",
+          "link": "https://danbooru.donmai.us/wiki_pages/golf_club"
+        },
+        {
+          "label": "ホッケーマスク",
+          "tag": "hockey_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/hockey_mask"
+        },
+        {
+          "label": "ホッケーパック",
+          "tag": "hockey_puck",
+          "link": "https://danbooru.donmai.us/wiki_pages/hockey_puck"
+        },
+        {
+          "label": "ホッケースティック",
+          "tag": "hockey_stick",
+          "link": "https://danbooru.donmai.us/wiki_pages/hockey_stick"
+        },
+        {
+          "label": "フープ",
+          "tag": "hoop",
+          "link": "https://danbooru.donmai.us/wiki_pages/hoop"
+        },
+        {
+          "label": "ジャグリングクラブ",
+          "tag": "juggling_club",
+          "link": "https://danbooru.donmai.us/wiki_pages/juggling_club"
+        },
+        {
+          "label": "ビリヤード台",
+          "tag": "pool_table",
+          "link": "https://danbooru.donmai.us/wiki_pages/pool_table"
+        },
+        {
+          "label": "ラケット",
+          "tag": "racket",
+          "link": "https://danbooru.donmai.us/wiki_pages/racket"
+        },
+        {
+          "label": "バドミントンラケット",
+          "tag": "badminton_racket",
+          "link": "https://danbooru.donmai.us/wiki_pages/badminton_racket"
+        },
+        {
+          "label": "卓球ラケット",
+          "tag": "table_tennis_paddle",
+          "link": "https://danbooru.donmai.us/wiki_pages/table_tennis_paddle"
+        },
+        {
+          "label": "テニスラケット",
+          "tag": "tennis_racket",
+          "link": "https://danbooru.donmai.us/wiki_pages/tennis_racket"
+        },
+        {
+          "label": "リボン",
+          "tag": "ribbon",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbon"
+        },
+        {
+          "label": "リボンバトン",
+          "tag": "ribbon_baton",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbon_baton"
+        },
+        {
+          "label": "ロープ",
+          "tag": "rope",
+          "link": "https://danbooru.donmai.us/wiki_pages/rope"
+        }
+      ]
+    },
+    {
+      "セクション名": "総合競技大会",
+      "タグ一覧": [
+        {
+          "label": "オリンピック",
+          "tag": "olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/olympics"
+        },
+        {
+          "label": "2006年冬季オリンピック",
+          "tag": "2006_winter_olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/2006_winter_olympics"
+        },
+        {
+          "label": "2010年冬季オリンピック",
+          "tag": "2010_winter_olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/2010_winter_olympics"
+        },
+        {
+          "label": "2012年夏季オリンピック",
+          "tag": "2012_summer_olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/2012_summer_olympics"
+        },
+        {
+          "label": "2014年冬季オリンピック",
+          "tag": "2014_winter_olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/2014_winter_olympics"
+        },
+        {
+          "label": "2016年夏季オリンピック",
+          "tag": "2016_summer_olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/2016_summer_olympics"
+        },
+        {
+          "label": "2018年冬季オリンピック",
+          "tag": "2018_winter_olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/2018_winter_olympics"
+        },
+        {
+          "label": "2020年夏季オリンピック",
+          "tag": "2020_summer_olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/2020_summer_olympics"
+        },
+        {
+          "label": "2022年冬季オリンピック",
+          "tag": "2022_winter_olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/2022_winter_olympics"
+        },
+        {
+          "label": "2024年夏季オリンピック",
+          "tag": "2024_summer_olympics",
+          "link": "https://danbooru.donmai.us/wiki_pages/2024_summer_olympics"
+        },
+        {
+          "label": "2017年台北ユニバーシアード",
+          "tag": "2017_taipei_universiade",
+          "link": "https://danbooru.donmai.us/wiki_pages/2017_taipei_universiade"
+        }
+      ]
+    },
+    {
+      "セクション名": "アメフト",
+      "タグ一覧": [
+        {
+          "label": "第36回スーパーボウル",
+          "tag": "super_bowl_xxxvi",
+          "link": "https://danbooru.donmai.us/wiki_pages/super_bowl_xxxvi"
+        }
+      ]
+    },
+    {
+      "セクション名": "野球",
+      "タグ一覧": [
+        {
+          "label": "ワールドベースボールクラシック",
+          "tag": "world_baseball_classic",
+          "link": "https://danbooru.donmai.us/wiki_pages/world_baseball_classic"
+        },
+        {
+          "label": "2009年ワールドベースボールクラシック",
+          "tag": "2009_world_baseball_classic",
+          "link": "https://danbooru.donmai.us/wiki_pages/2009_world_baseball_classic"
+        },
+        {
+          "label": "2023年ワールドベースボールクラシック",
+          "tag": "2023_world_baseball_classic",
+          "link": "https://danbooru.donmai.us/wiki_pages/2023_world_baseball_classic"
+        }
+      ]
+    },
+    {
+      "セクション名": "ラグビー",
+      "タグ一覧": [
+        {
+          "label": "2015年ラグビーワールドカップ",
+          "tag": "2015_rugby_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2015_rugby_world_cup"
+        },
+        {
+          "label": "2019年ラグビーワールドカップ",
+          "tag": "2019_rugby_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2019_rugby_world_cup"
+        }
+      ]
+    },
+    {
+      "セクション名": "サッカー",
+      "タグ一覧": [
+        {
+          "label": "ワールドカップ",
+          "tag": "world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/world_cup"
+        },
+        {
+          "label": "1986 FIFAワールドカップ",
+          "tag": "1986_fifa_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/1986_fifa_world_cup"
+        },
+        {
+          "label": "2002 FIFAワールドカップ",
+          "tag": "2002_fifa_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2002_fifa_world_cup"
+        },
+        {
+          "label": "2006 FIFAワールドカップ",
+          "tag": "2006_fifa_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2006_fifa_world_cup"
+        },
+        {
+          "label": "2010 FIFAワールドカップ",
+          "tag": "2010_fifa_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2010_fifa_world_cup"
+        },
+        {
+          "label": "2011 FIFA女子ワールドカップ",
+          "tag": "2011_fifa_women%27s_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2011_fifa_women%27s_world_cup"
+        },
+        {
+          "label": "2014 FIFAワールドカップ",
+          "tag": "2014_fifa_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2014_fifa_world_cup"
+        },
+        {
+          "label": "2015 FIFA女子ワールドカップ",
+          "tag": "2015_fifa_women%27s_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2015_fifa_women%27s_world_cup"
+        },
+        {
+          "label": "2018 FIFAワールドカップ",
+          "tag": "2018_fifa_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2018_fifa_world_cup"
+        },
+        {
+          "label": "2022 FIFAワールドカップ",
+          "tag": "2022_fifa_world_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2022_fifa_world_cup"
+        },
+        {
+          "label": "2011 AFCアジアカップ",
+          "tag": "2011_afc_asian_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2011_afc_asian_cup"
+        },
+        {
+          "label": "2014 AFC女子アジアカップ",
+          "tag": "2014_afc_women%27s_asian_cup",
+          "link": "https://danbooru.donmai.us/wiki_pages/2014_afc_women%27s_asian_cup"
+        },
+        {
+          "label": "UEFAユーロ",
+          "tag": "uefa_euros",
+          "link": "https://danbooru.donmai.us/wiki_pages/uefa_euros"
+        },
+        {
+          "label": "ユーロ2008",
+          "tag": "euro_2008",
+          "link": "https://danbooru.donmai.us/wiki_pages/euro_2008"
+        },
+        {
+          "label": "ユーロ2012",
+          "tag": "euro_2012",
+          "link": "https://danbooru.donmai.us/wiki_pages/euro_2012"
+        },
+        {
+          "label": "ユーロ2016",
+          "tag": "euro_2016",
+          "link": "https://danbooru.donmai.us/wiki_pages/euro_2016"
+        },
+        {
+          "label": "ユーロ2020",
+          "tag": "euro_2020",
+          "link": "https://danbooru.donmai.us/wiki_pages/euro_2020"
+        },
+        {
+          "label": "ユーロ2024",
+          "tag": "euro_2024",
+          "link": "https://danbooru.donmai.us/wiki_pages/euro_2024"
+        },
+        {
+          "label": "UEFAチャンピオンズリーグ",
+          "tag": "uefa_champions_league",
+          "link": "https://danbooru.donmai.us/wiki_pages/uefa_champions_league"
+        },
+        {
+          "label": "2010-2011 UEFAチャンピオンズリーグ",
+          "tag": "2010-2011_uefa_champions%27_league",
+          "link": "https://danbooru.donmai.us/wiki_pages/2010-2011_uefa_champions%27_league"
+        },
+        {
+          "label": "コパ・アメリカ",
+          "tag": "copa_america",
+          "link": "https://danbooru.donmai.us/wiki_pages/copa_america"
+        },
+        {
+          "label": "2011年コパ・アメリカ",
+          "tag": "2011_copa_america",
+          "link": "https://danbooru.donmai.us/wiki_pages/2011_copa_america"
+        },
+        {
+          "label": "2015年コパ・アメリカ",
+          "tag": "2015_copa_america",
+          "link": "https://danbooru.donmai.us/wiki_pages/2015_copa_america"
+        },
+        {
+          "label": "コパ・アメリカ・センテナリオ",
+          "tag": "copa_america_centenario",
+          "link": "https://danbooru.donmai.us/wiki_pages/copa_america_centenario"
+        },
+        {
+          "label": "2021年コパ・アメリカ",
+          "tag": "2021_copa_america",
+          "link": "https://danbooru.donmai.us/wiki_pages/2021_copa_america"
+        },
+        {
+          "label": "2024年コパ・アメリカ",
+          "tag": "2024_copa_america",
+          "link": "https://danbooru.donmai.us/wiki_pages/2024_copa_america"
+        }
+      ]
+    },
+    {
+      "セクション名": "野球チーム",
+      "タグ一覧": [
+        {
+          "label": "斗山ベアーズ",
+          "tag": "doosan_bears",
+          "link": "https://danbooru.donmai.us/wiki_pages/doosan_bears"
+        },
+        {
+          "label": "ハンファ・イーグルス",
+          "tag": "hanwha_eagles",
+          "link": "https://danbooru.donmai.us/wiki_pages/hanwha_eagles"
+        },
+        {
+          "label": "起亜タイガース",
+          "tag": "kia_tigers",
+          "link": "https://danbooru.donmai.us/wiki_pages/kia_tigers"
+        },
+        {
+          "label": "アトランタ・ブレーブス",
+          "tag": "atlanta_braves",
+          "link": "https://danbooru.donmai.us/wiki_pages/atlanta_braves"
+        },
+        {
+          "label": "ボルチモア・オリオールズ",
+          "tag": "baltimore_orioles",
+          "link": "https://danbooru.donmai.us/wiki_pages/baltimore_orioles"
+        },
+        {
+          "label": "ボストン・レッドソックス",
+          "tag": "boston_red_sox",
+          "link": "https://danbooru.donmai.us/wiki_pages/boston_red_sox"
+        },
+        {
+          "label": "シカゴ・カブス",
+          "tag": "chicago_cubs",
+          "link": "https://danbooru.donmai.us/wiki_pages/chicago_cubs"
+        },
+        {
+          "label": "シカゴ・ホワイトソックス",
+          "tag": "chicago_white_sox",
+          "link": "https://danbooru.donmai.us/wiki_pages/chicago_white_sox"
+        },
+        {
+          "label": "コロラドロッキーズ",
+          "tag": "colorado_rockies",
+          "link": "https://danbooru.donmai.us/wiki_pages/colorado_rockies"
+        },
+        {
+          "label": "ヒューストン・アストロズ",
+          "tag": "houston_astros",
+          "link": "https://danbooru.donmai.us/wiki_pages/houston_astros"
+        },
+        {
+          "label": "ロサンゼルス・エンゼルス",
+          "tag": "los_angeles_angels",
+          "link": "https://danbooru.donmai.us/wiki_pages/los_angeles_angels"
+        },
+        {
+          "label": "ロサンゼルス・ドジャース",
+          "tag": "los_angeles_dodgers",
+          "link": "https://danbooru.donmai.us/wiki_pages/los_angeles_dodgers"
+        },
+        {
+          "label": "マイアミ・マーリンズ",
+          "tag": "miami_marlins",
+          "link": "https://danbooru.donmai.us/wiki_pages/miami_marlins"
+        },
+        {
+          "label": "ミルウォーキー・ブルワーズ",
+          "tag": "milwaukee_brewers",
+          "link": "https://danbooru.donmai.us/wiki_pages/milwaukee_brewers"
+        },
+        {
+          "label": "ミネソタ・ツインズ",
+          "tag": "minnesota_twins",
+          "link": "https://danbooru.donmai.us/wiki_pages/minnesota_twins"
+        },
+        {
+          "label": "モントリオール・エクスポズ",
+          "tag": "montreal_expos",
+          "link": "https://danbooru.donmai.us/wiki_pages/montreal_expos"
+        },
+        {
+          "label": "ニューヨーク・ヤンキース",
+          "tag": "new_york_yankees",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_york_yankees"
+        },
+        {
+          "label": "ピッツバーグ・パイレーツ",
+          "tag": "pittsburgh_pirates",
+          "link": "https://danbooru.donmai.us/wiki_pages/pittsburgh_pirates"
+        },
+        {
+          "label": "シアトル・マリナーズ",
+          "tag": "seattle_mariners",
+          "link": "https://danbooru.donmai.us/wiki_pages/seattle_mariners"
+        },
+        {
+          "label": "セントルイス・カージナルス",
+          "tag": "st._louis_cardinals",
+          "link": "https://danbooru.donmai.us/wiki_pages/st._louis_cardinals"
+        },
+        {
+          "label": "サンフランシスコ・ジャイアンツ",
+          "tag": "san_francisco_giants",
+          "link": "https://danbooru.donmai.us/wiki_pages/san_francisco_giants"
+        },
+        {
+          "label": "タンパベイ・レイズ",
+          "tag": "tampa_bay_rays",
+          "link": "https://danbooru.donmai.us/wiki_pages/tampa_bay_rays"
+        },
+        {
+          "label": "テキサス・レンジャーズ",
+          "tag": "texas_rangers",
+          "link": "https://danbooru.donmai.us/wiki_pages/texas_rangers"
+        },
+        {
+          "label": "トロント・ブルージェイズ",
+          "tag": "toronto_blue_jays",
+          "link": "https://danbooru.donmai.us/wiki_pages/toronto_blue_jays"
+        },
+        {
+          "label": "ワシントン・ナショナルズ",
+          "tag": "washington_nationals",
+          "link": "https://danbooru.donmai.us/wiki_pages/washington_nationals"
+        },
+        {
+          "label": "千葉ロッテマリーンズ",
+          "tag": "chiba_lotte_marines",
+          "link": "https://danbooru.donmai.us/wiki_pages/chiba_lotte_marines"
+        },
+        {
+          "label": "中日ドラゴンズ",
+          "tag": "chunichi_dragons",
+          "link": "https://danbooru.donmai.us/wiki_pages/chunichi_dragons"
+        },
+        {
+          "label": "福岡ソフトバンクホークス",
+          "tag": "fukuoka_softbank_hawks",
+          "link": "https://danbooru.donmai.us/wiki_pages/fukuoka_softbank_hawks"
+        },
+        {
+          "label": "阪神タイガース",
+          "tag": "hanshin_tigers",
+          "link": "https://danbooru.donmai.us/wiki_pages/hanshin_tigers"
+        },
+        {
+          "label": "北海道日本ハムファイターズ",
+          "tag": "hokkaido_nippon-ham_fighters",
+          "link": "https://danbooru.donmai.us/wiki_pages/hokkaido_nippon-ham_fighters"
+        },
+        {
+          "label": "広島東洋カープ",
+          "tag": "hiroshima_touyou_carp",
+          "link": "https://danbooru.donmai.us/wiki_pages/hiroshima_touyou_carp"
+        },
+        {
+          "label": "オリックス・バファローズ",
+          "tag": "orix_buffaloes",
+          "link": "https://danbooru.donmai.us/wiki_pages/orix_buffaloes"
+        },
+        {
+          "label": "埼玉西武ライオンズ",
+          "tag": "saitama_seibu_lions",
+          "link": "https://danbooru.donmai.us/wiki_pages/saitama_seibu_lions"
+        },
+        {
+          "label": "大洋ホエールズ",
+          "tag": "taiyou_whales",
+          "link": "https://danbooru.donmai.us/wiki_pages/taiyou_whales"
+        },
+        {
+          "label": "東京ヤクルトスワローズ",
+          "tag": "tokyo_yakult_swallows",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_yakult_swallows"
+        },
+        {
+          "label": "東北楽天ゴールデンイーグルス",
+          "tag": "touhoku_rakuten_golden_eagles",
+          "link": "https://danbooru.donmai.us/wiki_pages/touhoku_rakuten_golden_eagles"
+        },
+        {
+          "label": "横浜DeNAベイスターズ",
+          "tag": "yokohama_dena_baystars",
+          "link": "https://danbooru.donmai.us/wiki_pages/yokohama_dena_baystars"
+        },
+        {
+          "label": "読売ジャイアンツ",
+          "tag": "yomiuri_giants",
+          "link": "https://danbooru.donmai.us/wiki_pages/yomiuri_giants"
+        }
+      ]
+    },
+    {
+      "セクション名": "バスケットボールのリーグ・チーム",
+      "タグ一覧": [
+        {
+          "label": "B. League",
+          "tag": "b._league",
+          "link": "https://danbooru.donmai.us/wiki_pages/b._league"
+        },
+        {
+          "label": "Yokohama B-Corsairs",
+          "tag": "yokohama_b-corsairs",
+          "link": "https://danbooru.donmai.us/wiki_pages/yokohama_b-corsairs"
+        },
+        {
+          "label": "NBA",
+          "tag": "national_basketball_association",
+          "link": "https://danbooru.donmai.us/wiki_pages/national_basketball_association"
+        },
+        {
+          "label": "Atlanta Hawks",
+          "tag": "atlanta_hawks",
+          "link": "https://danbooru.donmai.us/wiki_pages/atlanta_hawks"
+        },
+        {
+          "label": "Boston Celtics",
+          "tag": "boston_celtics",
+          "link": "https://danbooru.donmai.us/wiki_pages/boston_celtics"
+        },
+        {
+          "label": "Brooklyn Nets",
+          "tag": "brooklyn_nets",
+          "link": "https://danbooru.donmai.us/wiki_pages/brooklyn_nets"
+        },
+        {
+          "label": "Charlotte Bobcats",
+          "tag": "charlotte_bobcats",
+          "link": "https://danbooru.donmai.us/wiki_pages/charlotte_bobcats"
+        },
+        {
+          "label": "Charlotte Hornets",
+          "tag": "charlotte_hornets",
+          "link": "https://danbooru.donmai.us/wiki_pages/charlotte_hornets"
+        },
+        {
+          "label": "Chicago Bulls",
+          "tag": "chicago_bulls",
+          "link": "https://danbooru.donmai.us/wiki_pages/chicago_bulls"
+        },
+        {
+          "label": "Cleveland Cavaliers",
+          "tag": "cleveland_cavaliers",
+          "link": "https://danbooru.donmai.us/wiki_pages/cleveland_cavaliers"
+        },
+        {
+          "label": "Dallas Mavericks",
+          "tag": "dallas_mavericks",
+          "link": "https://danbooru.donmai.us/wiki_pages/dallas_mavericks"
+        },
+        {
+          "label": "Denver Nuggets",
+          "tag": "denver_nuggets",
+          "link": "https://danbooru.donmai.us/wiki_pages/denver_nuggets"
+        },
+        {
+          "label": "Detroit Pistons",
+          "tag": "detroit_pistons",
+          "link": "https://danbooru.donmai.us/wiki_pages/detroit_pistons"
+        },
+        {
+          "label": "Golden State Warriors",
+          "tag": "golden_state_warriors",
+          "link": "https://danbooru.donmai.us/wiki_pages/golden_state_warriors"
+        },
+        {
+          "label": "Houston Rockets",
+          "tag": "houston_rockets",
+          "link": "https://danbooru.donmai.us/wiki_pages/houston_rockets"
+        },
+        {
+          "label": "Indiana Pacers",
+          "tag": "indiana_pacers",
+          "link": "https://danbooru.donmai.us/wiki_pages/indiana_pacers"
+        },
+        {
+          "label": "Los Angeles Clippers",
+          "tag": "los_angeles_clippers",
+          "link": "https://danbooru.donmai.us/wiki_pages/los_angeles_clippers"
+        },
+        {
+          "label": "Los Angeles Lakers",
+          "tag": "los_angeles_lakers",
+          "link": "https://danbooru.donmai.us/wiki_pages/los_angeles_lakers"
+        },
+        {
+          "label": "Memphis Grizzlies",
+          "tag": "memphis_grizzlies",
+          "link": "https://danbooru.donmai.us/wiki_pages/memphis_grizzlies"
+        },
+        {
+          "label": "Miami Heat",
+          "tag": "miami_heat",
+          "link": "https://danbooru.donmai.us/wiki_pages/miami_heat"
+        },
+        {
+          "label": "Milwaukee Bucks",
+          "tag": "milwaukee_bucks",
+          "link": "https://danbooru.donmai.us/wiki_pages/milwaukee_bucks"
+        },
+        {
+          "label": "Minnesota Timberwolves",
+          "tag": "minnesota_timberwolves",
+          "link": "https://danbooru.donmai.us/wiki_pages/minnesota_timberwolves"
+        },
+        {
+          "label": "New Orleans Hornets",
+          "tag": "new_orleans_hornets",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_orleans_hornets"
+        },
+        {
+          "label": "New Orleans Pelicans",
+          "tag": "new_orleans_pelicans",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_orleans_pelicans"
+        },
+        {
+          "label": "New York Knicks",
+          "tag": "new_york_knicks",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_york_knicks"
+        },
+        {
+          "label": "Oklahoma City Thunder",
+          "tag": "oklahoma_city_thunder",
+          "link": "https://danbooru.donmai.us/wiki_pages/oklahoma_city_thunder"
+        },
+        {
+          "label": "Orlando Magic",
+          "tag": "orlando_magic",
+          "link": "https://danbooru.donmai.us/wiki_pages/orlando_magic"
+        },
+        {
+          "label": "Phoenix Suns",
+          "tag": "phoenix_suns",
+          "link": "https://danbooru.donmai.us/wiki_pages/phoenix_suns"
+        },
+        {
+          "label": "Philadelphia 76ers",
+          "tag": "philadelphia_76ers",
+          "link": "https://danbooru.donmai.us/wiki_pages/philadelphia_76ers"
+        },
+        {
+          "label": "Portland Trail Blazers",
+          "tag": "portland_trail_blazers",
+          "link": "https://danbooru.donmai.us/wiki_pages/portland_trail_blazers"
+        },
+        {
+          "label": "Sacramento Kings",
+          "tag": "sacramento_kings",
+          "link": "https://danbooru.donmai.us/wiki_pages/sacramento_kings"
+        },
+        {
+          "label": "San Antonio Spurs",
+          "tag": "san_antonio_spurs",
+          "link": "https://danbooru.donmai.us/wiki_pages/san_antonio_spurs"
+        },
+        {
+          "label": "Seattle Supersonics",
+          "tag": "seattle_supersonics",
+          "link": "https://danbooru.donmai.us/wiki_pages/seattle_supersonics"
+        },
+        {
+          "label": "Toronto Raptors",
+          "tag": "toronto_raptors",
+          "link": "https://danbooru.donmai.us/wiki_pages/toronto_raptors"
+        },
+        {
+          "label": "Utah Jazz",
+          "tag": "utah_jazz",
+          "link": "https://danbooru.donmai.us/wiki_pages/utah_jazz"
+        },
+        {
+          "label": "Vancouver Grizzlies",
+          "tag": "vancouver_grizzlies",
+          "link": "https://danbooru.donmai.us/wiki_pages/vancouver_grizzlies"
+        },
+        {
+          "label": "Washington Wizards",
+          "tag": "washington_wizards",
+          "link": "https://danbooru.donmai.us/wiki_pages/washington_wizards"
+        }
+      ]
+    },
+    {
+      "セクション名": "アメフトのリーグ・チーム",
+      "タグ一覧": [
+        {
+          "label": "Canadian Football League",
+          "tag": "canadian_football_league",
+          "link": "https://danbooru.donmai.us/wiki_pages/canadian_football_league"
+        },
+        {
+          "label": "Winnipeg Blue Bombers",
+          "tag": "winnipeg_blue_bombers",
+          "link": "https://danbooru.donmai.us/wiki_pages/winnipeg_blue_bombers"
+        },
+        {
+          "label": "NFL",
+          "tag": "national_football_league",
+          "link": "https://danbooru.donmai.us/wiki_pages/national_football_league"
+        },
+        {
+          "label": "Arizona Cardinals",
+          "tag": "arizona_cardinals",
+          "link": "https://danbooru.donmai.us/wiki_pages/arizona_cardinals"
+        },
+        {
+          "label": "Atlanta Falcons",
+          "tag": "atlanta_falcons",
+          "link": "https://danbooru.donmai.us/wiki_pages/atlanta_falcons"
+        },
+        {
+          "label": "Baltimore Ravens",
+          "tag": "baltimore_ravens",
+          "link": "https://danbooru.donmai.us/wiki_pages/baltimore_ravens"
+        },
+        {
+          "label": "Buffalo Bills",
+          "tag": "buffalo_bills",
+          "link": "https://danbooru.donmai.us/wiki_pages/buffalo_bills"
+        },
+        {
+          "label": "Carolina Panthers",
+          "tag": "carolina_panthers",
+          "link": "https://danbooru.donmai.us/wiki_pages/carolina_panthers"
+        },
+        {
+          "label": "Chicago Bears",
+          "tag": "chicago_bears",
+          "link": "https://danbooru.donmai.us/wiki_pages/chicago_bears"
+        },
+        {
+          "label": "Cincinnati Bengals",
+          "tag": "cincinnati_bengals",
+          "link": "https://danbooru.donmai.us/wiki_pages/cincinnati_bengals"
+        },
+        {
+          "label": "Dallas Cowboys",
+          "tag": "dallas_cowboys",
+          "link": "https://danbooru.donmai.us/wiki_pages/dallas_cowboys"
+        },
+        {
+          "label": "Denver Broncos",
+          "tag": "denver_broncos",
+          "link": "https://danbooru.donmai.us/wiki_pages/denver_broncos"
+        },
+        {
+          "label": "Detroit Lions",
+          "tag": "detroit_lions",
+          "link": "https://danbooru.donmai.us/wiki_pages/detroit_lions"
+        },
+        {
+          "label": "Houston Texans",
+          "tag": "houston_texans",
+          "link": "https://danbooru.donmai.us/wiki_pages/houston_texans"
+        },
+        {
+          "label": "Indianapolis Colts",
+          "tag": "indianapolis_colts",
+          "link": "https://danbooru.donmai.us/wiki_pages/indianapolis_colts"
+        },
+        {
+          "label": "Kansas City Chiefs",
+          "tag": "kansas_city_chiefs",
+          "link": "https://danbooru.donmai.us/wiki_pages/kansas_city_chiefs"
+        },
+        {
+          "label": "Las Vegas Raiders",
+          "tag": "las_vegas_raiders",
+          "link": "https://danbooru.donmai.us/wiki_pages/las_vegas_raiders"
+        },
+        {
+          "label": "Minnesota Vikings",
+          "tag": "minnesota_vikings",
+          "link": "https://danbooru.donmai.us/wiki_pages/minnesota_vikings"
+        },
+        {
+          "label": "New England Patriots",
+          "tag": "new_england_patriots",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_england_patriots"
+        },
+        {
+          "label": "New Orleans Saints",
+          "tag": "new_orleans_saints",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_orleans_saints"
+        },
+        {
+          "label": "New York Giants",
+          "tag": "new_york_giants",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_york_giants"
+        },
+        {
+          "label": "New York Jets",
+          "tag": "new_york_jets",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_york_jets"
+        },
+        {
+          "label": "Pittsburgh Steelers",
+          "tag": "pittsburgh_steelers",
+          "link": "https://danbooru.donmai.us/wiki_pages/pittsburgh_steelers"
+        },
+        {
+          "label": "San Francisco 49ers",
+          "tag": "san_francisco_49ers",
+          "link": "https://danbooru.donmai.us/wiki_pages/san_francisco_49ers"
+        },
+        {
+          "label": "Seattle Seahawks",
+          "tag": "seattle_seahawks",
+          "link": "https://danbooru.donmai.us/wiki_pages/seattle_seahawks"
+        },
+        {
+          "label": "Tampa Bay Buccaneers",
+          "tag": "tampa_bay_buccaneers",
+          "link": "https://danbooru.donmai.us/wiki_pages/tampa_bay_buccaneers"
+        },
+        {
+          "label": "Washington Commanders",
+          "tag": "washington_commanders",
+          "link": "https://danbooru.donmai.us/wiki_pages/washington_commanders"
+        }
+      ]
+    },
+    {
+      "セクション名": "サッカーのリーグ・チーム",
+      "タグ一覧": [
+        {
+          "label": "Primera Division",
+          "tag": "primera_division_%28argentina%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/primera_division_%28argentina%29"
+        },
+        {
+          "label": "Club Atletico Boca Juniors",
+          "tag": "club_atletico_boca_juniors",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_atletico_boca_juniors"
+        },
+        {
+          "label": "Club Atletico River Plate",
+          "tag": "club_atletico_river_plate",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_atletico_river_plate"
+        },
+        {
+          "label": "Club Atletico Tucuman",
+          "tag": "club_atletico_tucuman",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_atletico_tucuman"
+        },
+        {
+          "label": "Melbourne Victory FC",
+          "tag": "melbourne_victory_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/melbourne_victory_fc"
+        },
+        {
+          "label": "EC Bahia",
+          "tag": "ec_bahia",
+          "link": "https://danbooru.donmai.us/wiki_pages/ec_bahia"
+        },
+        {
+          "label": "Ceara SC",
+          "tag": "ceara_sc",
+          "link": "https://danbooru.donmai.us/wiki_pages/ceara_sc"
+        },
+        {
+          "label": "SC Corinthians Paulista",
+          "tag": "sc_corinthians_paulista",
+          "link": "https://danbooru.donmai.us/wiki_pages/sc_corinthians_paulista"
+        },
+        {
+          "label": "CR Flamengo",
+          "tag": "cr_flamengo",
+          "link": "https://danbooru.donmai.us/wiki_pages/cr_flamengo"
+        },
+        {
+          "label": "Fluminense FC",
+          "tag": "fluminense_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/fluminense_fc"
+        },
+        {
+          "label": "Fortaleza EC",
+          "tag": "fortaleza_ec",
+          "link": "https://danbooru.donmai.us/wiki_pages/fortaleza_ec"
+        },
+        {
+          "label": "Gremio FBPA",
+          "tag": "gremio_fbpa",
+          "link": "https://danbooru.donmai.us/wiki_pages/gremio_fbpa"
+        },
+        {
+          "label": "SE Palmeiras",
+          "tag": "se_palmeiras",
+          "link": "https://danbooru.donmai.us/wiki_pages/se_palmeiras"
+        },
+        {
+          "label": "Santos FC",
+          "tag": "santos_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/santos_fc"
+        },
+        {
+          "label": "Sao Paulo FC",
+          "tag": "sao_paulo_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/sao_paulo_fc"
+        },
+        {
+          "label": "CR Vasco da Gama",
+          "tag": "cr_vasco_da_gama",
+          "link": "https://danbooru.donmai.us/wiki_pages/cr_vasco_da_gama"
+        },
+        {
+          "label": "EC Vitoria",
+          "tag": "ec_vitoria",
+          "link": "https://danbooru.donmai.us/wiki_pages/ec_vitoria"
+        },
+        {
+          "label": "Club Universidad de Chile",
+          "tag": "club_universidad_de_chile",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_universidad_de_chile"
+        },
+        {
+          "label": "Colo Colo",
+          "tag": "colo_colo",
+          "link": "https://danbooru.donmai.us/wiki_pages/colo_colo"
+        },
+        {
+          "label": "FC Cophenhagen",
+          "tag": "fc_cophenhagen",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_cophenhagen"
+        },
+        {
+          "label": "Barcelona SC",
+          "tag": "barcelona_sc",
+          "link": "https://danbooru.donmai.us/wiki_pages/barcelona_sc"
+        },
+        {
+          "label": "Premier League",
+          "tag": "premier_league",
+          "link": "https://danbooru.donmai.us/wiki_pages/premier_league"
+        },
+        {
+          "label": "Arsenal FC",
+          "tag": "arsenal_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/arsenal_fc"
+        },
+        {
+          "label": "Aston Villa",
+          "tag": "aston_villa",
+          "link": "https://danbooru.donmai.us/wiki_pages/aston_villa"
+        },
+        {
+          "label": "Brighton & Hove Albion FC",
+          "tag": "brighton_%26_hove_albion_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/brighton_%26_hove_albion_fc"
+        },
+        {
+          "label": "Chelsea FC",
+          "tag": "chelsea_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/chelsea_fc"
+        },
+        {
+          "label": "Everton FC",
+          "tag": "everton_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/everton_fc"
+        },
+        {
+          "label": "Leicester City FC",
+          "tag": "leicester_city_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/leicester_city_fc"
+        },
+        {
+          "label": "Liverpool FC",
+          "tag": "liverpool_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/liverpool_fc"
+        },
+        {
+          "label": "Manchester City FC",
+          "tag": "manchester_city_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/manchester_city_fc"
+        },
+        {
+          "label": "Manchester United",
+          "tag": "manchester_united",
+          "link": "https://danbooru.donmai.us/wiki_pages/manchester_united"
+        },
+        {
+          "label": "Newcastle United FC",
+          "tag": "newcastle_united_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/newcastle_united_fc"
+        },
+        {
+          "label": "Sheffield United FC",
+          "tag": "sheffield_united_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/sheffield_united_fc"
+        },
+        {
+          "label": "Tottenham Hotspur FC",
+          "tag": "tottenham_hotspur_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/tottenham_hotspur_fc"
+        },
+        {
+          "label": "Ligue 1",
+          "tag": "ligue_1",
+          "link": "https://danbooru.donmai.us/wiki_pages/ligue_1"
+        },
+        {
+          "label": "Olympique Lyonnais",
+          "tag": "olympique_lyonnais",
+          "link": "https://danbooru.donmai.us/wiki_pages/olympique_lyonnais"
+        },
+        {
+          "label": "Paris Saint-Germain",
+          "tag": "paris_saint-germain",
+          "link": "https://danbooru.donmai.us/wiki_pages/paris_saint-germain"
+        },
+        {
+          "label": "Bundesliga",
+          "tag": "bundesliga",
+          "link": "https://danbooru.donmai.us/wiki_pages/bundesliga"
+        },
+        {
+          "label": "Bayer 04 Leverkusen",
+          "tag": "bayer_04_leverkusen",
+          "link": "https://danbooru.donmai.us/wiki_pages/bayer_04_leverkusen"
+        },
+        {
+          "label": "Borussia Dortmund",
+          "tag": "borussia_dortmund",
+          "link": "https://danbooru.donmai.us/wiki_pages/borussia_dortmund"
+        },
+        {
+          "label": "Eintracht Frankfurt",
+          "tag": "eintracht_frankfurt",
+          "link": "https://danbooru.donmai.us/wiki_pages/eintracht_frankfurt"
+        },
+        {
+          "label": "FC Bayern Munchen",
+          "tag": "fc_bayern_munchen",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_bayern_munchen"
+        },
+        {
+          "label": "FC Schalke 04",
+          "tag": "fc_schalke_04",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_schalke_04"
+        },
+        {
+          "label": "Persib Bandung",
+          "tag": "persib_bandung",
+          "link": "https://danbooru.donmai.us/wiki_pages/persib_bandung"
+        },
+        {
+          "label": "Persija Jakarta",
+          "tag": "persija_jakarta",
+          "link": "https://danbooru.donmai.us/wiki_pages/persija_jakarta"
+        },
+        {
+          "label": "Serie A",
+          "tag": "serie_a",
+          "link": "https://danbooru.donmai.us/wiki_pages/serie_a"
+        },
+        {
+          "label": "AC Milan",
+          "tag": "ac_milan",
+          "link": "https://danbooru.donmai.us/wiki_pages/ac_milan"
+        },
+        {
+          "label": "ACF Fiorentina",
+          "tag": "acf_fiorentina",
+          "link": "https://danbooru.donmai.us/wiki_pages/acf_fiorentina"
+        },
+        {
+          "label": "Bologna FC 1909",
+          "tag": "bologna_fc_1909",
+          "link": "https://danbooru.donmai.us/wiki_pages/bologna_fc_1909"
+        },
+        {
+          "label": "FC Internazionale Milano",
+          "tag": "fc_internazionale_milano",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_internazionale_milano"
+        },
+        {
+          "label": "Juventus FC",
+          "tag": "juventus_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/juventus_fc"
+        },
+        {
+          "label": "Parma FC",
+          "tag": "parma_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/parma_fc"
+        },
+        {
+          "label": "SS Lazio",
+          "tag": "ss_lazio",
+          "link": "https://danbooru.donmai.us/wiki_pages/ss_lazio"
+        },
+        {
+          "label": "SSC Napoli",
+          "tag": "ssc_napoli",
+          "link": "https://danbooru.donmai.us/wiki_pages/ssc_napoli"
+        },
+        {
+          "label": "UC Sampdoria",
+          "tag": "uc_sampdoria",
+          "link": "https://danbooru.donmai.us/wiki_pages/uc_sampdoria"
+        },
+        {
+          "label": "US Citta di Palermo",
+          "tag": "us_citta_di_palermo",
+          "link": "https://danbooru.donmai.us/wiki_pages/us_citta_di_palermo"
+        },
+        {
+          "label": "Jリーグ",
+          "tag": "j._league",
+          "link": "https://danbooru.donmai.us/wiki_pages/j._league"
+        },
+        {
+          "label": "Albirex Niigata",
+          "tag": "albirex_niigata",
+          "link": "https://danbooru.donmai.us/wiki_pages/albirex_niigata"
+        },
+        {
+          "label": "Avispa Fukuoka",
+          "tag": "avispa_fukuoka",
+          "link": "https://danbooru.donmai.us/wiki_pages/avispa_fukuoka"
+        },
+        {
+          "label": "Cerezo Osaka",
+          "tag": "cerezo_osaka",
+          "link": "https://danbooru.donmai.us/wiki_pages/cerezo_osaka"
+        },
+        {
+          "label": "Consadole Sapporo",
+          "tag": "consadole_sapporo",
+          "link": "https://danbooru.donmai.us/wiki_pages/consadole_sapporo"
+        },
+        {
+          "label": "FC Tokyo",
+          "tag": "fc_tokyo",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_tokyo"
+        },
+        {
+          "label": "Gamba Osaka",
+          "tag": "gamba_osaka",
+          "link": "https://danbooru.donmai.us/wiki_pages/gamba_osaka"
+        },
+        {
+          "label": "JEF United",
+          "tag": "jef_united",
+          "link": "https://danbooru.donmai.us/wiki_pages/jef_united"
+        },
+        {
+          "label": "Jubilo Iwata",
+          "tag": "jubilo_iwata",
+          "link": "https://danbooru.donmai.us/wiki_pages/jubilo_iwata"
+        },
+        {
+          "label": "Kashima Antlers",
+          "tag": "kashima_antlers",
+          "link": "https://danbooru.donmai.us/wiki_pages/kashima_antlers"
+        },
+        {
+          "label": "Kashiwa Reysol",
+          "tag": "kashiwa_reysol",
+          "link": "https://danbooru.donmai.us/wiki_pages/kashiwa_reysol"
+        },
+        {
+          "label": "Kawasaki Frontale",
+          "tag": "kawasaki_frontale",
+          "link": "https://danbooru.donmai.us/wiki_pages/kawasaki_frontale"
+        },
+        {
+          "label": "Kyoto Sanga F.C.",
+          "tag": "kyoto_sanga_f.c.",
+          "link": "https://danbooru.donmai.us/wiki_pages/kyoto_sanga_f.c."
+        },
+        {
+          "label": "Mito Hollyhock",
+          "tag": "mito_hollyhock",
+          "link": "https://danbooru.donmai.us/wiki_pages/mito_hollyhock"
+        },
+        {
+          "label": "Montedio Yamagata",
+          "tag": "montedio_yamagata",
+          "link": "https://danbooru.donmai.us/wiki_pages/montedio_yamagata"
+        },
+        {
+          "label": "Nagoya Grampus",
+          "tag": "nagoya_grampus",
+          "link": "https://danbooru.donmai.us/wiki_pages/nagoya_grampus"
+        },
+        {
+          "label": "Omiya Ardija",
+          "tag": "omiya_ardija",
+          "link": "https://danbooru.donmai.us/wiki_pages/omiya_ardija"
+        },
+        {
+          "label": "Sagan Tosu",
+          "tag": "sagan_tosu",
+          "link": "https://danbooru.donmai.us/wiki_pages/sagan_tosu"
+        },
+        {
+          "label": "Sanfrecce Hiroshima",
+          "tag": "sanfrecce_hiroshima",
+          "link": "https://danbooru.donmai.us/wiki_pages/sanfrecce_hiroshima"
+        },
+        {
+          "label": "Shimizu S-Pulse",
+          "tag": "shimizu_s-pulse",
+          "link": "https://danbooru.donmai.us/wiki_pages/shimizu_s-pulse"
+        },
+        {
+          "label": "Tokyo Verdy",
+          "tag": "tokyo_verdy",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_verdy"
+        },
+        {
+          "label": "Urawa Red Diamonds",
+          "tag": "urawa_red_diamonds",
+          "link": "https://danbooru.donmai.us/wiki_pages/urawa_red_diamonds"
+        },
+        {
+          "label": "Vegalta Sendai",
+          "tag": "vegalta_sendai",
+          "link": "https://danbooru.donmai.us/wiki_pages/vegalta_sendai"
+        },
+        {
+          "label": "Vissel Kobe",
+          "tag": "vissel_kobe",
+          "link": "https://danbooru.donmai.us/wiki_pages/vissel_kobe"
+        },
+        {
+          "label": "Yokohama F. Marinos",
+          "tag": "yokohama_f._marinos",
+          "link": "https://danbooru.donmai.us/wiki_pages/yokohama_f._marinos"
+        },
+        {
+          "label": "Zweigen Kanazawa",
+          "tag": "zweigen_kanazawa",
+          "link": "https://danbooru.donmai.us/wiki_pages/zweigen_kanazawa"
+        },
+        {
+          "label": "Liga MX",
+          "tag": "liga_mx",
+          "link": "https://danbooru.donmai.us/wiki_pages/liga_mx"
+        },
+        {
+          "label": "Atlas FC",
+          "tag": "atlas_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/atlas_fc"
+        },
+        {
+          "label": "Club America",
+          "tag": "club_america",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_america"
+        },
+        {
+          "label": "クラブ・デポルティーボ・グアダラハラ",
+          "tag": "club_deportivo_guadalajara",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_deportivo_guadalajara"
+        },
+        {
+          "label": "クルス・アスール",
+          "tag": "cruz_azul",
+          "link": "https://danbooru.donmai.us/wiki_pages/cruz_azul"
+        },
+        {
+          "label": "クラブレオン",
+          "tag": "club_leon",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_leon"
+        },
+        {
+          "label": "サントス・ラグナ",
+          "tag": "santos_laguna",
+          "link": "https://danbooru.donmai.us/wiki_pages/santos_laguna"
+        },
+        {
+          "label": "ティグレスUANL",
+          "tag": "tigres_uanl",
+          "link": "https://danbooru.donmai.us/wiki_pages/tigres_uanl"
+        },
+        {
+          "label": "AFCアヤックス",
+          "tag": "afc_ajax",
+          "link": "https://danbooru.donmai.us/wiki_pages/afc_ajax"
+        },
+        {
+          "label": "クラブオリンピア",
+          "tag": "club_olimpia",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_olimpia"
+        },
+        {
+          "label": "FCポルト",
+          "tag": "fc_porto",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_porto"
+        },
+        {
+          "label": "PFC CSKAモスクワ",
+          "tag": "pfc_cska_moscow",
+          "link": "https://danbooru.donmai.us/wiki_pages/pfc_cska_moscow"
+        },
+        {
+          "label": "FCアンジ・マハチカラ",
+          "tag": "fc_anzhi_makhachkala",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_anzhi_makhachkala"
+        },
+        {
+          "label": "FCゼニト",
+          "tag": "fc_zenit",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_zenit"
+        },
+        {
+          "label": "アル・ヒラルSFC",
+          "tag": "al-hilal_sfc",
+          "link": "https://danbooru.donmai.us/wiki_pages/al-hilal_sfc"
+        },
+        {
+          "label": "セルティックFC",
+          "tag": "celtic_fc",
+          "link": "https://danbooru.donmai.us/wiki_pages/celtic_fc"
+        },
+        {
+          "label": "FK ツルヴェナ・ズヴェズダ",
+          "tag": "fk_crvena_zvezda",
+          "link": "https://danbooru.donmai.us/wiki_pages/fk_crvena_zvezda"
+        },
+        {
+          "label": "ラ・リーガ",
+          "tag": "la_liga",
+          "link": "https://danbooru.donmai.us/wiki_pages/la_liga"
+        },
+        {
+          "label": "クラブ・アトレティコ・マドリード",
+          "tag": "club_atletico_de_madrid",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_atletico_de_madrid"
+        },
+        {
+          "label": "FCバルセロナ",
+          "tag": "fc_barcelona",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_barcelona"
+        },
+        {
+          "label": "レアル・ベティス",
+          "tag": "real_betis",
+          "link": "https://danbooru.donmai.us/wiki_pages/real_betis"
+        },
+        {
+          "label": "レアル・マドリード",
+          "tag": "real_madrid",
+          "link": "https://danbooru.donmai.us/wiki_pages/real_madrid"
+        },
+        {
+          "label": "バレンシアCF",
+          "tag": "valencia_cf",
+          "link": "https://danbooru.donmai.us/wiki_pages/valencia_cf"
+        },
+        {
+          "label": "FCシャフタール・ドネツク",
+          "tag": "fc_shakhtar_donetsk",
+          "link": "https://danbooru.donmai.us/wiki_pages/fc_shakhtar_donetsk"
+        },
+        {
+          "label": "メジャーリーグサッカー",
+          "tag": "major_league_soccer",
+          "link": "https://danbooru.donmai.us/wiki_pages/major_league_soccer"
+        },
+        {
+          "label": "シカゴ・ファイア",
+          "tag": "chicago_fire",
+          "link": "https://danbooru.donmai.us/wiki_pages/chicago_fire"
+        },
+        {
+          "label": "コロンバスクルー",
+          "tag": "columbus_crew",
+          "link": "https://danbooru.donmai.us/wiki_pages/columbus_crew"
+        },
+        {
+          "label": "ヒューストン・ダイナモ",
+          "tag": "houston_dynamo",
+          "link": "https://danbooru.donmai.us/wiki_pages/houston_dynamo"
+        },
+        {
+          "label": "インテル・マイアミCF",
+          "tag": "inter_miami_cf",
+          "link": "https://danbooru.donmai.us/wiki_pages/inter_miami_cf"
+        },
+        {
+          "label": "クラブ・アトレティコ・ペニャロール",
+          "tag": "club_atletico_penarol",
+          "link": "https://danbooru.donmai.us/wiki_pages/club_atletico_penarol"
+        }
+      ]
+    },
+    {
+      "セクション名": "アイスホッケーのリーグ・チーム",
+      "タグ一覧": [
+        {
+          "label": "ナショナルホッケーリーグ",
+          "tag": "national_hockey_league",
+          "link": "https://danbooru.donmai.us/wiki_pages/national_hockey_league"
+        },
+        {
+          "label": "ボストン・ブルーインズ",
+          "tag": "boston_bruins",
+          "link": "https://danbooru.donmai.us/wiki_pages/boston_bruins"
+        },
+        {
+          "label": "バッファロー・セイバーズ",
+          "tag": "buffalo_sabres",
+          "link": "https://danbooru.donmai.us/wiki_pages/buffalo_sabres"
+        },
+        {
+          "label": "カルガリー・フレームス",
+          "tag": "calgary_flames",
+          "link": "https://danbooru.donmai.us/wiki_pages/calgary_flames"
+        },
+        {
+          "label": "カロライナハリケーンズ",
+          "tag": "carolina_hurricanes",
+          "link": "https://danbooru.donmai.us/wiki_pages/carolina_hurricanes"
+        },
+        {
+          "label": "コロラドアバランチ",
+          "tag": "colorado_avalanche",
+          "link": "https://danbooru.donmai.us/wiki_pages/colorado_avalanche"
+        },
+        {
+          "label": "デトロイト・レッドウィングス",
+          "tag": "detroit_red_wings",
+          "link": "https://danbooru.donmai.us/wiki_pages/detroit_red_wings"
+        },
+        {
+          "label": "エドモントン・オイラーズ",
+          "tag": "edmonton_oilers",
+          "link": "https://danbooru.donmai.us/wiki_pages/edmonton_oilers"
+        },
+        {
+          "label": "ロサンゼルス・キングス",
+          "tag": "los_angeles_kings",
+          "link": "https://danbooru.donmai.us/wiki_pages/los_angeles_kings"
+        },
+        {
+          "label": "ミネソタ・ワイルド",
+          "tag": "minnesota_wild",
+          "link": "https://danbooru.donmai.us/wiki_pages/minnesota_wild"
+        },
+        {
+          "label": "モントリオール・カナディアンズ",
+          "tag": "montreal_canadiens",
+          "link": "https://danbooru.donmai.us/wiki_pages/montreal_canadiens"
+        },
+        {
+          "label": "ニューヨーク・アイランダーズ",
+          "tag": "new_york_islanders",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_york_islanders"
+        },
+        {
+          "label": "ニューヨーク・レンジャース",
+          "tag": "new_york_rangers",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_york_rangers"
+        },
+        {
+          "label": "オタワ・セネターズ",
+          "tag": "ottawa_senators",
+          "link": "https://danbooru.donmai.us/wiki_pages/ottawa_senators"
+        },
+        {
+          "label": "フィラデルフィア・フライヤーズ",
+          "tag": "philadelphia_flyers",
+          "link": "https://danbooru.donmai.us/wiki_pages/philadelphia_flyers"
+        },
+        {
+          "label": "ピッツバーグ・ペンギンズ",
+          "tag": "pittsburgh_penguins",
+          "link": "https://danbooru.donmai.us/wiki_pages/pittsburgh_penguins"
+        },
+        {
+          "label": "ケベック・ノルディクス",
+          "tag": "quebec_nordiques",
+          "link": "https://danbooru.donmai.us/wiki_pages/quebec_nordiques"
+        },
+        {
+          "label": "サンノゼ・シャークス",
+          "tag": "san_jose_sharks",
+          "link": "https://danbooru.donmai.us/wiki_pages/san_jose_sharks"
+        },
+        {
+          "label": "シアトル・クラーケン",
+          "tag": "seattle_kraken",
+          "link": "https://danbooru.donmai.us/wiki_pages/seattle_kraken"
+        },
+        {
+          "label": "セントルイス・ブルース",
+          "tag": "st._louis_blues",
+          "link": "https://danbooru.donmai.us/wiki_pages/st._louis_blues"
+        },
+        {
+          "label": "タンパベイ・ライトニング",
+          "tag": "tampa_bay_lightning",
+          "link": "https://danbooru.donmai.us/wiki_pages/tampa_bay_lightning"
+        },
+        {
+          "label": "トロント・メープルリーフス",
+          "tag": "toronto_maple_leafs",
+          "link": "https://danbooru.donmai.us/wiki_pages/toronto_maple_leafs"
+        },
+        {
+          "label": "バンクーバー・カナックス",
+          "tag": "vancouver_canucks",
+          "link": "https://danbooru.donmai.us/wiki_pages/vancouver_canucks"
+        },
+        {
+          "label": "ベガス・ゴールデンナイツ",
+          "tag": "vegas_golden_knights",
+          "link": "https://danbooru.donmai.us/wiki_pages/vegas_golden_knights"
+        },
+        {
+          "label": "ウィニペグ・ジェッツ",
+          "tag": "winnipeg_jets",
+          "link": "https://danbooru.donmai.us/wiki_pages/winnipeg_jets"
+        },
+        {
+          "label": "ケベック・マリタイムズ・ジュニア・ホッケー・リーグ",
+          "tag": "quebec_maritimes_junior_hockey_league",
+          "link": "https://danbooru.donmai.us/wiki_pages/quebec_maritimes_junior_hockey_league"
+        },
+        {
+          "label": "ハリファックス・ムースヘッズ",
+          "tag": "halifax_mooseheads",
+          "link": "https://danbooru.donmai.us/wiki_pages/halifax_mooseheads"
+        }
+      ]
+    },
+    {
+      "セクション名": "アメフト",
+      "タグ一覧": [
+        {
+          "label": "アイシールド21",
+          "tag": "eyeshield_21",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyeshield_21"
+        },
+        {
+          "label": "テクモ スーパーボウル",
+          "tag": "tecmo_super_bowl",
+          "link": "https://danbooru.donmai.us/wiki_pages/tecmo_super_bowl"
+        }
+      ]
+    },
+    {
+      "セクション名": "バスケットボール",
+      "タグ一覧": [
+        {
+          "label": "あひるの空",
+          "tag": "ahiru_no_sora",
+          "link": "https://danbooru.donmai.us/wiki_pages/ahiru_no_sora"
+        },
+        {
+          "label": "バスカッシュ！",
+          "tag": "basquash%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/basquash%21"
+        },
+        {
+          "label": "ダッシュ勝平",
+          "tag": "dash_kappei",
+          "link": "https://danbooru.donmai.us/wiki_pages/dash_kappei"
+        },
+        {
+          "label": "黒子のバスケ",
+          "tag": "kuroko_no_basuke",
+          "link": "https://danbooru.donmai.us/wiki_pages/kuroko_no_basuke"
+        },
+        {
+          "label": "マリオフープス 3対3",
+          "tag": "mario_basketball_3on3",
+          "link": "https://danbooru.donmai.us/wiki_pages/mario_basketball_3on3"
+        },
+        {
+          "label": "NBAジャム",
+          "tag": "nba_jam",
+          "link": "https://danbooru.donmai.us/wiki_pages/nba_jam"
+        },
+        {
+          "label": "ロウきゅーぶ！",
+          "tag": "rou-kyuu-bu%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/rou-kyuu-bu%21"
+        },
+        {
+          "label": "SLAM DUNK",
+          "tag": "slam_dunk_%28series%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/slam_dunk_%28series%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "野球",
+      "タグ一覧": [
+        {
+          "label": "ダイヤのエース",
+          "tag": "ace_of_diamond",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_of_diamond"
+        },
+        {
+          "label": "クロスゲーム",
+          "tag": "cross_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_game"
+        },
+        {
+          "label": "巨人の星",
+          "tag": "kyojin_no_hoshi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kyojin_no_hoshi"
+        },
+        {
+          "label": "MAJOR",
+          "tag": "major",
+          "link": "https://danbooru.donmai.us/wiki_pages/major"
+        },
+        {
+          "label": "MAJOR 2nd",
+          "tag": "major_2nd",
+          "link": "https://danbooru.donmai.us/wiki_pages/major_2nd"
+        },
+        {
+          "label": "Mr.FULLSWING",
+          "tag": "mr._fullswing",
+          "link": "https://danbooru.donmai.us/wiki_pages/mr._fullswing"
+        },
+        {
+          "label": "ワンナウツ",
+          "tag": "one_outs",
+          "link": "https://danbooru.donmai.us/wiki_pages/one_outs"
+        },
+        {
+          "label": "おおきく振りかぶって",
+          "tag": "ookiku_furikabutte",
+          "link": "https://danbooru.donmai.us/wiki_pages/ookiku_furikabutte"
+        },
+        {
+          "label": "タッチ",
+          "tag": "touch_%28manga%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/touch_%28manga%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "ビリヤード",
+      "タグ一覧": [
+        {
+          "label": "ブレイクショット",
+          "tag": "break_shot",
+          "link": "https://danbooru.donmai.us/wiki_pages/break_shot"
+        }
+      ]
+    },
+    {
+      "セクション名": "ボクシング",
+      "タグ一覧": [
+        {
+          "label": "1ポンドの福音",
+          "tag": "1_pound_no_fukuin",
+          "link": "https://danbooru.donmai.us/wiki_pages/1_pound_no_fukuin"
+        },
+        {
+          "label": "あしたのジョー",
+          "tag": "ashita_no_joe",
+          "link": "https://danbooru.donmai.us/wiki_pages/ashita_no_joe"
+        },
+        {
+          "label": "はじめの一歩",
+          "tag": "hajime_no_ippo",
+          "link": "https://danbooru.donmai.us/wiki_pages/hajime_no_ippo"
+        },
+        {
+          "label": "メガロボクス",
+          "tag": "megalobox",
+          "link": "https://danbooru.donmai.us/wiki_pages/megalobox"
+        },
+        {
+          "label": "パンチアウト!!",
+          "tag": "punch-out%21%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/punch-out%21%21"
+        }
+      ]
+    },
+    {
+      "セクション名": "ゴルフ",
+      "タグ一覧": [
+        {
+          "label": "風の大地",
+          "tag": "kaze_no_daichi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kaze_no_daichi"
+        },
+        {
+          "label": "マリオゴルフ",
+          "tag": "mario_golf",
+          "link": "https://danbooru.donmai.us/wiki_pages/mario_golf"
+        },
+        {
+          "label": "みんなのゴルフ",
+          "tag": "minna_no_golf",
+          "link": "https://danbooru.donmai.us/wiki_pages/minna_no_golf"
+        },
+        {
+          "label": "パンヤ",
+          "tag": "pangya",
+          "link": "https://danbooru.donmai.us/wiki_pages/pangya"
+        },
+        {
+          "label": "プロゴルファー猿",
+          "tag": "pro_golfer_saru",
+          "link": "https://danbooru.donmai.us/wiki_pages/pro_golfer_saru"
+        },
+        {
+          "label": "ロボット×レーザービーム",
+          "tag": "robot_x_laserbeam",
+          "link": "https://danbooru.donmai.us/wiki_pages/robot_x_laserbeam"
+        },
+        {
+          "label": "スイング！！",
+          "tag": "swing%21%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/swing%21%21"
+        }
+      ]
+    },
+    {
+      "セクション名": "アイスホッケー",
+      "タグ一覧": [
+        {
+          "label": "プラオレ！〜PRIDE OF ORANGE〜",
+          "tag": "puraore%21_pride_of_orange",
+          "link": "https://danbooru.donmai.us/wiki_pages/puraore%21_pride_of_orange"
+        }
+      ]
+    },
+    {
+      "セクション名": "ラクロス",
+      "タグ一覧": [
+        {
+          "label": "クロスマネジメント",
+          "tag": "cross_manage",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_manage"
+        }
+      ]
+    },
+    {
+      "セクション名": "ラグビー",
+      "タグ一覧": [
+        {
+          "label": "オールアウト!!",
+          "tag": "all_out%21%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/all_out%21%21"
+        }
+      ]
+    },
+    {
+      "セクション名": "サッカー",
+      "タグ一覧": [
+        {
+          "label": "赤き血のイレブン",
+          "tag": "akakichi_no_eleven",
+          "link": "https://danbooru.donmai.us/wiki_pages/akakichi_no_eleven"
+        },
+        {
+          "label": "蒼き伝説シュート！",
+          "tag": "aoki_densetsu_shoot%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/aoki_densetsu_shoot%21"
+        },
+        {
+          "label": "エリアの騎士",
+          "tag": "area_no_kishi",
+          "link": "https://danbooru.donmai.us/wiki_pages/area_no_kishi"
+        },
+        {
+          "label": "キャプテン翼",
+          "tag": "captain_tsubasa",
+          "link": "https://danbooru.donmai.us/wiki_pages/captain_tsubasa"
+        },
+        {
+          "label": "ジャイアントキリング",
+          "tag": "giant_killing",
+          "link": "https://danbooru.donmai.us/wiki_pages/giant_killing"
+        },
+        {
+          "label": "銀河へキックオフ!!",
+          "tag": "ginga_e_kickoff%21%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/ginga_e_kickoff%21%21"
+        },
+        {
+          "label": "イナズマイレブン",
+          "tag": "inazuma_eleven_%28series%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/inazuma_eleven_%28series%29"
+        },
+        {
+          "label": "マリオストライカーズ",
+          "tag": "mario_strikers_%28series%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mario_strikers_%28series%29"
+        },
+        {
+          "label": "燃えろ！トップストライカー",
+          "tag": "moero%21_top_striker",
+          "link": "https://danbooru.donmai.us/wiki_pages/moero%21_top_striker"
+        },
+        {
+          "label": "サッカースピリッツ",
+          "tag": "soccer_spirits",
+          "link": "https://danbooru.donmai.us/wiki_pages/soccer_spirits"
+        },
+        {
+          "label": "ホイッスル！",
+          "tag": "whistle%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/whistle%21"
+        }
+      ]
+    },
+    {
+      "セクション名": "卓球",
+      "タグ一覧": [
+        {
+          "label": "ピンポン",
+          "tag": "ping_pong_%28manga%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/ping_pong_%28manga%29"
+        },
+        {
+          "label": "行け！稲中卓球部",
+          "tag": "ike%21_ina-chuu_takkyuubu",
+          "link": "https://danbooru.donmai.us/wiki_pages/ike%21_ina-chuu_takkyuubu"
+        },
+        {
+          "label": "灼熱の卓球娘。",
+          "tag": "shakunetsu_no_takkyuu_musume",
+          "link": "https://danbooru.donmai.us/wiki_pages/shakunetsu_no_takkyuu_musume"
+        }
+      ]
+    },
+    {
+      "セクション名": "テニス",
+      "タグ一覧": [
+        {
+          "label": "エースをねらえ！",
+          "tag": "ace_wo_nerae%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/ace_wo_nerae%21"
+        },
+        {
+          "label": "ベイビーステップ",
+          "tag": "baby_steps",
+          "link": "https://danbooru.donmai.us/wiki_pages/baby_steps"
+        },
+        {
+          "label": "星合の空",
+          "tag": "hoshiai_no_sora",
+          "link": "https://danbooru.donmai.us/wiki_pages/hoshiai_no_sora"
+        },
+        {
+          "label": "マリオテニス",
+          "tag": "mario_tennis",
+          "link": "https://danbooru.donmai.us/wiki_pages/mario_tennis"
+        },
+        {
+          "label": "ソフテニ",
+          "tag": "softenni",
+          "link": "https://danbooru.donmai.us/wiki_pages/softenni"
+        },
+        {
+          "label": "てーきゅう",
+          "tag": "teekyuu",
+          "link": "https://danbooru.donmai.us/wiki_pages/teekyuu"
+        },
+        {
+          "label": "テニスの王子様",
+          "tag": "tennis_no_ouji-sama",
+          "link": "https://danbooru.donmai.us/wiki_pages/tennis_no_ouji-sama"
+        }
+      ]
+    },
+    {
+      "セクション名": "陸上競技",
+      "タグ一覧": [
+        {
+          "label": "バトルアスリート",
+          "tag": "battle_athletes",
+          "link": "https://danbooru.donmai.us/wiki_pages/battle_athletes"
+        }
+      ]
+    },
+    {
+      "セクション名": "バレーボール",
+      "タグ一覧": [
+        {
+          "label": "明日へアタック！",
+          "tag": "ashita_e_attack%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/ashita_e_attack%21"
+        },
+        {
+          "label": "アタッカーYOU!",
+          "tag": "attacker_you%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/attacker_you%21"
+        },
+        {
+          "label": "アタックNo.1",
+          "tag": "attack_no_1",
+          "link": "https://danbooru.donmai.us/wiki_pages/attack_no_1"
+        },
+        {
+          "label": "ハイキュー!!",
+          "tag": "haikyuu%21%21",
+          "link": "https://danbooru.donmai.us/wiki_pages/haikyuu%21%21"
+        },
+        {
+          "label": "はるかなレシーブ",
+          "tag": "harukana_receive",
+          "link": "https://danbooru.donmai.us/wiki_pages/harukana_receive"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
+}
