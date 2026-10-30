@@ -1,0 +1,61 @@
+{
+  "カテゴリID": "mytemplate",
+  "カテゴリ名": "テンプレート",
+  "カテゴリリンク": "",
+  "セクション一覧": [
+    {
+      "セクション名": "髪型",
+      "タグ一覧": [
+        {
+          "label": "ショート",
+          "tag": "short hair"
+        },
+        {
+          "label": "ロング",
+          "tag": "long hair"
+        },
+        {
+          "label": "サラサラロング",
+          "tag": "sleek long hair"
+        },
+        {
+          "label": "金髪ロング",
+          "tag": "blonde long hair"
+        },
+        {
+          "label": "金髪ショート",
+          "tag": "blonde short hair"
+        }
+      ]
+    },
+    {
+      "セクション名": "服装",
+      "タグ一覧": [
+        {
+          "label": "メイド服",
+          "tag": "maid dress"
+        },
+        {
+          "label": "青いメイド服",
+          "tag": "blue maid dress"
+        },
+        {
+          "label": "赤いメイド服",
+          "tag": "red maid dress"
+        },
+        {
+          "label": "黒メイド服",
+          "tag": "black maid dress"
+        },
+        {
+          "label": "黒メイド服フリル付き",
+          "tag": "black frilly maid dress"
+        },
+        {
+          "label": "黒メイド服フリル大盛り",
+          "tag": "black maid dress with extra frills"
+        }
+      ]
+    }
+  ]
+}

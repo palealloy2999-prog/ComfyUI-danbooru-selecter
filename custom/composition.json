@@ -1,0 +1,534 @@
+{
+  "カテゴリID": "composition",
+  "カテゴリ名": "カメラアングル/構図",
+  "カテゴリリンク": "",
+  "セクション一覧": [
+    {
+      "セクション名": "構図",
+      "タグ一覧": [
+        {
+          "label": "全身",
+          "tag": "full body"
+        },
+        {
+          "label": "上半身",
+          "tag": "upper body"
+        },
+        {
+          "label": "顔",
+          "tag": "face closeup"
+        },
+        {
+          "label": "ポートレート",
+          "tag": "portrait"
+        },
+        {
+          "label": "バストアップ",
+          "tag": "bust up"
+        },
+        {
+          "label": "胸から上",
+          "tag": "chest up"
+        },
+        {
+          "label": "腰から上",
+          "tag": "waist up"
+        },
+        {
+          "label": "膝から上",
+          "tag": "knee up"
+        },
+        {
+          "label": "膝上から上",
+          "tag": "cowboy shot"
+        },
+        {
+          "label": "下半身",
+          "tag": "lower body"
+        },
+        {
+          "label": "膝上から下",
+          "tag": "cowboy shot lower"
+        },
+        {
+          "label": "立ち絵",
+          "tag": "tachi-e"
+        },
+        {
+          "label": "フレームアウトした顔",
+          "tag": "head out of frame"
+        },
+        {
+          "label": "フレームアウトした肩",
+          "tag": "cropped shoulders"
+        },
+        {
+          "label": "フレームアウトした胴体",
+          "tag": "cropped torso"
+        },
+        {
+          "label": "フレームアウトした脚",
+          "tag": "cropped legs"
+        },
+        {
+          "label": "フレームアウトした足先",
+          "tag": "feet out of frame"
+        },
+        {
+          "label": "フレームアウト",
+          "tag": "out of frame"
+        },
+        {
+          "label": "ヴィネット",
+          "tag": "faux figurine"
+        },
+        {
+          "label": "一部水中の撮影",
+          "tag": "partially underwater shot"
+        },
+        {
+          "label": "三分割構図",
+          "tag": "rule of thirds"
+        },
+        {
+          "label": "中央構図",
+          "tag": "centered composition"
+        },
+        {
+          "label": "対角線構図",
+          "tag": "diagonal composition"
+        },
+        {
+          "label": "対称構図",
+          "tag": "symmetrical composition"
+        },
+        {
+          "label": "フレーミング構図",
+          "tag": "framing composition"
+        },
+        {
+          "label": "黄金比構図",
+          "tag": "golden ratio composition"
+        },
+        {
+          "label": "S字構図",
+          "tag": "s-curve composition"
+        },
+        {
+          "label": "L字構図",
+          "tag": "l-curve composition"
+        },
+        {
+          "label": "C字構図",
+          "tag": "c-curve composition"
+        },
+        {
+          "label": "V字構図",
+          "tag": "v-curve composition"
+        },
+        {
+          "label": "U字構図",
+          "tag": "u-curve composition"
+        },
+        {
+          "label": "三角形構図",
+          "tag": "triangular composition"
+        },
+        {
+          "label": "放射状構図",
+          "tag": "radial composition"
+        },
+        {
+          "label": "シンプルな背景",
+          "tag": "simple background"
+        },
+        {
+          "label": "ごちゃごちゃした背景",
+          "tag": "busy background"
+        }
+      ]
+    },
+    {
+      "セクション名": "カメラアングル",
+      "タグ一覧": [
+        {
+          "label": "正面",
+          "tag": "front view"
+        },
+        {
+          "label": "背面",
+          "tag": "back view"
+        },
+        {
+          "label": "横から",
+          "tag": "side view"
+        },
+        {
+          "label": "左から",
+          "tag": "left view"
+        },
+        {
+          "label": "右から",
+          "tag": "right view"
+        },
+        {
+          "label": "斜め前",
+          "tag": "front angle"
+        },
+        {
+          "label": "斜め後ろ",
+          "tag": "back angle"
+        },
+        {
+          "label": "ダッチアングル",
+          "tag": "dutch angle"
+        },
+        {
+          "label": "傾きアングル",
+          "tag": "tilted angle"
+        },
+        {
+          "label": "見上げ構図",
+          "tag": "low angle"
+        },
+        {
+          "label": "見下ろし構図",
+          "tag": "high angle"
+        },
+        {
+          "label": "鳥瞰図",
+          "tag": "top-down view"
+        },
+        {
+          "label": "虫の目構図",
+          "tag": "worm's-eye view"
+        },
+        {
+          "label": "POV視点",
+          "tag": "point of view"
+        },
+        {
+          "label": "斜め上から",
+          "tag": "high front angle"
+        },
+        {
+          "label": "斜め下から",
+          "tag": "low front angle"
+        },
+        {
+          "label": "斜め上から後ろ",
+          "tag": "high back angle"
+        },
+        {
+          "label": "斜め下から後ろ",
+          "tag": "low back angle"
+        },
+        {
+          "label": "真下から",
+          "tag": "underside angle"
+        }
+      ]
+    },
+    {
+      "セクション名": "画角",
+      "タグ一覧": [
+        {
+          "label": "遠景",
+          "tag": "distant view"
+        },
+        {
+          "label": "ワイドショット／遠景",
+          "tag": "wide shot"
+        },
+        {
+          "label": "超ワイドショット／極遠景",
+          "tag": "very wide shot"
+        },
+        {
+          "label": "クローズアップ",
+          "tag": "close-up"
+        },
+        {
+          "label": "極端なクローズアップ",
+          "tag": "extreme close-up"
+        },
+        {
+          "label": "ミディアムショット",
+          "tag": "medium shot"
+        },
+        {
+          "label": "ズームイン演出",
+          "tag": "zoom in"
+        },
+        {
+          "label": "ズームアウト演出",
+          "tag": "zoom out"
+        },
+        {
+          "label": "超広角（魚眼レンズ）",
+          "tag": "fisheye"
+        }
+      ]
+    },
+    {
+      "セクション名": "フォーカス部位",
+      "タグ一覧": [
+        {
+          "label": "顔にフォーカス",
+          "tag": "focus on face"
+        },
+        {
+          "label": "目にフォーカス",
+          "tag": "focus on eyes"
+        },
+        {
+          "label": "口にフォーカス",
+          "tag": "focus on mouth"
+        },
+        {
+          "label": "胸にフォーカス",
+          "tag": "focus on chest"
+        },
+        {
+          "label": "お尻にフォーカス",
+          "tag": "focus on butt"
+        },
+        {
+          "label": "手にフォーカス",
+          "tag": "focus on hands"
+        },
+        {
+          "label": "足にフォーカス",
+          "tag": "focus on feet"
+        },
+        {
+          "label": "脚にフォーカス",
+          "tag": "focus on legs"
+        },
+        {
+          "label": "腰にフォーカス",
+          "tag": "focus on waist"
+        },
+        {
+          "label": "髪にフォーカス",
+          "tag": "focus on hair"
+        }
+      ]
+    },
+    {
+      "セクション名": "視点構成",
+      "タグ一覧": [
+        {
+          "label": "オーバーショルダーショット",
+          "tag": "over-the-shoulder shot"
+        },
+        {
+          "label": "アイソメトリック",
+          "tag": "isometric"
+        },
+        {
+          "label": "遠近法／パース",
+          "tag": "perspective"
+        },
+        {
+          "label": "遠近法／フォアショートニング",
+          "tag": "foreshortening"
+        },
+        {
+          "label": "消失点",
+          "tag": "vanishing point"
+        },
+        {
+          "label": "反射越しの視点",
+          "tag": "seen through reflection"
+        },
+        {
+          "label": "鏡越しの構図",
+          "tag": "mirror shot"
+        },
+        {
+          "label": "スコープ視点",
+          "tag": "view through scope"
+        },
+        {
+          "label": "双眼鏡視点",
+          "tag": "binocular view"
+        },
+        {
+          "label": "望遠レンズ視点",
+          "tag": "telephoto view"
+        },
+        {
+          "label": "後頭部越しの視点",
+          "tag": "behind the head view"
+        },
+        {
+          "label": "覗き穴構図",
+          "tag": "peep hole view"
+        },
+        {
+          "label": "フレーム越しの視点",
+          "tag": "framed view"
+        }
+      ]
+    },
+    {
+      "セクション名": "撮影演出・効果",
+      "タグ一覧": [
+        {
+          "label": "被写界深度",
+          "tag": "depth of field"
+        },
+        {
+          "label": "ソフトフォーカス",
+          "tag": "soft focus"
+        },
+        {
+          "label": "フィルムグレイン",
+          "tag": "film grain"
+        },
+        {
+          "label": "逆光",
+          "tag": "backlighting"
+        },
+        {
+          "label": "レンズフレア",
+          "tag": "lens flare"
+        },
+        {
+          "label": "手前にオブジェクト",
+          "tag": "foreground object"
+        },
+        {
+          "label": "奥にオブジェクト",
+          "tag": "background object"
+        },
+        {
+          "label": "手前にフォーカス",
+          "tag": "foreground focus"
+        },
+        {
+          "label": "奥にフォーカス",
+          "tag": "background focus"
+        },
+        {
+          "label": "ボケた背景",
+          "tag": "blurred background"
+        },
+        {
+          "label": "ボケた前景",
+          "tag": "blurred foreground"
+        },
+        {
+          "label": "画面の一部が暗い",
+          "tag": "partially obscured"
+        },
+        {
+          "label": "視界の一部が隠れている",
+          "tag": "partially covered view"
+        },
+        {
+          "label": "ハレーション",
+          "tag": "halation"
+        },
+        {
+          "label": "モーションブラー",
+          "tag": "motion blur"
+        },
+        {
+          "label": "残像",
+          "tag": "afterimage"
+        },
+        {
+          "label": "グレア",
+          "tag": "glare"
+        },
+        {
+          "label": "スクリーントーン風",
+          "tag": "screen tone effect"
+        },
+        {
+          "label": "フィルター越しの撮影",
+          "tag": "shot through filter"
+        },
+        {
+          "label": "覗き込んだ視点",
+          "tag": "peeking view"
+        },
+        {
+          "label": "モーションライン",
+          "tag": "motion lines"
+        },
+        {
+          "label": "スピードライン",
+          "tag": "speed lines"
+        },
+        {
+          "label": "ドラマチックライティング",
+          "tag": "dramatic lighting"
+        },
+        {
+          "label": "シルエット",
+          "tag": "silhouette"
+        },
+        {
+          "label": "スクリーン空間の反射処理",
+          "tag": "screen space reflection"
+        }
+      ]
+    },
+    {
+      "セクション名": "動画カメラワーク",
+      "タグ一覧": [
+        {
+          "label": "パン",
+          "tag": "pan"
+        },
+        {
+          "label": "ティルト",
+          "tag": "tilt"
+        },
+        {
+          "label": "ズーム",
+          "tag": "zoom"
+        },
+        {
+          "label": "トラック",
+          "tag": "track"
+        },
+        {
+          "label": "ドリー",
+          "tag": "dolly"
+        },
+        {
+          "label": "スピンショット",
+          "tag": "spinning shot"
+        },
+        {
+          "label": "ダッチアングル",
+          "tag": "dutch angle"
+        },
+        {
+          "label": "ハイアングル",
+          "tag": "low angle"
+        },
+        {
+          "label": "ローアングル",
+          "tag": "low angle"
+        },
+        {
+          "label": "フォーカスイン",
+          "tag": "focus in"
+        },
+        {
+          "label": "フォーカスアウト",
+          "tag": "focus out"
+        },
+        {
+          "label": "プルフォーカス",
+          "tag": "focus pull"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "カテゴリID": "swimsuitgirl",
+  "カテゴリ名": "水着少女",
+  "カテゴリリンク": "",
+  "セクション一覧": [
+    {
+      "セクション名": "ワンピース",
+      "タグ一覧": [
+        {
+          "label": "ワンピース",
+          "tag": "one-piece swimsuit"
+        },
+        {
+          "label": "ハイカット",
+          "tag": "High-cut swimsuit"
+        },
+        {
+          "label": "競泳",
+          "tag": "Racing-style swimsuit"
+        },
+        {
+          "label": "モノキニ",
+          "tag": "monokini"
+        },
+        {
+          "label": "ストラップレスワンピース",
+          "tag": "Strapless one-piece swimsuit"
+        },
+        {
+          "label": "ホルターネックワンピース",
+          "tag": "Halter one-piece swimsuit"
+        },
+        {
+          "label": "ルーシュワンピース",
+          "tag": "Ruched one-piece swimsuit"
+        },
+        {
+          "label": "プランジング",
+          "tag": "Plunge swimsuit"
+        },
+        {
+          "label": "カットアウト",
+          "tag": "Cut-out swimsuit"
+        },
+        {
+          "label": "アシンメトリカル",
+          "tag": "Asymmetrical swimsuit"
+        },
+        {
+          "label": "Tバック",
+          "tag": "thong swimsuit"
+        },
+        {
+          "label": "スク水",
+          "tag": "navy school swimsuit"
+        },
+        {
+          "label": "スク水名札付き",
+          "tag": "navy school swimsuit with name tag on chest"
+        }
+      ]
+    },
+    {
+      "セクション名": "ビキニ",
+      "タグ一覧": [
+        {
+          "label": "ビキニ",
+          "tag": "bikini"
+        },
+        {
+          "label": "バンドゥービキニ",
+          "tag": "bandeau bikini"
+        },
+        {
+          "label": "三角ビキニ",
+          "tag": "triangle bikini"
+        },
+        {
+          "label": "マイクロビキニ",
+          "tag": "micro bikini"
+        },
+        {
+          "label": "紐ビキニ",
+          "tag": "strings bikini"
+        },
+        {
+          "label": "クロスホルタービキニ",
+          "tag": "cross halter bikini"
+        },
+        {
+          "label": "オフショルダービキニ",
+          "tag": "off shoulder bikini"
+        },
+        {
+          "label": "タンキニ",
+          "tag": "tankini"
+        },
+        {
+          "label": "ハイウエストビキニ",
+          "tag": "high-waist bikini"
+        },
+        {
+          "label": "ショートパンツビキニ",
+          "tag": "short pants bikini"
+        },
+        {
+          "label": "ハーフトップビキニ",
+          "tag": "half-top bikini"
+        },
+        {
+          "label": "ハイライズビキニ",
+          "tag": "high-rise bikini"
+        },
+        {
+          "label": "パレオ",
+          "tag": "pareo"
+        },
+        {
+          "label": "ルッチドビキニ",
+          "tag": "ruched Bikini"
+        },
+        {
+          "label": "フリルビキニ",
+          "tag": "frilled Bikini"
+        },
+        {
+          "label": "アンダーワイヤービキニ",
+          "tag": "underwire Bikini"
+        },
+        {
+          "label": "Tバックビキニ",
+          "tag": "thong Bikini"
+        }
+      ]
+    },
+{
+      "セクション名": "肌質",
+      "タグ一覧": [
+        {
+          "label": "日焼け",
+          "tag": "tanned skin"
+        },
+        {
+          "label": "日焼け跡",
+          "tag": "tanned skin,tanlines"
+        },
+        
+        {
+          "label": "輝く肌",
+          "tag": "shiny skin,glowing skin"
+        },
+        {
+          "label": "濡れた肌",
+          "tag": "wet,wet skin"
+        }
+      ]
+      },
+
+    {
+      "セクション名": "おまけ背景",
+      "タグ一覧": [
+        {
+          "label": "トロピカルビーチ",
+          "tag": "tropical beach,white sand,turquoise sea,palm trees,blue sky,sun umbrellas,beach towels,coconuts,sunbeds,driftwood,gentle waves,tropical flowers,seashells,beach hut,sun glare,sun-kissed skin,light breeze,summer sunlight,"
+        },
+        {
+          "label": "屋外プール",
+          "tag": "luxury pool,poolside lounge,modern resort,infinity pool,sun deck,white parasol,rattan furniture,pool float,cocktail glass,palm shadows,designer towel,shimmering water,pool tiles,open bar,cabana"
+        },
+        {
+          "label": "屋内プール",
+          "tag": "pool,marble walls,skylight,glass ceiling,luxury spa,water reflections,tiled floor,palm,spacious hall,calm water surface,  white columns,refined interior,tranquil atmosphere,designer architecture"
+        }
+      ]
+    },
+    {
+      "セクション名": "おまけアクセサリーセット",
+      "タグ一覧": [
+        {
+          "label": "Aセット",
+          "tag": "sunglasses,shell necklace,anklet,flower hair clip,hair scrunchie,beach towel,friendship bracelet,plastic bangles,hibiscus ornament"
+        },
+        {
+          "label": "Bセット",
+          "tag": "gold bracelet,pearl earrings,thin silver necklace,designer sunglasses,silk scarf,hoop earrings,gemstone ring,sheer sarong,shell anklet,gold-rimmed sunglasses"
+        },
+        {
+          "label": "Cセット",
+          "tag": "tropical flower crown,coconut drink with umbrella,pineapple charm,seashell bracelet,palm leaf earrings,flamingo float,fruit-patterned accessories,cocktail ring,parrot earring,lei garland,banana-shaped hairclip,palm brooch"
+        },
+        {
+          "label": "Dセット",
+          "tag": "heart-shaped sunglasses,ribbon hairband,lace choker,scrunchie,frilly parasol,pastel charm bracelet,bunny-shaped hairclip,puff sleeves,polka-dot bow,candy necklace"
+        },
+        {
+          "label": "Eセット",
+          "tag": "pearl headband,translucent bangle,iridescent earrings,moon-shaped necklace,starry tiara,sheer shawl,pastel hairpin,crystal charm,butterfly hair clip,feather earring,sparkling hair accessory"
+        }
+      ]
+    }
+  ]
+}
