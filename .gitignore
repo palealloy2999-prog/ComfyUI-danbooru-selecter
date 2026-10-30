@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+.test-*/
+
+# Local catalogs and documentation
+/custom/
+/json/
+/README*
+/TRANSLATION_GUIDE_JA.md
+
+# Tests, sample fixtures, and translation work
+/tests/
+/example_workflows/
+/.translation-work/
+.pytest_cache/
