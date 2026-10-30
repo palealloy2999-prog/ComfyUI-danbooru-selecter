@@ -1,1422 +1,1422 @@
 ﻿{
-    "カテゴリID":  "headwear",
-    "カテゴリ名":  "帽子・頭飾り",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aheadwear",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "種類",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "王冠",
-                                         "tag":  "crown",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crown"
-                                     },
-                                     {
-                                         "label":  "帽子",
-                                         "tag":  "hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat"
-                                     },
-                                     {
-                                         "label":  "ヘルメット",
-                                         "tag":  "helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/helmet"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "色",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "水色の帽子",
-                                         "tag":  "aqua_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_hat"
-                                     },
-                                     {
-                                         "label":  "黒い帽子",
-                                         "tag":  "black_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_hat"
-                                     },
-                                     {
-                                         "label":  "青い帽子",
-                                         "tag":  "blue_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_hat"
-                                     },
-                                     {
-                                         "label":  "茶色の帽子",
-                                         "tag":  "brown_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_hat"
-                                     },
-                                     {
-                                         "label":  "緑の帽子",
-                                         "tag":  "green_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_hat"
-                                     },
-                                     {
-                                         "label":  "灰色の帽子",
-                                         "tag":  "grey_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_hat"
-                                     },
-                                     {
-                                         "label":  "オレンジ色の帽子",
-                                         "tag":  "orange_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_hat"
-                                     },
-                                     {
-                                         "label":  "ピンクの帽子",
-                                         "tag":  "pink_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_hat"
-                                     },
-                                     {
-                                         "label":  "紫色の帽子",
-                                         "tag":  "purple_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple_hat"
-                                     },
-                                     {
-                                         "label":  "赤い帽子",
-                                         "tag":  "red_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_hat"
-                                     },
-                                     {
-                                         "label":  "白い帽子",
-                                         "tag":  "white_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_hat"
-                                     },
-                                     {
-                                         "label":  "黄色い帽子",
-                                         "tag":  "yellow_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_hat"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "つば・ひさし付き",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "野球帽",
-                                         "tag":  "baseball_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/baseball_cap"
-                                     },
-                                     {
-                                         "label":  "ブデノフカ",
-                                         "tag":  "budenovka",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/budenovka"
-                                     },
-                                     {
-                                         "label":  "鹿撃ち帽",
-                                         "tag":  "deerstalker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/deerstalker"
-                                     },
-                                     {
-                                         "label":  "ディアンジ",
-                                         "tag":  "dianzi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dianzi"
-                                     },
-                                     {
-                                         "label":  "フィールドキャップ",
-                                         "tag":  "field_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/field_cap"
-                                     },
-                                     {
-                                         "label":  "ケピ帽",
-                                         "tag":  "kepi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kepi"
-                                     },
-                                     {
-                                         "label":  "M43 フィールドキャップ",
-                                         "tag":  "m43_field_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/m43_field_cap"
-                                     },
-                                     {
-                                         "label":  "毛沢東帽",
-                                         "tag":  "mao_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mao_cap"
-                                     },
-                                     {
-                                         "label":  "キャスケット帽",
-                                         "tag":  "newsboy_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/newsboy_cap"
-                                     },
-                                     {
-                                         "label":  "ピークキャップ",
-                                         "tag":  "peaked_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/peaked_cap"
-                                     },
-                                     {
-                                         "label":  "ロガティフカ",
-                                         "tag":  "rogatywka",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rogatywka"
-                                     },
-                                     {
-                                         "label":  "シャコー帽、",
-                                         "tag":  "shako_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shako_cap"
-                                     },
-                                     {
-                                         "label":  "ミニシャコー帽",
-                                         "tag":  "mini_shako_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mini_shako_cap"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "つば付き",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "二角帽",
-                                         "tag":  "bicorne",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bicorne"
-                                     },
-                                     {
-                                         "label":  "ボーターハット",
-                                         "tag":  "boater_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/boater_hat"
-                                     },
-                                     {
-                                         "label":  "ブーニーハット",
-                                         "tag":  "boonie_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/boonie_hat"
-                                     },
-                                     {
-                                         "label":  "山高帽",
-                                         "tag":  "bowler_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bowler_hat"
-                                     },
-                                     {
-                                         "label":  "バケットハット",
-                                         "tag":  "bucket_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bucket_hat"
-                                     },
-                                     {
-                                         "label":  "キャンペーンハット",
-                                         "tag":  "campaign_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/campaign_hat"
-                                     },
-                                     {
-                                         "label":  "キャバリアハット",
-                                         "tag":  "cavalier_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cavalier_hat"
-                                     },
-                                     {
-                                         "label":  "クロッシュハット",
-                                         "tag":  "cloche_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cloche_hat"
-                                     },
-                                     {
-                                         "label":  "カウボーイハット",
-                                         "tag":  "cowboy_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cowboy_hat"
-                                     },
-                                     {
-                                         "label":  "麦わら帽子",
-                                         "tag":  "straw_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/straw_hat"
-                                     },
-                                     {
-                                         "label":  "網代笠",
-                                         "tag":  "ajirogasa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ajirogasa"
-                                     },
-                                     {
-                                         "label":  "編み笠",
-                                         "tag":  "amigasa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/amigasa"
-                                     },
-                                     {
-                                         "label":  "アヤイガサ",
-                                         "tag":  "ayaigasa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ayaigasa"
-                                     },
-                                     {
-                                         "label":  "いちめがさ",
-                                         "tag":  "ichimegasa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ichimegasa"
-                                     },
-                                     {
-                                         "label":  "ロニンガサ",
-                                         "tag":  "roningasa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/roningasa"
-                                     },
-                                     {
-                                         "label":  "三度笠",
-                                         "tag":  "sandogasa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sandogasa"
-                                     },
-                                     {
-                                         "label":  "鳥追笠",
-                                         "tag":  "torioigasa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torioigasa"
-                                     },
-                                     {
-                                         "label":  "米帽",
-                                         "tag":  "rice_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rice_hat"
-                                     },
-                                     {
-                                         "label":  "ファシネーター",
-                                         "tag":  "fascinator",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fascinator"
-                                     },
-                                     {
-                                         "label":  "フェドーラ帽",
-                                         "tag":  "fedora",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fedora"
-                                     },
-                                     {
-                                         "label":  "女性用軍帽",
-                                         "tag":  "female_service_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/female_service_cap"
-                                     },
-                                     {
-                                         "label":  "フラットキャップ",
-                                         "tag":  "flat_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flat_cap"
-                                     },
-                                     {
-                                         "label":  "ガット",
-                                         "tag":  "gat_%28hat%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gat_%28hat%29"
-                                     },
-                                     {
-                                         "label":  "パレンギ",
-                                         "tag":  "paeraengi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/paeraengi"
-                                     },
-                                     {
-                                         "label":  "陣笠",
-                                         "tag":  "jingasa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jingasa"
-                                     },
-                                     {
-                                         "label":  "モブキャップ",
-                                         "tag":  "mob_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mob_cap"
-                                     },
-                                     {
-                                         "label":  "絵柄の帽子",
-                                         "tag":  "picture_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/picture_hat"
-                                     },
-                                     {
-                                         "label":  "海賊帽子",
-                                         "tag":  "pirate_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pirate_hat"
-                                     },
-                                     {
-                                         "label":  "ピスヘルメット",
-                                         "tag":  "pith_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pith_helmet"
-                                     },
-                                     {
-                                         "label":  "ポークパイハット",
-                                         "tag":  "porkpie_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/porkpie_hat"
-                                     },
-                                     {
-                                         "label":  "シャンプーハット",
-                                         "tag":  "shampoo_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shampoo_hat"
-                                     },
-                                     {
-                                         "label":  "ソンブレロ",
-                                         "tag":  "sombrero",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sombrero"
-                                     },
-                                     {
-                                         "label":  "日よけ帽子",
-                                         "tag":  "sun_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sun_hat"
-                                     },
-                                     {
-                                         "label":  "シルクハット",
-                                         "tag":  "top_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/top_hat"
-                                     },
-                                     {
-                                         "label":  "ミニシルクハット",
-                                         "tag":  "mini_top_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mini_top_hat"
-                                     },
-                                     {
-                                         "label":  "三角帽子",
-                                         "tag":  "tricorne",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tricorne"
-                                     },
-                                     {
-                                         "label":  "トリルビー",
-                                         "tag":  "trilby",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/trilby"
-                                     },
-                                     {
-                                         "label":  "チューリップハット",
-                                         "tag":  "tulip_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tulip_hat"
-                                     },
-                                     {
-                                         "label":  "魔女の帽子",
-                                         "tag":  "witch_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/witch_hat"
-                                     },
-                                     {
-                                         "label":  "ミニ魔女帽子",
-                                         "tag":  "mini_witch_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mini_witch_hat"
-                                     },
-                                     {
-                                         "label":  "魔法使いの帽子",
-                                         "tag":  "wizard_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wizard_hat"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "耳当て付き",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "鹿撃ち帽",
-                                         "tag":  "deerstalker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/deerstalker"
-                                     },
-                                     {
-                                         "label":  "耳あて付きビーニー",
-                                         "tag":  "earflap_beanie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/earflap_beanie"
-                                     },
-                                     {
-                                         "label":  "ブジェノフカ",
-                                         "tag":  "budenovka",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/budenovka"
-                                     },
-                                     {
-                                         "label":  "パパカ",
-                                         "tag":  "papakha",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/papakha"
-                                     },
-                                     {
-                                         "label":  "ウシャンカ",
-                                         "tag":  "ushanka",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ushanka"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "つばなし",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アヤムハット",
-                                         "tag":  "ayam_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ayam_hat"
-                                     },
-                                     {
-                                         "label":  "バシュリク",
-                                         "tag":  "bashlik",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bashlik"
-                                     },
-                                     {
-                                         "label":  "ビーニー",
-                                         "tag":  "beanie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/beanie"
-                                     },
-                                     {
-                                         "label":  "耳あて付きビーニー",
-                                         "tag":  "earflap_beanie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/earflap_beanie"
-                                     },
-                                     {
-                                         "label":  "ベレー",
-                                         "tag":  "beret",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/beret"
-                                     },
-                                     {
-                                         "label":  "コック帽",
-                                         "tag":  "chef_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chef_hat"
-                                     },
-                                     {
-                                         "label":  "フラットトップのシェフハット",
-                                         "tag":  "flat_top_chef_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flat_top_chef_hat"
-                                     },
-                                     {
-                                         "label":  "コック帽",
-                                         "tag":  "toque_blanche",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/toque_blanche"
-                                     },
-                                     {
-                                         "label":  "コイフ",
-                                         "tag":  "coif",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/coif"
-                                     },
-                                     {
-                                         "label":  "ディキシーカップハット",
-                                         "tag":  "dixie_cup_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dixie_cup_hat"
-                                     },
-                                     {
-                                         "label":  "ドナルドダックの船乗り帽子",
-                                         "tag":  "donald_duck_sailor_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/donald_duck_sailor_hat"
-                                     },
-                                     {
-                                         "label":  "劣等生のとんがり帽子",
-                                         "tag":  "dunce_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dunce_cap"
-                                     },
-                                     {
-                                         "label":  "フェズ帽",
-                                         "tag":  "fez_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fez_hat"
-                                     },
-                                     {
-                                         "label":  "客室乗務員の帽子",
-                                         "tag":  "flight_attendant_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flight_attendant_hat"
-                                     },
-                                     {
-                                         "label":  "毛皮の帽子",
-                                         "tag":  "fur_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur_hat"
-                                     },
-                                     {
-                                         "label":  "熊皮の帽子",
-                                         "tag":  "bearskin_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bearskin_cap"
-                                     },
-                                     {
-                                         "label":  "パパカ",
-                                         "tag":  "papakha",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/papakha"
-                                     },
-                                     {
-                                         "label":  "ウシャンカ",
-                                         "tag":  "ushanka",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ushanka"
-                                     },
-                                     {
-                                         "label":  "ギャリソンキャップ",
-                                         "tag":  "garrison_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/garrison_cap"
-                                     },
-                                     {
-                                         "label":  "ヘニン",
-                                         "tag":  "hennin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hennin"
-                                     },
-                                     {
-                                         "label":  "キッパー",
-                                         "tag":  "kippah",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kippah"
-                                     },
-                                     {
-                                         "label":  "ミアン・グアン",
-                                         "tag":  "mian_guan",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mian_guan"
-                                     },
-                                     {
-                                         "label":  "ミトラ",
-                                         "tag":  "mitre",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mitre"
-                                     },
-                                     {
-                                         "label":  "角帽",
-                                         "tag":  "mortarboard",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mortarboard"
-                                     },
-                                     {
-                                         "label":  "ナイトキャップ",
-                                         "tag":  "nightcap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nightcap"
-                                     },
-                                     {
-                                         "label":  "ナースキャップ",
-                                         "tag":  "nurse_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nurse_cap"
-                                     },
-                                     {
-                                         "label":  "パーティーハット",
-                                         "tag":  "party_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/party_hat"
-                                     },
-                                     {
-                                         "label":  "ピルボックスハット",
-                                         "tag":  "pillbox_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pillbox_hat"
-                                     },
-                                     {
-                                         "label":  "青台関毛",
-                                         "tag":  "qingdai_guanmao",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/qingdai_guanmao"
-                                     },
-                                     {
-                                         "label":  "グアピ・マオ",
-                                         "tag":  "guapi_mao",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/guapi_mao"
-                                     },
-                                     {
-                                         "label":  "セーラーハット",
-                                         "tag":  "sailor_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sailor_hat"
-                                     },
-                                     {
-                                         "label":  "サジカカ",
-                                         "tag":  "sajkaca",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sajkaca"
-                                     },
-                                     {
-                                         "label":  "サンタの帽子",
-                                         "tag":  "santa_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/santa_hat"
-                                     },
-                                     {
-                                         "label":  "ミニサンタ帽子",
-                                         "tag":  "mini_santa_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mini_santa_hat"
-                                     },
-                                     {
-                                         "label":  "ソンコック",
-                                         "tag":  "songkok",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/songkok"
-                                     },
-                                     {
-                                         "label":  "タム・オ・シャンター",
-                                         "tag":  "tam_o%27_shanter",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tam_o%27_shanter"
-                                     },
-                                     {
-                                         "label":  "立烏帽子",
-                                         "tag":  "tate_eboshi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tate_eboshi"
-                                     },
-                                     {
-                                         "label":  "天蓋（虚無僧の笠）",
-                                         "tag":  "tengai_%28hat%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tengai_%28hat%29"
-                                     },
-                                     {
-                                         "label":  "頭襟",
-                                         "tag":  "tokin_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tokin_hat"
-                                     },
-                                     {
-                                         "label":  "角隠し",
-                                         "tag":  "tsunokakushi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tsunokakushi"
-                                     },
-                                     {
-                                         "label":  "謝志関",
-                                         "tag":  "xiezhi_guan",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/xiezhi_guan"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "動物の帽子",
-                                         "tag":  "animal_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_hat"
-                                     },
-                                     {
-                                         "label":  "耳付き帽子",
-                                         "tag":  "hat_with_ears",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_with_ears"
-                                     },
-                                     {
-                                         "label":  "デヴィルチ帽子",
-                                         "tag":  "deviruchi_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/deviruchi_hat"
-                                     },
-                                     {
-                                         "label":  "クマの帽子",
-                                         "tag":  "bear_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bear_hat"
-                                     },
-                                     {
-                                         "label":  "ウサギの帽子",
-                                         "tag":  "rabbit_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rabbit_hat"
-                                     },
-                                     {
-                                         "label":  "猫の帽子",
-                                         "tag":  "cat_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cat_hat"
-                                     },
-                                     {
-                                         "label":  "犬の帽子",
-                                         "tag":  "dog_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dog_hat"
-                                     },
-                                     {
-                                         "label":  "キツネの帽子",
-                                         "tag":  "fox_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fox_hat"
-                                     },
-                                     {
-                                         "label":  "毛皮",
-                                         "tag":  "pelt",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pelt"
-                                     },
-                                     {
-                                         "label":  "ペンギンの帽子",
-                                         "tag":  "penguin_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/penguin_hat"
-                                     },
-                                     {
-                                         "label":  "狼の帽子",
-                                         "tag":  "wolf_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wolf_hat"
-                                     },
-                                     {
-                                         "label":  "卵殻帽子",
-                                         "tag":  "eggshell_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eggshell_hat"
-                                     },
-                                     {
-                                         "label":  "カボチャの帽子",
-                                         "tag":  "pumpkin_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pumpkin_hat"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ヘルメット",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ヘルメット",
-                                         "tag":  "helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/helmet"
-                                     },
-                                     {
-                                         "label":  "エイドリアンヘルメット",
-                                         "tag":  "adrian_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adrian_helmet"
-                                     },
-                                     {
-                                         "label":  "アルティンヘルメット",
-                                         "tag":  "altyn_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/altyn_helmet"
-                                     },
-                                     {
-                                         "label":  "アメリカンフットボールのヘルメット",
-                                         "tag":  "american_football_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/american_football_helmet"
-                                     },
-                                     {
-                                         "label":  "動物の耳のヘルメット",
-                                         "tag":  "animal_ears_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_ears_helmet"
-                                     },
-                                     {
-                                         "label":  "野球ヘルメット",
-                                         "tag":  "baseball_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/baseball_helmet"
-                                     },
-                                     {
-                                         "label":  "自転車ヘルメット",
-                                         "tag":  "bicycle_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bicycle_helmet"
-                                     },
-                                     {
-                                         "label":  "ブロディヘルメット",
-                                         "tag":  "brodie_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brodie_helmet"
-                                     },
-                                     {
-                                         "label":  "ダイビングヘルメット",
-                                         "tag":  "diving_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/diving_helmet"
-                                     },
-                                     {
-                                         "label":  "竜騎士のヘルメット",
-                                         "tag":  "dragoon_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dragoon_helmet"
-                                     },
-                                     {
-                                         "label":  "金魚鉢ヘルメット",
-                                         "tag":  "fishbowl_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fishbowl_helmet"
-                                     },
-                                     {
-                                         "label":  "作業用ヘルメット",
-                                         "tag":  "hard_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hard_hat"
-                                     },
-                                     {
-                                         "label":  "ヘッドランプ",
-                                         "tag":  "headlamp",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/headlamp"
-                                     },
-                                     {
-                                         "label":  "兜",
-                                         "tag":  "helm",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/helm"
-                                     },
-                                     {
-                                         "label":  "角付きヘルメット",
-                                         "tag":  "horned_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/horned_helmet"
-                                     },
-                                     {
-                                         "label":  "兜",
-                                         "tag":  "kabuto_%28helmet%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kabuto_%28helmet%29"
-                                     },
-                                     {
-                                         "label":  "ケトルヘルム",
-                                         "tag":  "kettle_helm",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kettle_helm"
-                                     },
-                                     {
-                                         "label":  "M1ヘルメット",
-                                         "tag":  "m1_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/m1_helmet"
-                                     },
-                                     {
-                                         "label":  "バイクヘルメット",
-                                         "tag":  "motorcycle_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/motorcycle_helmet"
-                                     },
-                                     {
-                                         "label":  "ピッケルハウベ",
-                                         "tag":  "pickelhaube",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pickelhaube"
-                                     },
-                                     {
-                                         "label":  "パイロットヘルメット",
-                                         "tag":  "pilot_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pilot_helmet"
-                                     },
-                                     {
-                                         "label":  "ピスヘルメット",
-                                         "tag":  "pith_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pith_helmet"
-                                     },
-                                     {
-                                         "label":  "サレット",
-                                         "tag":  "sallet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sallet"
-                                     },
-                                     {
-                                         "label":  "宇宙ヘルメット",
-                                         "tag":  "space_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/space_helmet"
-                                     },
-                                     {
-                                         "label":  "シュタールヘルム",
-                                         "tag":  "stahlhelm",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/stahlhelm"
-                                     },
-                                     {
-                                         "label":  "戦車ヘルメット",
-                                         "tag":  "tank_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tank_helmet"
-                                     },
-                                     {
-                                         "label":  "翼のあるヘルメット",
-                                         "tag":  "winged_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/winged_helmet"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "冠",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "サークレット",
-                                         "tag":  "circlet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/circlet"
-                                     },
-                                     {
-                                         "label":  "王冠",
-                                         "tag":  "diadem",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/diadem"
-                                     },
-                                     {
-                                         "label":  "豊関",
-                                         "tag":  "fengguan",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fengguan"
-                                     },
-                                     {
-                                         "label":  "ミアン・グアン",
-                                         "tag":  "mian_guan",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mian_guan"
-                                     },
-                                     {
-                                         "label":  "ミニクラウン",
-                                         "tag":  "mini_crown",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mini_crown"
-                                     },
-                                     {
-                                         "label":  "さいし",
-                                         "tag":  "saishi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/saishi"
-                                     },
-                                     {
-                                         "label":  "ティアラ",
-                                         "tag":  "tiara",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tiara"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他の頭飾り",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "飛行士帽",
-                                         "tag":  "aviator_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aviator_cap"
-                                     },
-                                     {
-                                         "label":  "バラクラバ",
-                                         "tag":  "balaclava",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/balaclava"
-                                     },
-                                     {
-                                         "label":  "バンダナ",
-                                         "tag":  "bandana",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandana"
-                                     },
-                                     {
-                                         "label":  "ボンネット",
-                                         "tag":  "bonnet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bonnet"
-                                     },
-                                     {
-                                         "label":  "ダラチ",
-                                         "tag":  "dalachi_%28headdress%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dalachi_%28headdress%29"
-                                     },
-                                     {
-                                         "label":  "富藤",
-                                         "tag":  "futou",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/futou"
-                                     },
-                                     {
-                                         "label":  "頭巾",
-                                         "tag":  "headscarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/headscarf"
-                                     },
-                                     {
-                                         "label":  "ヒジャブ",
-                                         "tag":  "hijab",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hijab"
-                                     },
-                                     {
-                                         "label":  "道化師の帽子",
-                                         "tag":  "jester_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jester_cap"
-                                     },
-                                     {
-                                         "label":  "ジン",
-                                         "tag":  "jin_%28headwear%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jin_%28headwear%29"
-                                     },
-                                     {
-                                         "label":  "東坡ジン",
-                                         "tag":  "dongpo_jin_%28headwear%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dongpo_jin_%28headwear%29"
-                                     },
-                                     {
-                                         "label":  "タンジン",
-                                         "tag":  "tang_jin_%28headwear%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tang_jin_%28headwear%29"
-                                     },
-                                     {
-                                         "label":  "シュウジ・ジン",
-                                         "tag":  "zhouzi_jin_%28headwear%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/zhouzi_jin_%28headwear%29"
-                                     },
-                                     {
-                                         "label":  "クーフィヤ",
-                                         "tag":  "keffiyeh",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/keffiyeh"
-                                     },
-                                     {
-                                         "label":  "頭の上の物",
-                                         "tag":  "object_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/object_on_head"
-                                     },
-                                     {
-                                         "label":  "ボウルハットは",
-                                         "tag":  "bowl_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bowl_hat"
-                                     },
-                                     {
-                                         "label":  "頭にブルマー",
-                                         "tag":  "bloomers_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bloomers_on_head"
-                                     },
-                                     {
-                                         "label":  "頭の上に本を置く",
-                                         "tag":  "book_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/book_on_head"
-                                     },
-                                     {
-                                         "label":  "頭にブラジャー",
-                                         "tag":  "bra_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bra_on_head"
-                                     },
-                                     {
-                                         "label":  "頭にバケツを乗せる",
-                                         "tag":  "bucket_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bucket_on_head"
-                                     },
-                                     {
-                                         "label":  "頭の上の食べ物",
-                                         "tag":  "food_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/food_on_head"
-                                     },
-                                     {
-                                         "label":  "頭にパンティーを乗せる",
-                                         "tag":  "panties_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/panties_on_head"
-                                     },
-                                     {
-                                         "label":  "頭に交通コーン",
-                                         "tag":  "traffic_cone_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/traffic_cone_on_head"
-                                     },
-                                     {
-                                         "label":  "御高祖頭巾",
-                                         "tag":  "okosozukin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/okosozukin"
-                                     },
-                                     {
-                                         "label":  "シャワーキャップ",
-                                         "tag":  "shower_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shower_cap"
-                                     },
-                                     {
-                                         "label":  "シュファ・グアン",
-                                         "tag":  "shufa_guan",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shufa_guan"
-                                     },
-                                     {
-                                         "label":  "手ぬぐい",
-                                         "tag":  "tenugui",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tenugui"
-                                     },
-                                     {
-                                         "label":  "ターバン",
-                                         "tag":  "turban",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/turban"
-                                     },
-                                     {
-                                         "label":  "バイザーキャップ",
-                                         "tag":  "visor_cap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/visor_cap"
-                                     },
-                                     {
-                                         "label":  "ベール",
-                                         "tag":  "veil",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/veil"
-                                     },
-                                     {
-                                         "label":  "荘の帽子",
-                                         "tag":  "zhuang_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/zhuang_hat"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "柄・スタイル",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "迷彩柄の帽子",
-                                         "tag":  "camouflage_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/camouflage_headwear"
-                                     },
-                                     {
-                                         "label":  "チェック柄の帽子",
-                                         "tag":  "checkered_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/checkered_headwear"
-                                     },
-                                     {
-                                         "label":  "フリル付き帽子",
-                                         "tag":  "frilled_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/frilled_hat"
-                                     },
-                                     {
-                                         "label":  "軍用帽子",
-                                         "tag":  "military_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/military_hat"
-                                     },
-                                     {
-                                         "label":  "ミニハット",
-                                         "tag":  "mini_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mini_hat"
-                                     },
-                                     {
-                                         "label":  "色とりどりの帽子",
-                                         "tag":  "multicolored_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_headwear"
-                                     },
-                                     {
-                                         "label":  "警察の帽子",
-                                         "tag":  "police_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/police_hat"
-                                     },
-                                     {
-                                         "label":  "プリントヘッドウェア",
-                                         "tag":  "print_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/print_headwear"
-                                     },
-                                     {
-                                         "label":  "学校の帽子",
-                                         "tag":  "school_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/school_hat"
-                                     },
-                                     {
-                                         "label":  "麦わら帽子",
-                                         "tag":  "straw_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/straw_hat"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "アクション/状態",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "帽子の調整",
-                                         "tag":  "adjusting_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_headwear"
-                                     },
-                                     {
-                                         "label":  "後ろ向きの帽子",
-                                         "tag":  "backwards_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/backwards_hat"
-                                     },
-                                     {
-                                         "label":  "横向きの帽子",
-                                         "tag":  "sideways_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sideways_hat"
-                                     },
-                                     {
-                                         "label":  "帽子に手を添える",
-                                         "tag":  "hand_on_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_headwear"
-                                     },
-                                     {
-                                         "label":  "帽子に手を当てる",
-                                         "tag":  "hands_on_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hands_on_headwear"
-                                     },
-                                     {
-                                         "label":  "帽子かご",
-                                         "tag":  "hat_basket",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_basket"
-                                     },
-                                     {
-                                         "label":  "帽子が脱げる",
-                                         "tag":  "hat_loss",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_loss"
-                                     },
-                                     {
-                                         "label":  "胸に帽子",
-                                         "tag":  "hat_on_chest",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_on_chest"
-                                     },
-                                     {
-                                         "label":  "目を覆う帽子",
-                                         "tag":  "hat_over_eyes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_over_eyes"
-                                     },
-                                     {
-                                         "label":  "片目を覆う帽子",
-                                         "tag":  "hat_over_one_eye",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_over_one_eye"
-                                     },
-                                     {
-                                         "label":  "帽子に手を添える挨拶",
-                                         "tag":  "hat_tip",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_tip"
-                                     },
-                                     {
-                                         "label":  "かぶっていない帽子を持っている",
-                                         "tag":  "holding_unworn_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_unworn_hat"
-                                     },
-                                     {
-                                         "label":  "ヘルメットを持っている",
-                                         "tag":  "holding_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_helmet"
-                                     },
-                                     {
-                                         "label":  "頭飾りなし",
-                                         "tag":  "no_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_headwear"
-                                     },
-                                     {
-                                         "label":  "帽子をかぶる",
-                                         "tag":  "putting_on_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/putting_on_headwear"
-                                     },
-                                     {
-                                         "label":  "ヘルメットを外す",
-                                         "tag":  "removing_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/removing_helmet"
-                                     },
-                                     {
-                                         "label":  "傾いた帽子",
-                                         "tag":  "tilted_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tilted_headwear"
-                                     },
-                                     {
-                                         "label":  "破れた帽子",
-                                         "tag":  "torn_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_hat"
-                                     },
-                                     {
-                                         "label":  "かぶっていない帽子",
-                                         "tag":  "unworn_hat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_hat"
-                                     },
-                                     {
-                                         "label":  "着用していない頭飾り",
-                                         "tag":  "unworn_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_headwear"
-                                     },
-                                     {
-                                         "label":  "かぶっていないヘルメット",
-                                         "tag":  "unworn_helmet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_helmet"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "アクセサリー",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "あごひも",
-                                         "tag":  "chin_strap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chin_strap"
-                                     },
-                                     {
-                                         "label":  "帽子のリボン",
-                                         "tag":  "hat_bow",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_bow"
-                                     },
-                                     {
-                                         "label":  "帽子の羽根",
-                                         "tag":  "hat_feather",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_feather"
-                                     },
-                                     {
-                                         "label":  "帽子の花",
-                                         "tag":  "hat_flower",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_flower"
-                                     },
-                                     {
-                                         "label":  "帽子の飾り",
-                                         "tag":  "hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_ornament"
-                                     },
-                                     {
-                                         "label":  "錨の帽子飾り",
-                                         "tag":  "anchor_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/anchor_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "蝶の帽子飾り",
-                                         "tag":  "butterfly_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/butterfly_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "キャラクター帽子飾り",
-                                         "tag":  "character_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "三日月形の帽子飾り",
-                                         "tag":  "crescent_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crescent_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "イルカの帽子飾り",
-                                         "tag":  "dolphin_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dolphin_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "食べ物モチーフの帽子飾り",
-                                         "tag":  "food-themed_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/food-themed_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "フルーツ帽子の飾り",
-                                         "tag":  "fruit_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fruit_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "ブドウの帽子飾り",
-                                         "tag":  "grape_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grape_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "桃の帽子飾り",
-                                         "tag":  "peach_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/peach_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "カボチャの帽子の飾り",
-                                         "tag":  "pumpkin_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pumpkin_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "ギア帽子飾り",
-                                         "tag":  "gear_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gear_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "ハートの帽子飾り",
-                                         "tag":  "heart_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "ヒイラギの帽子飾り",
-                                         "tag":  "holly_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/holly_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "ジャック・オー・ランタンの帽子飾り",
-                                         "tag":  "jack-o%27-lantern_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jack-o%27-lantern_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "葉っぱの帽子飾り",
-                                         "tag":  "leaf_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/leaf_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "パレットハットの飾り",
-                                         "tag":  "palette_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/palette_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "星の帽子飾り",
-                                         "tag":  "star_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/star_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "頭蓋骨の帽子飾り",
-                                         "tag":  "skull_hat_ornament",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/skull_hat_ornament"
-                                     },
-                                     {
-                                         "label":  "帽子の花",
-                                         "tag":  "hat_flower",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_flower"
-                                     },
-                                     {
-                                         "label":  "帽子のタッセル",
-                                         "tag":  "hat_tassel",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_tassel"
-                                     },
-                                     {
-                                         "label":  "帽子のリボン",
-                                         "tag":  "hat_ribbon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_ribbon"
-                                     },
-                                     {
-                                         "label":  "耳付き帽子",
-                                         "tag":  "hat_with_ears",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hat_with_ears"
-                                     },
-                                     {
-                                         "label":  "垂れ飾り",
-                                         "tag":  "lappet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lappet"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "帽子ではない",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "髪の蝶結びリボン",
-                                         "tag":  "hair_bow",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_bow"
-                                     },
-                                     {
-                                         "label":  "髪のリボン",
-                                         "tag":  "hair_ribbon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_ribbon"
-                                     },
-                                     {
-                                         "label":  "ヘアバンド",
-                                         "tag":  "hairband",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hairband"
-                                     },
-                                     {
-                                         "label":  "ヘッドバンド",
-                                         "tag":  "headband",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/headband"
-                                     },
-                                     {
-                                         "label":  "額当て",
-                                         "tag":  "forehead_protector",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/forehead_protector"
-                                     },
-                                     {
-                                         "label":  "ハチマキ",
-                                         "tag":  "hachimaki",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hachimaki"
-                                     },
-                                     {
-                                         "label":  "ねじり鉢巻",
-                                         "tag":  "nejiri_hachimaki",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nejiri_hachimaki"
-                                     },
-                                     {
-                                         "label":  "モンコン",
-                                         "tag":  "mongkhon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mongkhon"
-                                     },
-                                     {
-                                         "label":  "汗止めバンド",
-                                         "tag":  "sweatband",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sweatband"
-                                     },
-                                     {
-                                         "label":  "頭飾り",
-                                         "tag":  "headdress",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/headdress"
-                                     },
-                                     {
-                                         "label":  "メイドの頭飾り",
-                                         "tag":  "maid_headdress",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/maid_headdress"
-                                     },
-                                     {
-                                         "label":  "ネイティブアメリカンの頭飾り",
-                                         "tag":  "native_american_headdress",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/native_american_headdress"
-                                     },
-                                     {
-                                         "label":  "ウォーボンネット",
-                                         "tag":  "warbonnet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/warbonnet"
-                                     },
-                                     {
-                                         "label":  "ベール",
-                                         "tag":  "veil",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/veil"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "参照",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "タググループ：服装",
-                                         "tag":  "tag_group%3Aattire",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
-                                     },
-                                     {
-                                         "label":  "タググループ：アイウェア",
-                                         "tag":  "tag_group%3Aeyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyewear"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "headwear",
+  "カテゴリ名": "帽子・頭飾り",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aheadwear",
+  "セクション一覧": [
+    {
+      "セクション名": "種類",
+      "タグ一覧": [
+        {
+          "label": "王冠",
+          "tag": "crown",
+          "link": "https://danbooru.donmai.us/wiki_pages/crown"
+        },
+        {
+          "label": "帽子",
+          "tag": "hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat"
+        },
+        {
+          "label": "ヘルメット",
+          "tag": "helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/helmet"
+        }
+      ]
+    },
+    {
+      "セクション名": "色",
+      "タグ一覧": [
+        {
+          "label": "水色の帽子",
+          "tag": "aqua_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_hat"
+        },
+        {
+          "label": "黒い帽子",
+          "tag": "black_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_hat"
+        },
+        {
+          "label": "青い帽子",
+          "tag": "blue_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_hat"
+        },
+        {
+          "label": "茶色の帽子",
+          "tag": "brown_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_hat"
+        },
+        {
+          "label": "緑の帽子",
+          "tag": "green_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_hat"
+        },
+        {
+          "label": "灰色の帽子",
+          "tag": "grey_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_hat"
+        },
+        {
+          "label": "オレンジ色の帽子",
+          "tag": "orange_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_hat"
+        },
+        {
+          "label": "ピンクの帽子",
+          "tag": "pink_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_hat"
+        },
+        {
+          "label": "紫色の帽子",
+          "tag": "purple_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_hat"
+        },
+        {
+          "label": "赤い帽子",
+          "tag": "red_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_hat"
+        },
+        {
+          "label": "白い帽子",
+          "tag": "white_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_hat"
+        },
+        {
+          "label": "黄色い帽子",
+          "tag": "yellow_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_hat"
+        }
+      ]
+    },
+    {
+      "セクション名": "つば・ひさし付き",
+      "タグ一覧": [
+        {
+          "label": "野球帽",
+          "tag": "baseball_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/baseball_cap"
+        },
+        {
+          "label": "ブデノフカ",
+          "tag": "budenovka",
+          "link": "https://danbooru.donmai.us/wiki_pages/budenovka"
+        },
+        {
+          "label": "鹿撃ち帽",
+          "tag": "deerstalker",
+          "link": "https://danbooru.donmai.us/wiki_pages/deerstalker"
+        },
+        {
+          "label": "ディアンジ",
+          "tag": "dianzi",
+          "link": "https://danbooru.donmai.us/wiki_pages/dianzi"
+        },
+        {
+          "label": "フィールドキャップ",
+          "tag": "field_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/field_cap"
+        },
+        {
+          "label": "ケピ帽",
+          "tag": "kepi",
+          "link": "https://danbooru.donmai.us/wiki_pages/kepi"
+        },
+        {
+          "label": "M43 フィールドキャップ",
+          "tag": "m43_field_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/m43_field_cap"
+        },
+        {
+          "label": "毛沢東帽",
+          "tag": "mao_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/mao_cap"
+        },
+        {
+          "label": "キャスケット帽",
+          "tag": "newsboy_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/newsboy_cap"
+        },
+        {
+          "label": "ピークキャップ",
+          "tag": "peaked_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/peaked_cap"
+        },
+        {
+          "label": "ロガティフカ",
+          "tag": "rogatywka",
+          "link": "https://danbooru.donmai.us/wiki_pages/rogatywka"
+        },
+        {
+          "label": "シャコー帽、",
+          "tag": "shako_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/shako_cap"
+        },
+        {
+          "label": "ミニシャコー帽",
+          "tag": "mini_shako_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_shako_cap"
+        }
+      ]
+    },
+    {
+      "セクション名": "つば付き",
+      "タグ一覧": [
+        {
+          "label": "二角帽",
+          "tag": "bicorne",
+          "link": "https://danbooru.donmai.us/wiki_pages/bicorne"
+        },
+        {
+          "label": "ボーターハット",
+          "tag": "boater_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/boater_hat"
+        },
+        {
+          "label": "ブーニーハット",
+          "tag": "boonie_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/boonie_hat"
+        },
+        {
+          "label": "山高帽",
+          "tag": "bowler_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowler_hat"
+        },
+        {
+          "label": "バケットハット",
+          "tag": "bucket_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/bucket_hat"
+        },
+        {
+          "label": "キャンペーンハット",
+          "tag": "campaign_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/campaign_hat"
+        },
+        {
+          "label": "キャバリアハット",
+          "tag": "cavalier_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/cavalier_hat"
+        },
+        {
+          "label": "クロッシュハット",
+          "tag": "cloche_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/cloche_hat"
+        },
+        {
+          "label": "カウボーイハット",
+          "tag": "cowboy_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/cowboy_hat"
+        },
+        {
+          "label": "麦わら帽子",
+          "tag": "straw_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/straw_hat"
+        },
+        {
+          "label": "網代笠",
+          "tag": "ajirogasa",
+          "link": "https://danbooru.donmai.us/wiki_pages/ajirogasa"
+        },
+        {
+          "label": "編み笠",
+          "tag": "amigasa",
+          "link": "https://danbooru.donmai.us/wiki_pages/amigasa"
+        },
+        {
+          "label": "アヤイガサ",
+          "tag": "ayaigasa",
+          "link": "https://danbooru.donmai.us/wiki_pages/ayaigasa"
+        },
+        {
+          "label": "いちめがさ",
+          "tag": "ichimegasa",
+          "link": "https://danbooru.donmai.us/wiki_pages/ichimegasa"
+        },
+        {
+          "label": "ロニンガサ",
+          "tag": "roningasa",
+          "link": "https://danbooru.donmai.us/wiki_pages/roningasa"
+        },
+        {
+          "label": "三度笠",
+          "tag": "sandogasa",
+          "link": "https://danbooru.donmai.us/wiki_pages/sandogasa"
+        },
+        {
+          "label": "鳥追笠",
+          "tag": "torioigasa",
+          "link": "https://danbooru.donmai.us/wiki_pages/torioigasa"
+        },
+        {
+          "label": "米帽",
+          "tag": "rice_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/rice_hat"
+        },
+        {
+          "label": "ファシネーター",
+          "tag": "fascinator",
+          "link": "https://danbooru.donmai.us/wiki_pages/fascinator"
+        },
+        {
+          "label": "フェドーラ帽",
+          "tag": "fedora",
+          "link": "https://danbooru.donmai.us/wiki_pages/fedora"
+        },
+        {
+          "label": "女性用軍帽",
+          "tag": "female_service_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/female_service_cap"
+        },
+        {
+          "label": "フラットキャップ",
+          "tag": "flat_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/flat_cap"
+        },
+        {
+          "label": "ガット",
+          "tag": "gat_%28hat%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/gat_%28hat%29"
+        },
+        {
+          "label": "パレンギ",
+          "tag": "paeraengi",
+          "link": "https://danbooru.donmai.us/wiki_pages/paeraengi"
+        },
+        {
+          "label": "陣笠",
+          "tag": "jingasa",
+          "link": "https://danbooru.donmai.us/wiki_pages/jingasa"
+        },
+        {
+          "label": "モブキャップ",
+          "tag": "mob_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/mob_cap"
+        },
+        {
+          "label": "絵柄の帽子",
+          "tag": "picture_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/picture_hat"
+        },
+        {
+          "label": "海賊帽子",
+          "tag": "pirate_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/pirate_hat"
+        },
+        {
+          "label": "ピスヘルメット",
+          "tag": "pith_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/pith_helmet"
+        },
+        {
+          "label": "ポークパイハット",
+          "tag": "porkpie_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/porkpie_hat"
+        },
+        {
+          "label": "シャンプーハット",
+          "tag": "shampoo_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/shampoo_hat"
+        },
+        {
+          "label": "ソンブレロ",
+          "tag": "sombrero",
+          "link": "https://danbooru.donmai.us/wiki_pages/sombrero"
+        },
+        {
+          "label": "日よけ帽子",
+          "tag": "sun_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/sun_hat"
+        },
+        {
+          "label": "シルクハット",
+          "tag": "top_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/top_hat"
+        },
+        {
+          "label": "ミニシルクハット",
+          "tag": "mini_top_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_top_hat"
+        },
+        {
+          "label": "三角帽子",
+          "tag": "tricorne",
+          "link": "https://danbooru.donmai.us/wiki_pages/tricorne"
+        },
+        {
+          "label": "トリルビー",
+          "tag": "trilby",
+          "link": "https://danbooru.donmai.us/wiki_pages/trilby"
+        },
+        {
+          "label": "チューリップハット",
+          "tag": "tulip_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/tulip_hat"
+        },
+        {
+          "label": "魔女の帽子",
+          "tag": "witch_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/witch_hat"
+        },
+        {
+          "label": "ミニ魔女帽子",
+          "tag": "mini_witch_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_witch_hat"
+        },
+        {
+          "label": "魔法使いの帽子",
+          "tag": "wizard_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/wizard_hat"
+        }
+      ]
+    },
+    {
+      "セクション名": "耳当て付き",
+      "タグ一覧": [
+        {
+          "label": "鹿撃ち帽",
+          "tag": "deerstalker",
+          "link": "https://danbooru.donmai.us/wiki_pages/deerstalker"
+        },
+        {
+          "label": "耳あて付きビーニー",
+          "tag": "earflap_beanie",
+          "link": "https://danbooru.donmai.us/wiki_pages/earflap_beanie"
+        },
+        {
+          "label": "ブジェノフカ",
+          "tag": "budenovka",
+          "link": "https://danbooru.donmai.us/wiki_pages/budenovka"
+        },
+        {
+          "label": "パパカ",
+          "tag": "papakha",
+          "link": "https://danbooru.donmai.us/wiki_pages/papakha"
+        },
+        {
+          "label": "ウシャンカ",
+          "tag": "ushanka",
+          "link": "https://danbooru.donmai.us/wiki_pages/ushanka"
+        }
+      ]
+    },
+    {
+      "セクション名": "つばなし",
+      "タグ一覧": [
+        {
+          "label": "アヤムハット",
+          "tag": "ayam_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/ayam_hat"
+        },
+        {
+          "label": "バシュリク",
+          "tag": "bashlik",
+          "link": "https://danbooru.donmai.us/wiki_pages/bashlik"
+        },
+        {
+          "label": "ビーニー",
+          "tag": "beanie",
+          "link": "https://danbooru.donmai.us/wiki_pages/beanie"
+        },
+        {
+          "label": "耳あて付きビーニー",
+          "tag": "earflap_beanie",
+          "link": "https://danbooru.donmai.us/wiki_pages/earflap_beanie"
+        },
+        {
+          "label": "ベレー",
+          "tag": "beret",
+          "link": "https://danbooru.donmai.us/wiki_pages/beret"
+        },
+        {
+          "label": "コック帽",
+          "tag": "chef_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/chef_hat"
+        },
+        {
+          "label": "フラットトップのシェフハット",
+          "tag": "flat_top_chef_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/flat_top_chef_hat"
+        },
+        {
+          "label": "コック帽",
+          "tag": "toque_blanche",
+          "link": "https://danbooru.donmai.us/wiki_pages/toque_blanche"
+        },
+        {
+          "label": "コイフ",
+          "tag": "coif",
+          "link": "https://danbooru.donmai.us/wiki_pages/coif"
+        },
+        {
+          "label": "ディキシーカップハット",
+          "tag": "dixie_cup_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/dixie_cup_hat"
+        },
+        {
+          "label": "ドナルドダックの船乗り帽子",
+          "tag": "donald_duck_sailor_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/donald_duck_sailor_hat"
+        },
+        {
+          "label": "劣等生のとんがり帽子",
+          "tag": "dunce_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/dunce_cap"
+        },
+        {
+          "label": "フェズ帽",
+          "tag": "fez_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/fez_hat"
+        },
+        {
+          "label": "客室乗務員の帽子",
+          "tag": "flight_attendant_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/flight_attendant_hat"
+        },
+        {
+          "label": "毛皮の帽子",
+          "tag": "fur_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/fur_hat"
+        },
+        {
+          "label": "熊皮の帽子",
+          "tag": "bearskin_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/bearskin_cap"
+        },
+        {
+          "label": "パパカ",
+          "tag": "papakha",
+          "link": "https://danbooru.donmai.us/wiki_pages/papakha"
+        },
+        {
+          "label": "ウシャンカ",
+          "tag": "ushanka",
+          "link": "https://danbooru.donmai.us/wiki_pages/ushanka"
+        },
+        {
+          "label": "ギャリソンキャップ",
+          "tag": "garrison_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/garrison_cap"
+        },
+        {
+          "label": "ヘニン",
+          "tag": "hennin",
+          "link": "https://danbooru.donmai.us/wiki_pages/hennin"
+        },
+        {
+          "label": "キッパー",
+          "tag": "kippah",
+          "link": "https://danbooru.donmai.us/wiki_pages/kippah"
+        },
+        {
+          "label": "ミアン・グアン",
+          "tag": "mian_guan",
+          "link": "https://danbooru.donmai.us/wiki_pages/mian_guan"
+        },
+        {
+          "label": "ミトラ",
+          "tag": "mitre",
+          "link": "https://danbooru.donmai.us/wiki_pages/mitre"
+        },
+        {
+          "label": "角帽",
+          "tag": "mortarboard",
+          "link": "https://danbooru.donmai.us/wiki_pages/mortarboard"
+        },
+        {
+          "label": "ナイトキャップ",
+          "tag": "nightcap",
+          "link": "https://danbooru.donmai.us/wiki_pages/nightcap"
+        },
+        {
+          "label": "ナースキャップ",
+          "tag": "nurse_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/nurse_cap"
+        },
+        {
+          "label": "パーティーハット",
+          "tag": "party_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/party_hat"
+        },
+        {
+          "label": "ピルボックスハット",
+          "tag": "pillbox_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/pillbox_hat"
+        },
+        {
+          "label": "青台関毛",
+          "tag": "qingdai_guanmao",
+          "link": "https://danbooru.donmai.us/wiki_pages/qingdai_guanmao"
+        },
+        {
+          "label": "グアピ・マオ",
+          "tag": "guapi_mao",
+          "link": "https://danbooru.donmai.us/wiki_pages/guapi_mao"
+        },
+        {
+          "label": "セーラーハット",
+          "tag": "sailor_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailor_hat"
+        },
+        {
+          "label": "サジカカ",
+          "tag": "sajkaca",
+          "link": "https://danbooru.donmai.us/wiki_pages/sajkaca"
+        },
+        {
+          "label": "サンタの帽子",
+          "tag": "santa_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/santa_hat"
+        },
+        {
+          "label": "ミニサンタ帽子",
+          "tag": "mini_santa_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_santa_hat"
+        },
+        {
+          "label": "ソンコック",
+          "tag": "songkok",
+          "link": "https://danbooru.donmai.us/wiki_pages/songkok"
+        },
+        {
+          "label": "タム・オ・シャンター",
+          "tag": "tam_o%27_shanter",
+          "link": "https://danbooru.donmai.us/wiki_pages/tam_o%27_shanter"
+        },
+        {
+          "label": "立烏帽子",
+          "tag": "tate_eboshi",
+          "link": "https://danbooru.donmai.us/wiki_pages/tate_eboshi"
+        },
+        {
+          "label": "天蓋（虚無僧の笠）",
+          "tag": "tengai_%28hat%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tengai_%28hat%29"
+        },
+        {
+          "label": "頭襟",
+          "tag": "tokin_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokin_hat"
+        },
+        {
+          "label": "角隠し",
+          "tag": "tsunokakushi",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsunokakushi"
+        },
+        {
+          "label": "謝志関",
+          "tag": "xiezhi_guan",
+          "link": "https://danbooru.donmai.us/wiki_pages/xiezhi_guan"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "動物の帽子",
+          "tag": "animal_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_hat"
+        },
+        {
+          "label": "耳付き帽子",
+          "tag": "hat_with_ears",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_with_ears"
+        },
+        {
+          "label": "デヴィルチ帽子",
+          "tag": "deviruchi_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/deviruchi_hat"
+        },
+        {
+          "label": "クマの帽子",
+          "tag": "bear_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/bear_hat"
+        },
+        {
+          "label": "ウサギの帽子",
+          "tag": "rabbit_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit_hat"
+        },
+        {
+          "label": "猫の帽子",
+          "tag": "cat_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_hat"
+        },
+        {
+          "label": "犬の帽子",
+          "tag": "dog_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/dog_hat"
+        },
+        {
+          "label": "キツネの帽子",
+          "tag": "fox_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/fox_hat"
+        },
+        {
+          "label": "毛皮",
+          "tag": "pelt",
+          "link": "https://danbooru.donmai.us/wiki_pages/pelt"
+        },
+        {
+          "label": "ペンギンの帽子",
+          "tag": "penguin_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/penguin_hat"
+        },
+        {
+          "label": "狼の帽子",
+          "tag": "wolf_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/wolf_hat"
+        },
+        {
+          "label": "卵殻帽子",
+          "tag": "eggshell_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/eggshell_hat"
+        },
+        {
+          "label": "カボチャの帽子",
+          "tag": "pumpkin_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/pumpkin_hat"
+        }
+      ]
+    },
+    {
+      "セクション名": "ヘルメット",
+      "タグ一覧": [
+        {
+          "label": "ヘルメット",
+          "tag": "helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/helmet"
+        },
+        {
+          "label": "エイドリアンヘルメット",
+          "tag": "adrian_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/adrian_helmet"
+        },
+        {
+          "label": "アルティンヘルメット",
+          "tag": "altyn_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/altyn_helmet"
+        },
+        {
+          "label": "アメリカンフットボールのヘルメット",
+          "tag": "american_football_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/american_football_helmet"
+        },
+        {
+          "label": "動物の耳のヘルメット",
+          "tag": "animal_ears_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_ears_helmet"
+        },
+        {
+          "label": "野球ヘルメット",
+          "tag": "baseball_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/baseball_helmet"
+        },
+        {
+          "label": "自転車ヘルメット",
+          "tag": "bicycle_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/bicycle_helmet"
+        },
+        {
+          "label": "ブロディヘルメット",
+          "tag": "brodie_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/brodie_helmet"
+        },
+        {
+          "label": "ダイビングヘルメット",
+          "tag": "diving_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/diving_helmet"
+        },
+        {
+          "label": "竜騎士のヘルメット",
+          "tag": "dragoon_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/dragoon_helmet"
+        },
+        {
+          "label": "金魚鉢ヘルメット",
+          "tag": "fishbowl_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/fishbowl_helmet"
+        },
+        {
+          "label": "作業用ヘルメット",
+          "tag": "hard_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/hard_hat"
+        },
+        {
+          "label": "ヘッドランプ",
+          "tag": "headlamp",
+          "link": "https://danbooru.donmai.us/wiki_pages/headlamp"
+        },
+        {
+          "label": "兜",
+          "tag": "helm",
+          "link": "https://danbooru.donmai.us/wiki_pages/helm"
+        },
+        {
+          "label": "角付きヘルメット",
+          "tag": "horned_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/horned_helmet"
+        },
+        {
+          "label": "兜",
+          "tag": "kabuto_%28helmet%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kabuto_%28helmet%29"
+        },
+        {
+          "label": "ケトルヘルム",
+          "tag": "kettle_helm",
+          "link": "https://danbooru.donmai.us/wiki_pages/kettle_helm"
+        },
+        {
+          "label": "M1ヘルメット",
+          "tag": "m1_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/m1_helmet"
+        },
+        {
+          "label": "バイクヘルメット",
+          "tag": "motorcycle_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/motorcycle_helmet"
+        },
+        {
+          "label": "ピッケルハウベ",
+          "tag": "pickelhaube",
+          "link": "https://danbooru.donmai.us/wiki_pages/pickelhaube"
+        },
+        {
+          "label": "パイロットヘルメット",
+          "tag": "pilot_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/pilot_helmet"
+        },
+        {
+          "label": "ピスヘルメット",
+          "tag": "pith_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/pith_helmet"
+        },
+        {
+          "label": "サレット",
+          "tag": "sallet",
+          "link": "https://danbooru.donmai.us/wiki_pages/sallet"
+        },
+        {
+          "label": "宇宙ヘルメット",
+          "tag": "space_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/space_helmet"
+        },
+        {
+          "label": "シュタールヘルム",
+          "tag": "stahlhelm",
+          "link": "https://danbooru.donmai.us/wiki_pages/stahlhelm"
+        },
+        {
+          "label": "戦車ヘルメット",
+          "tag": "tank_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/tank_helmet"
+        },
+        {
+          "label": "翼のあるヘルメット",
+          "tag": "winged_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/winged_helmet"
+        }
+      ]
+    },
+    {
+      "セクション名": "冠",
+      "タグ一覧": [
+        {
+          "label": "サークレット",
+          "tag": "circlet",
+          "link": "https://danbooru.donmai.us/wiki_pages/circlet"
+        },
+        {
+          "label": "王冠",
+          "tag": "diadem",
+          "link": "https://danbooru.donmai.us/wiki_pages/diadem"
+        },
+        {
+          "label": "豊関",
+          "tag": "fengguan",
+          "link": "https://danbooru.donmai.us/wiki_pages/fengguan"
+        },
+        {
+          "label": "ミアン・グアン",
+          "tag": "mian_guan",
+          "link": "https://danbooru.donmai.us/wiki_pages/mian_guan"
+        },
+        {
+          "label": "ミニクラウン",
+          "tag": "mini_crown",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_crown"
+        },
+        {
+          "label": "さいし",
+          "tag": "saishi",
+          "link": "https://danbooru.donmai.us/wiki_pages/saishi"
+        },
+        {
+          "label": "ティアラ",
+          "tag": "tiara",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiara"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の頭飾り",
+      "タグ一覧": [
+        {
+          "label": "飛行士帽",
+          "tag": "aviator_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/aviator_cap"
+        },
+        {
+          "label": "バラクラバ",
+          "tag": "balaclava",
+          "link": "https://danbooru.donmai.us/wiki_pages/balaclava"
+        },
+        {
+          "label": "バンダナ",
+          "tag": "bandana",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandana"
+        },
+        {
+          "label": "ボンネット",
+          "tag": "bonnet",
+          "link": "https://danbooru.donmai.us/wiki_pages/bonnet"
+        },
+        {
+          "label": "ダラチ",
+          "tag": "dalachi_%28headdress%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dalachi_%28headdress%29"
+        },
+        {
+          "label": "富藤",
+          "tag": "futou",
+          "link": "https://danbooru.donmai.us/wiki_pages/futou"
+        },
+        {
+          "label": "頭巾",
+          "tag": "headscarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/headscarf"
+        },
+        {
+          "label": "ヒジャブ",
+          "tag": "hijab",
+          "link": "https://danbooru.donmai.us/wiki_pages/hijab"
+        },
+        {
+          "label": "道化師の帽子",
+          "tag": "jester_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/jester_cap"
+        },
+        {
+          "label": "ジン",
+          "tag": "jin_%28headwear%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/jin_%28headwear%29"
+        },
+        {
+          "label": "東坡ジン",
+          "tag": "dongpo_jin_%28headwear%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dongpo_jin_%28headwear%29"
+        },
+        {
+          "label": "タンジン",
+          "tag": "tang_jin_%28headwear%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tang_jin_%28headwear%29"
+        },
+        {
+          "label": "シュウジ・ジン",
+          "tag": "zhouzi_jin_%28headwear%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/zhouzi_jin_%28headwear%29"
+        },
+        {
+          "label": "クーフィヤ",
+          "tag": "keffiyeh",
+          "link": "https://danbooru.donmai.us/wiki_pages/keffiyeh"
+        },
+        {
+          "label": "頭の上の物",
+          "tag": "object_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/object_on_head"
+        },
+        {
+          "label": "ボウルハットは",
+          "tag": "bowl_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowl_hat"
+        },
+        {
+          "label": "頭にブルマー",
+          "tag": "bloomers_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/bloomers_on_head"
+        },
+        {
+          "label": "頭の上に本を置く",
+          "tag": "book_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/book_on_head"
+        },
+        {
+          "label": "頭にブラジャー",
+          "tag": "bra_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/bra_on_head"
+        },
+        {
+          "label": "頭にバケツを乗せる",
+          "tag": "bucket_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/bucket_on_head"
+        },
+        {
+          "label": "頭の上の食べ物",
+          "tag": "food_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/food_on_head"
+        },
+        {
+          "label": "頭にパンティーを乗せる",
+          "tag": "panties_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/panties_on_head"
+        },
+        {
+          "label": "頭に交通コーン",
+          "tag": "traffic_cone_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/traffic_cone_on_head"
+        },
+        {
+          "label": "御高祖頭巾",
+          "tag": "okosozukin",
+          "link": "https://danbooru.donmai.us/wiki_pages/okosozukin"
+        },
+        {
+          "label": "シャワーキャップ",
+          "tag": "shower_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/shower_cap"
+        },
+        {
+          "label": "シュファ・グアン",
+          "tag": "shufa_guan",
+          "link": "https://danbooru.donmai.us/wiki_pages/shufa_guan"
+        },
+        {
+          "label": "手ぬぐい",
+          "tag": "tenugui",
+          "link": "https://danbooru.donmai.us/wiki_pages/tenugui"
+        },
+        {
+          "label": "ターバン",
+          "tag": "turban",
+          "link": "https://danbooru.donmai.us/wiki_pages/turban"
+        },
+        {
+          "label": "バイザーキャップ",
+          "tag": "visor_cap",
+          "link": "https://danbooru.donmai.us/wiki_pages/visor_cap"
+        },
+        {
+          "label": "ベール",
+          "tag": "veil",
+          "link": "https://danbooru.donmai.us/wiki_pages/veil"
+        },
+        {
+          "label": "荘の帽子",
+          "tag": "zhuang_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/zhuang_hat"
+        }
+      ]
+    },
+    {
+      "セクション名": "柄・スタイル",
+      "タグ一覧": [
+        {
+          "label": "迷彩柄の帽子",
+          "tag": "camouflage_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/camouflage_headwear"
+        },
+        {
+          "label": "チェック柄の帽子",
+          "tag": "checkered_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_headwear"
+        },
+        {
+          "label": "フリル付き帽子",
+          "tag": "frilled_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/frilled_hat"
+        },
+        {
+          "label": "軍用帽子",
+          "tag": "military_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/military_hat"
+        },
+        {
+          "label": "ミニハット",
+          "tag": "mini_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/mini_hat"
+        },
+        {
+          "label": "色とりどりの帽子",
+          "tag": "multicolored_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_headwear"
+        },
+        {
+          "label": "警察の帽子",
+          "tag": "police_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/police_hat"
+        },
+        {
+          "label": "プリントヘッドウェア",
+          "tag": "print_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_headwear"
+        },
+        {
+          "label": "学校の帽子",
+          "tag": "school_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/school_hat"
+        },
+        {
+          "label": "麦わら帽子",
+          "tag": "straw_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/straw_hat"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクション/状態",
+      "タグ一覧": [
+        {
+          "label": "帽子の調整",
+          "tag": "adjusting_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_headwear"
+        },
+        {
+          "label": "後ろ向きの帽子",
+          "tag": "backwards_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/backwards_hat"
+        },
+        {
+          "label": "横向きの帽子",
+          "tag": "sideways_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/sideways_hat"
+        },
+        {
+          "label": "帽子に手を添える",
+          "tag": "hand_on_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_headwear"
+        },
+        {
+          "label": "帽子に手を当てる",
+          "tag": "hands_on_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_headwear"
+        },
+        {
+          "label": "帽子かご",
+          "tag": "hat_basket",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_basket"
+        },
+        {
+          "label": "帽子が脱げる",
+          "tag": "hat_loss",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_loss"
+        },
+        {
+          "label": "胸に帽子",
+          "tag": "hat_on_chest",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_on_chest"
+        },
+        {
+          "label": "目を覆う帽子",
+          "tag": "hat_over_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_over_eyes"
+        },
+        {
+          "label": "片目を覆う帽子",
+          "tag": "hat_over_one_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_over_one_eye"
+        },
+        {
+          "label": "帽子に手を添える挨拶",
+          "tag": "hat_tip",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_tip"
+        },
+        {
+          "label": "かぶっていない帽子を持っている",
+          "tag": "holding_unworn_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_unworn_hat"
+        },
+        {
+          "label": "ヘルメットを持っている",
+          "tag": "holding_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_helmet"
+        },
+        {
+          "label": "頭飾りなし",
+          "tag": "no_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_headwear"
+        },
+        {
+          "label": "帽子をかぶる",
+          "tag": "putting_on_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/putting_on_headwear"
+        },
+        {
+          "label": "ヘルメットを外す",
+          "tag": "removing_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/removing_helmet"
+        },
+        {
+          "label": "傾いた帽子",
+          "tag": "tilted_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/tilted_headwear"
+        },
+        {
+          "label": "破れた帽子",
+          "tag": "torn_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_hat"
+        },
+        {
+          "label": "かぶっていない帽子",
+          "tag": "unworn_hat",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_hat"
+        },
+        {
+          "label": "着用していない頭飾り",
+          "tag": "unworn_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_headwear"
+        },
+        {
+          "label": "かぶっていないヘルメット",
+          "tag": "unworn_helmet",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_helmet"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクセサリー",
+      "タグ一覧": [
+        {
+          "label": "あごひも",
+          "tag": "chin_strap",
+          "link": "https://danbooru.donmai.us/wiki_pages/chin_strap"
+        },
+        {
+          "label": "帽子のリボン",
+          "tag": "hat_bow",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_bow"
+        },
+        {
+          "label": "帽子の羽根",
+          "tag": "hat_feather",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_feather"
+        },
+        {
+          "label": "帽子の花",
+          "tag": "hat_flower",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_flower"
+        },
+        {
+          "label": "帽子の飾り",
+          "tag": "hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_ornament"
+        },
+        {
+          "label": "錨の帽子飾り",
+          "tag": "anchor_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/anchor_hat_ornament"
+        },
+        {
+          "label": "蝶の帽子飾り",
+          "tag": "butterfly_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/butterfly_hat_ornament"
+        },
+        {
+          "label": "キャラクター帽子飾り",
+          "tag": "character_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/character_hat_ornament"
+        },
+        {
+          "label": "三日月形の帽子飾り",
+          "tag": "crescent_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/crescent_hat_ornament"
+        },
+        {
+          "label": "イルカの帽子飾り",
+          "tag": "dolphin_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/dolphin_hat_ornament"
+        },
+        {
+          "label": "食べ物モチーフの帽子飾り",
+          "tag": "food-themed_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/food-themed_hat_ornament"
+        },
+        {
+          "label": "フルーツ帽子の飾り",
+          "tag": "fruit_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/fruit_hat_ornament"
+        },
+        {
+          "label": "ブドウの帽子飾り",
+          "tag": "grape_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/grape_hat_ornament"
+        },
+        {
+          "label": "桃の帽子飾り",
+          "tag": "peach_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/peach_hat_ornament"
+        },
+        {
+          "label": "カボチャの帽子の飾り",
+          "tag": "pumpkin_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/pumpkin_hat_ornament"
+        },
+        {
+          "label": "ギア帽子飾り",
+          "tag": "gear_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/gear_hat_ornament"
+        },
+        {
+          "label": "ハートの帽子飾り",
+          "tag": "heart_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_hat_ornament"
+        },
+        {
+          "label": "ヒイラギの帽子飾り",
+          "tag": "holly_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/holly_hat_ornament"
+        },
+        {
+          "label": "ジャック・オー・ランタンの帽子飾り",
+          "tag": "jack-o%27-lantern_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/jack-o%27-lantern_hat_ornament"
+        },
+        {
+          "label": "葉っぱの帽子飾り",
+          "tag": "leaf_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/leaf_hat_ornament"
+        },
+        {
+          "label": "パレットハットの飾り",
+          "tag": "palette_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/palette_hat_ornament"
+        },
+        {
+          "label": "星の帽子飾り",
+          "tag": "star_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_hat_ornament"
+        },
+        {
+          "label": "頭蓋骨の帽子飾り",
+          "tag": "skull_hat_ornament",
+          "link": "https://danbooru.donmai.us/wiki_pages/skull_hat_ornament"
+        },
+        {
+          "label": "帽子の花",
+          "tag": "hat_flower",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_flower"
+        },
+        {
+          "label": "帽子のタッセル",
+          "tag": "hat_tassel",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_tassel"
+        },
+        {
+          "label": "帽子のリボン",
+          "tag": "hat_ribbon",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_ribbon"
+        },
+        {
+          "label": "耳付き帽子",
+          "tag": "hat_with_ears",
+          "link": "https://danbooru.donmai.us/wiki_pages/hat_with_ears"
+        },
+        {
+          "label": "垂れ飾り",
+          "tag": "lappet",
+          "link": "https://danbooru.donmai.us/wiki_pages/lappet"
+        }
+      ]
+    },
+    {
+      "セクション名": "帽子ではない",
+      "タグ一覧": [
+        {
+          "label": "髪の蝶結びリボン",
+          "tag": "hair_bow",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_bow"
+        },
+        {
+          "label": "髪のリボン",
+          "tag": "hair_ribbon",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_ribbon"
+        },
+        {
+          "label": "ヘアバンド",
+          "tag": "hairband",
+          "link": "https://danbooru.donmai.us/wiki_pages/hairband"
+        },
+        {
+          "label": "ヘッドバンド",
+          "tag": "headband",
+          "link": "https://danbooru.donmai.us/wiki_pages/headband"
+        },
+        {
+          "label": "額当て",
+          "tag": "forehead_protector",
+          "link": "https://danbooru.donmai.us/wiki_pages/forehead_protector"
+        },
+        {
+          "label": "ハチマキ",
+          "tag": "hachimaki",
+          "link": "https://danbooru.donmai.us/wiki_pages/hachimaki"
+        },
+        {
+          "label": "ねじり鉢巻",
+          "tag": "nejiri_hachimaki",
+          "link": "https://danbooru.donmai.us/wiki_pages/nejiri_hachimaki"
+        },
+        {
+          "label": "モンコン",
+          "tag": "mongkhon",
+          "link": "https://danbooru.donmai.us/wiki_pages/mongkhon"
+        },
+        {
+          "label": "汗止めバンド",
+          "tag": "sweatband",
+          "link": "https://danbooru.donmai.us/wiki_pages/sweatband"
+        },
+        {
+          "label": "頭飾り",
+          "tag": "headdress",
+          "link": "https://danbooru.donmai.us/wiki_pages/headdress"
+        },
+        {
+          "label": "メイドの頭飾り",
+          "tag": "maid_headdress",
+          "link": "https://danbooru.donmai.us/wiki_pages/maid_headdress"
+        },
+        {
+          "label": "ネイティブアメリカンの頭飾り",
+          "tag": "native_american_headdress",
+          "link": "https://danbooru.donmai.us/wiki_pages/native_american_headdress"
+        },
+        {
+          "label": "ウォーボンネット",
+          "tag": "warbonnet",
+          "link": "https://danbooru.donmai.us/wiki_pages/warbonnet"
+        },
+        {
+          "label": "ベール",
+          "tag": "veil",
+          "link": "https://danbooru.donmai.us/wiki_pages/veil"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：服装",
+          "tag": "tag_group%3Aattire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+        },
+        {
+          "label": "タググループ：アイウェア",
+          "tag": "tag_group%3Aeyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyewear"
+        }
+      ]
+    }
+  ]
 }

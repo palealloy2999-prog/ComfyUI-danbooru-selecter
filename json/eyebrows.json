@@ -1,142 +1,142 @@
 ﻿{
-    "カテゴリID":  "eyebrows",
-    "カテゴリ名":  "眉",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aembellishment",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "表情",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "両眉を上げる",
-                                         "tag":  "raised_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/raised_eyebrows"
-                                     },
-                                     {
-                                         "label":  "片眉を上げる",
-                                         "tag":  "raised_eyebrow",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/raised_eyebrow"
-                                     },
-                                     {
-                                         "label":  "片眉をつり上げる",
-                                         "tag":  "cocked_eyebrow",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cocked_eyebrow"
-                                     },
-                                     {
-                                         "label":  "眉頭を上げる",
-                                         "tag":  "raised_inner_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/raised_inner_eyebrows"
-                                     },
-                                     {
-                                         "label":  "得意げな表情",
-                                         "tag":  "smug",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/smug"
-                                     },
-                                     {
-                                         "label":  "恐怖",
-                                         "tag":  "fear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fear"
-                                     },
-                                     {
-                                         "label":  "しかめ眉",
-                                         "tag":  "furrowed_brow",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/furrowed_brow"
-                                     },
-                                     {
-                                         "label":  "V字型の眉",
-                                         "tag":  "v-shaped_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/v-shaped_eyebrows"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "サイズと形状",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "短い眉毛",
-                                         "tag":  "short_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short_eyebrows"
-                                     },
-                                     {
-                                         "label":  "太い眉毛",
-                                         "tag":  "thick_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/thick_eyebrows"
-                                     },
-                                     {
-                                         "label":  "非常に太い眉",
-                                         "tag":  "huge_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/huge_eyebrows"
-                                     },
-                                     {
-                                         "label":  "長い眉毛",
-                                         "tag":  "long_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/long_eyebrows"
-                                     },
-                                     {
-                                         "label":  "一本眉",
-                                         "tag":  "unibrow",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unibrow"
-                                     },
-                                     {
-                                         "label":  "二股眉毛",
-                                         "tag":  "forked_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/forked_eyebrows"
-                                     },
-                                     {
-                                         "label":  "カールした眉毛",
-                                         "tag":  "curly_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/curly_eyebrows"
-                                     },
-                                     {
-                                         "label":  "引眉",
-                                         "tag":  "hikimayu",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hikimayu"
-                                     },
-                                     {
-                                         "label":  "眉ピアス",
-                                         "tag":  "eyebrow_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyebrow_piercing"
-                                     },
-                                     {
-                                         "label":  "眉の剃り込み",
-                                         "tag":  "eyebrow_cut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyebrow_cut"
-                                     },
-                                     {
-                                         "label":  "眉を横切る傷",
-                                         "tag":  "scar_across_eyebrow",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scar_across_eyebrow"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "髪との関係",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "髪に隠れた眉",
-                                         "tag":  "eyebrows_hidden_by_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyebrows_hidden_by_hair"
-                                     },
-                                     {
-                                         "label":  "左右で異なる眉",
-                                         "tag":  "mismatched_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mismatched_eyebrows"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "眉毛がない",
-                                         "tag":  "no_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_eyebrows"
-                                     },
-                                     {
-                                         "label":  "非推奨タグについて",
-                                         "tag":  "help:deprecation_notice",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/help:deprecation_notice"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "eyebrows",
+  "カテゴリ名": "眉",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aembellishment",
+  "セクション一覧": [
+    {
+      "セクション名": "表情",
+      "タグ一覧": [
+        {
+          "label": "両眉を上げる",
+          "tag": "raised_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/raised_eyebrows"
+        },
+        {
+          "label": "片眉を上げる",
+          "tag": "raised_eyebrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/raised_eyebrow"
+        },
+        {
+          "label": "片眉をつり上げる",
+          "tag": "cocked_eyebrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/cocked_eyebrow"
+        },
+        {
+          "label": "眉頭を上げる",
+          "tag": "raised_inner_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/raised_inner_eyebrows"
+        },
+        {
+          "label": "得意げな表情",
+          "tag": "smug",
+          "link": "https://danbooru.donmai.us/wiki_pages/smug"
+        },
+        {
+          "label": "恐怖",
+          "tag": "fear",
+          "link": "https://danbooru.donmai.us/wiki_pages/fear"
+        },
+        {
+          "label": "しかめ眉",
+          "tag": "furrowed_brow",
+          "link": "https://danbooru.donmai.us/wiki_pages/furrowed_brow"
+        },
+        {
+          "label": "V字型の眉",
+          "tag": "v-shaped_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/v-shaped_eyebrows"
+        }
+      ]
+    },
+    {
+      "セクション名": "サイズと形状",
+      "タグ一覧": [
+        {
+          "label": "短い眉毛",
+          "tag": "short_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/short_eyebrows"
+        },
+        {
+          "label": "太い眉毛",
+          "tag": "thick_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/thick_eyebrows"
+        },
+        {
+          "label": "非常に太い眉",
+          "tag": "huge_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/huge_eyebrows"
+        },
+        {
+          "label": "長い眉毛",
+          "tag": "long_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_eyebrows"
+        },
+        {
+          "label": "一本眉",
+          "tag": "unibrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/unibrow"
+        },
+        {
+          "label": "二股眉毛",
+          "tag": "forked_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/forked_eyebrows"
+        },
+        {
+          "label": "カールした眉毛",
+          "tag": "curly_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/curly_eyebrows"
+        },
+        {
+          "label": "引眉",
+          "tag": "hikimayu",
+          "link": "https://danbooru.donmai.us/wiki_pages/hikimayu"
+        },
+        {
+          "label": "眉ピアス",
+          "tag": "eyebrow_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyebrow_piercing"
+        },
+        {
+          "label": "眉の剃り込み",
+          "tag": "eyebrow_cut",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyebrow_cut"
+        },
+        {
+          "label": "眉を横切る傷",
+          "tag": "scar_across_eyebrow",
+          "link": "https://danbooru.donmai.us/wiki_pages/scar_across_eyebrow"
+        }
+      ]
+    },
+    {
+      "セクション名": "髪との関係",
+      "タグ一覧": [
+        {
+          "label": "髪に隠れた眉",
+          "tag": "eyebrows_hidden_by_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyebrows_hidden_by_hair"
+        },
+        {
+          "label": "左右で異なる眉",
+          "tag": "mismatched_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/mismatched_eyebrows"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "眉毛がない",
+          "tag": "no_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_eyebrows"
+        },
+        {
+          "label": "非推奨タグについて",
+          "tag": "help:deprecation_notice",
+          "link": "https://danbooru.donmai.us/wiki_pages/help:deprecation_notice"
+        }
+      ]
+    }
+  ]
 }

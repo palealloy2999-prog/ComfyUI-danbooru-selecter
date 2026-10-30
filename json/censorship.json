@@ -1,487 +1,487 @@
 ﻿{
-    "カテゴリID":  "censorship",
-    "カテゴリ名":  "修正・隠し表現",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Acensorship",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "修正の対象・有無",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "修正あり",
-                                         "tag":  "censored",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored"
-                                     },
-                                     {
-                                         "label":  "検閲された背景",
-                                         "tag":  "censored_background",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_background"
-                                     },
-                                     {
-                                         "label":  "検閲された肛門",
-                                         "tag":  "censored_anus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_anus"
-                                     },
-                                     {
-                                         "label":  "修正された乳首",
-                                         "tag":  "censored_nipples",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_nipples"
-                                     },
-                                     {
-                                         "label":  "修正されたクリトリス",
-                                         "tag":  "censored_clitoris",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_clitoris"
-                                     },
-                                     {
-                                         "label":  "検閲された睾丸",
-                                         "tag":  "censored_testicles",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_testicles"
-                                     },
-                                     {
-                                         "label":  "検閲された尿道",
-                                         "tag":  "censored_urethra",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_urethra"
-                                     },
-                                     {
-                                         "label":  "検閲されたジェスチャー",
-                                         "tag":  "censored_gesture",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_gesture"
-                                     },
-                                     {
-                                         "label":  "検閲されたうんち",
-                                         "tag":  "censored_poop",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_poop"
-                                     },
-                                     {
-                                         "label":  "検閲された冒とく語",
-                                         "tag":  "censored_profanity",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_profanity"
-                                     },
-                                     {
-                                         "label":  "検閲された記号",
-                                         "tag":  "censored_symbol",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_symbol"
-                                     },
-                                     {
-                                         "label":  "検閲されたテキスト",
-                                         "tag":  "censored_text",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_text"
-                                     },
-                                     {
-                                         "label":  "黒塗り・情報の削除",
-                                         "tag":  "redaction",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/redaction"
-                                     },
-                                     {
-                                         "label":  "検閲された暴力",
-                                         "tag":  "censored_violence",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_violence"
-                                     },
-                                     {
-                                         "label":  "フェイク検閲",
-                                         "tag":  "fake_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_censor"
-                                     },
-                                     {
-                                         "label":  "バブルフィルター",
-                                         "tag":  "bubble_filter",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bubble_filter"
-                                     },
-                                     {
-                                         "label":  "検閲された眉毛",
-                                         "tag":  "censored_eyebrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_eyebrows"
-                                     },
-                                     {
-                                         "label":  "検閲された足",
-                                         "tag":  "censored_feet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_feet"
-                                     },
-                                     {
-                                         "label":  "検閲された食品",
-                                         "tag":  "censored_food",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_food"
-                                     },
-                                     {
-                                         "label":  "検閲された手",
-                                         "tag":  "censored_hands",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_hands"
-                                     },
-                                     {
-                                         "label":  "検閲された昆虫",
-                                         "tag":  "censored_insect",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_insect"
-                                     },
-                                     {
-                                         "label":  "身元を隠す修正",
-                                         "tag":  "censored_identity",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_identity"
-                                     },
-                                     {
-                                         "label":  "無修正",
-                                         "tag":  "uncensored",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/uncensored"
-                                     },
-                                     {
-                                         "label":  "修正除去済み",
-                                         "tag":  "decensored",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/decensored"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "作中の物で隠す",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "血で隠す",
-                                         "tag":  "blood_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blood_censor"
-                                     },
-                                     {
-                                         "label":  "精液で検閲",
-                                         "tag":  "censored_with_cum",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_with_cum"
-                                     },
-                                     {
-                                         "label":  "作中の物で隠す",
-                                         "tag":  "convenient_censoring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/convenient_censoring"
-                                     },
-                                     {
-                                         "label":  "隠す物が都合よく外れる",
-                                         "tag":  "convenient_uncensoring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/convenient_uncensoring"
-                                     },
-                                     {
-                                         "label":  "腕で都合よく隠す",
-                                         "tag":  "convenient_arm",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/convenient_arm"
-                                     },
-                                     {
-                                         "label":  "頭で都合よく隠す",
-                                         "tag":  "convenient_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/convenient_head"
-                                     },
-                                     {
-                                         "label":  "脚で都合よく隠す",
-                                         "tag":  "convenient_leg",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/convenient_leg"
-                                     },
-                                     {
-                                         "label":  "石鹸で隠す",
-                                         "tag":  "soap_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/soap_censor"
-                                     },
-                                     {
-                                         "label":  "湯気で隠す",
-                                         "tag":  "steam_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/steam_censor"
-                                     },
-                                     {
-                                         "label":  "羽毛で隠す",
-                                         "tag":  "feather_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/feather_censor"
-                                     },
-                                     {
-                                         "label":  "炎で隠す",
-                                         "tag":  "fire_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fire_censor"
-                                     },
-                                     {
-                                         "label":  "花で隠す",
-                                         "tag":  "flower_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_censor"
-                                     },
-                                     {
-                                         "label":  "花びらで隠す",
-                                         "tag":  "petal_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/petal_censor"
-                                     },
-                                     {
-                                         "label":  "食べ物で隠す",
-                                         "tag":  "food_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/food_censor"
-                                     },
-                                     {
-                                         "label":  "髪で隠す",
-                                         "tag":  "hair_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_censor"
-                                     },
-                                     {
-                                         "label":  "タググループ：ヘアスタイル",
-                                         "tag":  "tag_group%3Ahair_styles#dtext-head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles#dtext-head"
-                                     },
-                                     {
-                                         "label":  "光で隠す",
-                                         "tag":  "light_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/light_censor"
-                                     },
-                                     {
-                                         "label":  "ネックレスで隠す",
-                                         "tag":  "necklace_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/necklace_censor"
-                                     },
-                                     {
-                                         "label":  "一本指で自撮りチャレンジ",
-                                         "tag":  "one_finger_selfie_challenge_%28meme%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/one_finger_selfie_challenge_%28meme%29"
-                                     },
-                                     {
-                                         "label":  "リボンで隠す",
-                                         "tag":  "ribbon_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbon_censor"
-                                     },
-                                     {
-                                         "label":  "スライムで隠す",
-                                         "tag":  "slime_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/slime_censor"
-                                     },
-                                     {
-                                         "label":  "煙で隠す",
-                                         "tag":  "smoke_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/smoke_censor"
-                                     },
-                                     {
-                                         "label":  "尻尾で隠す",
-                                         "tag":  "tail_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tail_censor"
-                                     },
-                                     {
-                                         "label":  "触手で隠す",
-                                         "tag":  "tentacle_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tentacle_censor"
-                                     },
-                                     {
-                                         "label":  "水で隠す",
-                                         "tag":  "water_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/water_censor"
-                                     },
-                                     {
-                                         "label":  "翼で隠す",
-                                         "tag":  "wing_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_censor"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "画像上の修正",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "フェイクスクロールバー",
-                                         "tag":  "fake_scrollbar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_scrollbar"
-                                     },
-                                     {
-                                         "label":  "フレーム外検閲",
-                                         "tag":  "out-of-frame_censoring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/out-of-frame_censoring"
-                                     },
-                                     {
-                                         "label":  "修正あり",
-                                         "tag":  "censored",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored"
-                                     },
-                                     {
-                                         "label":  "棒状の修正",
-                                         "tag":  "bar_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bar_censor"
-                                     },
-                                     {
-                                         "label":  "空白の検閲",
-                                         "tag":  "blank_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blank_censor"
-                                     },
-                                     {
-                                         "label":  "ぼかし修正",
-                                         "tag":  "blur_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blur_censor"
-                                     },
-                                     {
-                                         "label":  "テキストによる検閲",
-                                         "tag":  "censored_by_text",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored_by_text"
-                                     },
-                                     {
-                                         "label":  "絵文字検閲",
-                                         "tag":  "emoji_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/emoji_censor"
-                                     },
-                                     {
-                                         "label":  "花で隠す",
-                                         "tag":  "flower_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_censor"
-                                     },
-                                     {
-                                         "label":  "グリッチ検閲",
-                                         "tag":  "glitch_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/glitch_censor"
-                                     },
-                                     {
-                                         "label":  "ハートで隠す",
-                                         "tag":  "heart_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_censor"
-                                     },
-                                     {
-                                         "label":  "光で隠す",
-                                         "tag":  "light_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/light_censor"
-                                     },
-                                     {
-                                         "label":  "新奇性検閲官",
-                                         "tag":  "novelty_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/novelty_censor"
-                                     },
-                                     {
-                                         "label":  "これを表示できません",
-                                         "tag":  "can%27t_show_this_%28meme%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/can%27t_show_this_%28meme%29"
-                                     },
-                                     {
-                                         "label":  "キャラクターで隠す",
-                                         "tag":  "character_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_censor"
-                                     },
-                                     {
-                                         "label":  "インターフェース検閲（",
-                                         "tag":  "interface_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/interface_censor"
-                                     },
-                                     {
-                                         "label":  "プレイエリア外",
-                                         "tag":  "outside_of_play_area",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/outside_of_play_area"
-                                     },
-                                     {
-                                         "label":  "笑う男",
-                                         "tag":  "laughing_man_%28gits%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/laughing_man_%28gits%29"
-                                     },
-                                     {
-                                         "label":  "Patreonのロゴ検閲",
-                                         "tag":  "patreon_logo_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/patreon_logo_censor"
-                                     },
-                                     {
-                                         "label":  "ウサギで隠す",
-                                         "tag":  "rabbit_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rabbit_censor"
-                                     },
-                                     {
-                                         "label":  "テープで隠す",
-                                         "tag":  "tape_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tape_censor"
-                                     },
-                                     {
-                                         "label":  "宝マーク検閲官",
-                                         "tag":  "treasure_mark_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/treasure_mark_censor"
-                                     },
-                                     {
-                                         "label":  "落書きで隠す",
-                                         "tag":  "scribble_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scribble_censor"
-                                     },
-                                     {
-                                         "label":  "影で隠す",
-                                         "tag":  "shadow_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shadow_censor"
-                                     },
-                                     {
-                                         "label":  "シルエットで隠す",
-                                         "tag":  "silhouette_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/silhouette_censor"
-                                     },
-                                     {
-                                         "label":  "きらめきで隠す",
-                                         "tag":  "sparkle_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sparkle_censor"
-                                     },
-                                     {
-                                         "label":  "吹き出しで隠す",
-                                         "tag":  "speech_bubble_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/speech_bubble_censor"
-                                     },
-                                     {
-                                         "label":  "星形で隠す",
-                                         "tag":  "star_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/star_censor"
-                                     },
-                                     {
-                                         "label":  "ぼかし修正",
-                                         "tag":  "blur_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blur_censor"
-                                     },
-                                     {
-                                         "label":  "チェッカー検閲官",
-                                         "tag":  "checkered_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/checkered_censor"
-                                     },
-                                     {
-                                         "label":  "修正の不統一",
-                                         "tag":  "inconsistent_censoring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/inconsistent_censoring"
-                                     },
-                                     {
-                                         "label":  "モザイク修正",
-                                         "tag":  "mosaic_censoring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mosaic_censoring"
-                                     },
-                                     {
-                                         "label":  "意味のない修正",
-                                         "tag":  "pointless_censoring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pointless_censoring"
-                                     },
-                                     {
-                                         "label":  "除去可能な修正",
-                                         "tag":  "removable_censorship",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/removable_censorship"
-                                     },
-                                     {
-                                         "label":  "反転色検閲",
-                                         "tag":  "invert_color_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/invert_color_censor"
-                                     },
-                                     {
-                                         "label":  "透ける修正",
-                                         "tag":  "transparent_censoring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/transparent_censoring"
-                                     },
-                                     {
-                                         "label":  "棒状の修正",
-                                         "tag":  "bar_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bar_censor"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "音声の修正",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "伏せ音",
-                                         "tag":  "bleep_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bleep_censor"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "参照",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "修正版あり",
-                                         "tag":  "has_censored_revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/has_censored_revision"
-                                     },
-                                     {
-                                         "label":  "ヌードフィルター",
-                                         "tag":  "nude_filter",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nude_filter"
-                                     },
-                                     {
-                                         "label":  "タググループ：体を覆う・隠す",
-                                         "tag":  "tag_group%3Acovering",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Acovering"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "censorship",
+  "カテゴリ名": "修正・隠し表現",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Acensorship",
+  "セクション一覧": [
+    {
+      "セクション名": "修正の対象・有無",
+      "タグ一覧": [
+        {
+          "label": "修正あり",
+          "tag": "censored",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored"
+        },
+        {
+          "label": "検閲された背景",
+          "tag": "censored_background",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_background"
+        },
+        {
+          "label": "検閲された肛門",
+          "tag": "censored_anus",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_anus"
+        },
+        {
+          "label": "修正された乳首",
+          "tag": "censored_nipples",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_nipples"
+        },
+        {
+          "label": "修正されたクリトリス",
+          "tag": "censored_clitoris",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_clitoris"
+        },
+        {
+          "label": "検閲された睾丸",
+          "tag": "censored_testicles",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_testicles"
+        },
+        {
+          "label": "検閲された尿道",
+          "tag": "censored_urethra",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_urethra"
+        },
+        {
+          "label": "検閲されたジェスチャー",
+          "tag": "censored_gesture",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_gesture"
+        },
+        {
+          "label": "検閲されたうんち",
+          "tag": "censored_poop",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_poop"
+        },
+        {
+          "label": "検閲された冒とく語",
+          "tag": "censored_profanity",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_profanity"
+        },
+        {
+          "label": "検閲された記号",
+          "tag": "censored_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_symbol"
+        },
+        {
+          "label": "検閲されたテキスト",
+          "tag": "censored_text",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_text"
+        },
+        {
+          "label": "黒塗り・情報の削除",
+          "tag": "redaction",
+          "link": "https://danbooru.donmai.us/wiki_pages/redaction"
+        },
+        {
+          "label": "検閲された暴力",
+          "tag": "censored_violence",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_violence"
+        },
+        {
+          "label": "フェイク検閲",
+          "tag": "fake_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_censor"
+        },
+        {
+          "label": "バブルフィルター",
+          "tag": "bubble_filter",
+          "link": "https://danbooru.donmai.us/wiki_pages/bubble_filter"
+        },
+        {
+          "label": "検閲された眉毛",
+          "tag": "censored_eyebrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_eyebrows"
+        },
+        {
+          "label": "検閲された足",
+          "tag": "censored_feet",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_feet"
+        },
+        {
+          "label": "検閲された食品",
+          "tag": "censored_food",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_food"
+        },
+        {
+          "label": "検閲された手",
+          "tag": "censored_hands",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_hands"
+        },
+        {
+          "label": "検閲された昆虫",
+          "tag": "censored_insect",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_insect"
+        },
+        {
+          "label": "身元を隠す修正",
+          "tag": "censored_identity",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_identity"
+        },
+        {
+          "label": "無修正",
+          "tag": "uncensored",
+          "link": "https://danbooru.donmai.us/wiki_pages/uncensored"
+        },
+        {
+          "label": "修正除去済み",
+          "tag": "decensored",
+          "link": "https://danbooru.donmai.us/wiki_pages/decensored"
+        }
+      ]
+    },
+    {
+      "セクション名": "作中の物で隠す",
+      "タグ一覧": [
+        {
+          "label": "血で隠す",
+          "tag": "blood_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/blood_censor"
+        },
+        {
+          "label": "精液で検閲",
+          "tag": "censored_with_cum",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_with_cum"
+        },
+        {
+          "label": "作中の物で隠す",
+          "tag": "convenient_censoring",
+          "link": "https://danbooru.donmai.us/wiki_pages/convenient_censoring"
+        },
+        {
+          "label": "隠す物が都合よく外れる",
+          "tag": "convenient_uncensoring",
+          "link": "https://danbooru.donmai.us/wiki_pages/convenient_uncensoring"
+        },
+        {
+          "label": "腕で都合よく隠す",
+          "tag": "convenient_arm",
+          "link": "https://danbooru.donmai.us/wiki_pages/convenient_arm"
+        },
+        {
+          "label": "頭で都合よく隠す",
+          "tag": "convenient_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/convenient_head"
+        },
+        {
+          "label": "脚で都合よく隠す",
+          "tag": "convenient_leg",
+          "link": "https://danbooru.donmai.us/wiki_pages/convenient_leg"
+        },
+        {
+          "label": "石鹸で隠す",
+          "tag": "soap_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/soap_censor"
+        },
+        {
+          "label": "湯気で隠す",
+          "tag": "steam_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/steam_censor"
+        },
+        {
+          "label": "羽毛で隠す",
+          "tag": "feather_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/feather_censor"
+        },
+        {
+          "label": "炎で隠す",
+          "tag": "fire_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/fire_censor"
+        },
+        {
+          "label": "花で隠す",
+          "tag": "flower_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower_censor"
+        },
+        {
+          "label": "花びらで隠す",
+          "tag": "petal_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/petal_censor"
+        },
+        {
+          "label": "食べ物で隠す",
+          "tag": "food_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/food_censor"
+        },
+        {
+          "label": "髪で隠す",
+          "tag": "hair_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_censor"
+        },
+        {
+          "label": "タググループ：ヘアスタイル",
+          "tag": "tag_group%3Ahair_styles#dtext-head",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles#dtext-head"
+        },
+        {
+          "label": "光で隠す",
+          "tag": "light_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/light_censor"
+        },
+        {
+          "label": "ネックレスで隠す",
+          "tag": "necklace_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/necklace_censor"
+        },
+        {
+          "label": "一本指で自撮りチャレンジ",
+          "tag": "one_finger_selfie_challenge_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/one_finger_selfie_challenge_%28meme%29"
+        },
+        {
+          "label": "リボンで隠す",
+          "tag": "ribbon_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbon_censor"
+        },
+        {
+          "label": "スライムで隠す",
+          "tag": "slime_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/slime_censor"
+        },
+        {
+          "label": "煙で隠す",
+          "tag": "smoke_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/smoke_censor"
+        },
+        {
+          "label": "尻尾で隠す",
+          "tag": "tail_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/tail_censor"
+        },
+        {
+          "label": "触手で隠す",
+          "tag": "tentacle_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/tentacle_censor"
+        },
+        {
+          "label": "水で隠す",
+          "tag": "water_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/water_censor"
+        },
+        {
+          "label": "翼で隠す",
+          "tag": "wing_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/wing_censor"
+        }
+      ]
+    },
+    {
+      "セクション名": "画像上の修正",
+      "タグ一覧": [
+        {
+          "label": "フェイクスクロールバー",
+          "tag": "fake_scrollbar",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_scrollbar"
+        },
+        {
+          "label": "フレーム外検閲",
+          "tag": "out-of-frame_censoring",
+          "link": "https://danbooru.donmai.us/wiki_pages/out-of-frame_censoring"
+        },
+        {
+          "label": "修正あり",
+          "tag": "censored",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored"
+        },
+        {
+          "label": "棒状の修正",
+          "tag": "bar_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/bar_censor"
+        },
+        {
+          "label": "空白の検閲",
+          "tag": "blank_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/blank_censor"
+        },
+        {
+          "label": "ぼかし修正",
+          "tag": "blur_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/blur_censor"
+        },
+        {
+          "label": "テキストによる検閲",
+          "tag": "censored_by_text",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored_by_text"
+        },
+        {
+          "label": "絵文字検閲",
+          "tag": "emoji_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/emoji_censor"
+        },
+        {
+          "label": "花で隠す",
+          "tag": "flower_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower_censor"
+        },
+        {
+          "label": "グリッチ検閲",
+          "tag": "glitch_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/glitch_censor"
+        },
+        {
+          "label": "ハートで隠す",
+          "tag": "heart_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_censor"
+        },
+        {
+          "label": "光で隠す",
+          "tag": "light_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/light_censor"
+        },
+        {
+          "label": "新奇性検閲官",
+          "tag": "novelty_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/novelty_censor"
+        },
+        {
+          "label": "これを表示できません",
+          "tag": "can%27t_show_this_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/can%27t_show_this_%28meme%29"
+        },
+        {
+          "label": "キャラクターで隠す",
+          "tag": "character_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/character_censor"
+        },
+        {
+          "label": "インターフェース検閲（",
+          "tag": "interface_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/interface_censor"
+        },
+        {
+          "label": "プレイエリア外",
+          "tag": "outside_of_play_area",
+          "link": "https://danbooru.donmai.us/wiki_pages/outside_of_play_area"
+        },
+        {
+          "label": "笑う男",
+          "tag": "laughing_man_%28gits%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/laughing_man_%28gits%29"
+        },
+        {
+          "label": "Patreonのロゴ検閲",
+          "tag": "patreon_logo_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/patreon_logo_censor"
+        },
+        {
+          "label": "ウサギで隠す",
+          "tag": "rabbit_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit_censor"
+        },
+        {
+          "label": "テープで隠す",
+          "tag": "tape_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/tape_censor"
+        },
+        {
+          "label": "宝マーク検閲官",
+          "tag": "treasure_mark_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/treasure_mark_censor"
+        },
+        {
+          "label": "落書きで隠す",
+          "tag": "scribble_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/scribble_censor"
+        },
+        {
+          "label": "影で隠す",
+          "tag": "shadow_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/shadow_censor"
+        },
+        {
+          "label": "シルエットで隠す",
+          "tag": "silhouette_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/silhouette_censor"
+        },
+        {
+          "label": "きらめきで隠す",
+          "tag": "sparkle_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/sparkle_censor"
+        },
+        {
+          "label": "吹き出しで隠す",
+          "tag": "speech_bubble_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/speech_bubble_censor"
+        },
+        {
+          "label": "星形で隠す",
+          "tag": "star_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_censor"
+        },
+        {
+          "label": "ぼかし修正",
+          "tag": "blur_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/blur_censor"
+        },
+        {
+          "label": "チェッカー検閲官",
+          "tag": "checkered_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_censor"
+        },
+        {
+          "label": "修正の不統一",
+          "tag": "inconsistent_censoring",
+          "link": "https://danbooru.donmai.us/wiki_pages/inconsistent_censoring"
+        },
+        {
+          "label": "モザイク修正",
+          "tag": "mosaic_censoring",
+          "link": "https://danbooru.donmai.us/wiki_pages/mosaic_censoring"
+        },
+        {
+          "label": "意味のない修正",
+          "tag": "pointless_censoring",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointless_censoring"
+        },
+        {
+          "label": "除去可能な修正",
+          "tag": "removable_censorship",
+          "link": "https://danbooru.donmai.us/wiki_pages/removable_censorship"
+        },
+        {
+          "label": "反転色検閲",
+          "tag": "invert_color_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/invert_color_censor"
+        },
+        {
+          "label": "透ける修正",
+          "tag": "transparent_censoring",
+          "link": "https://danbooru.donmai.us/wiki_pages/transparent_censoring"
+        },
+        {
+          "label": "棒状の修正",
+          "tag": "bar_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/bar_censor"
+        }
+      ]
+    },
+    {
+      "セクション名": "音声の修正",
+      "タグ一覧": [
+        {
+          "label": "伏せ音",
+          "tag": "bleep_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/bleep_censor"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "修正版あり",
+          "tag": "has_censored_revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/has_censored_revision"
+        },
+        {
+          "label": "ヌードフィルター",
+          "tag": "nude_filter",
+          "link": "https://danbooru.donmai.us/wiki_pages/nude_filter"
+        },
+        {
+          "label": "タググループ：体を覆う・隠す",
+          "tag": "tag_group%3Acovering",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acovering"
+        }
+      ]
+    }
+  ]
 }

@@ -1,877 +1,877 @@
 ﻿{
-    "カテゴリID":  "hair_styles",
-    "カテゴリ名":  "ヘアスタイル",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Ahair_styles",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "長さとボリューム",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "とても短い髪",
-                                         "tag":  "very_short_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/very_short_hair"
-                                     },
-                                     {
-                                         "label":  "ショートヘア",
-                                         "tag":  "short_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short_hair"
-                                     },
-                                     {
-                                         "label":  "ミディアムヘア",
-                                         "tag":  "medium_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/medium_hair"
-                                     },
-                                     {
-                                         "label":  "長い髪",
-                                         "tag":  "long_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/long_hair"
-                                     },
-                                     {
-                                         "label":  "とても長い髪",
-                                         "tag":  "very_long_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/very_long_hair"
-                                     },
-                                     {
-                                         "label":  "途方もなく長い髪",
-                                         "tag":  "absurdly_long_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/absurdly_long_hair"
-                                     },
-                                     {
-                                         "label":  "大きな髪",
-                                         "tag":  "big_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/big_hair"
-                                     },
-                                     {
-                                         "label":  "ハゲ",
-                                         "tag":  "bald",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bald"
-                                     },
-                                     {
-                                         "label":  "ハゲの女性",
-                                         "tag":  "bald_female",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bald_female"
-                                     },
-                                     {
-                                         "label":  "はげ",
-                                         "tag":  "balding",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/balding"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "非常に短い髪",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "坊主",
-                                         "tag":  "buzz_cut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/buzz_cut"
-                                     },
-                                     {
-                                         "label":  "クルーカット",
-                                         "tag":  "crew_cut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crew_cut"
-                                     },
-                                     {
-                                         "label":  "ピクシーカット",
-                                         "tag":  "pixie_cut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pixie_cut"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ショートヘア",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ボブカット",
-                                         "tag":  "bob_cut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bob_cut"
-                                     },
-                                     {
-                                         "label":  "逆ボブ",
-                                         "tag":  "inverted_bob",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/inverted_bob"
-                                     },
-                                     {
-                                         "label":  "ボウルカット",
-                                         "tag":  "bowl_cut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bowl_cut"
-                                     },
-                                     {
-                                         "label":  "アンダーカット",
-                                         "tag":  "undercut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/undercut"
-                                     },
-                                     {
-                                         "label":  "フラットトップ",
-                                         "tag":  "flattop",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flattop"
-                                     },
-                                     {
-                                         "label":  "ちょんまげ",
-                                         "tag":  "chonmage",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chonmage"
-                                     },
-                                     {
-                                         "label":  "分け目のある髪",
-                                         "tag":  "parted_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/parted_hair"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ミディアムヘア",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "逆立った髪",
-                                         "tag":  "flipped_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flipped_hair"
-                                     },
-                                     {
-                                         "label":  "ウルフカット",
-                                         "tag":  "wolf_cut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wolf_cut"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "長い髪",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "姫カット",
-                                         "tag":  "hime_cut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hime_cut"
-                                     },
-                                     {
-                                         "label":  "マレットヘア",
-                                         "tag":  "mullet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mullet"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "結んだ髪",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "バンツーノット",
-                                         "tag":  "bantu_knots",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bantu_knots"
-                                     },
-                                     {
-                                         "label":  "リボン形の髪",
-                                         "tag":  "bow-shaped_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bow-shaped_hair"
-                                     },
-                                     {
-                                         "label":  "双耶寺",
-                                         "tag":  "shuangyaji",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shuangyaji"
-                                     },
-                                     {
-                                         "label":  "四つ葉のクローバーのヘアスタイル",
-                                         "tag":  "four_leaf_clover_hairstyle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/four_leaf_clover_hairstyle"
-                                     },
-                                     {
-                                         "label":  "ウサギの髪型",
-                                         "tag":  "rabbit_hairstyle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rabbit_hairstyle"
-                                     },
-                                     {
-                                         "label":  "三つ編み",
-                                         "tag":  "braid",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/braid"
-                                     },
-                                     {
-                                         "label":  "編み込み前髪",
-                                         "tag":  "braided_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/braided_bangs"
-                                     },
-                                     {
-                                         "label":  "フロントブレード",
-                                         "tag":  "front_braid",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/front_braid"
-                                     },
-                                     {
-                                         "label":  "サイドブレイド",
-                                         "tag":  "side_braid",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/side_braid"
-                                     },
-                                     {
-                                         "label":  "クラウンブレード",
-                                         "tag":  "crown_braid",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crown_braid"
-                                     },
-                                     {
-                                         "label":  "シングルブレイド",
-                                         "tag":  "single_braid",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_braid"
-                                     },
-                                     {
-                                         "label":  "複数の編み込み",
-                                         "tag":  "multiple_braids",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_braids"
-                                     },
-                                     {
-                                         "label":  "ツインブレイド",
-                                         "tag":  "twin_braids",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/twin_braids"
-                                     },
-                                     {
-                                         "label":  "ローツインブレイド",
-                                         "tag":  "low_twin_braids",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/low_twin_braids"
-                                     },
-                                     {
-                                         "label":  "三本の三つ編み",
-                                         "tag":  "tri_braids",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tri_braids"
-                                     },
-                                     {
-                                         "label":  "四本の三つ編み",
-                                         "tag":  "quad_braids",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/quad_braids"
-                                     },
-                                     {
-                                         "label":  "アフリカの三つ編み",
-                                         "tag":  "african_braids",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/african_braids"
-                                     },
-                                     {
-                                         "label":  "コーンロウ",
-                                         "tag":  "cornrows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cornrows"
-                                     },
-                                     {
-                                         "label":  "ドレッドヘア",
-                                         "tag":  "dreadlocks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dreadlocks"
-                                     },
-                                     {
-                                         "label":  "花の形をした髪",
-                                         "tag":  "flower-shaped_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower-shaped_hair"
-                                     },
-                                     {
-                                         "label":  "おだんごヘア",
-                                         "tag":  "hair_bun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_bun"
-                                     },
-                                     {
-                                         "label":  "編み込みのお団子",
-                                         "tag":  "braided_bun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/braided_bun"
-                                     },
-                                     {
-                                         "label":  "一つのお団子",
-                                         "tag":  "single_hair_bun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_hair_bun"
-                                     },
-                                     {
-                                         "label":  "二つのお団子",
-                                         "tag":  "double_bun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/double_bun"
-                                     },
-                                     {
-                                         "label":  "コーンヘアのおだんご",
-                                         "tag":  "cone_hair_bun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cone_hair_bun"
-                                     },
-                                     {
-                                         "label":  "ドーナツヘアのおだんご",
-                                         "tag":  "donut_hair_bun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/donut_hair_bun"
-                                     },
-                                     {
-                                         "label":  "ハートのおだんごヘア",
-                                         "tag":  "heart_hair_bun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_hair_bun"
-                                     },
-                                     {
-                                         "label":  "三つのお団子",
-                                         "tag":  "triple_bun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/triple_bun"
-                                     },
-                                     {
-                                         "label":  "コーンヘアのおだんご",
-                                         "tag":  "cone_hair_bun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cone_hair_bun"
-                                     },
-                                     {
-                                         "label":  "ヘアリング",
-                                         "tag":  "hair_rings",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_rings"
-                                     },
-                                     {
-                                         "label":  "飛仙寺",
-                                         "tag":  "feixianji_%28hairstyle%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/feixianji_%28hairstyle%29"
-                                     },
-                                     {
-                                         "label":  "勝山髷",
-                                         "tag":  "katsuyamamage",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/katsuyamamage"
-                                     },
-                                     {
-                                         "label":  "シングルヘアリング",
-                                         "tag":  "single_hair_ring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_hair_ring"
-                                     },
-                                     {
-                                         "label":  "ハーフアップ",
-                                         "tag":  "half_updo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/half_updo"
-                                     },
-                                     {
-                                         "label":  "ハーフアップ三つ編み",
-                                         "tag":  "half_up_braid",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/half_up_braid"
-                                     },
-                                     {
-                                         "label":  "ハーフアップハーフダウン三つ編み",
-                                         "tag":  "half_up_half_down_braid",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/half_up_half_down_braid"
-                                     },
-                                     {
-                                         "label":  "ワンサイドアップ",
-                                         "tag":  "one_side_up",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/one_side_up"
-                                     },
-                                     {
-                                         "label":  "ツーサイドアップ",
-                                         "tag":  "two_side_up",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/two_side_up"
-                                     },
-                                     {
-                                         "label":  "低い位置で編んだ長い髪",
-                                         "tag":  "low-braided_long_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/low-braided_long_hair"
-                                     },
-                                     {
-                                         "label":  "低く結んだ長い髪",
-                                         "tag":  "low-tied_long_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/low-tied_long_hair"
-                                     },
-                                     {
-                                         "label":  "みずら",
-                                         "tag":  "mizura",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mizura"
-                                     },
-                                     {
-                                         "label":  "多重に結んだ髪",
-                                         "tag":  "multi-tied_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multi-tied_hair"
-                                     },
-                                     {
-                                         "label":  "日本髪",
-                                         "tag":  "nihongami",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nihongami"
-                                     },
-                                     {
-                                         "label":  "ポニーテール",
-                                         "tag":  "ponytail",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ponytail"
-                                     },
-                                     {
-                                         "label":  "折り畳んだポニーテール",
-                                         "tag":  "folded_ponytail",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/folded_ponytail"
-                                     },
-                                     {
-                                         "label":  "フロントポニーテール",
-                                         "tag":  "front_ponytail",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/front_ponytail"
-                                     },
-                                     {
-                                         "label":  "ハイポニーテール",
-                                         "tag":  "high_ponytail",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/high_ponytail"
-                                     },
-                                     {
-                                         "label":  "ショートポニーテール",
-                                         "tag":  "short_ponytail",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short_ponytail"
-                                     },
-                                     {
-                                         "label":  "サイドポニーテール",
-                                         "tag":  "side_ponytail",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/side_ponytail"
-                                     },
-                                     {
-                                         "label":  "スプリットポニーテール",
-                                         "tag":  "split_ponytail",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/split_ponytail"
-                                     },
-                                     {
-                                         "label":  "星型の髪",
-                                         "tag":  "star-shaped_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/star-shaped_hair"
-                                     },
-                                     {
-                                         "label":  "ちょんまげ",
-                                         "tag":  "topknot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/topknot"
-                                     },
-                                     {
-                                         "label":  "ツインテール",
-                                         "tag":  "twintails",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/twintails"
-                                     },
-                                     {
-                                         "label":  "低いツインテール",
-                                         "tag":  "low_twintails",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/low_twintails"
-                                     },
-                                     {
-                                         "label":  "短いツインテール",
-                                         "tag":  "short_twintails",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short_twintails"
-                                     },
-                                     {
-                                         "label":  "不揃いなツインテール",
-                                         "tag":  "uneven_twintails",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/uneven_twintails"
-                                     },
-                                     {
-                                         "label":  "三つ結び",
-                                         "tag":  "tri_tails",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tri_tails"
-                                     },
-                                     {
-                                         "label":  "四つ結び",
-                                         "tag":  "quad_tails",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/quad_tails"
-                                     },
-                                     {
-                                         "label":  "五つ結び",
-                                         "tag":  "quin_tails",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/quin_tails"
-                                     },
-                                     {
-                                         "label":  "ねじれた髪",
-                                         "tag":  "twisted_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/twisted_hair"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "高さのある髪型",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アフロ",
-                                         "tag":  "afro",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/afro"
-                                     },
-                                     {
-                                         "label":  "巨大なアフロ",
-                                         "tag":  "huge_afro",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/huge_afro"
-                                     },
-                                     {
-                                         "label":  "ビーハイブヘアスタイル",
-                                         "tag":  "beehive_hairdo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/beehive_hairdo"
-                                     },
-                                     {
-                                         "label":  "とさか状の髪",
-                                         "tag":  "crested_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crested_hair"
-                                     },
-                                     {
-                                         "label":  "梁波頭",
-                                         "tag":  "liangbatou",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/liangbatou"
-                                     },
-                                     {
-                                         "label":  "ポンパドール",
-                                         "tag":  "pompadour",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pompadour"
-                                     },
-                                     {
-                                         "label":  "クイフ",
-                                         "tag":  "quiff",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/quiff"
-                                     },
-                                     {
-                                         "label":  "昇天ペガサスMIX盛り",
-                                         "tag":  "shouten_pegasus_mix_mori",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shouten_pegasus_mix_mori"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "髪質",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "巻き毛",
-                                         "tag":  "curly_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/curly_hair"
-                                     },
-                                     {
-                                         "label":  "ドリルヘア",
-                                         "tag":  "drill_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/drill_hair"
-                                     },
-                                     {
-                                         "label":  "ツインドリル",
-                                         "tag":  "twin_drills",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/twin_drills"
-                                     },
-                                     {
-                                         "label":  "三本のドリルヘア",
-                                         "tag":  "tri_drills",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tri_drills"
-                                     },
-                                     {
-                                         "label":  "ヘアフラップ",
-                                         "tag":  "hair_flaps",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_flaps"
-                                     },
-                                     {
-                                         "label":  "乱れた髪",
-                                         "tag":  "messy_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/messy_hair"
-                                     },
-                                     {
-                                         "label":  "尖った髪",
-                                         "tag":  "pointy_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pointy_hair"
-                                     },
-                                     {
-                                         "label":  "リングレット",
-                                         "tag":  "ringlets",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ringlets"
-                                     },
-                                     {
-                                         "label":  "スパイクヘア",
-                                         "tag":  "spiked_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/spiked_hair"
-                                     },
-                                     {
-                                         "label":  "ストレートヘア",
-                                         "tag":  "straight_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/straight_hair"
-                                     },
-                                     {
-                                         "label":  "ウェーブヘア",
-                                         "tag":  "wavy_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wavy_hair"
-                                     },
-                                     {
-                                         "label":  "ふわふわの髪",
-                                         "tag":  "fluffy_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fluffy_hair"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "前髪・顔まわり",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "前髪",
-                                         "tag":  "bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bangs"
-                                     },
-                                     {
-                                         "label":  "アーチ型前髪",
-                                         "tag":  "arched_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/arched_bangs"
-                                     },
-                                     {
-                                         "label":  "非対称の前髪",
-                                         "tag":  "asymmetrical_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/asymmetrical_bangs"
-                                     },
-                                     {
-                                         "label":  "前髪を後ろに留める",
-                                         "tag":  "bangs_pinned_back",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bangs_pinned_back"
-                                     },
-                                     {
-                                         "label":  "ぱっつん前髪",
-                                         "tag":  "blunt_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blunt_bangs"
-                                     },
-                                     {
-                                         "label":  "編み込み前髪",
-                                         "tag":  "braided_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/braided_bangs"
-                                     },
-                                     {
-                                         "label":  "クロスした前髪",
-                                         "tag":  "crossed_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crossed_bangs"
-                                     },
-                                     {
-                                         "label":  "不揃いな前髪",
-                                         "tag":  "choppy_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/choppy_bangs"
-                                     },
-                                     {
-                                         "label":  "薄い前髪",
-                                         "tag":  "wispy_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wispy_bangs"
-                                     },
-                                     {
-                                         "label":  "斜め前髪",
-                                         "tag":  "diagonal_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/diagonal_bangs"
-                                     },
-                                     {
-                                         "label":  "牙のある前髪",
-                                         "tag":  "fanged_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fanged_bangs"
-                                     },
-                                     {
-                                         "label":  "短い前髪",
-                                         "tag":  "short_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short_bangs"
-                                     },
-                                     {
-                                         "label":  "長い前髪",
-                                         "tag":  "long_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/long_bangs"
-                                     },
-                                     {
-                                         "label":  "目の間の毛",
-                                         "tag":  "hair_between_eyes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_between_eyes"
-                                     },
-                                     {
-                                         "label":  "片目を覆う髪",
-                                         "tag":  "hair_over_one_eye",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_over_one_eye"
-                                     },
-                                     {
-                                         "label":  "目を覆う髪",
-                                         "tag":  "hair_over_eyes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_over_eyes"
-                                     },
-                                     {
-                                         "label":  "分け目のある前髪",
-                                         "tag":  "parted_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/parted_bangs"
-                                     },
-                                     {
-                                         "label":  "カーテンヘア",
-                                         "tag":  "curtained_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/curtained_hair"
-                                     },
-                                     {
-                                         "label":  "流した前髪",
-                                         "tag":  "swept_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/swept_bangs"
-                                     },
-                                     {
-                                         "label":  "カラー前髪",
-                                         "tag":  "colored_bangs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/colored_bangs"
-                                     },
-                                     {
-                                         "label":  "ヘアインテーク",
-                                         "tag":  "hair_intakes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_intakes"
-                                     },
-                                     {
-                                         "label":  "一本ヘアインテーク",
-                                         "tag":  "single_hair_intake",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_hair_intake"
-                                     },
-                                     {
-                                         "label":  "サイドロック",
-                                         "tag":  "sidelocks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sidelocks"
-                                     },
-                                     {
-                                         "label":  "非対称のサイドロック",
-                                         "tag":  "asymmetrical_sidelocks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/asymmetrical_sidelocks"
-                                     },
-                                     {
-                                         "label":  "ドリルサイドロック",
-                                         "tag":  "drill_sidelocks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/drill_sidelocks"
-                                     },
-                                     {
-                                         "label":  "低く結んだサイドロック",
-                                         "tag":  "low-tied_sidelocks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/low-tied_sidelocks"
-                                     },
-                                     {
-                                         "label":  "サイドロックを後ろに結ぶ",
-                                         "tag":  "sidelocks_tied_back",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sidelocks_tied_back"
-                                     },
-                                     {
-                                         "label":  "シングルサイドロック",
-                                         "tag":  "single_sidelock",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_sidelock"
-                                     },
-                                     {
-                                         "label":  "富士額",
-                                         "tag":  "widow%27s_peak",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/widow%27s_peak"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "頭頂部",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アホ毛",
-                                         "tag":  "ahoge",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ahoge"
-                                     },
-                                     {
-                                         "label":  "ハートアホ毛",
-                                         "tag":  "heart_ahoge",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_ahoge"
-                                     },
-                                     {
-                                         "label":  "巨大なアホ毛",
-                                         "tag":  "huge_ahoge",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/huge_ahoge"
-                                     },
-                                     {
-                                         "label":  "アンテナヘア",
-                                         "tag":  "antenna_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/antenna_hair"
-                                     },
-                                     {
-                                         "label":  "ハートアンテナヘア",
-                                         "tag":  "heart_antenna_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_antenna_hair"
-                                     },
-                                     {
-                                         "label":  "片側からかぶせた髪",
-                                         "tag":  "comb_over",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/comb_over"
-                                     },
-                                     {
-                                         "label":  "髪を後ろに引っ張った",
-                                         "tag":  "hair_pulled_back",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_pulled_back"
-                                     },
-                                     {
-                                         "label":  "髪を後ろになでつけた",
-                                         "tag":  "hair_slicked_back",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_slicked_back"
-                                     },
-                                     {
-                                         "label":  "モヒカン",
-                                         "tag":  "mohawk",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mohawk"
-                                     },
-                                     {
-                                         "label":  "オセレデッツ",
-                                         "tag":  "oseledets",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/oseledets"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "後頭部",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "うなじの一本毛",
-                                         "tag":  "lone_nape_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lone_nape_hair"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "体を覆う頭髪",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ヘアビキニ",
-                                         "tag":  "hair_bikini",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_bikini"
-                                     },
-                                     {
-                                         "label":  "髪で隠す",
-                                         "tag":  "hair_censor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_censor"
-                                     },
-                                     {
-                                         "label":  "自分の口の中に髪の毛が入っている",
-                                         "tag":  "hair_in_own_mouth",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_in_own_mouth"
-                                     },
-                                     {
-                                         "label":  "胸の上の髪",
-                                         "tag":  "hair_over_breasts",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_over_breasts"
-                                     },
-                                     {
-                                         "label":  "片方の胸にかかる髪",
-                                         "tag":  "hair_over_one_breast",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_over_one_breast"
-                                     },
-                                     {
-                                         "label":  "股間の上の髪",
-                                         "tag":  "hair_over_crotch",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_over_crotch"
-                                     },
-                                     {
-                                         "label":  "肩にかかる髪",
-                                         "tag":  "hair_over_shoulder",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_over_shoulder"
-                                     },
-                                     {
-                                         "label":  "ヘアスカーフ",
-                                         "tag":  "hair_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_scarf"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "髪型変更",
-                                         "tag":  "alternate_hairstyle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_hairstyle"
-                                     },
-                                     {
-                                         "label":  "髪を下ろす",
-                                         "tag":  "hair_down",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_down"
-                                     },
-                                     {
-                                         "label":  "髪をアップにする",
-                                         "tag":  "hair_up",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hair_up"
-                                     },
-                                     {
-                                         "label":  "非対称の髪",
-                                         "tag":  "asymmetrical_hair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/asymmetrical_hair"
-                                     },
-                                     {
-                                         "label":  "サイドカット",
-                                         "tag":  "sidecut",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sidecut"
-                                     },
-                                     {
-                                         "label":  "切りそろえた毛先",
-                                         "tag":  "blunt_ends",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blunt_ends"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "関連タググループ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "タググループ：髪",
-                                         "tag":  "tag_group%3Ahair",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair"
-                                     },
-                                     {
-                                         "label":  "タググループ：髪の色",
-                                         "tag":  "tag_group%3Ahair_color",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_color"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "hair_styles",
+  "カテゴリ名": "ヘアスタイル",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Ahair_styles",
+  "セクション一覧": [
+    {
+      "セクション名": "長さとボリューム",
+      "タグ一覧": [
+        {
+          "label": "とても短い髪",
+          "tag": "very_short_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/very_short_hair"
+        },
+        {
+          "label": "ショートヘア",
+          "tag": "short_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/short_hair"
+        },
+        {
+          "label": "ミディアムヘア",
+          "tag": "medium_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/medium_hair"
+        },
+        {
+          "label": "長い髪",
+          "tag": "long_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_hair"
+        },
+        {
+          "label": "とても長い髪",
+          "tag": "very_long_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/very_long_hair"
+        },
+        {
+          "label": "途方もなく長い髪",
+          "tag": "absurdly_long_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/absurdly_long_hair"
+        },
+        {
+          "label": "大きな髪",
+          "tag": "big_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/big_hair"
+        },
+        {
+          "label": "ハゲ",
+          "tag": "bald",
+          "link": "https://danbooru.donmai.us/wiki_pages/bald"
+        },
+        {
+          "label": "ハゲの女性",
+          "tag": "bald_female",
+          "link": "https://danbooru.donmai.us/wiki_pages/bald_female"
+        },
+        {
+          "label": "はげ",
+          "tag": "balding",
+          "link": "https://danbooru.donmai.us/wiki_pages/balding"
+        }
+      ]
+    },
+    {
+      "セクション名": "非常に短い髪",
+      "タグ一覧": [
+        {
+          "label": "坊主",
+          "tag": "buzz_cut",
+          "link": "https://danbooru.donmai.us/wiki_pages/buzz_cut"
+        },
+        {
+          "label": "クルーカット",
+          "tag": "crew_cut",
+          "link": "https://danbooru.donmai.us/wiki_pages/crew_cut"
+        },
+        {
+          "label": "ピクシーカット",
+          "tag": "pixie_cut",
+          "link": "https://danbooru.donmai.us/wiki_pages/pixie_cut"
+        }
+      ]
+    },
+    {
+      "セクション名": "ショートヘア",
+      "タグ一覧": [
+        {
+          "label": "ボブカット",
+          "tag": "bob_cut",
+          "link": "https://danbooru.donmai.us/wiki_pages/bob_cut"
+        },
+        {
+          "label": "逆ボブ",
+          "tag": "inverted_bob",
+          "link": "https://danbooru.donmai.us/wiki_pages/inverted_bob"
+        },
+        {
+          "label": "ボウルカット",
+          "tag": "bowl_cut",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowl_cut"
+        },
+        {
+          "label": "アンダーカット",
+          "tag": "undercut",
+          "link": "https://danbooru.donmai.us/wiki_pages/undercut"
+        },
+        {
+          "label": "フラットトップ",
+          "tag": "flattop",
+          "link": "https://danbooru.donmai.us/wiki_pages/flattop"
+        },
+        {
+          "label": "ちょんまげ",
+          "tag": "chonmage",
+          "link": "https://danbooru.donmai.us/wiki_pages/chonmage"
+        },
+        {
+          "label": "分け目のある髪",
+          "tag": "parted_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/parted_hair"
+        }
+      ]
+    },
+    {
+      "セクション名": "ミディアムヘア",
+      "タグ一覧": [
+        {
+          "label": "逆立った髪",
+          "tag": "flipped_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/flipped_hair"
+        },
+        {
+          "label": "ウルフカット",
+          "tag": "wolf_cut",
+          "link": "https://danbooru.donmai.us/wiki_pages/wolf_cut"
+        }
+      ]
+    },
+    {
+      "セクション名": "長い髪",
+      "タグ一覧": [
+        {
+          "label": "姫カット",
+          "tag": "hime_cut",
+          "link": "https://danbooru.donmai.us/wiki_pages/hime_cut"
+        },
+        {
+          "label": "マレットヘア",
+          "tag": "mullet",
+          "link": "https://danbooru.donmai.us/wiki_pages/mullet"
+        }
+      ]
+    },
+    {
+      "セクション名": "結んだ髪",
+      "タグ一覧": [
+        {
+          "label": "バンツーノット",
+          "tag": "bantu_knots",
+          "link": "https://danbooru.donmai.us/wiki_pages/bantu_knots"
+        },
+        {
+          "label": "リボン形の髪",
+          "tag": "bow-shaped_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/bow-shaped_hair"
+        },
+        {
+          "label": "双耶寺",
+          "tag": "shuangyaji",
+          "link": "https://danbooru.donmai.us/wiki_pages/shuangyaji"
+        },
+        {
+          "label": "四つ葉のクローバーのヘアスタイル",
+          "tag": "four_leaf_clover_hairstyle",
+          "link": "https://danbooru.donmai.us/wiki_pages/four_leaf_clover_hairstyle"
+        },
+        {
+          "label": "ウサギの髪型",
+          "tag": "rabbit_hairstyle",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit_hairstyle"
+        },
+        {
+          "label": "三つ編み",
+          "tag": "braid",
+          "link": "https://danbooru.donmai.us/wiki_pages/braid"
+        },
+        {
+          "label": "編み込み前髪",
+          "tag": "braided_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/braided_bangs"
+        },
+        {
+          "label": "フロントブレード",
+          "tag": "front_braid",
+          "link": "https://danbooru.donmai.us/wiki_pages/front_braid"
+        },
+        {
+          "label": "サイドブレイド",
+          "tag": "side_braid",
+          "link": "https://danbooru.donmai.us/wiki_pages/side_braid"
+        },
+        {
+          "label": "クラウンブレード",
+          "tag": "crown_braid",
+          "link": "https://danbooru.donmai.us/wiki_pages/crown_braid"
+        },
+        {
+          "label": "シングルブレイド",
+          "tag": "single_braid",
+          "link": "https://danbooru.donmai.us/wiki_pages/single_braid"
+        },
+        {
+          "label": "複数の編み込み",
+          "tag": "multiple_braids",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_braids"
+        },
+        {
+          "label": "ツインブレイド",
+          "tag": "twin_braids",
+          "link": "https://danbooru.donmai.us/wiki_pages/twin_braids"
+        },
+        {
+          "label": "ローツインブレイド",
+          "tag": "low_twin_braids",
+          "link": "https://danbooru.donmai.us/wiki_pages/low_twin_braids"
+        },
+        {
+          "label": "三本の三つ編み",
+          "tag": "tri_braids",
+          "link": "https://danbooru.donmai.us/wiki_pages/tri_braids"
+        },
+        {
+          "label": "四本の三つ編み",
+          "tag": "quad_braids",
+          "link": "https://danbooru.donmai.us/wiki_pages/quad_braids"
+        },
+        {
+          "label": "アフリカの三つ編み",
+          "tag": "african_braids",
+          "link": "https://danbooru.donmai.us/wiki_pages/african_braids"
+        },
+        {
+          "label": "コーンロウ",
+          "tag": "cornrows",
+          "link": "https://danbooru.donmai.us/wiki_pages/cornrows"
+        },
+        {
+          "label": "ドレッドヘア",
+          "tag": "dreadlocks",
+          "link": "https://danbooru.donmai.us/wiki_pages/dreadlocks"
+        },
+        {
+          "label": "花の形をした髪",
+          "tag": "flower-shaped_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower-shaped_hair"
+        },
+        {
+          "label": "おだんごヘア",
+          "tag": "hair_bun",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_bun"
+        },
+        {
+          "label": "編み込みのお団子",
+          "tag": "braided_bun",
+          "link": "https://danbooru.donmai.us/wiki_pages/braided_bun"
+        },
+        {
+          "label": "一つのお団子",
+          "tag": "single_hair_bun",
+          "link": "https://danbooru.donmai.us/wiki_pages/single_hair_bun"
+        },
+        {
+          "label": "二つのお団子",
+          "tag": "double_bun",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_bun"
+        },
+        {
+          "label": "コーンヘアのおだんご",
+          "tag": "cone_hair_bun",
+          "link": "https://danbooru.donmai.us/wiki_pages/cone_hair_bun"
+        },
+        {
+          "label": "ドーナツヘアのおだんご",
+          "tag": "donut_hair_bun",
+          "link": "https://danbooru.donmai.us/wiki_pages/donut_hair_bun"
+        },
+        {
+          "label": "ハートのおだんごヘア",
+          "tag": "heart_hair_bun",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_hair_bun"
+        },
+        {
+          "label": "三つのお団子",
+          "tag": "triple_bun",
+          "link": "https://danbooru.donmai.us/wiki_pages/triple_bun"
+        },
+        {
+          "label": "コーンヘアのおだんご",
+          "tag": "cone_hair_bun",
+          "link": "https://danbooru.donmai.us/wiki_pages/cone_hair_bun"
+        },
+        {
+          "label": "ヘアリング",
+          "tag": "hair_rings",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_rings"
+        },
+        {
+          "label": "飛仙寺",
+          "tag": "feixianji_%28hairstyle%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/feixianji_%28hairstyle%29"
+        },
+        {
+          "label": "勝山髷",
+          "tag": "katsuyamamage",
+          "link": "https://danbooru.donmai.us/wiki_pages/katsuyamamage"
+        },
+        {
+          "label": "シングルヘアリング",
+          "tag": "single_hair_ring",
+          "link": "https://danbooru.donmai.us/wiki_pages/single_hair_ring"
+        },
+        {
+          "label": "ハーフアップ",
+          "tag": "half_updo",
+          "link": "https://danbooru.donmai.us/wiki_pages/half_updo"
+        },
+        {
+          "label": "ハーフアップ三つ編み",
+          "tag": "half_up_braid",
+          "link": "https://danbooru.donmai.us/wiki_pages/half_up_braid"
+        },
+        {
+          "label": "ハーフアップハーフダウン三つ編み",
+          "tag": "half_up_half_down_braid",
+          "link": "https://danbooru.donmai.us/wiki_pages/half_up_half_down_braid"
+        },
+        {
+          "label": "ワンサイドアップ",
+          "tag": "one_side_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/one_side_up"
+        },
+        {
+          "label": "ツーサイドアップ",
+          "tag": "two_side_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/two_side_up"
+        },
+        {
+          "label": "低い位置で編んだ長い髪",
+          "tag": "low-braided_long_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/low-braided_long_hair"
+        },
+        {
+          "label": "低く結んだ長い髪",
+          "tag": "low-tied_long_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/low-tied_long_hair"
+        },
+        {
+          "label": "みずら",
+          "tag": "mizura",
+          "link": "https://danbooru.donmai.us/wiki_pages/mizura"
+        },
+        {
+          "label": "多重に結んだ髪",
+          "tag": "multi-tied_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/multi-tied_hair"
+        },
+        {
+          "label": "日本髪",
+          "tag": "nihongami",
+          "link": "https://danbooru.donmai.us/wiki_pages/nihongami"
+        },
+        {
+          "label": "ポニーテール",
+          "tag": "ponytail",
+          "link": "https://danbooru.donmai.us/wiki_pages/ponytail"
+        },
+        {
+          "label": "折り畳んだポニーテール",
+          "tag": "folded_ponytail",
+          "link": "https://danbooru.donmai.us/wiki_pages/folded_ponytail"
+        },
+        {
+          "label": "フロントポニーテール",
+          "tag": "front_ponytail",
+          "link": "https://danbooru.donmai.us/wiki_pages/front_ponytail"
+        },
+        {
+          "label": "ハイポニーテール",
+          "tag": "high_ponytail",
+          "link": "https://danbooru.donmai.us/wiki_pages/high_ponytail"
+        },
+        {
+          "label": "ショートポニーテール",
+          "tag": "short_ponytail",
+          "link": "https://danbooru.donmai.us/wiki_pages/short_ponytail"
+        },
+        {
+          "label": "サイドポニーテール",
+          "tag": "side_ponytail",
+          "link": "https://danbooru.donmai.us/wiki_pages/side_ponytail"
+        },
+        {
+          "label": "スプリットポニーテール",
+          "tag": "split_ponytail",
+          "link": "https://danbooru.donmai.us/wiki_pages/split_ponytail"
+        },
+        {
+          "label": "星型の髪",
+          "tag": "star-shaped_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/star-shaped_hair"
+        },
+        {
+          "label": "ちょんまげ",
+          "tag": "topknot",
+          "link": "https://danbooru.donmai.us/wiki_pages/topknot"
+        },
+        {
+          "label": "ツインテール",
+          "tag": "twintails",
+          "link": "https://danbooru.donmai.us/wiki_pages/twintails"
+        },
+        {
+          "label": "低いツインテール",
+          "tag": "low_twintails",
+          "link": "https://danbooru.donmai.us/wiki_pages/low_twintails"
+        },
+        {
+          "label": "短いツインテール",
+          "tag": "short_twintails",
+          "link": "https://danbooru.donmai.us/wiki_pages/short_twintails"
+        },
+        {
+          "label": "不揃いなツインテール",
+          "tag": "uneven_twintails",
+          "link": "https://danbooru.donmai.us/wiki_pages/uneven_twintails"
+        },
+        {
+          "label": "三つ結び",
+          "tag": "tri_tails",
+          "link": "https://danbooru.donmai.us/wiki_pages/tri_tails"
+        },
+        {
+          "label": "四つ結び",
+          "tag": "quad_tails",
+          "link": "https://danbooru.donmai.us/wiki_pages/quad_tails"
+        },
+        {
+          "label": "五つ結び",
+          "tag": "quin_tails",
+          "link": "https://danbooru.donmai.us/wiki_pages/quin_tails"
+        },
+        {
+          "label": "ねじれた髪",
+          "tag": "twisted_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/twisted_hair"
+        }
+      ]
+    },
+    {
+      "セクション名": "高さのある髪型",
+      "タグ一覧": [
+        {
+          "label": "アフロ",
+          "tag": "afro",
+          "link": "https://danbooru.donmai.us/wiki_pages/afro"
+        },
+        {
+          "label": "巨大なアフロ",
+          "tag": "huge_afro",
+          "link": "https://danbooru.donmai.us/wiki_pages/huge_afro"
+        },
+        {
+          "label": "ビーハイブヘアスタイル",
+          "tag": "beehive_hairdo",
+          "link": "https://danbooru.donmai.us/wiki_pages/beehive_hairdo"
+        },
+        {
+          "label": "とさか状の髪",
+          "tag": "crested_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/crested_hair"
+        },
+        {
+          "label": "梁波頭",
+          "tag": "liangbatou",
+          "link": "https://danbooru.donmai.us/wiki_pages/liangbatou"
+        },
+        {
+          "label": "ポンパドール",
+          "tag": "pompadour",
+          "link": "https://danbooru.donmai.us/wiki_pages/pompadour"
+        },
+        {
+          "label": "クイフ",
+          "tag": "quiff",
+          "link": "https://danbooru.donmai.us/wiki_pages/quiff"
+        },
+        {
+          "label": "昇天ペガサスMIX盛り",
+          "tag": "shouten_pegasus_mix_mori",
+          "link": "https://danbooru.donmai.us/wiki_pages/shouten_pegasus_mix_mori"
+        }
+      ]
+    },
+    {
+      "セクション名": "髪質",
+      "タグ一覧": [
+        {
+          "label": "巻き毛",
+          "tag": "curly_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/curly_hair"
+        },
+        {
+          "label": "ドリルヘア",
+          "tag": "drill_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/drill_hair"
+        },
+        {
+          "label": "ツインドリル",
+          "tag": "twin_drills",
+          "link": "https://danbooru.donmai.us/wiki_pages/twin_drills"
+        },
+        {
+          "label": "三本のドリルヘア",
+          "tag": "tri_drills",
+          "link": "https://danbooru.donmai.us/wiki_pages/tri_drills"
+        },
+        {
+          "label": "ヘアフラップ",
+          "tag": "hair_flaps",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_flaps"
+        },
+        {
+          "label": "乱れた髪",
+          "tag": "messy_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/messy_hair"
+        },
+        {
+          "label": "尖った髪",
+          "tag": "pointy_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointy_hair"
+        },
+        {
+          "label": "リングレット",
+          "tag": "ringlets",
+          "link": "https://danbooru.donmai.us/wiki_pages/ringlets"
+        },
+        {
+          "label": "スパイクヘア",
+          "tag": "spiked_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/spiked_hair"
+        },
+        {
+          "label": "ストレートヘア",
+          "tag": "straight_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/straight_hair"
+        },
+        {
+          "label": "ウェーブヘア",
+          "tag": "wavy_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/wavy_hair"
+        },
+        {
+          "label": "ふわふわの髪",
+          "tag": "fluffy_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/fluffy_hair"
+        }
+      ]
+    },
+    {
+      "セクション名": "前髪・顔まわり",
+      "タグ一覧": [
+        {
+          "label": "前髪",
+          "tag": "bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/bangs"
+        },
+        {
+          "label": "アーチ型前髪",
+          "tag": "arched_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/arched_bangs"
+        },
+        {
+          "label": "非対称の前髪",
+          "tag": "asymmetrical_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/asymmetrical_bangs"
+        },
+        {
+          "label": "前髪を後ろに留める",
+          "tag": "bangs_pinned_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/bangs_pinned_back"
+        },
+        {
+          "label": "ぱっつん前髪",
+          "tag": "blunt_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/blunt_bangs"
+        },
+        {
+          "label": "編み込み前髪",
+          "tag": "braided_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/braided_bangs"
+        },
+        {
+          "label": "クロスした前髪",
+          "tag": "crossed_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/crossed_bangs"
+        },
+        {
+          "label": "不揃いな前髪",
+          "tag": "choppy_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/choppy_bangs"
+        },
+        {
+          "label": "薄い前髪",
+          "tag": "wispy_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/wispy_bangs"
+        },
+        {
+          "label": "斜め前髪",
+          "tag": "diagonal_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/diagonal_bangs"
+        },
+        {
+          "label": "牙のある前髪",
+          "tag": "fanged_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/fanged_bangs"
+        },
+        {
+          "label": "短い前髪",
+          "tag": "short_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/short_bangs"
+        },
+        {
+          "label": "長い前髪",
+          "tag": "long_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_bangs"
+        },
+        {
+          "label": "目の間の毛",
+          "tag": "hair_between_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_between_eyes"
+        },
+        {
+          "label": "片目を覆う髪",
+          "tag": "hair_over_one_eye",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_over_one_eye"
+        },
+        {
+          "label": "目を覆う髪",
+          "tag": "hair_over_eyes",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_over_eyes"
+        },
+        {
+          "label": "分け目のある前髪",
+          "tag": "parted_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/parted_bangs"
+        },
+        {
+          "label": "カーテンヘア",
+          "tag": "curtained_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/curtained_hair"
+        },
+        {
+          "label": "流した前髪",
+          "tag": "swept_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/swept_bangs"
+        },
+        {
+          "label": "カラー前髪",
+          "tag": "colored_bangs",
+          "link": "https://danbooru.donmai.us/wiki_pages/colored_bangs"
+        },
+        {
+          "label": "ヘアインテーク",
+          "tag": "hair_intakes",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_intakes"
+        },
+        {
+          "label": "一本ヘアインテーク",
+          "tag": "single_hair_intake",
+          "link": "https://danbooru.donmai.us/wiki_pages/single_hair_intake"
+        },
+        {
+          "label": "サイドロック",
+          "tag": "sidelocks",
+          "link": "https://danbooru.donmai.us/wiki_pages/sidelocks"
+        },
+        {
+          "label": "非対称のサイドロック",
+          "tag": "asymmetrical_sidelocks",
+          "link": "https://danbooru.donmai.us/wiki_pages/asymmetrical_sidelocks"
+        },
+        {
+          "label": "ドリルサイドロック",
+          "tag": "drill_sidelocks",
+          "link": "https://danbooru.donmai.us/wiki_pages/drill_sidelocks"
+        },
+        {
+          "label": "低く結んだサイドロック",
+          "tag": "low-tied_sidelocks",
+          "link": "https://danbooru.donmai.us/wiki_pages/low-tied_sidelocks"
+        },
+        {
+          "label": "サイドロックを後ろに結ぶ",
+          "tag": "sidelocks_tied_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/sidelocks_tied_back"
+        },
+        {
+          "label": "シングルサイドロック",
+          "tag": "single_sidelock",
+          "link": "https://danbooru.donmai.us/wiki_pages/single_sidelock"
+        },
+        {
+          "label": "富士額",
+          "tag": "widow%27s_peak",
+          "link": "https://danbooru.donmai.us/wiki_pages/widow%27s_peak"
+        }
+      ]
+    },
+    {
+      "セクション名": "頭頂部",
+      "タグ一覧": [
+        {
+          "label": "アホ毛",
+          "tag": "ahoge",
+          "link": "https://danbooru.donmai.us/wiki_pages/ahoge"
+        },
+        {
+          "label": "ハートアホ毛",
+          "tag": "heart_ahoge",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_ahoge"
+        },
+        {
+          "label": "巨大なアホ毛",
+          "tag": "huge_ahoge",
+          "link": "https://danbooru.donmai.us/wiki_pages/huge_ahoge"
+        },
+        {
+          "label": "アンテナヘア",
+          "tag": "antenna_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/antenna_hair"
+        },
+        {
+          "label": "ハートアンテナヘア",
+          "tag": "heart_antenna_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_antenna_hair"
+        },
+        {
+          "label": "片側からかぶせた髪",
+          "tag": "comb_over",
+          "link": "https://danbooru.donmai.us/wiki_pages/comb_over"
+        },
+        {
+          "label": "髪を後ろに引っ張った",
+          "tag": "hair_pulled_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_pulled_back"
+        },
+        {
+          "label": "髪を後ろになでつけた",
+          "tag": "hair_slicked_back",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_slicked_back"
+        },
+        {
+          "label": "モヒカン",
+          "tag": "mohawk",
+          "link": "https://danbooru.donmai.us/wiki_pages/mohawk"
+        },
+        {
+          "label": "オセレデッツ",
+          "tag": "oseledets",
+          "link": "https://danbooru.donmai.us/wiki_pages/oseledets"
+        }
+      ]
+    },
+    {
+      "セクション名": "後頭部",
+      "タグ一覧": [
+        {
+          "label": "うなじの一本毛",
+          "tag": "lone_nape_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/lone_nape_hair"
+        }
+      ]
+    },
+    {
+      "セクション名": "体を覆う頭髪",
+      "タグ一覧": [
+        {
+          "label": "ヘアビキニ",
+          "tag": "hair_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_bikini"
+        },
+        {
+          "label": "髪で隠す",
+          "tag": "hair_censor",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_censor"
+        },
+        {
+          "label": "自分の口の中に髪の毛が入っている",
+          "tag": "hair_in_own_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_in_own_mouth"
+        },
+        {
+          "label": "胸の上の髪",
+          "tag": "hair_over_breasts",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_over_breasts"
+        },
+        {
+          "label": "片方の胸にかかる髪",
+          "tag": "hair_over_one_breast",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_over_one_breast"
+        },
+        {
+          "label": "股間の上の髪",
+          "tag": "hair_over_crotch",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_over_crotch"
+        },
+        {
+          "label": "肩にかかる髪",
+          "tag": "hair_over_shoulder",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_over_shoulder"
+        },
+        {
+          "label": "ヘアスカーフ",
+          "tag": "hair_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_scarf"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "髪型変更",
+          "tag": "alternate_hairstyle",
+          "link": "https://danbooru.donmai.us/wiki_pages/alternate_hairstyle"
+        },
+        {
+          "label": "髪を下ろす",
+          "tag": "hair_down",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_down"
+        },
+        {
+          "label": "髪をアップにする",
+          "tag": "hair_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/hair_up"
+        },
+        {
+          "label": "非対称の髪",
+          "tag": "asymmetrical_hair",
+          "link": "https://danbooru.donmai.us/wiki_pages/asymmetrical_hair"
+        },
+        {
+          "label": "サイドカット",
+          "tag": "sidecut",
+          "link": "https://danbooru.donmai.us/wiki_pages/sidecut"
+        },
+        {
+          "label": "切りそろえた毛先",
+          "tag": "blunt_ends",
+          "link": "https://danbooru.donmai.us/wiki_pages/blunt_ends"
+        }
+      ]
+    },
+    {
+      "セクション名": "関連タググループ",
+      "タグ一覧": [
+        {
+          "label": "タググループ：髪",
+          "tag": "tag_group%3Ahair",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair"
+        },
+        {
+          "label": "タググループ：髪の色",
+          "tag": "tag_group%3Ahair_color",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_color"
+        }
+      ]
+    }
+  ]
 }

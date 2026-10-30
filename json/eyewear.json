@@ -1,522 +1,522 @@
 ﻿{
-    "カテゴリID":  "eyewear",
-    "カテゴリ名":  "アイウェア",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aeyewear",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "基本",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "眼鏡",
-                                         "tag":  "glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/glasses"
-                                     },
-                                     {
-                                         "label":  "ゴーグル",
-                                         "tag":  "goggles",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/goggles"
-                                     },
-                                     {
-                                         "label":  "片眼鏡",
-                                         "tag":  "monocle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/monocle"
-                                     },
-                                     {
-                                         "label":  "サングラス",
-                                         "tag":  "sunglasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sunglasses"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "フレームカラー",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "水色フレームの眼鏡",
-                                         "tag":  "aqua-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "黒縁眼鏡",
-                                         "tag":  "black-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "青いフレームの眼鏡",
-                                         "tag":  "blue-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "茶色のフレームの眼鏡",
-                                         "tag":  "brown-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "緑のフレームの眼鏡",
-                                         "tag":  "green-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "グレーのフレームの眼鏡",
-                                         "tag":  "grey-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "オレンジ色のフレームの眼鏡",
-                                         "tag":  "orange-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "ピンクのフレームの眼鏡",
-                                         "tag":  "pink-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "紫色のフレームの眼鏡",
-                                         "tag":  "purple-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "赤いフレームの眼鏡",
-                                         "tag":  "red-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "白フレームの眼鏡",
-                                         "tag":  "white-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/white-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "ツートンカラーのアイウェア",
-                                         "tag":  "two-tone_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/two-tone_eyewear"
-                                     },
-                                     {
-                                         "label":  "黄色いフレームの眼鏡",
-                                         "tag":  "yellow-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow-framed_eyewear"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "レンズカラー",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "水色レンズの眼鏡",
-                                         "tag":  "aqua-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "青色の眼鏡",
-                                         "tag":  "blue-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "茶色の眼鏡",
-                                         "tag":  "brown-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "グラデーションカラーの眼鏡",
-                                         "tag":  "gradient-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "緑色の眼鏡",
-                                         "tag":  "green-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "グレーの色合いの眼鏡",
-                                         "tag":  "grey-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "多色着色眼鏡",
-                                         "tag":  "multicolor-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolor-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "虹色の眼鏡",
-                                         "tag":  "rainbow-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rainbow-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "オレンジ色の眼鏡",
-                                         "tag":  "orange-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "ピンク色の眼鏡",
-                                         "tag":  "pink-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "紫色の眼鏡",
-                                         "tag":  "purple-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "赤い色の眼鏡",
-                                         "tag":  "red-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red-tinted_eyewear"
-                                     },
-                                     {
-                                         "label":  "黄色の色付き眼鏡",
-                                         "tag":  "yellow-tinted_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow-tinted_eyewear"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "種類",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "動物モチーフのアイウェア",
-                                         "tag":  "animal-themed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal-themed_eyewear"
-                                     },
-                                     {
-                                         "label":  "猫目フレームの眼鏡",
-                                         "tag":  "cat_eye-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cat_eye-framed_eyewear"
-                                     },
-                                     {
-                                         "label":  "食べ物モチーフのアイウェア",
-                                         "tag":  "food-themed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/food-themed_eyewear"
-                                     },
-                                     {
-                                         "label":  "ハート型の眼鏡",
-                                         "tag":  "heart-shaped_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart-shaped_eyewear"
-                                     },
-                                     {
-                                         "label":  "長方形の眼鏡",
-                                         "tag":  "rectangular_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rectangular_eyewear"
-                                     },
-                                     {
-                                         "label":  "縁なし眼鏡",
-                                         "tag":  "rimless_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rimless_eyewear"
-                                     },
-                                     {
-                                         "label":  "丸い眼鏡",
-                                         "tag":  "round_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/round_eyewear"
-                                     },
-                                     {
-                                         "label":  "半円形の眼鏡",
-                                         "tag":  "semi-circular_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/semi-circular_eyewear"
-                                     },
-                                     {
-                                         "label":  "セミリムレスアイウェア",
-                                         "tag":  "semi-rimless_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/semi-rimless_eyewear"
-                                     },
-                                     {
-                                         "label":  "オーバーリム眼鏡",
-                                         "tag":  "over-rim_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/over-rim_eyewear"
-                                     },
-                                     {
-                                         "label":  "アンダーリム眼鏡",
-                                         "tag":  "under-rim_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/under-rim_eyewear"
-                                     },
-                                     {
-                                         "label":  "ティアドロップフレームの眼鏡",
-                                         "tag":  "teardrop-framed_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/teardrop-framed_glasses"
-                                     },
-                                     {
-                                         "label":  "三角形の眼鏡",
-                                         "tag":  "triangular_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/triangular_eyewear"
-                                     },
-                                     {
-                                         "label":  "べっ甲フレームの眼鏡",
-                                         "tag":  "tortoiseshell-framed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tortoiseshell-framed_eyewear"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "動作・状態",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "代替眼鏡",
-                                         "tag":  "alternate_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_eyewear"
-                                     },
-                                     {
-                                         "label":  "眼鏡の調整",
-                                         "tag":  "adjusting_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_eyewear"
-                                     },
-                                     {
-                                         "label":  "眼鏡をかけた",
-                                         "tag":  "bespectacled",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bespectacled"
-                                     },
-                                     {
-                                         "label":  "壊れた眼鏡",
-                                         "tag":  "broken_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/broken_eyewear"
-                                     },
-                                     {
-                                         "label":  "眼鏡のクリーニング",
-                                         "tag":  "cleaning_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cleaning_eyewear"
-                                     },
-                                     {
-                                         "label":  "歪んだ眼鏡",
-                                         "tag":  "crooked_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crooked_eyewear"
-                                     },
-                                     {
-                                         "label":  "眼鏡に精液をかける",
-                                         "tag":  "cum_on_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cum_on_eyewear"
-                                     },
-                                     {
-                                         "label":  "頭に眼鏡をかける",
-                                         "tag":  "eyewear_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyewear_on_head"
-                                     },
-                                     {
-                                         "label":  "帽子に眼鏡をかける",
-                                         "tag":  "eyewear_on_headwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyewear_on_headwear"
-                                     },
-                                     {
-                                         "label":  "アイウェアストラップ",
-                                         "tag":  "eyewear_strap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyewear_strap"
-                                     },
-                                     {
-                                         "label":  "眼鏡の交換",
-                                         "tag":  "eyewear_switch",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyewear_switch"
-                                     },
-                                     {
-                                         "label":  "眼鏡の見方",
-                                         "tag":  "eyewear_view",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyewear_view"
-                                     },
-                                     {
-                                         "label":  "曇ったメガネ",
-                                         "tag":  "fogged_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fogged_glasses"
-                                     },
-                                     {
-                                         "label":  "眼鏡に手を当てる",
-                                         "tag":  "hand_on_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_eyewear"
-                                     },
-                                     {
-                                         "label":  "眼鏡の上越しに見る",
-                                         "tag":  "looking_over_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/looking_over_eyewear"
-                                     },
-                                     {
-                                         "label":  "眼鏡なし",
-                                         "tag":  "no_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_eyewear"
-                                     },
-                                     {
-                                         "label":  "眼鏡を外す",
-                                         "tag":  "removing_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/removing_eyewear"
-                                     },
-                                     {
-                                         "label":  "着用していない眼鏡",
-                                         "tag":  "unworn_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_eyewear"
-                                     },
-                                     {
-                                         "label":  "眼鏡ハンギング",
-                                         "tag":  "eyewear_hang",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyewear_hang"
-                                     },
-                                     {
-                                         "label":  "口の中に眼鏡",
-                                         "tag":  "eyewear_in_mouth",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyewear_in_mouth"
-                                     },
-                                     {
-                                         "label":  "外した眼鏡を持っている",
-                                         "tag":  "holding_removed_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_removed_eyewear"
-                                     },
-                                     {
-                                         "label":  "眼鏡を探す",
-                                         "tag":  "looking_for_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/looking_for_glasses"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "アクセサリー",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アイウェアストラップ",
-                                         "tag":  "eyewear_strap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyewear_strap"
-                                     },
-                                     {
-                                         "label":  "メガネケース",
-                                         "tag":  "glasses_case",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/glasses_case"
-                                     },
-                                     {
-                                         "label":  "鼻パッド",
-                                         "tag":  "nose_pads",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nose_pads"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "特殊な種類",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "3Dメガネ",
-                                         "tag":  "3d_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/3d_glasses"
-                                     },
-                                     {
-                                         "label":  "アビエーターグラス",
-                                         "tag":  "aviator_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aviator_glasses"
-                                     },
-                                     {
-                                         "label":  "瓶底眼鏡",
-                                         "tag":  "coke-bottle_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/coke-bottle_glasses"
-                                     },
-                                     {
-                                         "label":  "ダイビングマスク",
-                                         "tag":  "diving_mask",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/diving_mask"
-                                     },
-                                     {
-                                         "label":  "ノベルティグラス",
-                                         "tag":  "novelty_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/novelty_glasses"
-                                     },
-                                     {
-                                         "label":  "ハート型の眼鏡",
-                                         "tag":  "heart-shaped_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart-shaped_eyewear"
-                                     },
-                                     {
-                                         "label":  "星型の眼鏡",
-                                         "tag":  "star-shaped_eyewear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/star-shaped_eyewear"
-                                     },
-                                     {
-                                         "label":  "ティアドロップフレームの眼鏡",
-                                         "tag":  "teardrop-framed_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/teardrop-framed_glasses"
-                                     },
-                                     {
-                                         "label":  "飛行士用ゴーグル",
-                                         "tag":  "aviator_goggles",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aviator_goggles"
-                                     },
-                                     {
-                                         "label":  "グルーチョグラス",
-                                         "tag":  "groucho_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/groucho_glasses"
-                                     },
-                                     {
-                                         "label":  "柄付き眼鏡",
-                                         "tag":  "lorgnette",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lorgnette"
-                                     },
-                                     {
-                                         "label":  "不透明なメガネ",
-                                         "tag":  "opaque_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/opaque_glasses"
-                                     },
-                                     {
-                                         "label":  "オペラグラス",
-                                         "tag":  "opera_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/opera_glasses"
-                                     },
-                                     {
-                                         "label":  "鼻眼鏡",
-                                         "tag":  "pince-nez",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pince-nez"
-                                     },
-                                     {
-                                         "label":  "安全メガネ",
-                                         "tag":  "safety_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/safety_glasses"
-                                     },
-                                     {
-                                         "label":  "スカウター",
-                                         "tag":  "scouter",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scouter"
-                                     },
-                                     {
-                                         "label":  "スキーゴーグル",
-                                         "tag":  "ski_goggles",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ski_goggles"
-                                     },
-                                     {
-                                         "label":  "X線メガネ",
-                                         "tag":  "x-ray_glasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/x-ray_glasses"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "サングラス",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アビエーターサングラス",
-                                         "tag":  "aviator_sunglasses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aviator_sunglasses"
-                                     },
-                                     {
-                                         "label":  "カミナシェード",
-                                         "tag":  "kamina_shades",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kamina_shades"
-                                     },
-                                     {
-                                         "label":  "シャッターシェード",
-                                         "tag":  "shutter_shades",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shutter_shades"
-                                     },
-                                     {
-                                         "label":  "サイモンシェード",
-                                         "tag":  "simon_shades",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/simon_shades"
-                                     },
-                                     {
-                                         "label":  "対処しよう（ミーム）",
-                                         "tag":  "deal_with_it_%28meme%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/deal_with_it_%28meme%29"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "参照",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "コンタクトレンズ",
-                                         "tag":  "contact_lens",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/contact_lens"
-                                     },
-                                     {
-                                         "label":  "タググループ：服装",
-                                         "tag":  "tag_group%3Aattire",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "eyewear",
+  "カテゴリ名": "アイウェア",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aeyewear",
+  "セクション一覧": [
+    {
+      "セクション名": "基本",
+      "タグ一覧": [
+        {
+          "label": "眼鏡",
+          "tag": "glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/glasses"
+        },
+        {
+          "label": "ゴーグル",
+          "tag": "goggles",
+          "link": "https://danbooru.donmai.us/wiki_pages/goggles"
+        },
+        {
+          "label": "片眼鏡",
+          "tag": "monocle",
+          "link": "https://danbooru.donmai.us/wiki_pages/monocle"
+        },
+        {
+          "label": "サングラス",
+          "tag": "sunglasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/sunglasses"
+        }
+      ]
+    },
+    {
+      "セクション名": "フレームカラー",
+      "タグ一覧": [
+        {
+          "label": "水色フレームの眼鏡",
+          "tag": "aqua-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua-framed_eyewear"
+        },
+        {
+          "label": "黒縁眼鏡",
+          "tag": "black-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/black-framed_eyewear"
+        },
+        {
+          "label": "青いフレームの眼鏡",
+          "tag": "blue-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue-framed_eyewear"
+        },
+        {
+          "label": "茶色のフレームの眼鏡",
+          "tag": "brown-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown-framed_eyewear"
+        },
+        {
+          "label": "緑のフレームの眼鏡",
+          "tag": "green-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/green-framed_eyewear"
+        },
+        {
+          "label": "グレーのフレームの眼鏡",
+          "tag": "grey-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey-framed_eyewear"
+        },
+        {
+          "label": "オレンジ色のフレームの眼鏡",
+          "tag": "orange-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange-framed_eyewear"
+        },
+        {
+          "label": "ピンクのフレームの眼鏡",
+          "tag": "pink-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink-framed_eyewear"
+        },
+        {
+          "label": "紫色のフレームの眼鏡",
+          "tag": "purple-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple-framed_eyewear"
+        },
+        {
+          "label": "赤いフレームの眼鏡",
+          "tag": "red-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/red-framed_eyewear"
+        },
+        {
+          "label": "白フレームの眼鏡",
+          "tag": "white-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/white-framed_eyewear"
+        },
+        {
+          "label": "ツートンカラーのアイウェア",
+          "tag": "two-tone_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-tone_eyewear"
+        },
+        {
+          "label": "黄色いフレームの眼鏡",
+          "tag": "yellow-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow-framed_eyewear"
+        }
+      ]
+    },
+    {
+      "セクション名": "レンズカラー",
+      "タグ一覧": [
+        {
+          "label": "水色レンズの眼鏡",
+          "tag": "aqua-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua-tinted_eyewear"
+        },
+        {
+          "label": "青色の眼鏡",
+          "tag": "blue-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue-tinted_eyewear"
+        },
+        {
+          "label": "茶色の眼鏡",
+          "tag": "brown-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown-tinted_eyewear"
+        },
+        {
+          "label": "グラデーションカラーの眼鏡",
+          "tag": "gradient-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/gradient-tinted_eyewear"
+        },
+        {
+          "label": "緑色の眼鏡",
+          "tag": "green-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/green-tinted_eyewear"
+        },
+        {
+          "label": "グレーの色合いの眼鏡",
+          "tag": "grey-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey-tinted_eyewear"
+        },
+        {
+          "label": "多色着色眼鏡",
+          "tag": "multicolor-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolor-tinted_eyewear"
+        },
+        {
+          "label": "虹色の眼鏡",
+          "tag": "rainbow-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/rainbow-tinted_eyewear"
+        },
+        {
+          "label": "オレンジ色の眼鏡",
+          "tag": "orange-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange-tinted_eyewear"
+        },
+        {
+          "label": "ピンク色の眼鏡",
+          "tag": "pink-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink-tinted_eyewear"
+        },
+        {
+          "label": "紫色の眼鏡",
+          "tag": "purple-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple-tinted_eyewear"
+        },
+        {
+          "label": "赤い色の眼鏡",
+          "tag": "red-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/red-tinted_eyewear"
+        },
+        {
+          "label": "黄色の色付き眼鏡",
+          "tag": "yellow-tinted_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow-tinted_eyewear"
+        }
+      ]
+    },
+    {
+      "セクション名": "種類",
+      "タグ一覧": [
+        {
+          "label": "動物モチーフのアイウェア",
+          "tag": "animal-themed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal-themed_eyewear"
+        },
+        {
+          "label": "猫目フレームの眼鏡",
+          "tag": "cat_eye-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_eye-framed_eyewear"
+        },
+        {
+          "label": "食べ物モチーフのアイウェア",
+          "tag": "food-themed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/food-themed_eyewear"
+        },
+        {
+          "label": "ハート型の眼鏡",
+          "tag": "heart-shaped_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart-shaped_eyewear"
+        },
+        {
+          "label": "長方形の眼鏡",
+          "tag": "rectangular_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/rectangular_eyewear"
+        },
+        {
+          "label": "縁なし眼鏡",
+          "tag": "rimless_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/rimless_eyewear"
+        },
+        {
+          "label": "丸い眼鏡",
+          "tag": "round_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/round_eyewear"
+        },
+        {
+          "label": "半円形の眼鏡",
+          "tag": "semi-circular_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/semi-circular_eyewear"
+        },
+        {
+          "label": "セミリムレスアイウェア",
+          "tag": "semi-rimless_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/semi-rimless_eyewear"
+        },
+        {
+          "label": "オーバーリム眼鏡",
+          "tag": "over-rim_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/over-rim_eyewear"
+        },
+        {
+          "label": "アンダーリム眼鏡",
+          "tag": "under-rim_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/under-rim_eyewear"
+        },
+        {
+          "label": "ティアドロップフレームの眼鏡",
+          "tag": "teardrop-framed_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/teardrop-framed_glasses"
+        },
+        {
+          "label": "三角形の眼鏡",
+          "tag": "triangular_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/triangular_eyewear"
+        },
+        {
+          "label": "べっ甲フレームの眼鏡",
+          "tag": "tortoiseshell-framed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/tortoiseshell-framed_eyewear"
+        }
+      ]
+    },
+    {
+      "セクション名": "動作・状態",
+      "タグ一覧": [
+        {
+          "label": "代替眼鏡",
+          "tag": "alternate_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/alternate_eyewear"
+        },
+        {
+          "label": "眼鏡の調整",
+          "tag": "adjusting_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_eyewear"
+        },
+        {
+          "label": "眼鏡をかけた",
+          "tag": "bespectacled",
+          "link": "https://danbooru.donmai.us/wiki_pages/bespectacled"
+        },
+        {
+          "label": "壊れた眼鏡",
+          "tag": "broken_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/broken_eyewear"
+        },
+        {
+          "label": "眼鏡のクリーニング",
+          "tag": "cleaning_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/cleaning_eyewear"
+        },
+        {
+          "label": "歪んだ眼鏡",
+          "tag": "crooked_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/crooked_eyewear"
+        },
+        {
+          "label": "眼鏡に精液をかける",
+          "tag": "cum_on_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/cum_on_eyewear"
+        },
+        {
+          "label": "頭に眼鏡をかける",
+          "tag": "eyewear_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyewear_on_head"
+        },
+        {
+          "label": "帽子に眼鏡をかける",
+          "tag": "eyewear_on_headwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyewear_on_headwear"
+        },
+        {
+          "label": "アイウェアストラップ",
+          "tag": "eyewear_strap",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyewear_strap"
+        },
+        {
+          "label": "眼鏡の交換",
+          "tag": "eyewear_switch",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyewear_switch"
+        },
+        {
+          "label": "眼鏡の見方",
+          "tag": "eyewear_view",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyewear_view"
+        },
+        {
+          "label": "曇ったメガネ",
+          "tag": "fogged_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/fogged_glasses"
+        },
+        {
+          "label": "眼鏡に手を当てる",
+          "tag": "hand_on_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_eyewear"
+        },
+        {
+          "label": "眼鏡の上越しに見る",
+          "tag": "looking_over_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_over_eyewear"
+        },
+        {
+          "label": "眼鏡なし",
+          "tag": "no_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_eyewear"
+        },
+        {
+          "label": "眼鏡を外す",
+          "tag": "removing_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/removing_eyewear"
+        },
+        {
+          "label": "着用していない眼鏡",
+          "tag": "unworn_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_eyewear"
+        },
+        {
+          "label": "眼鏡ハンギング",
+          "tag": "eyewear_hang",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyewear_hang"
+        },
+        {
+          "label": "口の中に眼鏡",
+          "tag": "eyewear_in_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyewear_in_mouth"
+        },
+        {
+          "label": "外した眼鏡を持っている",
+          "tag": "holding_removed_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_removed_eyewear"
+        },
+        {
+          "label": "眼鏡を探す",
+          "tag": "looking_for_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/looking_for_glasses"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクセサリー",
+      "タグ一覧": [
+        {
+          "label": "アイウェアストラップ",
+          "tag": "eyewear_strap",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyewear_strap"
+        },
+        {
+          "label": "メガネケース",
+          "tag": "glasses_case",
+          "link": "https://danbooru.donmai.us/wiki_pages/glasses_case"
+        },
+        {
+          "label": "鼻パッド",
+          "tag": "nose_pads",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_pads"
+        }
+      ]
+    },
+    {
+      "セクション名": "特殊な種類",
+      "タグ一覧": [
+        {
+          "label": "3Dメガネ",
+          "tag": "3d_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/3d_glasses"
+        },
+        {
+          "label": "アビエーターグラス",
+          "tag": "aviator_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/aviator_glasses"
+        },
+        {
+          "label": "瓶底眼鏡",
+          "tag": "coke-bottle_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/coke-bottle_glasses"
+        },
+        {
+          "label": "ダイビングマスク",
+          "tag": "diving_mask",
+          "link": "https://danbooru.donmai.us/wiki_pages/diving_mask"
+        },
+        {
+          "label": "ノベルティグラス",
+          "tag": "novelty_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/novelty_glasses"
+        },
+        {
+          "label": "ハート型の眼鏡",
+          "tag": "heart-shaped_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart-shaped_eyewear"
+        },
+        {
+          "label": "星型の眼鏡",
+          "tag": "star-shaped_eyewear",
+          "link": "https://danbooru.donmai.us/wiki_pages/star-shaped_eyewear"
+        },
+        {
+          "label": "ティアドロップフレームの眼鏡",
+          "tag": "teardrop-framed_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/teardrop-framed_glasses"
+        },
+        {
+          "label": "飛行士用ゴーグル",
+          "tag": "aviator_goggles",
+          "link": "https://danbooru.donmai.us/wiki_pages/aviator_goggles"
+        },
+        {
+          "label": "グルーチョグラス",
+          "tag": "groucho_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/groucho_glasses"
+        },
+        {
+          "label": "柄付き眼鏡",
+          "tag": "lorgnette",
+          "link": "https://danbooru.donmai.us/wiki_pages/lorgnette"
+        },
+        {
+          "label": "不透明なメガネ",
+          "tag": "opaque_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/opaque_glasses"
+        },
+        {
+          "label": "オペラグラス",
+          "tag": "opera_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/opera_glasses"
+        },
+        {
+          "label": "鼻眼鏡",
+          "tag": "pince-nez",
+          "link": "https://danbooru.donmai.us/wiki_pages/pince-nez"
+        },
+        {
+          "label": "安全メガネ",
+          "tag": "safety_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/safety_glasses"
+        },
+        {
+          "label": "スカウター",
+          "tag": "scouter",
+          "link": "https://danbooru.donmai.us/wiki_pages/scouter"
+        },
+        {
+          "label": "スキーゴーグル",
+          "tag": "ski_goggles",
+          "link": "https://danbooru.donmai.us/wiki_pages/ski_goggles"
+        },
+        {
+          "label": "X線メガネ",
+          "tag": "x-ray_glasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/x-ray_glasses"
+        }
+      ]
+    },
+    {
+      "セクション名": "サングラス",
+      "タグ一覧": [
+        {
+          "label": "アビエーターサングラス",
+          "tag": "aviator_sunglasses",
+          "link": "https://danbooru.donmai.us/wiki_pages/aviator_sunglasses"
+        },
+        {
+          "label": "カミナシェード",
+          "tag": "kamina_shades",
+          "link": "https://danbooru.donmai.us/wiki_pages/kamina_shades"
+        },
+        {
+          "label": "シャッターシェード",
+          "tag": "shutter_shades",
+          "link": "https://danbooru.donmai.us/wiki_pages/shutter_shades"
+        },
+        {
+          "label": "サイモンシェード",
+          "tag": "simon_shades",
+          "link": "https://danbooru.donmai.us/wiki_pages/simon_shades"
+        },
+        {
+          "label": "対処しよう（ミーム）",
+          "tag": "deal_with_it_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/deal_with_it_%28meme%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "コンタクトレンズ",
+          "tag": "contact_lens",
+          "link": "https://danbooru.donmai.us/wiki_pages/contact_lens"
+        },
+        {
+          "label": "タググループ：服装",
+          "tag": "tag_group%3Aattire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+        }
+      ]
+    }
+  ]
 }

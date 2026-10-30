@@ -1,187 +1,187 @@
 ﻿{
-    "カテゴリID":  "groups",
-    "カテゴリ名":  "グループ",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Agroups",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "基本",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "同一人物の二つの姿",
-                                         "tag":  "dual_persona",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dual_persona"
-                                     },
-                                     {
-                                         "label":  "同一人物の複数の姿",
-                                         "tag":  "multiple_persona",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_persona"
-                                     },
-                                     {
-                                         "label":  "クローン",
-                                         "tag":  "clone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/clone"
-                                     },
-                                     {
-                                         "label":  "クロスオーバー",
-                                         "tag":  "crossover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crossover"
-                                     },
-                                     {
-                                         "label":  "そっくりさん",
-                                         "tag":  "look-alike",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/look-alike"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "全員集合",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "絶対に全員",
-                                         "tag":  "absolutely_everyone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/absolutely_everyone"
-                                     },
-                                     {
-                                         "label":  "みんな",
-                                         "tag":  "everyone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/everyone"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "動物",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "複数の犬",
-                                         "tag":  "multiple_dogs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_dogs"
-                                     },
-                                     {
-                                         "label":  "猫が多すぎる",
-                                         "tag":  "too_many_cats",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/too_many_cats"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "性別別",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "複数の女の子",
-                                         "tag":  "multiple_girls",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_girls"
-                                     },
-                                     {
-                                         "label":  "2人の女の子",
-                                         "tag":  "2girls",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/2girls"
-                                     },
-                                     {
-                                         "label":  "3人の女の子",
-                                         "tag":  "3girls",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/3girls"
-                                     },
-                                     {
-                                         "label":  "4人の女の子",
-                                         "tag":  "4girls",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/4girls"
-                                     },
-                                     {
-                                         "label":  "5人の女の子",
-                                         "tag":  "5girls",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/5girls"
-                                     },
-                                     {
-                                         "label":  "6人以上の女の子",
-                                         "tag":  "6%2Bgirls",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/6%2Bgirls"
-                                     },
-                                     {
-                                         "label":  "複数の男の子",
-                                         "tag":  "multiple_boys",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_boys"
-                                     },
-                                     {
-                                         "label":  "2人の男の子",
-                                         "tag":  "2boys",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/2boys"
-                                     },
-                                     {
-                                         "label":  "3人の男の子",
-                                         "tag":  "3boys",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/3boys"
-                                     },
-                                     {
-                                         "label":  "4人の男の子",
-                                         "tag":  "4boys",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/4boys"
-                                     },
-                                     {
-                                         "label":  "5人の男の子",
-                                         "tag":  "5boys",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/5boys"
-                                     },
-                                     {
-                                         "label":  "6人以上の男の子",
-                                         "tag":  "6%2Bboys",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/6%2Bboys"
-                                     },
-                                     {
-                                         "label":  "その他の性別が複数",
-                                         "tag":  "multiple_others",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_others"
-                                     },
-                                     {
-                                         "label":  "その他2人",
-                                         "tag":  "2others",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/2others"
-                                     },
-                                     {
-                                         "label":  "その他3人",
-                                         "tag":  "3others",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/3others"
-                                     },
-                                     {
-                                         "label":  "その他4人",
-                                         "tag":  "4others",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/4others"
-                                     },
-                                     {
-                                         "label":  "その他5人",
-                                         "tag":  "5others",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/5others"
-                                     },
-                                     {
-                                         "label":  "その他の性別が6人以上",
-                                         "tag":  "6%2Bothers",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/6%2Bothers"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "家族関係（兄弟、両親など）",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "タググループ：家族関係",
-                                         "tag":  "tag_group%3Afamily_relationships",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Afamily_relationships"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "性行為・集団性行為",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "タググループ：性行為",
-                                         "tag":  "tag_group%3Asex_acts",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Asex_acts"
-                                     },
-                                     {
-                                         "label":  "タググループ：性交体位",
-                                         "tag":  "tag_group%3Asexual_positions",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Asexual_positions"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "groups",
+  "カテゴリ名": "グループ",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Agroups",
+  "セクション一覧": [
+    {
+      "セクション名": "基本",
+      "タグ一覧": [
+        {
+          "label": "同一人物の二つの姿",
+          "tag": "dual_persona",
+          "link": "https://danbooru.donmai.us/wiki_pages/dual_persona"
+        },
+        {
+          "label": "同一人物の複数の姿",
+          "tag": "multiple_persona",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_persona"
+        },
+        {
+          "label": "クローン",
+          "tag": "clone",
+          "link": "https://danbooru.donmai.us/wiki_pages/clone"
+        },
+        {
+          "label": "クロスオーバー",
+          "tag": "crossover",
+          "link": "https://danbooru.donmai.us/wiki_pages/crossover"
+        },
+        {
+          "label": "そっくりさん",
+          "tag": "look-alike",
+          "link": "https://danbooru.donmai.us/wiki_pages/look-alike"
+        }
+      ]
+    },
+    {
+      "セクション名": "全員集合",
+      "タグ一覧": [
+        {
+          "label": "絶対に全員",
+          "tag": "absolutely_everyone",
+          "link": "https://danbooru.donmai.us/wiki_pages/absolutely_everyone"
+        },
+        {
+          "label": "みんな",
+          "tag": "everyone",
+          "link": "https://danbooru.donmai.us/wiki_pages/everyone"
+        }
+      ]
+    },
+    {
+      "セクション名": "動物",
+      "タグ一覧": [
+        {
+          "label": "複数の犬",
+          "tag": "multiple_dogs",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_dogs"
+        },
+        {
+          "label": "猫が多すぎる",
+          "tag": "too_many_cats",
+          "link": "https://danbooru.donmai.us/wiki_pages/too_many_cats"
+        }
+      ]
+    },
+    {
+      "セクション名": "性別別",
+      "タグ一覧": [
+        {
+          "label": "複数の女の子",
+          "tag": "multiple_girls",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_girls"
+        },
+        {
+          "label": "2人の女の子",
+          "tag": "2girls",
+          "link": "https://danbooru.donmai.us/wiki_pages/2girls"
+        },
+        {
+          "label": "3人の女の子",
+          "tag": "3girls",
+          "link": "https://danbooru.donmai.us/wiki_pages/3girls"
+        },
+        {
+          "label": "4人の女の子",
+          "tag": "4girls",
+          "link": "https://danbooru.donmai.us/wiki_pages/4girls"
+        },
+        {
+          "label": "5人の女の子",
+          "tag": "5girls",
+          "link": "https://danbooru.donmai.us/wiki_pages/5girls"
+        },
+        {
+          "label": "6人以上の女の子",
+          "tag": "6%2Bgirls",
+          "link": "https://danbooru.donmai.us/wiki_pages/6%2Bgirls"
+        },
+        {
+          "label": "複数の男の子",
+          "tag": "multiple_boys",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_boys"
+        },
+        {
+          "label": "2人の男の子",
+          "tag": "2boys",
+          "link": "https://danbooru.donmai.us/wiki_pages/2boys"
+        },
+        {
+          "label": "3人の男の子",
+          "tag": "3boys",
+          "link": "https://danbooru.donmai.us/wiki_pages/3boys"
+        },
+        {
+          "label": "4人の男の子",
+          "tag": "4boys",
+          "link": "https://danbooru.donmai.us/wiki_pages/4boys"
+        },
+        {
+          "label": "5人の男の子",
+          "tag": "5boys",
+          "link": "https://danbooru.donmai.us/wiki_pages/5boys"
+        },
+        {
+          "label": "6人以上の男の子",
+          "tag": "6%2Bboys",
+          "link": "https://danbooru.donmai.us/wiki_pages/6%2Bboys"
+        },
+        {
+          "label": "その他の性別が複数",
+          "tag": "multiple_others",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_others"
+        },
+        {
+          "label": "その他2人",
+          "tag": "2others",
+          "link": "https://danbooru.donmai.us/wiki_pages/2others"
+        },
+        {
+          "label": "その他3人",
+          "tag": "3others",
+          "link": "https://danbooru.donmai.us/wiki_pages/3others"
+        },
+        {
+          "label": "その他4人",
+          "tag": "4others",
+          "link": "https://danbooru.donmai.us/wiki_pages/4others"
+        },
+        {
+          "label": "その他5人",
+          "tag": "5others",
+          "link": "https://danbooru.donmai.us/wiki_pages/5others"
+        },
+        {
+          "label": "その他の性別が6人以上",
+          "tag": "6%2Bothers",
+          "link": "https://danbooru.donmai.us/wiki_pages/6%2Bothers"
+        }
+      ]
+    },
+    {
+      "セクション名": "家族関係（兄弟、両親など）",
+      "タグ一覧": [
+        {
+          "label": "タググループ：家族関係",
+          "tag": "tag_group%3Afamily_relationships",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afamily_relationships"
+        }
+      ]
+    },
+    {
+      "セクション名": "性行為・集団性行為",
+      "タグ一覧": [
+        {
+          "label": "タググループ：性行為",
+          "tag": "tag_group%3Asex_acts",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asex_acts"
+        },
+        {
+          "label": "タググループ：性交体位",
+          "tag": "tag_group%3Asexual_positions",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asexual_positions"
+        }
+      ]
+    }
+  ]
 }

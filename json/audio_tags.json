@@ -1,2012 +1,2012 @@
 ﻿{
-    "カテゴリID":  "audio_tags",
-    "カテゴリ名":  "音楽・音響",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aaudio_tags",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "再生機器",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "CDプレーヤー",
-                                         "tag":  "cd_player",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cd_player"
-                                     },
-                                     {
-                                         "label":  "デジタルメディアプレーヤー",
-                                         "tag":  "digital_media_player",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/digital_media_player"
-                                     },
-                                     {
-                                         "label":  "iPod",
-                                         "tag":  "ipod",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ipod"
-                                     },
-                                     {
-                                         "label":  "iPhone",
-                                         "tag":  "iphone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/iphone"
-                                     },
-                                     {
-                                         "label":  "蓄音機",
-                                         "tag":  "phonograph",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/phonograph"
-                                     },
-                                     {
-                                         "label":  "サウンドバーガー",
-                                         "tag":  "sound_burger",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sound_burger"
-                                     },
-                                     {
-                                         "label":  "ターンテーブル",
-                                         "tag":  "turntable",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/turntable"
-                                     },
-                                     {
-                                         "label":  "ラジオ",
-                                         "tag":  "radio",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/radio"
-                                     },
-                                     {
-                                         "label":  "ステレオ",
-                                         "tag":  "stereo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/stereo"
-                                     },
-                                     {
-                                         "label":  "ウォークマン",
-                                         "tag":  "walkman",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/walkman"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "スピーカーとヘッドフォン",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "イヤホン",
-                                         "tag":  "earphones",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/earphones"
-                                     },
-                                     {
-                                         "label":  "イヤホン",
-                                         "tag":  "earbuds",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/earbuds"
-                                     },
-                                     {
-                                         "label":  "イヤーピース",
-                                         "tag":  "earpiece",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/earpiece"
-                                     },
-                                     {
-                                         "label":  "耳の保護具",
-                                         "tag":  "ear_protection",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ear_protection"
-                                     },
-                                     {
-                                         "label":  "耳当て",
-                                         "tag":  "earmuffs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/earmuffs"
-                                     },
-                                     {
-                                         "label":  "ヘッドフォン",
-                                         "tag":  "headphones",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/headphones"
-                                     },
-                                     {
-                                         "label":  "ネックバンド型ヘッドホン",
-                                         "tag":  "behind-the-head_headphones",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/behind-the-head_headphones"
-                                     },
-                                     {
-                                         "label":  "バニーヘッドフォン",
-                                         "tag":  "bunny_headphones",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bunny_headphones"
-                                     },
-                                     {
-                                         "label":  "猫耳ヘッドフォン",
-                                         "tag":  "cat_ear_headphones",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cat_ear_headphones"
-                                     },
-                                     {
-                                         "label":  "動物の耳用のヘッドフォン",
-                                         "tag":  "headphones_for_animal_ears",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/headphones_for_animal_ears"
-                                     },
-                                     {
-                                         "label":  "ヘッドセット",
-                                         "tag":  "headset",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/headset"
-                                     },
-                                     {
-                                         "label":  "スピーカー",
-                                         "tag":  "speaker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/speaker"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "録音音声メディア",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "カセットテープ",
-                                         "tag":  "cassette_tape",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cassette_tape"
-                                     },
-                                     {
-                                         "label":  "CD",
-                                         "tag":  "cd",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cd"
-                                     },
-                                     {
-                                         "label":  "アナログレコード",
-                                         "tag":  "vinyl_record",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vinyl_record"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他のオーディオデバイス",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "増幅器",
-                                         "tag":  "amplifier",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/amplifier"
-                                     },
-                                     {
-                                         "label":  "真空管アンプ",
-                                         "tag":  "tube_amplifier",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tube_amplifier"
-                                     },
-                                     {
-                                         "label":  "メガホン",
-                                         "tag":  "megaphone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/megaphone"
-                                     },
-                                     {
-                                         "label":  "マイクロフォン",
-                                         "tag":  "microphone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/microphone"
-                                     },
-                                     {
-                                         "label":  "マイクスタンド",
-                                         "tag":  "microphone_stand",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/microphone_stand"
-                                     },
-                                     {
-                                         "label":  "ポップフィルター",
-                                         "tag":  "pop_filter",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pop_filter"
-                                     },
-                                     {
-                                         "label":  "スタジオマイク",
-                                         "tag":  "studio_microphone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/studio_microphone"
-                                     },
-                                     {
-                                         "label":  "ビンテージマイク",
-                                         "tag":  "vintage_microphone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vintage_microphone"
-                                     },
-                                     {
-                                         "label":  "ブームマイク",
-                                         "tag":  "boom_microphone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/boom_microphone"
-                                     },
-                                     {
-                                         "label":  "ラベリアマイク",
-                                         "tag":  "lavalier_microphone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lavalier_microphone"
-                                     },
-                                     {
-                                         "label":  "ミキシングコンソール",
-                                         "tag":  "mixing_console",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mixing_console"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "金管楽器",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ラッパ",
-                                         "tag":  "bugle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bugle"
-                                     },
-                                     {
-                                         "label":  "ユーフォニアム",
-                                         "tag":  "euphonium",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/euphonium"
-                                     },
-                                     {
-                                         "label":  "フリューゲルホルン",
-                                         "tag":  "flugelhorn",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flugelhorn"
-                                     },
-                                     {
-                                         "label":  "フレンチホルン",
-                                         "tag":  "french_horn",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/french_horn"
-                                     },
-                                     {
-                                         "label":  "オリファント（楽器）",
-                                         "tag":  "olifant_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/olifant_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "スーザフォン",
-                                         "tag":  "sousaphone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sousaphone"
-                                     },
-                                     {
-                                         "label":  "トロンボーン",
-                                         "tag":  "trombone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/trombone"
-                                     },
-                                     {
-                                         "label":  "バストロンボーン",
-                                         "tag":  "bass_trombone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bass_trombone"
-                                     },
-                                     {
-                                         "label":  "トランペット",
-                                         "tag":  "trumpet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/trumpet"
-                                     },
-                                     {
-                                         "label":  "チューバ",
-                                         "tag":  "tuba",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tuba"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "パーカッション",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ベル",
-                                         "tag":  "bell",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bell"
-                                     },
-                                     {
-                                         "label":  "カウベル",
-                                         "tag":  "cowbell",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cowbell"
-                                     },
-                                     {
-                                         "label":  "ハンドベル",
-                                         "tag":  "handbell",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/handbell"
-                                     },
-                                     {
-                                         "label":  "ジングルベル",
-                                         "tag":  "jingle_bell",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jingle_bell"
-                                     },
-                                     {
-                                         "label":  "神楽すず",
-                                         "tag":  "kagura_suzu",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kagura_suzu"
-                                     },
-                                     {
-                                         "label":  "カスタネット",
-                                         "tag":  "castanets",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/castanets"
-                                     },
-                                     {
-                                         "label":  "シンバル",
-                                         "tag":  "cymbals",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cymbals"
-                                     },
-                                     {
-                                         "label":  "ドラム",
-                                         "tag":  "drum",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/drum"
-                                     },
-                                     {
-                                         "label":  "ボンゴドラム",
-                                         "tag":  "bongo_drums",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bongo_drums"
-                                     },
-                                     {
-                                         "label":  "コンガドラム",
-                                         "tag":  "conga_drums",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/conga_drums"
-                                     },
-                                     {
-                                         "label":  "ドラムスティック",
-                                         "tag":  "drumsticks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/drumsticks"
-                                     },
-                                     {
-                                         "label":  "ラトルドラム",
-                                         "tag":  "rattle_drum",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rattle_drum"
-                                     },
-                                     {
-                                         "label":  "スネアドラム",
-                                         "tag":  "snare_drum",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/snare_drum"
-                                     },
-                                     {
-                                         "label":  "太鼓",
-                                         "tag":  "taiko_drum",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/taiko_drum"
-                                     },
-                                     {
-                                         "label":  "ティンパニー",
-                                         "tag":  "timpani",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/timpani"
-                                     },
-                                     {
-                                         "label":  "鼓",
-                                         "tag":  "tsuzumi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tsuzumi"
-                                     },
-                                     {
-                                         "label":  "マラカス",
-                                         "tag":  "maracas",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/maracas"
-                                     },
-                                     {
-                                         "label":  "マリンバ",
-                                         "tag":  "marimba",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/marimba"
-                                     },
-                                     {
-                                         "label":  "マレット（音楽）",
-                                         "tag":  "mallets_%28music%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mallets_%28music%29"
-                                     },
-                                     {
-                                         "label":  "編磬",
-                                         "tag":  "pyeongyeong",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pyeongyeong"
-                                     },
-                                     {
-                                         "label":  "シストラム",
-                                         "tag":  "sistrum",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sistrum"
-                                     },
-                                     {
-                                         "label":  "タンバリン",
-                                         "tag":  "tambourine",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tambourine"
-                                     },
-                                     {
-                                         "label":  "トライアングル",
-                                         "tag":  "triangle_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/triangle_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "ウドゥ",
-                                         "tag":  "udu_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/udu_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "ビブラスラップ",
-                                         "tag":  "vibraslap",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vibraslap"
-                                     },
-                                     {
-                                         "label":  "木琴",
-                                         "tag":  "xylophone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/xylophone"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "弦楽器",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "バンジョー",
-                                         "tag":  "banjo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/banjo"
-                                     },
-                                     {
-                                         "label":  "バラライカ",
-                                         "tag":  "balalaika_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/balalaika_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "バンデューラ",
-                                         "tag":  "bandura",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandura"
-                                     },
-                                     {
-                                         "label":  "ベースギター",
-                                         "tag":  "bass_guitar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bass_guitar"
-                                     },
-                                     {
-                                         "label":  "ESP BTL",
-                                         "tag":  "esp_btl",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/esp_btl"
-                                     },
-                                     {
-                                         "label":  "フェンダー・ジャズベース",
-                                         "tag":  "fender_jazz_bass",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_jazz_bass"
-                                     },
-                                     {
-                                         "label":  "フェンダー プレシジョンベース",
-                                         "tag":  "fender_precision_bass",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_precision_bass"
-                                     },
-                                     {
-                                         "label":  "フェンダー テレキャスター ベース",
-                                         "tag":  "fender_telecaster_bass",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_telecaster_bass"
-                                     },
-                                     {
-                                         "label":  "ギブソンSG（ベース）",
-                                         "tag":  "gibson_sg_%28bass%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_sg_%28bass%29"
-                                     },
-                                     {
-                                         "label":  "ギブソン・サンダーバード",
-                                         "tag":  "gibson_thunderbird",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_thunderbird"
-                                     },
-                                     {
-                                         "label":  "アイバニーズ SR300E",
-                                         "tag":  "ibanez_sr300e",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ibanez_sr300e"
-                                     },
-                                     {
-                                         "label":  "ミュージックマンボンゴ",
-                                         "tag":  "music_man_bongo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/music_man_bongo"
-                                     },
-                                     {
-                                         "label":  "ミュージックマン スティングレイ",
-                                         "tag":  "music_man_stingray",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/music_man_stingray"
-                                     },
-                                     {
-                                         "label":  "PJベース",
-                                         "tag":  "pj_bass",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pj_bass"
-                                     },
-                                     {
-                                         "label":  "リッケンバッカー 4001",
-                                         "tag":  "rickenbacker_4001",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rickenbacker_4001"
-                                     },
-                                     {
-                                         "label":  "ヤマハ・アティチュード",
-                                         "tag":  "yamaha_attitude",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yamaha_attitude"
-                                     },
-                                     {
-                                         "label":  "ヤマハ ブロードベース",
-                                         "tag":  "yamaha_broadbass",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yamaha_broadbass"
-                                     },
-                                     {
-                                         "label":  "ヤマハTRB",
-                                         "tag":  "yamaha_trb",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yamaha_trb"
-                                     },
-                                     {
-                                         "label":  "弓",
-                                         "tag":  "bow_%28music%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bow_%28music%29"
-                                     },
-                                     {
-                                         "label":  "チェロ",
-                                         "tag":  "cello",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cello"
-                                     },
-                                     {
-                                         "label":  "チャップマンスティック",
-                                         "tag":  "chapman_stick_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chapman_stick_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "コントラバス",
-                                         "tag":  "double_bass",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/double_bass"
-                                     },
-                                     {
-                                         "label":  "エレクトリック・コントラバス",
-                                         "tag":  "electric_double_bass",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/electric_double_bass"
-                                     },
-                                     {
-                                         "label":  "二胡",
-                                         "tag":  "erhu",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/erhu"
-                                     },
-                                     {
-                                         "label":  "gayageum",
-                                         "tag":  "gayageum_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gayageum_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "ギター",
-                                         "tag":  "guitar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/guitar"
-                                     },
-                                     {
-                                         "label":  "アコースティックギター",
-                                         "tag":  "acoustic_guitar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/acoustic_guitar"
-                                     },
-                                     {
-                                         "label":  "エレキギター",
-                                         "tag":  "electric_guitar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/electric_guitar"
-                                     },
-                                     {
-                                         "label":  "Casio DG-20",
-                                         "tag":  "casio_dg-20",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/casio_dg-20"
-                                     },
-                                     {
-                                         "label":  "Duesenberg Starplayer",
-                                         "tag":  "duesenberg_starplayer",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/duesenberg_starplayer"
-                                     },
-                                     {
-                                         "label":  "ESP STREAM-Miku-Custom",
-                                         "tag":  "esp_stream-miku-custom",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/esp_stream-miku-custom"
-                                     },
-                                     {
-                                         "label":  "Fender Cyclone",
-                                         "tag":  "fender_cyclone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_cyclone"
-                                     },
-                                     {
-                                         "label":  "Fender Jaguar",
-                                         "tag":  "fender_jaguar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_jaguar"
-                                     },
-                                     {
-                                         "label":  "Fender Jazzmaster",
-                                         "tag":  "fender_jazzmaster",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_jazzmaster"
-                                     },
-                                     {
-                                         "label":  "Fender Mustang",
-                                         "tag":  "fender_mustang",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_mustang"
-                                     },
-                                     {
-                                         "label":  "フェンダー ストラトキャスター",
-                                         "tag":  "fender_stratocaster",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_stratocaster"
-                                     },
-                                     {
-                                         "label":  "Fender Telecaster",
-                                         "tag":  "fender_telecaster",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_telecaster"
-                                     },
-                                     {
-                                         "label":  "Gibson ES-335",
-                                         "tag":  "gibson_es-335",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_es-335"
-                                     },
-                                     {
-                                         "label":  "Gibson Explorer",
-                                         "tag":  "gibson_explorer",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_explorer"
-                                     },
-                                     {
-                                         "label":  "ギブソン フライングV",
-                                         "tag":  "gibson_flying_v",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_flying_v"
-                                     },
-                                     {
-                                         "label":  "Gibson Firebird",
-                                         "tag":  "gibson_firebird",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_firebird"
-                                     },
-                                     {
-                                         "label":  "Gibson Hummingbird",
-                                         "tag":  "gibson_hummingbird",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_hummingbird"
-                                     },
-                                     {
-                                         "label":  "ギブソン レスポール",
-                                         "tag":  "gibson_les_paul",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_les_paul"
-                                     },
-                                     {
-                                         "label":  "Gibson RD",
-                                         "tag":  "gibson_rd",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_rd"
-                                     },
-                                     {
-                                         "label":  "Gibson SG",
-                                         "tag":  "gibson_sg",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gibson_sg"
-                                     },
-                                     {
-                                         "label":  "Gretsch 5230",
-                                         "tag":  "gretsch_5230",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gretsch_5230"
-                                     },
-                                     {
-                                         "label":  "Gretsch 6120",
-                                         "tag":  "gretsch_6120",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gretsch_6120"
-                                     },
-                                     {
-                                         "label":  "Gretsch 6128",
-                                         "tag":  "gretsch_6128",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gretsch_6128"
-                                     },
-                                     {
-                                         "label":  "Italia Mondial",
-                                         "tag":  "italia_mondial",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/italia_mondial"
-                                     },
-                                     {
-                                         "label":  "Jackson King V",
-                                         "tag":  "jackson_king_v",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jackson_king_v"
-                                     },
-                                     {
-                                         "label":  "Jackson rhoads",
-                                         "tag":  "jackson_rhoads",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jackson_rhoads"
-                                     },
-                                     {
-                                         "label":  "Parker Fly",
-                                         "tag":  "parker_fly",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/parker_fly"
-                                     },
-                                     {
-                                         "label":  "Rickenbacker 325",
-                                         "tag":  "rickenbacker_325",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rickenbacker_325"
-                                     },
-                                     {
-                                         "label":  "Rickenbacker 330",
-                                         "tag":  "rickenbacker_330",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rickenbacker_330"
-                                     },
-                                     {
-                                         "label":  "Yamaha Pacifica",
-                                         "tag":  "yamaha_pacifica",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yamaha_pacifica"
-                                     },
-                                     {
-                                         "label":  "Yamaha Revstar",
-                                         "tag":  "yamaha_revstar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yamaha_revstar"
-                                     },
-                                     {
-                                         "label":  "古琴",
-                                         "tag":  "guqin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/guqin"
-                                     },
-                                     {
-                                         "label":  "古筝",
-                                         "tag":  "guzheng",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/guzheng"
-                                     },
-                                     {
-                                         "label":  "ハープ",
-                                         "tag":  "harp",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/harp"
-                                     },
-                                     {
-                                         "label":  "ハンマーダルシマー",
-                                         "tag":  "hammered_dulcimer",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hammered_dulcimer"
-                                     },
-                                     {
-                                         "label":  "リラ",
-                                         "tag":  "lyre",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lyre"
-                                     },
-                                     {
-                                         "label":  "カンテレ",
-                                         "tag":  "kantele",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kantele"
-                                     },
-                                     {
-                                         "label":  "胡弓",
-                                         "tag":  "kokyuu",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kokyuu"
-                                     },
-                                     {
-                                         "label":  "箏",
-                                         "tag":  "koto_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/koto_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "リュート",
-                                         "tag":  "lute_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lute_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "琵琶",
-                                         "tag":  "biwa_lute",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/biwa_lute"
-                                     },
-                                     {
-                                         "label":  "phin",
-                                         "tag":  "phin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/phin"
-                                     },
-                                     {
-                                         "label":  "electric phin",
-                                         "tag":  "electric_phin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/electric_phin"
-                                     },
-                                     {
-                                         "label":  "マンドリン",
-                                         "tag":  "mandolin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mandolin"
-                                     },
-                                     {
-                                         "label":  "馬頭琴",
-                                         "tag":  "morin_khuur",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/morin_khuur"
-                                     },
-                                     {
-                                         "label":  "nyckelharpa",
-                                         "tag":  "nyckelharpa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nyckelharpa"
-                                     },
-                                     {
-                                         "label":  "琵琶（中国）",
-                                         "tag":  "pipa_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pipa_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "撥・ピック",
-                                         "tag":  "plectrum",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/plectrum"
-                                     },
-                                     {
-                                         "label":  "ruan",
-                                         "tag":  "ruan",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ruan"
-                                     },
-                                     {
-                                         "label":  "シタール",
-                                         "tag":  "sitar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sitar"
-                                     },
-                                     {
-                                         "label":  "三味線",
-                                         "tag":  "shamisen",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shamisen"
-                                     },
-                                     {
-                                         "label":  "トンコリ",
-                                         "tag":  "tonkori",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tonkori"
-                                     },
-                                     {
-                                         "label":  "ウクレレ",
-                                         "tag":  "ukulele",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ukulele"
-                                     },
-                                     {
-                                         "label":  "ヴィオラ",
-                                         "tag":  "viola_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/viola_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "ヴァイオリン",
-                                         "tag":  "violin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/violin"
-                                     },
-                                     {
-                                         "label":  "wolgeum",
-                                         "tag":  "wolgeum",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wolgeum"
-                                     },
-                                     {
-                                         "label":  "月琴",
-                                         "tag":  "yueqin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yueqin"
-                                     },
-                                     {
-                                         "label":  "ツィター",
-                                         "tag":  "zither",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/zither"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "木管楽器",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "バグパイプ",
-                                         "tag":  "bagpipes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bagpipes"
-                                     },
-                                     {
-                                         "label":  "ファゴット",
-                                         "tag":  "bassoon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bassoon"
-                                     },
-                                     {
-                                         "label":  "クラリネット",
-                                         "tag":  "clarinet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/clarinet"
-                                     },
-                                     {
-                                         "label":  "クルムホルン",
-                                         "tag":  "crumhorn",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crumhorn"
-                                     },
-                                     {
-                                         "label":  "電子管楽器",
-                                         "tag":  "electric_wind_instrument",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/electric_wind_instrument"
-                                     },
-                                     {
-                                         "label":  "フルート",
-                                         "tag":  "flute",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flute"
-                                     },
-                                     {
-                                         "label":  "バスフルート",
-                                         "tag":  "bass_flute",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bass_flute"
-                                     },
-                                     {
-                                         "label":  "fife",
-                                         "tag":  "fife_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fife_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "ハーモニカ",
-                                         "tag":  "harmonica",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/harmonica"
-                                     },
-                                     {
-                                         "label":  "オーボエ",
-                                         "tag":  "oboe",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/oboe"
-                                     },
-                                     {
-                                         "label":  "オカリナ",
-                                         "tag":  "ocarina",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ocarina"
-                                     },
-                                     {
-                                         "label":  "リコーダー",
-                                         "tag":  "recorder",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/recorder"
-                                     },
-                                     {
-                                         "label":  "サクソフォーン",
-                                         "tag":  "saxophone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/saxophone"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "鍵盤楽器",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アコーディオン",
-                                         "tag":  "accordion",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/accordion"
-                                     },
-                                     {
-                                         "label":  "コンサーティーナ",
-                                         "tag":  "concertina",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/concertina"
-                                     },
-                                     {
-                                         "label":  "鍵盤ハーモニカ",
-                                         "tag":  "melodica",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/melodica"
-                                     },
-                                     {
-                                         "label":  "チェンバロ",
-                                         "tag":  "harpsichord",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/harpsichord"
-                                     },
-                                     {
-                                         "label":  "ハーディ・ガーディ",
-                                         "tag":  "hurdy-gurdy",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hurdy-gurdy"
-                                     },
-                                     {
-                                         "label":  "キーボード（楽器）",
-                                         "tag":  "keyboard_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/keyboard_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "ショルダーキーボード",
-                                         "tag":  "keytar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/keytar"
-                                     },
-                                     {
-                                         "label":  "Alesis Vortex",
-                                         "tag":  "alesis_vortex",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/alesis_vortex"
-                                     },
-                                     {
-                                         "label":  "Korg RK-100",
-                                         "tag":  "korg_rk-100",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/korg_rk-100"
-                                     },
-                                     {
-                                         "label":  "Korg RK-100S",
-                                         "tag":  "korg_rk-100s",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/korg_rk-100s"
-                                     },
-                                     {
-                                         "label":  "Roland AX-7",
-                                         "tag":  "roland_ax-7",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/roland_ax-7"
-                                     },
-                                     {
-                                         "label":  "Roland AX-Edge",
-                                         "tag":  "roland_ax-edge",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/roland_ax-edge"
-                                     },
-                                     {
-                                         "label":  "Roland AX-Synth",
-                                         "tag":  "roland_ax-synth",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/roland_ax-synth"
-                                     },
-                                     {
-                                         "label":  "Roland Lucina AX-09",
-                                         "tag":  "roland_lucina_ax-09",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/roland_lucina_ax-09"
-                                     },
-                                     {
-                                         "label":  "Yamaha KX5",
-                                         "tag":  "yamaha_kx5",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yamaha_kx5"
-                                     },
-                                     {
-                                         "label":  "Yamaha SHS-500",
-                                         "tag":  "yamaha_shs-500",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yamaha_shs-500"
-                                     },
-                                     {
-                                         "label":  "Fender Rhodes",
-                                         "tag":  "fender_rhodes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fender_rhodes"
-                                     },
-                                     {
-                                         "label":  "シンセサイザー",
-                                         "tag":  "synthesizer",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/synthesizer"
-                                     },
-                                     {
-                                         "label":  "Clavia Nord",
-                                         "tag":  "clavia_nord",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/clavia_nord"
-                                     },
-                                     {
-                                         "label":  "オルガン",
-                                         "tag":  "organ_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/organ_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "電子オルガン",
-                                         "tag":  "electric_organ",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/electric_organ"
-                                     },
-                                     {
-                                         "label":  "パイプオルガン",
-                                         "tag":  "pipe_organ",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pipe_organ"
-                                     },
-                                     {
-                                         "label":  "organistrum",
-                                         "tag":  "organistrum",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/organistrum"
-                                     },
-                                     {
-                                         "label":  "ピアノ",
-                                         "tag":  "piano",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/piano"
-                                     },
-                                     {
-                                         "label":  "ピアノの鍵盤",
-                                         "tag":  "piano_keys",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/piano_keys"
-                                     },
-                                     {
-                                         "label":  "グランドピアノ",
-                                         "tag":  "grand_piano",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grand_piano"
-                                     },
-                                     {
-                                         "label":  "アップライトピアノ",
-                                         "tag":  "upright_piano",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/upright_piano"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他の楽器",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "口琴",
-                                         "tag":  "jaw_harp",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jaw_harp"
-                                     },
-                                     {
-                                         "label":  "カズー",
-                                         "tag":  "kazoo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kazoo"
-                                     },
-                                     {
-                                         "label":  "オタマトーン",
-                                         "tag":  "otamatone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/otamatone"
-                                     },
-                                     {
-                                         "label":  "テルミン",
-                                         "tag":  "theremin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/theremin"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "音楽ジャンル",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "Eurobeat",
-                                         "tag":  "eurobeat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eurobeat"
-                                     },
-                                     {
-                                         "label":  "ヒップホップ",
-                                         "tag":  "hip_hop",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hip_hop"
-                                     },
-                                     {
-                                         "label":  "Heavy Metal",
-                                         "tag":  "heavy_metal",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heavy_metal"
-                                     },
-                                     {
-                                         "label":  "Black Metal",
-                                         "tag":  "black_metal",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_metal"
-                                     },
-                                     {
-                                         "label":  "Jazz",
-                                         "tag":  "jazz",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jazz"
-                                     },
-                                     {
-                                         "label":  "J-core",
-                                         "tag":  "j-core",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/j-core"
-                                     },
-                                     {
-                                         "label":  "K-pop",
-                                         "tag":  "k-pop",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/k-pop"
-                                     },
-                                     {
-                                         "label":  "Nerdcore Techno",
-                                         "tag":  "nerdcore_techno",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nerdcore_techno"
-                                     },
-                                     {
-                                         "label":  "パンク",
-                                         "tag":  "punk",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/punk"
-                                     },
-                                     {
-                                         "label":  "Rock",
-                                         "tag":  "rock_%28music%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rock_%28music%29"
-                                     },
-                                     {
-                                         "label":  "Trance",
-                                         "tag":  "trance_%28music%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/trance_%28music%29"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "音楽・音響に関するタグ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "音声の視覚化",
-                                         "tag":  "audio_visualizer",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/audio_visualizer"
-                                     },
-                                     {
-                                         "label":  "指揮棒",
-                                         "tag":  "conductor_baton",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/conductor_baton"
-                                     },
-                                     {
-                                         "label":  "ホルン",
-                                         "tag":  "horn_%28instrument%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/horn_%28instrument%29"
-                                     },
-                                     {
-                                         "label":  "ブブゼラ",
-                                         "tag":  "vuvuzela",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vuvuzela"
-                                     },
-                                     {
-                                         "label":  "楽器",
-                                         "tag":  "instrument",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/instrument"
-                                     },
-                                     {
-                                         "label":  "楽器を持つ",
-                                         "tag":  "holding_instrument",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_instrument"
-                                     },
-                                     {
-                                         "label":  "楽器ケース",
-                                         "tag":  "instrument_case",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/instrument_case"
-                                     },
-                                     {
-                                         "label":  "ギターケース",
-                                         "tag":  "guitar_case",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/guitar_case"
-                                     },
-                                     {
-                                         "label":  "楽器を演奏する",
-                                         "tag":  "playing_instrument",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playing_instrument"
-                                     },
-                                     {
-                                         "label":  "音楽",
-                                         "tag":  "music",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/music"
-                                     },
-                                     {
-                                         "label":  "notes",
-                                         "tag":  "notes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/notes"
-                                     },
-                                     {
-                                         "label":  "音符",
-                                         "tag":  "musical_note",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/musical_note"
-                                     },
-                                     {
-                                         "label":  "吹き出し内の音符",
-                                         "tag":  "spoken_musical_note",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/spoken_musical_note"
-                                     },
-                                     {
-                                         "label":  "ト音記号",
-                                         "tag":  "treble_clef",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/treble_clef"
-                                     },
-                                     {
-                                         "label":  "ヘ音記号",
-                                         "tag":  "bass_clef",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bass_clef"
-                                     },
-                                     {
-                                         "label":  "楽譜",
-                                         "tag":  "sheet_music",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sheet_music"
-                                     },
-                                     {
-                                         "label":  "五線譜",
-                                         "tag":  "musical_staff",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/musical_staff"
-                                     },
-                                     {
-                                         "label":  "譜面台",
-                                         "tag":  "music_stand",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/music_stand"
-                                     },
-                                     {
-                                         "label":  "歌う",
-                                         "tag":  "singing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/singing"
-                                     },
-                                     {
-                                         "label":  "カラオケ",
-                                         "tag":  "karaoke",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/karaoke"
-                                     },
-                                     {
-                                         "label":  "オペラ",
-                                         "tag":  "opera",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/opera"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "歌手・音楽家",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ashizawa saki",
-                                         "tag":  "ashizawa_saki",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ashizawa_saki"
-                                     },
-                                     {
-                                         "label":  "azki",
-                                         "tag":  "azki_%28hololive%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/azki_%28hololive%29"
-                                     },
-                                     {
-                                         "label":  "beck",
-                                         "tag":  "beck_%28musician%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/beck_%28musician%29"
-                                     },
-                                     {
-                                         "label":  "beyonce",
-                                         "tag":  "beyonce",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/beyonce"
-                                     },
-                                     {
-                                         "label":  "doumyouji cocoa",
-                                         "tag":  "doumyouji_cocoa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/doumyouji_cocoa"
-                                     },
-                                     {
-                                         "label":  "elvis presley",
-                                         "tag":  "elvis_presley",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/elvis_presley"
-                                     },
-                                     {
-                                         "label":  "fuji aoi",
-                                         "tag":  "fuji_aoi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fuji_aoi"
-                                     },
-                                     {
-                                         "label":  "freddie mercury",
-                                         "tag":  "freddie_mercury",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/freddie_mercury"
-                                     },
-                                     {
-                                         "label":  "hanabasami kyou",
-                                         "tag":  "hanabasami_kyou",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hanabasami_kyou"
-                                     },
-                                     {
-                                         "label":  "平沢進",
-                                         "tag":  "hirasawa_susumu",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hirasawa_susumu"
-                                     },
-                                     {
-                                         "label":  "jimi hendrix",
-                                         "tag":  "jimi_hendrix",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jimi_hendrix"
-                                     },
-                                     {
-                                         "label":  "joakim broden",
-                                         "tag":  "joakim_broden",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/joakim_broden"
-                                     },
-                                     {
-                                         "label":  "john lennon",
-                                         "tag":  "john_lennon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/john_lennon"
-                                     },
-                                     {
-                                         "label":  "きゃりーぱみゅぱみゅ",
-                                         "tag":  "kyary_pamyu_pamyu",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kyary_pamyu_pamyu"
-                                     },
-                                     {
-                                         "label":  "lady gaga",
-                                         "tag":  "lady_gaga_%28copyright%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lady_gaga_%28copyright%29"
-                                     },
-                                     {
-                                         "label":  "LiSA",
-                                         "tag":  "lisa_%28singer%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lisa_%28singer%29"
-                                     },
-                                     {
-                                         "label":  "marilyn manson",
-                                         "tag":  "marilyn_manson",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/marilyn_manson"
-                                     },
-                                     {
-                                         "label":  "marilyn monroe",
-                                         "tag":  "marilyn_monroe",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/marilyn_monroe"
-                                     },
-                                     {
-                                         "label":  "mr. lordi",
-                                         "tag":  "mr._lordi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mr._lordi"
-                                     },
-                                     {
-                                         "label":  "michael jackson",
-                                         "tag":  "michael_jackson",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/michael_jackson"
-                                     },
-                                     {
-                                         "label":  "paul mccartney",
-                                         "tag":  "paul_mccartney",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/paul_mccartney"
-                                     },
-                                     {
-                                         "label":  "pink floyd",
-                                         "tag":  "pink_floyd",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_floyd"
-                                     },
-                                     {
-                                         "label":  "rick astley",
-                                         "tag":  "rick_astley",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rick_astley"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "バンド・グループ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "音楽バンド",
-                                         "tag":  "band_%28music%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/band_%28music%29"
-                                     },
-                                     {
-                                         "label":  "AC/DC",
-                                         "tag":  "ac%2Fdc",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ac%2Fdc"
-                                     },
-                                     {
-                                         "label":  "AKB48",
-                                         "tag":  "akb48",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/akb48"
-                                     },
-                                     {
-                                         "label":  "anamanaguchi",
-                                         "tag":  "anamanaguchi_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/anamanaguchi_%28band%29"
-                                     },
-                                     {
-                                         "label":  "aphex twin",
-                                         "tag":  "aphex_twin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aphex_twin"
-                                     },
-                                     {
-                                         "label":  "asian kung-fu generation",
-                                         "tag":  "asian_kung-fu_generation",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/asian_kung-fu_generation"
-                                     },
-                                     {
-                                         "label":  "the beatles",
-                                         "tag":  "the_beatles",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/the_beatles"
-                                     },
-                                     {
-                                         "label":  "blackpink",
-                                         "tag":  "blackpink",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blackpink"
-                                     },
-                                     {
-                                         "label":  "Black Sabbath",
-                                         "tag":  "black_sabbath",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_sabbath"
-                                     },
-                                     {
-                                         "label":  "bloodthirsty butchers",
-                                         "tag":  "bloodthirsty_butchers",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bloodthirsty_butchers"
-                                     },
-                                     {
-                                         "label":  "blur",
-                                         "tag":  "blur_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blur_%28band%29"
-                                     },
-                                     {
-                                         "label":  "cannibal corpse",
-                                         "tag":  "cannibal_corpse",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cannibal_corpse"
-                                     },
-                                     {
-                                         "label":  "da pump",
-                                         "tag":  "da_pump",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/da_pump"
-                                     },
-                                     {
-                                         "label":  "death devil",
-                                         "tag":  "death_devil_%28k-on%21%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/death_devil_%28k-on%21%29"
-                                     },
-                                     {
-                                         "label":  "death grips",
-                                         "tag":  "death_grips",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/death_grips"
-                                     },
-                                     {
-                                         "label":  "detroit metal city",
-                                         "tag":  "detroit_metal_city",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/detroit_metal_city"
-                                     },
-                                     {
+  "カテゴリID": "audio_tags",
+  "カテゴリ名": "音楽・音響",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aaudio_tags",
+  "セクション一覧": [
+    {
+      "セクション名": "再生機器",
+      "タグ一覧": [
+        {
+          "label": "CDプレーヤー",
+          "tag": "cd_player",
+          "link": "https://danbooru.donmai.us/wiki_pages/cd_player"
+        },
+        {
+          "label": "デジタルメディアプレーヤー",
+          "tag": "digital_media_player",
+          "link": "https://danbooru.donmai.us/wiki_pages/digital_media_player"
+        },
+        {
+          "label": "iPod",
+          "tag": "ipod",
+          "link": "https://danbooru.donmai.us/wiki_pages/ipod"
+        },
+        {
+          "label": "iPhone",
+          "tag": "iphone",
+          "link": "https://danbooru.donmai.us/wiki_pages/iphone"
+        },
+        {
+          "label": "蓄音機",
+          "tag": "phonograph",
+          "link": "https://danbooru.donmai.us/wiki_pages/phonograph"
+        },
+        {
+          "label": "サウンドバーガー",
+          "tag": "sound_burger",
+          "link": "https://danbooru.donmai.us/wiki_pages/sound_burger"
+        },
+        {
+          "label": "ターンテーブル",
+          "tag": "turntable",
+          "link": "https://danbooru.donmai.us/wiki_pages/turntable"
+        },
+        {
+          "label": "ラジオ",
+          "tag": "radio",
+          "link": "https://danbooru.donmai.us/wiki_pages/radio"
+        },
+        {
+          "label": "ステレオ",
+          "tag": "stereo",
+          "link": "https://danbooru.donmai.us/wiki_pages/stereo"
+        },
+        {
+          "label": "ウォークマン",
+          "tag": "walkman",
+          "link": "https://danbooru.donmai.us/wiki_pages/walkman"
+        }
+      ]
+    },
+    {
+      "セクション名": "スピーカーとヘッドフォン",
+      "タグ一覧": [
+        {
+          "label": "イヤホン",
+          "tag": "earphones",
+          "link": "https://danbooru.donmai.us/wiki_pages/earphones"
+        },
+        {
+          "label": "イヤホン",
+          "tag": "earbuds",
+          "link": "https://danbooru.donmai.us/wiki_pages/earbuds"
+        },
+        {
+          "label": "イヤーピース",
+          "tag": "earpiece",
+          "link": "https://danbooru.donmai.us/wiki_pages/earpiece"
+        },
+        {
+          "label": "耳の保護具",
+          "tag": "ear_protection",
+          "link": "https://danbooru.donmai.us/wiki_pages/ear_protection"
+        },
+        {
+          "label": "耳当て",
+          "tag": "earmuffs",
+          "link": "https://danbooru.donmai.us/wiki_pages/earmuffs"
+        },
+        {
+          "label": "ヘッドフォン",
+          "tag": "headphones",
+          "link": "https://danbooru.donmai.us/wiki_pages/headphones"
+        },
+        {
+          "label": "ネックバンド型ヘッドホン",
+          "tag": "behind-the-head_headphones",
+          "link": "https://danbooru.donmai.us/wiki_pages/behind-the-head_headphones"
+        },
+        {
+          "label": "バニーヘッドフォン",
+          "tag": "bunny_headphones",
+          "link": "https://danbooru.donmai.us/wiki_pages/bunny_headphones"
+        },
+        {
+          "label": "猫耳ヘッドフォン",
+          "tag": "cat_ear_headphones",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_ear_headphones"
+        },
+        {
+          "label": "動物の耳用のヘッドフォン",
+          "tag": "headphones_for_animal_ears",
+          "link": "https://danbooru.donmai.us/wiki_pages/headphones_for_animal_ears"
+        },
+        {
+          "label": "ヘッドセット",
+          "tag": "headset",
+          "link": "https://danbooru.donmai.us/wiki_pages/headset"
+        },
+        {
+          "label": "スピーカー",
+          "tag": "speaker",
+          "link": "https://danbooru.donmai.us/wiki_pages/speaker"
+        }
+      ]
+    },
+    {
+      "セクション名": "録音音声メディア",
+      "タグ一覧": [
+        {
+          "label": "カセットテープ",
+          "tag": "cassette_tape",
+          "link": "https://danbooru.donmai.us/wiki_pages/cassette_tape"
+        },
+        {
+          "label": "CD",
+          "tag": "cd",
+          "link": "https://danbooru.donmai.us/wiki_pages/cd"
+        },
+        {
+          "label": "アナログレコード",
+          "tag": "vinyl_record",
+          "link": "https://danbooru.donmai.us/wiki_pages/vinyl_record"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他のオーディオデバイス",
+      "タグ一覧": [
+        {
+          "label": "増幅器",
+          "tag": "amplifier",
+          "link": "https://danbooru.donmai.us/wiki_pages/amplifier"
+        },
+        {
+          "label": "真空管アンプ",
+          "tag": "tube_amplifier",
+          "link": "https://danbooru.donmai.us/wiki_pages/tube_amplifier"
+        },
+        {
+          "label": "メガホン",
+          "tag": "megaphone",
+          "link": "https://danbooru.donmai.us/wiki_pages/megaphone"
+        },
+        {
+          "label": "マイクロフォン",
+          "tag": "microphone",
+          "link": "https://danbooru.donmai.us/wiki_pages/microphone"
+        },
+        {
+          "label": "マイクスタンド",
+          "tag": "microphone_stand",
+          "link": "https://danbooru.donmai.us/wiki_pages/microphone_stand"
+        },
+        {
+          "label": "ポップフィルター",
+          "tag": "pop_filter",
+          "link": "https://danbooru.donmai.us/wiki_pages/pop_filter"
+        },
+        {
+          "label": "スタジオマイク",
+          "tag": "studio_microphone",
+          "link": "https://danbooru.donmai.us/wiki_pages/studio_microphone"
+        },
+        {
+          "label": "ビンテージマイク",
+          "tag": "vintage_microphone",
+          "link": "https://danbooru.donmai.us/wiki_pages/vintage_microphone"
+        },
+        {
+          "label": "ブームマイク",
+          "tag": "boom_microphone",
+          "link": "https://danbooru.donmai.us/wiki_pages/boom_microphone"
+        },
+        {
+          "label": "ラベリアマイク",
+          "tag": "lavalier_microphone",
+          "link": "https://danbooru.donmai.us/wiki_pages/lavalier_microphone"
+        },
+        {
+          "label": "ミキシングコンソール",
+          "tag": "mixing_console",
+          "link": "https://danbooru.donmai.us/wiki_pages/mixing_console"
+        }
+      ]
+    },
+    {
+      "セクション名": "金管楽器",
+      "タグ一覧": [
+        {
+          "label": "ラッパ",
+          "tag": "bugle",
+          "link": "https://danbooru.donmai.us/wiki_pages/bugle"
+        },
+        {
+          "label": "ユーフォニアム",
+          "tag": "euphonium",
+          "link": "https://danbooru.donmai.us/wiki_pages/euphonium"
+        },
+        {
+          "label": "フリューゲルホルン",
+          "tag": "flugelhorn",
+          "link": "https://danbooru.donmai.us/wiki_pages/flugelhorn"
+        },
+        {
+          "label": "フレンチホルン",
+          "tag": "french_horn",
+          "link": "https://danbooru.donmai.us/wiki_pages/french_horn"
+        },
+        {
+          "label": "オリファント（楽器）",
+          "tag": "olifant_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/olifant_%28instrument%29"
+        },
+        {
+          "label": "スーザフォン",
+          "tag": "sousaphone",
+          "link": "https://danbooru.donmai.us/wiki_pages/sousaphone"
+        },
+        {
+          "label": "トロンボーン",
+          "tag": "trombone",
+          "link": "https://danbooru.donmai.us/wiki_pages/trombone"
+        },
+        {
+          "label": "バストロンボーン",
+          "tag": "bass_trombone",
+          "link": "https://danbooru.donmai.us/wiki_pages/bass_trombone"
+        },
+        {
+          "label": "トランペット",
+          "tag": "trumpet",
+          "link": "https://danbooru.donmai.us/wiki_pages/trumpet"
+        },
+        {
+          "label": "チューバ",
+          "tag": "tuba",
+          "link": "https://danbooru.donmai.us/wiki_pages/tuba"
+        }
+      ]
+    },
+    {
+      "セクション名": "パーカッション",
+      "タグ一覧": [
+        {
+          "label": "ベル",
+          "tag": "bell",
+          "link": "https://danbooru.donmai.us/wiki_pages/bell"
+        },
+        {
+          "label": "カウベル",
+          "tag": "cowbell",
+          "link": "https://danbooru.donmai.us/wiki_pages/cowbell"
+        },
+        {
+          "label": "ハンドベル",
+          "tag": "handbell",
+          "link": "https://danbooru.donmai.us/wiki_pages/handbell"
+        },
+        {
+          "label": "ジングルベル",
+          "tag": "jingle_bell",
+          "link": "https://danbooru.donmai.us/wiki_pages/jingle_bell"
+        },
+        {
+          "label": "神楽すず",
+          "tag": "kagura_suzu",
+          "link": "https://danbooru.donmai.us/wiki_pages/kagura_suzu"
+        },
+        {
+          "label": "カスタネット",
+          "tag": "castanets",
+          "link": "https://danbooru.donmai.us/wiki_pages/castanets"
+        },
+        {
+          "label": "シンバル",
+          "tag": "cymbals",
+          "link": "https://danbooru.donmai.us/wiki_pages/cymbals"
+        },
+        {
+          "label": "ドラム",
+          "tag": "drum",
+          "link": "https://danbooru.donmai.us/wiki_pages/drum"
+        },
+        {
+          "label": "ボンゴドラム",
+          "tag": "bongo_drums",
+          "link": "https://danbooru.donmai.us/wiki_pages/bongo_drums"
+        },
+        {
+          "label": "コンガドラム",
+          "tag": "conga_drums",
+          "link": "https://danbooru.donmai.us/wiki_pages/conga_drums"
+        },
+        {
+          "label": "ドラムスティック",
+          "tag": "drumsticks",
+          "link": "https://danbooru.donmai.us/wiki_pages/drumsticks"
+        },
+        {
+          "label": "ラトルドラム",
+          "tag": "rattle_drum",
+          "link": "https://danbooru.donmai.us/wiki_pages/rattle_drum"
+        },
+        {
+          "label": "スネアドラム",
+          "tag": "snare_drum",
+          "link": "https://danbooru.donmai.us/wiki_pages/snare_drum"
+        },
+        {
+          "label": "太鼓",
+          "tag": "taiko_drum",
+          "link": "https://danbooru.donmai.us/wiki_pages/taiko_drum"
+        },
+        {
+          "label": "ティンパニー",
+          "tag": "timpani",
+          "link": "https://danbooru.donmai.us/wiki_pages/timpani"
+        },
+        {
+          "label": "鼓",
+          "tag": "tsuzumi",
+          "link": "https://danbooru.donmai.us/wiki_pages/tsuzumi"
+        },
+        {
+          "label": "マラカス",
+          "tag": "maracas",
+          "link": "https://danbooru.donmai.us/wiki_pages/maracas"
+        },
+        {
+          "label": "マリンバ",
+          "tag": "marimba",
+          "link": "https://danbooru.donmai.us/wiki_pages/marimba"
+        },
+        {
+          "label": "マレット（音楽）",
+          "tag": "mallets_%28music%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/mallets_%28music%29"
+        },
+        {
+          "label": "編磬",
+          "tag": "pyeongyeong",
+          "link": "https://danbooru.donmai.us/wiki_pages/pyeongyeong"
+        },
+        {
+          "label": "シストラム",
+          "tag": "sistrum",
+          "link": "https://danbooru.donmai.us/wiki_pages/sistrum"
+        },
+        {
+          "label": "タンバリン",
+          "tag": "tambourine",
+          "link": "https://danbooru.donmai.us/wiki_pages/tambourine"
+        },
+        {
+          "label": "トライアングル",
+          "tag": "triangle_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/triangle_%28instrument%29"
+        },
+        {
+          "label": "ウドゥ",
+          "tag": "udu_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/udu_%28instrument%29"
+        },
+        {
+          "label": "ビブラスラップ",
+          "tag": "vibraslap",
+          "link": "https://danbooru.donmai.us/wiki_pages/vibraslap"
+        },
+        {
+          "label": "木琴",
+          "tag": "xylophone",
+          "link": "https://danbooru.donmai.us/wiki_pages/xylophone"
+        }
+      ]
+    },
+    {
+      "セクション名": "弦楽器",
+      "タグ一覧": [
+        {
+          "label": "バンジョー",
+          "tag": "banjo",
+          "link": "https://danbooru.donmai.us/wiki_pages/banjo"
+        },
+        {
+          "label": "バラライカ",
+          "tag": "balalaika_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/balalaika_%28instrument%29"
+        },
+        {
+          "label": "バンデューラ",
+          "tag": "bandura",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandura"
+        },
+        {
+          "label": "ベースギター",
+          "tag": "bass_guitar",
+          "link": "https://danbooru.donmai.us/wiki_pages/bass_guitar"
+        },
+        {
+          "label": "ESP BTL",
+          "tag": "esp_btl",
+          "link": "https://danbooru.donmai.us/wiki_pages/esp_btl"
+        },
+        {
+          "label": "フェンダー・ジャズベース",
+          "tag": "fender_jazz_bass",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_jazz_bass"
+        },
+        {
+          "label": "フェンダー プレシジョンベース",
+          "tag": "fender_precision_bass",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_precision_bass"
+        },
+        {
+          "label": "フェンダー テレキャスター ベース",
+          "tag": "fender_telecaster_bass",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_telecaster_bass"
+        },
+        {
+          "label": "ギブソンSG（ベース）",
+          "tag": "gibson_sg_%28bass%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_sg_%28bass%29"
+        },
+        {
+          "label": "ギブソン・サンダーバード",
+          "tag": "gibson_thunderbird",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_thunderbird"
+        },
+        {
+          "label": "アイバニーズ SR300E",
+          "tag": "ibanez_sr300e",
+          "link": "https://danbooru.donmai.us/wiki_pages/ibanez_sr300e"
+        },
+        {
+          "label": "ミュージックマンボンゴ",
+          "tag": "music_man_bongo",
+          "link": "https://danbooru.donmai.us/wiki_pages/music_man_bongo"
+        },
+        {
+          "label": "ミュージックマン スティングレイ",
+          "tag": "music_man_stingray",
+          "link": "https://danbooru.donmai.us/wiki_pages/music_man_stingray"
+        },
+        {
+          "label": "PJベース",
+          "tag": "pj_bass",
+          "link": "https://danbooru.donmai.us/wiki_pages/pj_bass"
+        },
+        {
+          "label": "リッケンバッカー 4001",
+          "tag": "rickenbacker_4001",
+          "link": "https://danbooru.donmai.us/wiki_pages/rickenbacker_4001"
+        },
+        {
+          "label": "ヤマハ・アティチュード",
+          "tag": "yamaha_attitude",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaha_attitude"
+        },
+        {
+          "label": "ヤマハ ブロードベース",
+          "tag": "yamaha_broadbass",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaha_broadbass"
+        },
+        {
+          "label": "ヤマハTRB",
+          "tag": "yamaha_trb",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaha_trb"
+        },
+        {
+          "label": "弓",
+          "tag": "bow_%28music%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/bow_%28music%29"
+        },
+        {
+          "label": "チェロ",
+          "tag": "cello",
+          "link": "https://danbooru.donmai.us/wiki_pages/cello"
+        },
+        {
+          "label": "チャップマンスティック",
+          "tag": "chapman_stick_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/chapman_stick_%28instrument%29"
+        },
+        {
+          "label": "コントラバス",
+          "tag": "double_bass",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_bass"
+        },
+        {
+          "label": "エレクトリック・コントラバス",
+          "tag": "electric_double_bass",
+          "link": "https://danbooru.donmai.us/wiki_pages/electric_double_bass"
+        },
+        {
+          "label": "二胡",
+          "tag": "erhu",
+          "link": "https://danbooru.donmai.us/wiki_pages/erhu"
+        },
+        {
+          "label": "gayageum",
+          "tag": "gayageum_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/gayageum_%28instrument%29"
+        },
+        {
+          "label": "ギター",
+          "tag": "guitar",
+          "link": "https://danbooru.donmai.us/wiki_pages/guitar"
+        },
+        {
+          "label": "アコースティックギター",
+          "tag": "acoustic_guitar",
+          "link": "https://danbooru.donmai.us/wiki_pages/acoustic_guitar"
+        },
+        {
+          "label": "エレキギター",
+          "tag": "electric_guitar",
+          "link": "https://danbooru.donmai.us/wiki_pages/electric_guitar"
+        },
+        {
+          "label": "Casio DG-20",
+          "tag": "casio_dg-20",
+          "link": "https://danbooru.donmai.us/wiki_pages/casio_dg-20"
+        },
+        {
+          "label": "Duesenberg Starplayer",
+          "tag": "duesenberg_starplayer",
+          "link": "https://danbooru.donmai.us/wiki_pages/duesenberg_starplayer"
+        },
+        {
+          "label": "ESP STREAM-Miku-Custom",
+          "tag": "esp_stream-miku-custom",
+          "link": "https://danbooru.donmai.us/wiki_pages/esp_stream-miku-custom"
+        },
+        {
+          "label": "Fender Cyclone",
+          "tag": "fender_cyclone",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_cyclone"
+        },
+        {
+          "label": "Fender Jaguar",
+          "tag": "fender_jaguar",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_jaguar"
+        },
+        {
+          "label": "Fender Jazzmaster",
+          "tag": "fender_jazzmaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_jazzmaster"
+        },
+        {
+          "label": "Fender Mustang",
+          "tag": "fender_mustang",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_mustang"
+        },
+        {
+          "label": "フェンダー ストラトキャスター",
+          "tag": "fender_stratocaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_stratocaster"
+        },
+        {
+          "label": "Fender Telecaster",
+          "tag": "fender_telecaster",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_telecaster"
+        },
+        {
+          "label": "Gibson ES-335",
+          "tag": "gibson_es-335",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_es-335"
+        },
+        {
+          "label": "Gibson Explorer",
+          "tag": "gibson_explorer",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_explorer"
+        },
+        {
+          "label": "ギブソン フライングV",
+          "tag": "gibson_flying_v",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_flying_v"
+        },
+        {
+          "label": "Gibson Firebird",
+          "tag": "gibson_firebird",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_firebird"
+        },
+        {
+          "label": "Gibson Hummingbird",
+          "tag": "gibson_hummingbird",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_hummingbird"
+        },
+        {
+          "label": "ギブソン レスポール",
+          "tag": "gibson_les_paul",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_les_paul"
+        },
+        {
+          "label": "Gibson RD",
+          "tag": "gibson_rd",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_rd"
+        },
+        {
+          "label": "Gibson SG",
+          "tag": "gibson_sg",
+          "link": "https://danbooru.donmai.us/wiki_pages/gibson_sg"
+        },
+        {
+          "label": "Gretsch 5230",
+          "tag": "gretsch_5230",
+          "link": "https://danbooru.donmai.us/wiki_pages/gretsch_5230"
+        },
+        {
+          "label": "Gretsch 6120",
+          "tag": "gretsch_6120",
+          "link": "https://danbooru.donmai.us/wiki_pages/gretsch_6120"
+        },
+        {
+          "label": "Gretsch 6128",
+          "tag": "gretsch_6128",
+          "link": "https://danbooru.donmai.us/wiki_pages/gretsch_6128"
+        },
+        {
+          "label": "Italia Mondial",
+          "tag": "italia_mondial",
+          "link": "https://danbooru.donmai.us/wiki_pages/italia_mondial"
+        },
+        {
+          "label": "Jackson King V",
+          "tag": "jackson_king_v",
+          "link": "https://danbooru.donmai.us/wiki_pages/jackson_king_v"
+        },
+        {
+          "label": "Jackson rhoads",
+          "tag": "jackson_rhoads",
+          "link": "https://danbooru.donmai.us/wiki_pages/jackson_rhoads"
+        },
+        {
+          "label": "Parker Fly",
+          "tag": "parker_fly",
+          "link": "https://danbooru.donmai.us/wiki_pages/parker_fly"
+        },
+        {
+          "label": "Rickenbacker 325",
+          "tag": "rickenbacker_325",
+          "link": "https://danbooru.donmai.us/wiki_pages/rickenbacker_325"
+        },
+        {
+          "label": "Rickenbacker 330",
+          "tag": "rickenbacker_330",
+          "link": "https://danbooru.donmai.us/wiki_pages/rickenbacker_330"
+        },
+        {
+          "label": "Yamaha Pacifica",
+          "tag": "yamaha_pacifica",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaha_pacifica"
+        },
+        {
+          "label": "Yamaha Revstar",
+          "tag": "yamaha_revstar",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaha_revstar"
+        },
+        {
+          "label": "古琴",
+          "tag": "guqin",
+          "link": "https://danbooru.donmai.us/wiki_pages/guqin"
+        },
+        {
+          "label": "古筝",
+          "tag": "guzheng",
+          "link": "https://danbooru.donmai.us/wiki_pages/guzheng"
+        },
+        {
+          "label": "ハープ",
+          "tag": "harp",
+          "link": "https://danbooru.donmai.us/wiki_pages/harp"
+        },
+        {
+          "label": "ハンマーダルシマー",
+          "tag": "hammered_dulcimer",
+          "link": "https://danbooru.donmai.us/wiki_pages/hammered_dulcimer"
+        },
+        {
+          "label": "リラ",
+          "tag": "lyre",
+          "link": "https://danbooru.donmai.us/wiki_pages/lyre"
+        },
+        {
+          "label": "カンテレ",
+          "tag": "kantele",
+          "link": "https://danbooru.donmai.us/wiki_pages/kantele"
+        },
+        {
+          "label": "胡弓",
+          "tag": "kokyuu",
+          "link": "https://danbooru.donmai.us/wiki_pages/kokyuu"
+        },
+        {
+          "label": "箏",
+          "tag": "koto_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/koto_%28instrument%29"
+        },
+        {
+          "label": "リュート",
+          "tag": "lute_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lute_%28instrument%29"
+        },
+        {
+          "label": "琵琶",
+          "tag": "biwa_lute",
+          "link": "https://danbooru.donmai.us/wiki_pages/biwa_lute"
+        },
+        {
+          "label": "phin",
+          "tag": "phin",
+          "link": "https://danbooru.donmai.us/wiki_pages/phin"
+        },
+        {
+          "label": "electric phin",
+          "tag": "electric_phin",
+          "link": "https://danbooru.donmai.us/wiki_pages/electric_phin"
+        },
+        {
+          "label": "マンドリン",
+          "tag": "mandolin",
+          "link": "https://danbooru.donmai.us/wiki_pages/mandolin"
+        },
+        {
+          "label": "馬頭琴",
+          "tag": "morin_khuur",
+          "link": "https://danbooru.donmai.us/wiki_pages/morin_khuur"
+        },
+        {
+          "label": "nyckelharpa",
+          "tag": "nyckelharpa",
+          "link": "https://danbooru.donmai.us/wiki_pages/nyckelharpa"
+        },
+        {
+          "label": "琵琶（中国）",
+          "tag": "pipa_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pipa_%28instrument%29"
+        },
+        {
+          "label": "撥・ピック",
+          "tag": "plectrum",
+          "link": "https://danbooru.donmai.us/wiki_pages/plectrum"
+        },
+        {
+          "label": "ruan",
+          "tag": "ruan",
+          "link": "https://danbooru.donmai.us/wiki_pages/ruan"
+        },
+        {
+          "label": "シタール",
+          "tag": "sitar",
+          "link": "https://danbooru.donmai.us/wiki_pages/sitar"
+        },
+        {
+          "label": "三味線",
+          "tag": "shamisen",
+          "link": "https://danbooru.donmai.us/wiki_pages/shamisen"
+        },
+        {
+          "label": "トンコリ",
+          "tag": "tonkori",
+          "link": "https://danbooru.donmai.us/wiki_pages/tonkori"
+        },
+        {
+          "label": "ウクレレ",
+          "tag": "ukulele",
+          "link": "https://danbooru.donmai.us/wiki_pages/ukulele"
+        },
+        {
+          "label": "ヴィオラ",
+          "tag": "viola_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/viola_%28instrument%29"
+        },
+        {
+          "label": "ヴァイオリン",
+          "tag": "violin",
+          "link": "https://danbooru.donmai.us/wiki_pages/violin"
+        },
+        {
+          "label": "wolgeum",
+          "tag": "wolgeum",
+          "link": "https://danbooru.donmai.us/wiki_pages/wolgeum"
+        },
+        {
+          "label": "月琴",
+          "tag": "yueqin",
+          "link": "https://danbooru.donmai.us/wiki_pages/yueqin"
+        },
+        {
+          "label": "ツィター",
+          "tag": "zither",
+          "link": "https://danbooru.donmai.us/wiki_pages/zither"
+        }
+      ]
+    },
+    {
+      "セクション名": "木管楽器",
+      "タグ一覧": [
+        {
+          "label": "バグパイプ",
+          "tag": "bagpipes",
+          "link": "https://danbooru.donmai.us/wiki_pages/bagpipes"
+        },
+        {
+          "label": "ファゴット",
+          "tag": "bassoon",
+          "link": "https://danbooru.donmai.us/wiki_pages/bassoon"
+        },
+        {
+          "label": "クラリネット",
+          "tag": "clarinet",
+          "link": "https://danbooru.donmai.us/wiki_pages/clarinet"
+        },
+        {
+          "label": "クルムホルン",
+          "tag": "crumhorn",
+          "link": "https://danbooru.donmai.us/wiki_pages/crumhorn"
+        },
+        {
+          "label": "電子管楽器",
+          "tag": "electric_wind_instrument",
+          "link": "https://danbooru.donmai.us/wiki_pages/electric_wind_instrument"
+        },
+        {
+          "label": "フルート",
+          "tag": "flute",
+          "link": "https://danbooru.donmai.us/wiki_pages/flute"
+        },
+        {
+          "label": "バスフルート",
+          "tag": "bass_flute",
+          "link": "https://danbooru.donmai.us/wiki_pages/bass_flute"
+        },
+        {
+          "label": "fife",
+          "tag": "fife_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fife_%28instrument%29"
+        },
+        {
+          "label": "ハーモニカ",
+          "tag": "harmonica",
+          "link": "https://danbooru.donmai.us/wiki_pages/harmonica"
+        },
+        {
+          "label": "オーボエ",
+          "tag": "oboe",
+          "link": "https://danbooru.donmai.us/wiki_pages/oboe"
+        },
+        {
+          "label": "オカリナ",
+          "tag": "ocarina",
+          "link": "https://danbooru.donmai.us/wiki_pages/ocarina"
+        },
+        {
+          "label": "リコーダー",
+          "tag": "recorder",
+          "link": "https://danbooru.donmai.us/wiki_pages/recorder"
+        },
+        {
+          "label": "サクソフォーン",
+          "tag": "saxophone",
+          "link": "https://danbooru.donmai.us/wiki_pages/saxophone"
+        }
+      ]
+    },
+    {
+      "セクション名": "鍵盤楽器",
+      "タグ一覧": [
+        {
+          "label": "アコーディオン",
+          "tag": "accordion",
+          "link": "https://danbooru.donmai.us/wiki_pages/accordion"
+        },
+        {
+          "label": "コンサーティーナ",
+          "tag": "concertina",
+          "link": "https://danbooru.donmai.us/wiki_pages/concertina"
+        },
+        {
+          "label": "鍵盤ハーモニカ",
+          "tag": "melodica",
+          "link": "https://danbooru.donmai.us/wiki_pages/melodica"
+        },
+        {
+          "label": "チェンバロ",
+          "tag": "harpsichord",
+          "link": "https://danbooru.donmai.us/wiki_pages/harpsichord"
+        },
+        {
+          "label": "ハーディ・ガーディ",
+          "tag": "hurdy-gurdy",
+          "link": "https://danbooru.donmai.us/wiki_pages/hurdy-gurdy"
+        },
+        {
+          "label": "キーボード（楽器）",
+          "tag": "keyboard_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/keyboard_%28instrument%29"
+        },
+        {
+          "label": "ショルダーキーボード",
+          "tag": "keytar",
+          "link": "https://danbooru.donmai.us/wiki_pages/keytar"
+        },
+        {
+          "label": "Alesis Vortex",
+          "tag": "alesis_vortex",
+          "link": "https://danbooru.donmai.us/wiki_pages/alesis_vortex"
+        },
+        {
+          "label": "Korg RK-100",
+          "tag": "korg_rk-100",
+          "link": "https://danbooru.donmai.us/wiki_pages/korg_rk-100"
+        },
+        {
+          "label": "Korg RK-100S",
+          "tag": "korg_rk-100s",
+          "link": "https://danbooru.donmai.us/wiki_pages/korg_rk-100s"
+        },
+        {
+          "label": "Roland AX-7",
+          "tag": "roland_ax-7",
+          "link": "https://danbooru.donmai.us/wiki_pages/roland_ax-7"
+        },
+        {
+          "label": "Roland AX-Edge",
+          "tag": "roland_ax-edge",
+          "link": "https://danbooru.donmai.us/wiki_pages/roland_ax-edge"
+        },
+        {
+          "label": "Roland AX-Synth",
+          "tag": "roland_ax-synth",
+          "link": "https://danbooru.donmai.us/wiki_pages/roland_ax-synth"
+        },
+        {
+          "label": "Roland Lucina AX-09",
+          "tag": "roland_lucina_ax-09",
+          "link": "https://danbooru.donmai.us/wiki_pages/roland_lucina_ax-09"
+        },
+        {
+          "label": "Yamaha KX5",
+          "tag": "yamaha_kx5",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaha_kx5"
+        },
+        {
+          "label": "Yamaha SHS-500",
+          "tag": "yamaha_shs-500",
+          "link": "https://danbooru.donmai.us/wiki_pages/yamaha_shs-500"
+        },
+        {
+          "label": "Fender Rhodes",
+          "tag": "fender_rhodes",
+          "link": "https://danbooru.donmai.us/wiki_pages/fender_rhodes"
+        },
+        {
+          "label": "シンセサイザー",
+          "tag": "synthesizer",
+          "link": "https://danbooru.donmai.us/wiki_pages/synthesizer"
+        },
+        {
+          "label": "Clavia Nord",
+          "tag": "clavia_nord",
+          "link": "https://danbooru.donmai.us/wiki_pages/clavia_nord"
+        },
+        {
+          "label": "オルガン",
+          "tag": "organ_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/organ_%28instrument%29"
+        },
+        {
+          "label": "電子オルガン",
+          "tag": "electric_organ",
+          "link": "https://danbooru.donmai.us/wiki_pages/electric_organ"
+        },
+        {
+          "label": "パイプオルガン",
+          "tag": "pipe_organ",
+          "link": "https://danbooru.donmai.us/wiki_pages/pipe_organ"
+        },
+        {
+          "label": "organistrum",
+          "tag": "organistrum",
+          "link": "https://danbooru.donmai.us/wiki_pages/organistrum"
+        },
+        {
+          "label": "ピアノ",
+          "tag": "piano",
+          "link": "https://danbooru.donmai.us/wiki_pages/piano"
+        },
+        {
+          "label": "ピアノの鍵盤",
+          "tag": "piano_keys",
+          "link": "https://danbooru.donmai.us/wiki_pages/piano_keys"
+        },
+        {
+          "label": "グランドピアノ",
+          "tag": "grand_piano",
+          "link": "https://danbooru.donmai.us/wiki_pages/grand_piano"
+        },
+        {
+          "label": "アップライトピアノ",
+          "tag": "upright_piano",
+          "link": "https://danbooru.donmai.us/wiki_pages/upright_piano"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の楽器",
+      "タグ一覧": [
+        {
+          "label": "口琴",
+          "tag": "jaw_harp",
+          "link": "https://danbooru.donmai.us/wiki_pages/jaw_harp"
+        },
+        {
+          "label": "カズー",
+          "tag": "kazoo",
+          "link": "https://danbooru.donmai.us/wiki_pages/kazoo"
+        },
+        {
+          "label": "オタマトーン",
+          "tag": "otamatone",
+          "link": "https://danbooru.donmai.us/wiki_pages/otamatone"
+        },
+        {
+          "label": "テルミン",
+          "tag": "theremin",
+          "link": "https://danbooru.donmai.us/wiki_pages/theremin"
+        }
+      ]
+    },
+    {
+      "セクション名": "音楽ジャンル",
+      "タグ一覧": [
+        {
+          "label": "Eurobeat",
+          "tag": "eurobeat",
+          "link": "https://danbooru.donmai.us/wiki_pages/eurobeat"
+        },
+        {
+          "label": "ヒップホップ",
+          "tag": "hip_hop",
+          "link": "https://danbooru.donmai.us/wiki_pages/hip_hop"
+        },
+        {
+          "label": "Heavy Metal",
+          "tag": "heavy_metal",
+          "link": "https://danbooru.donmai.us/wiki_pages/heavy_metal"
+        },
+        {
+          "label": "Black Metal",
+          "tag": "black_metal",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_metal"
+        },
+        {
+          "label": "Jazz",
+          "tag": "jazz",
+          "link": "https://danbooru.donmai.us/wiki_pages/jazz"
+        },
+        {
+          "label": "J-core",
+          "tag": "j-core",
+          "link": "https://danbooru.donmai.us/wiki_pages/j-core"
+        },
+        {
+          "label": "K-pop",
+          "tag": "k-pop",
+          "link": "https://danbooru.donmai.us/wiki_pages/k-pop"
+        },
+        {
+          "label": "Nerdcore Techno",
+          "tag": "nerdcore_techno",
+          "link": "https://danbooru.donmai.us/wiki_pages/nerdcore_techno"
+        },
+        {
+          "label": "パンク",
+          "tag": "punk",
+          "link": "https://danbooru.donmai.us/wiki_pages/punk"
+        },
+        {
+          "label": "Rock",
+          "tag": "rock_%28music%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rock_%28music%29"
+        },
+        {
+          "label": "Trance",
+          "tag": "trance_%28music%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/trance_%28music%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "音楽・音響に関するタグ",
+      "タグ一覧": [
+        {
+          "label": "音声の視覚化",
+          "tag": "audio_visualizer",
+          "link": "https://danbooru.donmai.us/wiki_pages/audio_visualizer"
+        },
+        {
+          "label": "指揮棒",
+          "tag": "conductor_baton",
+          "link": "https://danbooru.donmai.us/wiki_pages/conductor_baton"
+        },
+        {
+          "label": "ホルン",
+          "tag": "horn_%28instrument%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/horn_%28instrument%29"
+        },
+        {
+          "label": "ブブゼラ",
+          "tag": "vuvuzela",
+          "link": "https://danbooru.donmai.us/wiki_pages/vuvuzela"
+        },
+        {
+          "label": "楽器",
+          "tag": "instrument",
+          "link": "https://danbooru.donmai.us/wiki_pages/instrument"
+        },
+        {
+          "label": "楽器を持つ",
+          "tag": "holding_instrument",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_instrument"
+        },
+        {
+          "label": "楽器ケース",
+          "tag": "instrument_case",
+          "link": "https://danbooru.donmai.us/wiki_pages/instrument_case"
+        },
+        {
+          "label": "ギターケース",
+          "tag": "guitar_case",
+          "link": "https://danbooru.donmai.us/wiki_pages/guitar_case"
+        },
+        {
+          "label": "楽器を演奏する",
+          "tag": "playing_instrument",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_instrument"
+        },
+        {
+          "label": "音楽",
+          "tag": "music",
+          "link": "https://danbooru.donmai.us/wiki_pages/music"
+        },
+        {
+          "label": "notes",
+          "tag": "notes",
+          "link": "https://danbooru.donmai.us/wiki_pages/notes"
+        },
+        {
+          "label": "音符",
+          "tag": "musical_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/musical_note"
+        },
+        {
+          "label": "吹き出し内の音符",
+          "tag": "spoken_musical_note",
+          "link": "https://danbooru.donmai.us/wiki_pages/spoken_musical_note"
+        },
+        {
+          "label": "ト音記号",
+          "tag": "treble_clef",
+          "link": "https://danbooru.donmai.us/wiki_pages/treble_clef"
+        },
+        {
+          "label": "ヘ音記号",
+          "tag": "bass_clef",
+          "link": "https://danbooru.donmai.us/wiki_pages/bass_clef"
+        },
+        {
+          "label": "楽譜",
+          "tag": "sheet_music",
+          "link": "https://danbooru.donmai.us/wiki_pages/sheet_music"
+        },
+        {
+          "label": "五線譜",
+          "tag": "musical_staff",
+          "link": "https://danbooru.donmai.us/wiki_pages/musical_staff"
+        },
+        {
+          "label": "譜面台",
+          "tag": "music_stand",
+          "link": "https://danbooru.donmai.us/wiki_pages/music_stand"
+        },
+        {
+          "label": "歌う",
+          "tag": "singing",
+          "link": "https://danbooru.donmai.us/wiki_pages/singing"
+        },
+        {
+          "label": "カラオケ",
+          "tag": "karaoke",
+          "link": "https://danbooru.donmai.us/wiki_pages/karaoke"
+        },
+        {
+          "label": "オペラ",
+          "tag": "opera",
+          "link": "https://danbooru.donmai.us/wiki_pages/opera"
+        }
+      ]
+    },
+    {
+      "セクション名": "歌手・音楽家",
+      "タグ一覧": [
+        {
+          "label": "ashizawa saki",
+          "tag": "ashizawa_saki",
+          "link": "https://danbooru.donmai.us/wiki_pages/ashizawa_saki"
+        },
+        {
+          "label": "azki",
+          "tag": "azki_%28hololive%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/azki_%28hololive%29"
+        },
+        {
+          "label": "beck",
+          "tag": "beck_%28musician%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/beck_%28musician%29"
+        },
+        {
+          "label": "beyonce",
+          "tag": "beyonce",
+          "link": "https://danbooru.donmai.us/wiki_pages/beyonce"
+        },
+        {
+          "label": "doumyouji cocoa",
+          "tag": "doumyouji_cocoa",
+          "link": "https://danbooru.donmai.us/wiki_pages/doumyouji_cocoa"
+        },
+        {
+          "label": "elvis presley",
+          "tag": "elvis_presley",
+          "link": "https://danbooru.donmai.us/wiki_pages/elvis_presley"
+        },
+        {
+          "label": "fuji aoi",
+          "tag": "fuji_aoi",
+          "link": "https://danbooru.donmai.us/wiki_pages/fuji_aoi"
+        },
+        {
+          "label": "freddie mercury",
+          "tag": "freddie_mercury",
+          "link": "https://danbooru.donmai.us/wiki_pages/freddie_mercury"
+        },
+        {
+          "label": "hanabasami kyou",
+          "tag": "hanabasami_kyou",
+          "link": "https://danbooru.donmai.us/wiki_pages/hanabasami_kyou"
+        },
+        {
+          "label": "平沢進",
+          "tag": "hirasawa_susumu",
+          "link": "https://danbooru.donmai.us/wiki_pages/hirasawa_susumu"
+        },
+        {
+          "label": "jimi hendrix",
+          "tag": "jimi_hendrix",
+          "link": "https://danbooru.donmai.us/wiki_pages/jimi_hendrix"
+        },
+        {
+          "label": "joakim broden",
+          "tag": "joakim_broden",
+          "link": "https://danbooru.donmai.us/wiki_pages/joakim_broden"
+        },
+        {
+          "label": "john lennon",
+          "tag": "john_lennon",
+          "link": "https://danbooru.donmai.us/wiki_pages/john_lennon"
+        },
+        {
+          "label": "きゃりーぱみゅぱみゅ",
+          "tag": "kyary_pamyu_pamyu",
+          "link": "https://danbooru.donmai.us/wiki_pages/kyary_pamyu_pamyu"
+        },
+        {
+          "label": "lady gaga",
+          "tag": "lady_gaga_%28copyright%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lady_gaga_%28copyright%29"
+        },
+        {
+          "label": "LiSA",
+          "tag": "lisa_%28singer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lisa_%28singer%29"
+        },
+        {
+          "label": "marilyn manson",
+          "tag": "marilyn_manson",
+          "link": "https://danbooru.donmai.us/wiki_pages/marilyn_manson"
+        },
+        {
+          "label": "marilyn monroe",
+          "tag": "marilyn_monroe",
+          "link": "https://danbooru.donmai.us/wiki_pages/marilyn_monroe"
+        },
+        {
+          "label": "mr. lordi",
+          "tag": "mr._lordi",
+          "link": "https://danbooru.donmai.us/wiki_pages/mr._lordi"
+        },
+        {
+          "label": "michael jackson",
+          "tag": "michael_jackson",
+          "link": "https://danbooru.donmai.us/wiki_pages/michael_jackson"
+        },
+        {
+          "label": "paul mccartney",
+          "tag": "paul_mccartney",
+          "link": "https://danbooru.donmai.us/wiki_pages/paul_mccartney"
+        },
+        {
+          "label": "pink floyd",
+          "tag": "pink_floyd",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_floyd"
+        },
+        {
+          "label": "rick astley",
+          "tag": "rick_astley",
+          "link": "https://danbooru.donmai.us/wiki_pages/rick_astley"
+        }
+      ]
+    },
+    {
+      "セクション名": "バンド・グループ",
+      "タグ一覧": [
+        {
+          "label": "音楽バンド",
+          "tag": "band_%28music%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/band_%28music%29"
+        },
+        {
+          "label": "AC/DC",
+          "tag": "ac%2Fdc",
+          "link": "https://danbooru.donmai.us/wiki_pages/ac%2Fdc"
+        },
+        {
+          "label": "AKB48",
+          "tag": "akb48",
+          "link": "https://danbooru.donmai.us/wiki_pages/akb48"
+        },
+        {
+          "label": "anamanaguchi",
+          "tag": "anamanaguchi_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/anamanaguchi_%28band%29"
+        },
+        {
+          "label": "aphex twin",
+          "tag": "aphex_twin",
+          "link": "https://danbooru.donmai.us/wiki_pages/aphex_twin"
+        },
+        {
+          "label": "asian kung-fu generation",
+          "tag": "asian_kung-fu_generation",
+          "link": "https://danbooru.donmai.us/wiki_pages/asian_kung-fu_generation"
+        },
+        {
+          "label": "the beatles",
+          "tag": "the_beatles",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_beatles"
+        },
+        {
+          "label": "blackpink",
+          "tag": "blackpink",
+          "link": "https://danbooru.donmai.us/wiki_pages/blackpink"
+        },
+        {
+          "label": "Black Sabbath",
+          "tag": "black_sabbath",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_sabbath"
+        },
+        {
+          "label": "bloodthirsty butchers",
+          "tag": "bloodthirsty_butchers",
+          "link": "https://danbooru.donmai.us/wiki_pages/bloodthirsty_butchers"
+        },
+        {
+          "label": "blur",
+          "tag": "blur_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/blur_%28band%29"
+        },
+        {
+          "label": "cannibal corpse",
+          "tag": "cannibal_corpse",
+          "link": "https://danbooru.donmai.us/wiki_pages/cannibal_corpse"
+        },
+        {
+          "label": "da pump",
+          "tag": "da_pump",
+          "link": "https://danbooru.donmai.us/wiki_pages/da_pump"
+        },
+        {
+          "label": "death devil",
+          "tag": "death_devil_%28k-on%21%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/death_devil_%28k-on%21%29"
+        },
+        {
+          "label": "death grips",
+          "tag": "death_grips",
+          "link": "https://danbooru.donmai.us/wiki_pages/death_grips"
+        },
+        {
+          "label": "detroit metal city",
+          "tag": "detroit_metal_city",
+          "link": "https://danbooru.donmai.us/wiki_pages/detroit_metal_city"
+        },
+        {
           "label": "emerson lake & palmer",
-                                         "tag":  "emerson_lake_%26_palmer",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/emerson_lake_%26_palmer"
-                                     },
-                                     {
-                                         "label":  "fact",
-                                         "tag":  "fact_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fact_%28band%29"
-                                     },
-                                     {
-                                         "label":  "genesis",
-                                         "tag":  "genesis_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/genesis_%28band%29"
-                                     },
-                                     {
+          "tag": "emerson_lake_%26_palmer",
+          "link": "https://danbooru.donmai.us/wiki_pages/emerson_lake_%26_palmer"
+        },
+        {
+          "label": "fact",
+          "tag": "fact_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/fact_%28band%29"
+        },
+        {
+          "label": "genesis",
+          "tag": "genesis_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/genesis_%28band%29"
+        },
+        {
           "label": "girls' generation",
-                                         "tag":  "girls%27_generation",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/girls%27_generation"
-                                     },
-                                     {
-                                         "label":  "gorillaz",
-                                         "tag":  "gorillaz",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gorillaz"
-                                     },
-                                     {
-                                         "label":  "green day",
-                                         "tag":  "green_day",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_day"
-                                     },
-                                     {
+          "tag": "girls%27_generation",
+          "link": "https://danbooru.donmai.us/wiki_pages/girls%27_generation"
+        },
+        {
+          "label": "gorillaz",
+          "tag": "gorillaz",
+          "link": "https://danbooru.donmai.us/wiki_pages/gorillaz"
+        },
+        {
+          "label": "green day",
+          "tag": "green_day",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_day"
+        },
+        {
           "label": "guns n' roses",
-                                         "tag":  "guns_n%27_roses",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/guns_n%27_roses"
-                                     },
-                                     {
-                                         "label":  "iron maiden",
-                                         "tag":  "iron_maiden_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/iron_maiden_%28band%29"
-                                     },
-                                     {
-                                         "label":  "Kalafina",
-                                         "tag":  "kalafina",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kalafina"
-                                     },
-                                     {
-                                         "label":  "King Crimson",
-                                         "tag":  "king_crimson",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/king_crimson"
-                                     },
-                                     {
-                                         "label":  "kiss",
-                                         "tag":  "kiss_%28rock_band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kiss_%28rock_band%29"
-                                     },
-                                     {
-                                         "label":  "lordi",
-                                         "tag":  "lordi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lordi"
-                                     },
-                                     {
-                                         "label":  "led zeppelin",
-                                         "tag":  "led_zeppelin",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/led_zeppelin"
-                                     },
-                                     {
-                                         "label":  "linkin park",
-                                         "tag":  "linkin_park",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/linkin_park"
-                                     },
-                                     {
-                                         "label":  "madness",
-                                         "tag":  "madness_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/madness_%28band%29"
-                                     },
-                                     {
-                                         "label":  "metallica",
-                                         "tag":  "metallica",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/metallica"
-                                     },
-                                     {
-                                         "label":  "motorhead",
-                                         "tag":  "motorhead",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/motorhead"
-                                     },
-                                     {
-                                         "label":  "my chemical romance",
-                                         "tag":  "my_chemical_romance",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/my_chemical_romance"
-                                     },
-                                     {
-                                         "label":  "乃木坂46",
-                                         "tag":  "nogizaka46",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nogizaka46"
-                                     },
-                                     {
-                                         "label":  "nirvana",
-                                         "tag":  "nirvana_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nirvana_%28band%29"
-                                     },
-                                     {
-                                         "label":  "oasis",
-                                         "tag":  "oasis_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/oasis_%28band%29"
-                                     },
-                                     {
-                                         "label":  "pantera",
-                                         "tag":  "pantera_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pantera_%28band%29"
-                                     },
-                                     {
-                                         "label":  "pink floyd",
-                                         "tag":  "pink_floyd",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_floyd"
-                                     },
-                                     {
-                                         "label":  "queen",
-                                         "tag":  "queen_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/queen_%28band%29"
-                                     },
-                                     {
-                                         "label":  "R.E.M.",
-                                         "tag":  "r.e.m.",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/r.e.m."
-                                     },
-                                     {
-                                         "label":  "radiohead",
-                                         "tag":  "radiohead_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/radiohead_%28band%29"
-                                     },
-                                     {
-                                         "label":  "rammstein",
-                                         "tag":  "rammstein_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rammstein_%28band%29"
-                                     },
-                                     {
-                                         "label":  "red hot chili peppers",
-                                         "tag":  "red_hot_chili_peppers",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_hot_chili_peppers"
-                                     },
-                                     {
-                                         "label":  "Sabaton",
-                                         "tag":  "sabaton_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sabaton_%28band%29"
-                                     },
-                                     {
-                                         "label":  "Sex Pistols",
-                                         "tag":  "sex_pistols",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sex_pistols"
-                                     },
-                                     {
-                                         "label":  "slayer",
-                                         "tag":  "slayer_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/slayer_%28band%29"
-                                     },
-                                     {
-                                         "label":  "sound horizon",
-                                         "tag":  "sound_horizon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sound_horizon"
-                                     },
-                                     {
-                                         "label":  "the doors",
-                                         "tag":  "the_doors",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/the_doors"
-                                     },
-                                     {
-                                         "label":  "the pillows",
-                                         "tag":  "the_pillows",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/the_pillows"
-                                     },
-                                     {
-                                         "label":  "the rolling stones",
-                                         "tag":  "the_rolling_stones",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/the_rolling_stones"
-                                     },
-                                     {
-                                         "label":  "東京事変",
-                                         "tag":  "tokyo_jihen",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tokyo_jihen"
-                                     },
-                                     {
-                                         "label":  "weezer",
-                                         "tag":  "weezer_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/weezer_%28band%29"
-                                     },
-                                     {
-                                         "label":  "X Japan",
-                                         "tag":  "x_japan",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/x_japan"
-                                     },
-                                     {
-                                         "label":  "yes",
-                                         "tag":  "yes_%28band%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yes_%28band%29"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ジャケット・名場面",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アルバムジャケット",
-                                         "tag":  "album_cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/album_cover"
-                                     },
-                                     {
-                                         "label":  "アルバムジャケットの描き直し",
-                                         "tag":  "album_cover_redraw",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/album_cover_redraw"
-                                     },
-                                     {
-                                         "label":  "...and justice for all",
-                                         "tag":  "...and_justice_for_all",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/...and_justice_for_all"
-                                     },
-                                     {
-                                         "label":  "abbey road",
-                                         "tag":  "abbey_road",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/abbey_road"
-                                     },
-                                     {
-                                         "label":  "american idiot",
-                                         "tag":  "american_idiot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/american_idiot"
-                                     },
-                                     {
-                                         "label":  "appetite for destruction",
-                                         "tag":  "appetite_for_destruction",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/appetite_for_destruction"
-                                     },
-                                     {
-                                         "label":  "bohemian rhapsody",
-                                         "tag":  "bohemian_rhapsody",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bohemian_rhapsody"
-                                     },
-                                     {
-                                         "label":  "character single",
-                                         "tag":  "character_single",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_single"
-                                     },
-                                     {
-                                         "label":  "chronicle",
-                                         "tag":  "chronicle_%28sound_horizon%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chronicle_%28sound_horizon%29"
-                                     },
-                                     {
-                                         "label":  "chronicle 2nd",
-                                         "tag":  "chronicle_2nd",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chronicle_2nd"
-                                     },
-                                     {
-                                         "label":  "demon days",
-                                         "tag":  "demon_days_%28gorillaz%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/demon_days_%28gorillaz%29"
-                                     },
-                                     {
-                                         "label":  "dynasty",
-                                         "tag":  "dynasty_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dynasty_%28album%29"
-                                     },
-                                     {
-                                         "label":  "elysion",
-                                         "tag":  "elysion",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/elysion"
-                                     },
-                                     {
-                                         "label":  "fear of the dark",
-                                         "tag":  "fear_of_the_dark",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fear_of_the_dark"
-                                     },
-                                     {
-                                         "label":  "halloween to yoru no monogatari",
-                                         "tag":  "halloween_to_yoru_no_monogatari",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/halloween_to_yoru_no_monogatari"
-                                     },
-                                     {
-                                         "label":  "highway to hell",
-                                         "tag":  "highway_to_hell",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/highway_to_hell"
-                                     },
-                                     {
-                                         "label":  "hybrid theory",
-                                         "tag":  "hybrid_theory",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hybrid_theory"
-                                     },
-                                     {
-                                         "label":  "イドへ至る森へ至るイド",
-                                         "tag":  "ido_e_itaru_mori_e_itaru_ido",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ido_e_itaru_mori_e_itaru_ido"
-                                     },
-                                     {
-                                         "label":  "in the court of the crimson king",
-                                         "tag":  "in_the_court_of_the_crimson_king",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/in_the_court_of_the_crimson_king"
-                                     },
-                                     {
-                                         "label":  "in through the out door",
-                                         "tag":  "in_through_the_out_door",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/in_through_the_out_door"
-                                     },
-                                     {
-                                         "label":  "led zeppelin iv",
-                                         "tag":  "led_zeppelin_iv_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/led_zeppelin_iv_%28album%29"
-                                     },
-                                     {
-                                         "label":  "let it be",
-                                         "tag":  "let_it_be",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/let_it_be"
-                                     },
-                                     {
-                                         "label":  "lost",
-                                         "tag":  "lost_%28sound_horizon%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lost_%28sound_horizon%29"
-                                     },
-                                     {
-                                         "label":  "maerchen",
-                                         "tag":  "maerchen_%28sound_horizon%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/maerchen_%28sound_horizon%29"
-                                     },
-                                     {
-                                         "label":  "moira",
-                                         "tag":  "moira",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/moira"
-                                     },
-                                     {
-                                         "label":  "nein",
-                                         "tag":  "nein_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nein_%28album%29"
-                                     },
-                                     {
-                                         "label":  "nevermind",
-                                         "tag":  "nevermind",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nevermind"
-                                     },
-                                     {
-                                         "label":  "news of the world",
-                                         "tag":  "news_of_the_world",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/news_of_the_world"
-                                     },
-                                     {
-                                         "label":  "pico magic",
-                                         "tag":  "pico_magic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pico_magic"
-                                     },
-                                     {
-                                         "label":  "presence",
-                                         "tag":  "presence_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/presence_%28album%29"
-                                     },
-                                     {
-                                         "label":  "revolver",
-                                         "tag":  "revolver_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/revolver_%28album%29"
-                                     },
-                                     {
-                                         "label":  "roman",
-                                         "tag":  "roman_%28sound_horizon%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/roman_%28sound_horizon%29"
-                                     },
-                                     {
-                                         "label":  "聖戦のイベリア",
-                                         "tag":  "seisen_no_iberia",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/seisen_no_iberia"
-                                     },
-                                     {
+          "tag": "guns_n%27_roses",
+          "link": "https://danbooru.donmai.us/wiki_pages/guns_n%27_roses"
+        },
+        {
+          "label": "iron maiden",
+          "tag": "iron_maiden_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/iron_maiden_%28band%29"
+        },
+        {
+          "label": "Kalafina",
+          "tag": "kalafina",
+          "link": "https://danbooru.donmai.us/wiki_pages/kalafina"
+        },
+        {
+          "label": "King Crimson",
+          "tag": "king_crimson",
+          "link": "https://danbooru.donmai.us/wiki_pages/king_crimson"
+        },
+        {
+          "label": "kiss",
+          "tag": "kiss_%28rock_band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kiss_%28rock_band%29"
+        },
+        {
+          "label": "lordi",
+          "tag": "lordi",
+          "link": "https://danbooru.donmai.us/wiki_pages/lordi"
+        },
+        {
+          "label": "led zeppelin",
+          "tag": "led_zeppelin",
+          "link": "https://danbooru.donmai.us/wiki_pages/led_zeppelin"
+        },
+        {
+          "label": "linkin park",
+          "tag": "linkin_park",
+          "link": "https://danbooru.donmai.us/wiki_pages/linkin_park"
+        },
+        {
+          "label": "madness",
+          "tag": "madness_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/madness_%28band%29"
+        },
+        {
+          "label": "metallica",
+          "tag": "metallica",
+          "link": "https://danbooru.donmai.us/wiki_pages/metallica"
+        },
+        {
+          "label": "motorhead",
+          "tag": "motorhead",
+          "link": "https://danbooru.donmai.us/wiki_pages/motorhead"
+        },
+        {
+          "label": "my chemical romance",
+          "tag": "my_chemical_romance",
+          "link": "https://danbooru.donmai.us/wiki_pages/my_chemical_romance"
+        },
+        {
+          "label": "乃木坂46",
+          "tag": "nogizaka46",
+          "link": "https://danbooru.donmai.us/wiki_pages/nogizaka46"
+        },
+        {
+          "label": "nirvana",
+          "tag": "nirvana_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nirvana_%28band%29"
+        },
+        {
+          "label": "oasis",
+          "tag": "oasis_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/oasis_%28band%29"
+        },
+        {
+          "label": "pantera",
+          "tag": "pantera_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/pantera_%28band%29"
+        },
+        {
+          "label": "pink floyd",
+          "tag": "pink_floyd",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_floyd"
+        },
+        {
+          "label": "queen",
+          "tag": "queen_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/queen_%28band%29"
+        },
+        {
+          "label": "R.E.M.",
+          "tag": "r.e.m.",
+          "link": "https://danbooru.donmai.us/wiki_pages/r.e.m."
+        },
+        {
+          "label": "radiohead",
+          "tag": "radiohead_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/radiohead_%28band%29"
+        },
+        {
+          "label": "rammstein",
+          "tag": "rammstein_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/rammstein_%28band%29"
+        },
+        {
+          "label": "red hot chili peppers",
+          "tag": "red_hot_chili_peppers",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_hot_chili_peppers"
+        },
+        {
+          "label": "Sabaton",
+          "tag": "sabaton_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sabaton_%28band%29"
+        },
+        {
+          "label": "Sex Pistols",
+          "tag": "sex_pistols",
+          "link": "https://danbooru.donmai.us/wiki_pages/sex_pistols"
+        },
+        {
+          "label": "slayer",
+          "tag": "slayer_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/slayer_%28band%29"
+        },
+        {
+          "label": "sound horizon",
+          "tag": "sound_horizon",
+          "link": "https://danbooru.donmai.us/wiki_pages/sound_horizon"
+        },
+        {
+          "label": "the doors",
+          "tag": "the_doors",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_doors"
+        },
+        {
+          "label": "the pillows",
+          "tag": "the_pillows",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_pillows"
+        },
+        {
+          "label": "the rolling stones",
+          "tag": "the_rolling_stones",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_rolling_stones"
+        },
+        {
+          "label": "東京事変",
+          "tag": "tokyo_jihen",
+          "link": "https://danbooru.donmai.us/wiki_pages/tokyo_jihen"
+        },
+        {
+          "label": "weezer",
+          "tag": "weezer_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/weezer_%28band%29"
+        },
+        {
+          "label": "X Japan",
+          "tag": "x_japan",
+          "link": "https://danbooru.donmai.us/wiki_pages/x_japan"
+        },
+        {
+          "label": "yes",
+          "tag": "yes_%28band%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/yes_%28band%29"
+        }
+      ]
+    },
+    {
+      "セクション名": "ジャケット・名場面",
+      "タグ一覧": [
+        {
+          "label": "アルバムジャケット",
+          "tag": "album_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/album_cover"
+        },
+        {
+          "label": "アルバムジャケットの描き直し",
+          "tag": "album_cover_redraw",
+          "link": "https://danbooru.donmai.us/wiki_pages/album_cover_redraw"
+        },
+        {
+          "label": "...and justice for all",
+          "tag": "...and_justice_for_all",
+          "link": "https://danbooru.donmai.us/wiki_pages/...and_justice_for_all"
+        },
+        {
+          "label": "abbey road",
+          "tag": "abbey_road",
+          "link": "https://danbooru.donmai.us/wiki_pages/abbey_road"
+        },
+        {
+          "label": "american idiot",
+          "tag": "american_idiot",
+          "link": "https://danbooru.donmai.us/wiki_pages/american_idiot"
+        },
+        {
+          "label": "appetite for destruction",
+          "tag": "appetite_for_destruction",
+          "link": "https://danbooru.donmai.us/wiki_pages/appetite_for_destruction"
+        },
+        {
+          "label": "bohemian rhapsody",
+          "tag": "bohemian_rhapsody",
+          "link": "https://danbooru.donmai.us/wiki_pages/bohemian_rhapsody"
+        },
+        {
+          "label": "character single",
+          "tag": "character_single",
+          "link": "https://danbooru.donmai.us/wiki_pages/character_single"
+        },
+        {
+          "label": "chronicle",
+          "tag": "chronicle_%28sound_horizon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/chronicle_%28sound_horizon%29"
+        },
+        {
+          "label": "chronicle 2nd",
+          "tag": "chronicle_2nd",
+          "link": "https://danbooru.donmai.us/wiki_pages/chronicle_2nd"
+        },
+        {
+          "label": "demon days",
+          "tag": "demon_days_%28gorillaz%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/demon_days_%28gorillaz%29"
+        },
+        {
+          "label": "dynasty",
+          "tag": "dynasty_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/dynasty_%28album%29"
+        },
+        {
+          "label": "elysion",
+          "tag": "elysion",
+          "link": "https://danbooru.donmai.us/wiki_pages/elysion"
+        },
+        {
+          "label": "fear of the dark",
+          "tag": "fear_of_the_dark",
+          "link": "https://danbooru.donmai.us/wiki_pages/fear_of_the_dark"
+        },
+        {
+          "label": "halloween to yoru no monogatari",
+          "tag": "halloween_to_yoru_no_monogatari",
+          "link": "https://danbooru.donmai.us/wiki_pages/halloween_to_yoru_no_monogatari"
+        },
+        {
+          "label": "highway to hell",
+          "tag": "highway_to_hell",
+          "link": "https://danbooru.donmai.us/wiki_pages/highway_to_hell"
+        },
+        {
+          "label": "hybrid theory",
+          "tag": "hybrid_theory",
+          "link": "https://danbooru.donmai.us/wiki_pages/hybrid_theory"
+        },
+        {
+          "label": "イドへ至る森へ至るイド",
+          "tag": "ido_e_itaru_mori_e_itaru_ido",
+          "link": "https://danbooru.donmai.us/wiki_pages/ido_e_itaru_mori_e_itaru_ido"
+        },
+        {
+          "label": "in the court of the crimson king",
+          "tag": "in_the_court_of_the_crimson_king",
+          "link": "https://danbooru.donmai.us/wiki_pages/in_the_court_of_the_crimson_king"
+        },
+        {
+          "label": "in through the out door",
+          "tag": "in_through_the_out_door",
+          "link": "https://danbooru.donmai.us/wiki_pages/in_through_the_out_door"
+        },
+        {
+          "label": "led zeppelin iv",
+          "tag": "led_zeppelin_iv_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/led_zeppelin_iv_%28album%29"
+        },
+        {
+          "label": "let it be",
+          "tag": "let_it_be",
+          "link": "https://danbooru.donmai.us/wiki_pages/let_it_be"
+        },
+        {
+          "label": "lost",
+          "tag": "lost_%28sound_horizon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/lost_%28sound_horizon%29"
+        },
+        {
+          "label": "maerchen",
+          "tag": "maerchen_%28sound_horizon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/maerchen_%28sound_horizon%29"
+        },
+        {
+          "label": "moira",
+          "tag": "moira",
+          "link": "https://danbooru.donmai.us/wiki_pages/moira"
+        },
+        {
+          "label": "nein",
+          "tag": "nein_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/nein_%28album%29"
+        },
+        {
+          "label": "nevermind",
+          "tag": "nevermind",
+          "link": "https://danbooru.donmai.us/wiki_pages/nevermind"
+        },
+        {
+          "label": "news of the world",
+          "tag": "news_of_the_world",
+          "link": "https://danbooru.donmai.us/wiki_pages/news_of_the_world"
+        },
+        {
+          "label": "pico magic",
+          "tag": "pico_magic",
+          "link": "https://danbooru.donmai.us/wiki_pages/pico_magic"
+        },
+        {
+          "label": "presence",
+          "tag": "presence_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/presence_%28album%29"
+        },
+        {
+          "label": "revolver",
+          "tag": "revolver_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/revolver_%28album%29"
+        },
+        {
+          "label": "roman",
+          "tag": "roman_%28sound_horizon%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/roman_%28sound_horizon%29"
+        },
+        {
+          "label": "聖戦のイベリア",
+          "tag": "seisen_no_iberia",
+          "link": "https://danbooru.donmai.us/wiki_pages/seisen_no_iberia"
+        },
+        {
           "label": "sgt pepper's lonely hearts club band",
-                                         "tag":  "sgt_pepper%27s_lonely_hearts_club_band",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sgt_pepper%27s_lonely_hearts_club_band"
-                                     },
-                                     {
-                                         "label":  "少年は剣を…",
-                                         "tag":  "shounen_wa_tsurugi_wo...",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shounen_wa_tsurugi_wo..."
-                                     },
-                                     {
-                                         "label":  "sports",
-                                         "tag":  "sports_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sports_%28album%29"
-                                     },
-                                     {
-                                         "label":  "sticky fingers",
-                                         "tag":  "sticky_fingers_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sticky_fingers_%28album%29"
-                                     },
-                                     {
-                                         "label":  "sweetest music",
-                                         "tag":  "sweetest_music",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sweetest_music"
-                                     },
-                                     {
-                                         "label":  "tarkus",
-                                         "tag":  "tarkus_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tarkus_%28album%29"
-                                     },
-                                     {
-                                         "label":  "thanatos",
-                                         "tag":  "thanatos_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/thanatos_%28album%29"
-                                     },
-                                     {
-                                         "label":  "the doors (album)",
-                                         "tag":  "the_doors_%28album%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/the_doors_%28album%29"
-                                     },
-                                     {
-                                         "label":  "the gold experience",
-                                         "tag":  "the_gold_experience",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/the_gold_experience"
-                                     },
-                                     {
-                                         "label":  "the money store",
-                                         "tag":  "the_money_store",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/the_money_store"
-                                     },
-                                     {
-                                         "label":  "ウェルカム・トゥ・ザ・ジャングル",
-                                         "tag":  "welcome_to_the_jungle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/welcome_to_the_jungle"
-                                     },
-                                     {
-                                         "label":  "ウィズ・ザ・ビートルズ",
-                                         "tag":  "with_the_beatles",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/with_the_beatles"
-                                     },
-                                     {
-                                         "label":  "DVDカバー",
-                                         "tag":  "dvd_cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dvd_cover"
-                                     },
-                                     {
-                                         "label":  "iPodの広告",
-                                         "tag":  "ipod_ad",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ipod_ad"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "場所",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "コンサート",
-                                         "tag":  "concert",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/concert"
-                                     },
-                                     {
-                                         "label":  "ラジオブース",
-                                         "tag":  "radio_booth",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/radio_booth"
-                                     },
-                                     {
-                                         "label":  "レコーディングスタジオ",
-                                         "tag":  "recording_studio",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/recording_studio"
-                                     },
-                                     {
-                                         "label":  "ステージ",
-                                         "tag":  "stage",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/stage"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "職業",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "指揮者",
-                                         "tag":  "conductor",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/conductor"
-                                     },
-                                     {
-                                         "label":  "DJ",
-                                         "tag":  "dj",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dj"
-                                     },
-                                     {
-                                         "label":  "ギターガール",
-                                         "tag":  "guitar_girl",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/guitar_girl"
-                                     },
-                                     {
-                                         "label":  "アイドル",
-                                         "tag":  "idol",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/idol"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ヘッドフォンブランド",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "AKG",
-                                         "tag":  "akg",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/akg"
-                                     },
-                                     {
-                                         "label":  "オーディオテクニカ",
-                                         "tag":  "audio-technica",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/audio-technica"
-                                     },
-                                     {
-                                         "label":  "ビーツ・バイ・ドクター・ドレー",
-                                         "tag":  "beats_by_dr._dre",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/beats_by_dr._dre"
-                                     },
-                                     {
-                                         "label":  "ベイヤーダイナミック",
-                                         "tag":  "beyerdynamic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/beyerdynamic"
-                                     },
-                                     {
-                                         "label":  "エレガ",
-                                         "tag":  "elega",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/elega"
-                                     },
-                                     {
-                                         "label":  "Etymotic Research",
-                                         "tag":  "etymotic_research",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/etymotic_research"
-                                     },
-                                     {
-                                         "label":  "グラードラボ",
-                                         "tag":  "grado_labs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grado_labs"
-                                     },
-                                     {
-                                         "label":  "JVC",
-                                         "tag":  "jvc",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jvc"
-                                     },
-                                     {
-                                         "label":  "ケンウッド",
-                                         "tag":  "kenwood",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kenwood"
-                                     },
-                                     {
-                                         "label":  "コス",
-                                         "tag":  "koss",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/koss"
-                                     },
-                                     {
-                                         "label":  "パナソニック",
-                                         "tag":  "panasonic_corporation",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/panasonic_corporation"
-                                     },
-                                     {
-                                         "label":  "パイオニア",
-                                         "tag":  "pioneer_corporation",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pioneer_corporation"
-                                     },
-                                     {
-                                         "label":  "山水",
-                                         "tag":  "sansui",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sansui"
-                                     },
-                                     {
-                                         "label":  "ゼンハイザー",
-                                         "tag":  "sennheiser",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sennheiser"
-                                     },
-                                     {
-                                         "label":  "スカルキャンディ",
-                                         "tag":  "skullcandy",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/skullcandy"
-                                     },
-                                     {
-                                         "label":  "ソニー",
-                                         "tag":  "sony",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sony"
-                                     },
-                                     {
-                                         "label":  "スタックス",
-                                         "tag":  "stax",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/stax"
-                                     },
-                                     {
-                                         "label":  "ULTRASONE",
-                                         "tag":  "ultrasone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ultrasone"
-                                     },
-                                     {
-                                         "label":  "v-moda",
-                                         "tag":  "v-moda",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/v-moda"
-                                     }
-                                 ]
-                    }
-                ]
+          "tag": "sgt_pepper%27s_lonely_hearts_club_band",
+          "link": "https://danbooru.donmai.us/wiki_pages/sgt_pepper%27s_lonely_hearts_club_band"
+        },
+        {
+          "label": "少年は剣を…",
+          "tag": "shounen_wa_tsurugi_wo...",
+          "link": "https://danbooru.donmai.us/wiki_pages/shounen_wa_tsurugi_wo..."
+        },
+        {
+          "label": "sports",
+          "tag": "sports_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sports_%28album%29"
+        },
+        {
+          "label": "sticky fingers",
+          "tag": "sticky_fingers_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/sticky_fingers_%28album%29"
+        },
+        {
+          "label": "sweetest music",
+          "tag": "sweetest_music",
+          "link": "https://danbooru.donmai.us/wiki_pages/sweetest_music"
+        },
+        {
+          "label": "tarkus",
+          "tag": "tarkus_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/tarkus_%28album%29"
+        },
+        {
+          "label": "thanatos",
+          "tag": "thanatos_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/thanatos_%28album%29"
+        },
+        {
+          "label": "the doors (album)",
+          "tag": "the_doors_%28album%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_doors_%28album%29"
+        },
+        {
+          "label": "the gold experience",
+          "tag": "the_gold_experience",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_gold_experience"
+        },
+        {
+          "label": "the money store",
+          "tag": "the_money_store",
+          "link": "https://danbooru.donmai.us/wiki_pages/the_money_store"
+        },
+        {
+          "label": "ウェルカム・トゥ・ザ・ジャングル",
+          "tag": "welcome_to_the_jungle",
+          "link": "https://danbooru.donmai.us/wiki_pages/welcome_to_the_jungle"
+        },
+        {
+          "label": "ウィズ・ザ・ビートルズ",
+          "tag": "with_the_beatles",
+          "link": "https://danbooru.donmai.us/wiki_pages/with_the_beatles"
+        },
+        {
+          "label": "DVDカバー",
+          "tag": "dvd_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/dvd_cover"
+        },
+        {
+          "label": "iPodの広告",
+          "tag": "ipod_ad",
+          "link": "https://danbooru.donmai.us/wiki_pages/ipod_ad"
+        }
+      ]
+    },
+    {
+      "セクション名": "場所",
+      "タグ一覧": [
+        {
+          "label": "コンサート",
+          "tag": "concert",
+          "link": "https://danbooru.donmai.us/wiki_pages/concert"
+        },
+        {
+          "label": "ラジオブース",
+          "tag": "radio_booth",
+          "link": "https://danbooru.donmai.us/wiki_pages/radio_booth"
+        },
+        {
+          "label": "レコーディングスタジオ",
+          "tag": "recording_studio",
+          "link": "https://danbooru.donmai.us/wiki_pages/recording_studio"
+        },
+        {
+          "label": "ステージ",
+          "tag": "stage",
+          "link": "https://danbooru.donmai.us/wiki_pages/stage"
+        }
+      ]
+    },
+    {
+      "セクション名": "職業",
+      "タグ一覧": [
+        {
+          "label": "指揮者",
+          "tag": "conductor",
+          "link": "https://danbooru.donmai.us/wiki_pages/conductor"
+        },
+        {
+          "label": "DJ",
+          "tag": "dj",
+          "link": "https://danbooru.donmai.us/wiki_pages/dj"
+        },
+        {
+          "label": "ギターガール",
+          "tag": "guitar_girl",
+          "link": "https://danbooru.donmai.us/wiki_pages/guitar_girl"
+        },
+        {
+          "label": "アイドル",
+          "tag": "idol",
+          "link": "https://danbooru.donmai.us/wiki_pages/idol"
+        }
+      ]
+    },
+    {
+      "セクション名": "ヘッドフォンブランド",
+      "タグ一覧": [
+        {
+          "label": "AKG",
+          "tag": "akg",
+          "link": "https://danbooru.donmai.us/wiki_pages/akg"
+        },
+        {
+          "label": "オーディオテクニカ",
+          "tag": "audio-technica",
+          "link": "https://danbooru.donmai.us/wiki_pages/audio-technica"
+        },
+        {
+          "label": "ビーツ・バイ・ドクター・ドレー",
+          "tag": "beats_by_dr._dre",
+          "link": "https://danbooru.donmai.us/wiki_pages/beats_by_dr._dre"
+        },
+        {
+          "label": "ベイヤーダイナミック",
+          "tag": "beyerdynamic",
+          "link": "https://danbooru.donmai.us/wiki_pages/beyerdynamic"
+        },
+        {
+          "label": "エレガ",
+          "tag": "elega",
+          "link": "https://danbooru.donmai.us/wiki_pages/elega"
+        },
+        {
+          "label": "Etymotic Research",
+          "tag": "etymotic_research",
+          "link": "https://danbooru.donmai.us/wiki_pages/etymotic_research"
+        },
+        {
+          "label": "グラードラボ",
+          "tag": "grado_labs",
+          "link": "https://danbooru.donmai.us/wiki_pages/grado_labs"
+        },
+        {
+          "label": "JVC",
+          "tag": "jvc",
+          "link": "https://danbooru.donmai.us/wiki_pages/jvc"
+        },
+        {
+          "label": "ケンウッド",
+          "tag": "kenwood",
+          "link": "https://danbooru.donmai.us/wiki_pages/kenwood"
+        },
+        {
+          "label": "コス",
+          "tag": "koss",
+          "link": "https://danbooru.donmai.us/wiki_pages/koss"
+        },
+        {
+          "label": "パナソニック",
+          "tag": "panasonic_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/panasonic_corporation"
+        },
+        {
+          "label": "パイオニア",
+          "tag": "pioneer_corporation",
+          "link": "https://danbooru.donmai.us/wiki_pages/pioneer_corporation"
+        },
+        {
+          "label": "山水",
+          "tag": "sansui",
+          "link": "https://danbooru.donmai.us/wiki_pages/sansui"
+        },
+        {
+          "label": "ゼンハイザー",
+          "tag": "sennheiser",
+          "link": "https://danbooru.donmai.us/wiki_pages/sennheiser"
+        },
+        {
+          "label": "スカルキャンディ",
+          "tag": "skullcandy",
+          "link": "https://danbooru.donmai.us/wiki_pages/skullcandy"
+        },
+        {
+          "label": "ソニー",
+          "tag": "sony",
+          "link": "https://danbooru.donmai.us/wiki_pages/sony"
+        },
+        {
+          "label": "スタックス",
+          "tag": "stax",
+          "link": "https://danbooru.donmai.us/wiki_pages/stax"
+        },
+        {
+          "label": "ULTRASONE",
+          "tag": "ultrasone",
+          "link": "https://danbooru.donmai.us/wiki_pages/ultrasone"
+        },
+        {
+          "label": "v-moda",
+          "tag": "v-moda",
+          "link": "https://danbooru.donmai.us/wiki_pages/v-moda"
+        }
+      ]
+    }
+  ]
 }

@@ -1,2047 +1,2047 @@
 ﻿{
-    "カテゴリID":  "image_composition",
-    "カテゴリ名":  "画像構成",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aimage_composition",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "カメラアングル",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ダッチアングル（傾いた構図）",
-                                         "tag":  "dutch_angle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dutch_angle"
-                                     },
-                                     {
-                                         "label":  "上から",
-                                         "tag":  "from_above",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/from_above"
-                                     },
-                                     {
-                                         "label":  "後ろから",
-                                         "tag":  "from_behind",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/from_behind"
-                                     },
-                                     {
-                                         "label":  "下から",
-                                         "tag":  "from_below",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/from_below"
-                                     },
-                                     {
-                                         "label":  "横から",
-                                         "tag":  "from_side",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/from_side"
-                                     },
-                                     {
-                                         "label":  "高いところ",
-                                         "tag":  "high_up",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/high_up"
-                                     },
-                                     {
-                                         "label":  "複数のビュー",
-                                         "tag":  "multiple_views",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_views"
-                                     },
-                                     {
-                                         "label":  "横向き",
-                                         "tag":  "sideways",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sideways"
-                                     },
-                                     {
-                                         "label":  "正面から",
-                                         "tag":  "straight-on",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/straight-on"
-                                     },
-                                     {
-                                         "label":  "逆さまに",
-                                         "tag":  "upside-down",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/upside-down"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "視点・遠近感",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "大気遠近法",
-                                         "tag":  "atmospheric_perspective",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/atmospheric_perspective"
-                                     },
-                                     {
-                                         "label":  "魚眼レンズ",
-                                         "tag":  "fisheye",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fisheye"
-                                     },
-                                     {
-                                         "label":  "パノラマ",
-                                         "tag":  "panorama",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/panorama"
-                                     },
-                                     {
-                                         "label":  "遠近法",
-                                         "tag":  "perspective",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/perspective"
-                                     },
-                                     {
-                                         "label":  "消失点",
-                                         "tag":  "vanishing_point",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vanishing_point"
-                                     },
-                                     {
-                                         "label":  "バリエーション",
-                                         "tag":  "variations",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/variations"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "構成",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "残像",
-                                         "tag":  "afterimage",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/afterimage"
-                                     },
-                                     {
-                                         "label":  "枠線",
-                                         "tag":  "border",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/border"
-                                     },
-                                     {
-                                         "label":  "フェードアウトする境界線",
-                                         "tag":  "fading_border",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fading_border"
-                                     },
-                                     {
-                                         "label":  "インセットボーダー",
-                                         "tag":  "inset_border",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/inset_border"
-                                     },
-                                     {
-                                         "label":  "華やかな縁取り",
-                                         "tag":  "ornate_border",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ornate_border"
-                                     },
-                                     {
-                                         "label":  "境界線の外側",
-                                         "tag":  "outside_border",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/outside_border"
-                                     },
-                                     {
-                                         "label":  "丸い角",
-                                         "tag":  "rounded_corners",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rounded_corners"
-                                     },
-                                     {
-                                         "label":  "ファインダー",
-                                         "tag":  "viewfinder",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/viewfinder"
-                                     },
-                                     {
-                                         "label":  "チャート",
-                                         "tag":  "chart",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chart"
-                                     },
-                                     {
-                                         "label":  "バストチャート",
-                                         "tag":  "bust_chart",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bust_chart"
-                                     },
-                                     {
-                                         "label":  "キャラクターチャート",
-                                         "tag":  "character_chart",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_chart"
-                                     },
-                                     {
-                                         "label":  "設定資料",
-                                         "tag":  "reference_sheet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/reference_sheet"
-                                     },
-                                     {
-                                         "label":  "図",
-                                         "tag":  "diagram",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/diagram"
-                                     },
-                                     {
-                                         "label":  "技のコマンド表",
-                                         "tag":  "move_chart",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/move_chart"
-                                     },
-                                     {
-                                         "label":  "関係グラフ",
-                                         "tag":  "relationship_graph",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/relationship_graph"
-                                     },
-                                     {
-                                         "label":  "座席表",
-                                         "tag":  "seating_chart",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/seating_chart"
-                                     },
-                                     {
-                                         "label":  "能力値表",
-                                         "tag":  "stats",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/stats"
-                                     },
-                                     {
-                                         "label":  "コラージュ",
-                                         "tag":  "collage",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collage"
-                                     },
-                                     {
-                                         "label":  "コラムラインナップ",
-                                         "tag":  "column_lineup",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/column_lineup"
-                                     },
-                                     {
-                                         "label":  "ジオラマ",
-                                         "tag":  "diorama",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/diorama"
-                                     },
-                                     {
-                                         "label":  "外から",
-                                         "tag":  "from_outside",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/from_outside"
-                                     },
-                                     {
-                                         "label":  "グリッチ",
-                                         "tag":  "glitch",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/glitch"
-                                     },
-                                     {
-                                         "label":  "等角投影",
-                                         "tag":  "isometric",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/isometric"
-                                     },
-                                     {
-                                         "label":  "レターボックス",
-                                         "tag":  "letterboxed",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/letterboxed"
-                                     },
-                                     {
-                                         "label":  "ピラーボックス",
-                                         "tag":  "pillarboxed",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pillarboxed"
-                                     },
-                                     {
-                                         "label":  "並ぶ",
-                                         "tag":  "lineup",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lineup"
-                                     },
-                                     {
-                                         "label":  "モザイクアート",
-                                         "tag":  "mosaic_art",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mosaic_art"
-                                     },
-                                     {
-                                         "label":  "フォトモザイク",
-                                         "tag":  "photomosaic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/photomosaic"
-                                     },
-                                     {
-                                         "label":  "ネガティブスペース",
-                                         "tag":  "negative_space",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/negative_space"
-                                     },
-                                     {
-                                         "label":  "おまけ",
-                                         "tag":  "omake",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/omake"
-                                     },
-                                     {
-                                         "label":  "フレーム外",
-                                         "tag":  "out_of_frame",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/out_of_frame"
-                                     },
-                                     {
-                                         "label":  "フェイクスクロールバー",
-                                         "tag":  "fake_scrollbar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_scrollbar"
-                                     },
-                                     {
-                                         "label":  "両足が画面外",
-                                         "tag":  "feet_out_of_frame",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/feet_out_of_frame"
-                                     },
-                                     {
-                                         "label":  "片足が画面外",
-                                         "tag":  "foot_out_of_frame",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/foot_out_of_frame"
-                                     },
-                                     {
-                                         "label":  "頭が画面外",
-                                         "tag":  "head_out_of_frame",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_out_of_frame"
-                                     },
-                                     {
-                                         "label":  "目が画面外",
-                                         "tag":  "eyes_out_of_frame",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyes_out_of_frame"
-                                     },
-                                     {
-                                         "label":  "膝が画面外",
-                                         "tag":  "knees_out_of_frame",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/knees_out_of_frame"
-                                     },
-                                     {
-                                         "label":  "フレーム外検閲",
-                                         "tag":  "out-of-frame_censoring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/out-of-frame_censoring"
-                                     },
-                                     {
-                                         "label":  "境界線の外側",
-                                         "tag":  "outside_border",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/outside_border"
-                                     },
-                                     {
-                                         "label":  "部分的に水中撮影",
-                                         "tag":  "partially_underwater_shot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/partially_underwater_shot"
-                                     },
-                                     {
-                                         "label":  "視点",
-                                         "tag":  "pov",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pov"
-                                     },
-                                     {
-                                         "label":  "ソーシャルメディアの構成",
-                                         "tag":  "social_media_composition",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/social_media_composition"
-                                     },
-                                     {
-                                         "label":  "対称",
-                                         "tag":  "symmetry",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/symmetry"
-                                     },
-                                     {
-                                         "label":  "正反対",
-                                         "tag":  "polar_opposites",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/polar_opposites"
-                                     },
-                                     {
-                                         "label":  "回転対称性",
-                                         "tag":  "rotational_symmetry",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rotational_symmetry"
-                                     },
-                                     {
-                                         "label":  "立絵",
-                                         "tag":  "tachi-e",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tachi-e"
-                                     },
-                                     {
-                                         "label":  "トリムマーク",
-                                         "tag":  "trim_marks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/trim_marks"
-                                     },
-                                     {
-                                         "label":  "ズームレイヤー",
-                                         "tag":  "zoom_layer",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/zoom_layer"
-                                     },
-                                     {
-                                         "label":  "投影されたインセット",
-                                         "tag":  "projected_inset",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/projected_inset"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "形式",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "3D",
-                                         "tag":  "3d",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/3d"
-                                     },
-                                     {
-                                         "label":  "アニメーション",
-                                         "tag":  "animated",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animated"
-                                     },
-                                     {
-                                         "label":  "アニメーションGIF",
-                                         "tag":  "animated_gif",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animated_gif"
-                                     },
-                                     {
-                                         "label":  "イージートゥーン",
-                                         "tag":  "easytoon_%28medium%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/easytoon_%28medium%29"
-                                     },
-                                     {
-                                         "label":  "FlipaClip",
-                                         "tag":  "flipaclip_%28medium%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flipaclip_%28medium%29"
-                                     },
-                                     {
-                                         "label":  "繰り返しのないアニメーション",
-                                         "tag":  "non-repeating_animation",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/non-repeating_animation"
-                                     },
-                                     {
-                                         "label":  "アニメーションPNG",
-                                         "tag":  "animated_png",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animated_png"
-                                     },
-                                     {
-                                         "label":  "Flash",
-                                         "tag":  "flash",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flash"
-                                     },
-                                     {
-                                         "label":  "ライブ2D",
-                                         "tag":  "live2d",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/live2d"
-                                     },
-                                     {
-                                         "label":  "ビデオ",
-                                         "tag":  "video",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/video"
-                                     },
-                                     {
-                                         "label":  "ミュージックビデオ",
-                                         "tag":  "music_video",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/music_video"
-                                     },
-                                     {
-                                         "label":  "ループアニメーション",
-                                         "tag":  "looping_animation",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/looping_animation"
-                                     },
-                                     {
-                                         "label":  "ルーレットアニメーション",
-                                         "tag":  "roulette_animation",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/roulette_animation"
-                                     },
-                                     {
-                                         "label":  "アニメのスクリーンショット",
-                                         "tag":  "anime_screenshot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/anime_screenshot"
-                                     },
-                                     {
-                                         "label":  "アーカイブされたファイル",
-                                         "tag":  "archived_file",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/archived_file"
-                                     },
-                                     {
-                                         "label":  "アートブック",
-                                         "tag":  "artbook",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/artbook"
-                                     },
-                                     {
-                                         "label":  "カレンダー（媒体）",
-                                         "tag":  "calendar_%28medium%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/calendar_%28medium%29"
-                                     },
-                                     {
-                                         "label":  "カード（媒体）",
-                                         "tag":  "card_%28medium%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/card_%28medium%29"
-                                     },
-                                     {
-                                         "label":  "漫画",
-                                         "tag":  "comic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/comic"
-                                     },
-                                     {
-                                         "label":  "1コマ",
-                                         "tag":  "1koma",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/1koma"
-                                     },
-                                     {
-                                         "label":  "2コマ",
-                                         "tag":  "2koma",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/2koma"
-                                     },
-                                     {
-                                         "label":  "3コマ",
-                                         "tag":  "3koma",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/3koma"
-                                     },
-                                     {
-                                         "label":  "4コマ",
-                                         "tag":  "4koma",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/4koma"
-                                     },
-                                     {
-                                         "label":  "複数の4コマ",
-                                         "tag":  "multiple_4koma",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_4koma"
-                                     },
-                                     {
-                                         "label":  "5コマ",
-                                         "tag":  "5koma",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/5koma"
-                                     },
-                                     {
-                                         "label":  "ボーダーレスパネル",
-                                         "tag":  "borderless_panels",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/borderless_panels"
-                                     },
-                                     {
-                                         "label":  "漫画",
-                                         "tag":  "comic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/comic"
-                                     },
-                                     {
-                                         "label":  "漫画",
-                                         "tag":  "comic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/comic"
-                                     },
-                                     {
-                                         "label":  "左から右へのマンガ",
-                                         "tag":  "left-to-right_manga",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/left-to-right_manga"
-                                     },
-                                     {
-                                         "label":  "右から左へ読むコミック",
-                                         "tag":  "right-to-left_comic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/right-to-left_comic"
-                                     },
-                                     {
-                                         "label":  "サイレントコミック",
-                                         "tag":  "silent_comic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/silent_comic"
-                                     },
-                                     {
-                                         "label":  "破損したファイル",
-                                         "tag":  "corrupted_file",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/corrupted_file"
-                                     },
-                                     {
-                                         "label":  "破損したTwitterファイル",
-                                         "tag":  "corrupted_twitter_file",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/corrupted_twitter_file"
-                                     },
-                                     {
-                                         "label":  "表紙",
-                                         "tag":  "cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cover"
-                                     },
-                                     {
-                                         "label":  "アルバムジャケット",
-                                         "tag":  "album_cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/album_cover"
-                                     },
-                                     {
-                                         "label":  "キャラクターシングル",
-                                         "tag":  "character_single",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_single"
-                                     },
-                                     {
-                                         "label":  "表紙",
-                                         "tag":  "cover_page",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cover_page"
-                                     },
-                                     {
-                                         "label":  "同人カバー",
-                                         "tag":  "doujin_cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/doujin_cover"
-                                     },
-                                     {
-                                         "label":  "DVDカバー",
-                                         "tag":  "dvd_cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dvd_cover"
-                                     },
-                                     {
-                                         "label":  "フェイクカバー",
-                                         "tag":  "fake_cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_cover"
-                                     },
-                                     {
-                                         "label":  "雑誌の表紙",
-                                         "tag":  "magazine_cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/magazine_cover"
-                                     },
-                                     {
-                                         "label":  "マンガの表紙",
-                                         "tag":  "manga_cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/manga_cover"
-                                     },
-                                     {
-                                         "label":  "ゲームのパッケージ",
-                                         "tag":  "video_game_cover",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/video_game_cover"
-                                     },
-                                     {
-                                         "label":  "フェイクスクリーンショット",
-                                         "tag":  "fake_screenshot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_screenshot"
-                                     },
-                                     {
-                                         "label":  "フェイクスマホスクリーンショット",
-                                         "tag":  "fake_phone_screenshot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_phone_screenshot"
-                                     },
-                                     {
-                                         "label":  "ゲームCG",
-                                         "tag":  "game_cg",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_cg"
-                                     },
-                                     {
-                                         "label":  "ゲームのスクリーンショット",
-                                         "tag":  "game_screenshot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_screenshot"
-                                     },
-                                     {
-                                         "label":  "魚拓（技法）",
-                                         "tag":  "gyotaku_%28medium%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gyotaku_%28medium%29"
-                                     },
-                                     {
-                                         "label":  "高解像度",
-                                         "tag":  "highres",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/highres"
-                                     },
-                                     {
-                                         "label":  "非常に高解像度",
-                                         "tag":  "absurdres",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/absurdres"
-                                     },
-                                     {
-                                         "label":  "極端に高解像度",
-                                         "tag":  "incredibly_absurdres",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/incredibly_absurdres"
-                                     },
-                                     {
-                                         "label":  "低解像度",
-                                         "tag":  "lowres",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lowres"
-                                     },
-                                     {
-                                         "label":  "アイコン",
-                                         "tag":  "icon_%28computing%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/icon_%28computing%29"
-                                     },
-                                     {
-                                         "label":  "ロゴ",
-                                         "tag":  "logo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/logo"
-                                     },
-                                     {
-                                         "label":  "切り紙",
-                                         "tag":  "kirigami",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kirigami"
-                                     },
-                                     {
-                                         "label":  "線画",
-                                         "tag":  "lineart",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lineart"
-                                     },
-                                     {
-                                         "label":  "線画なし",
-                                         "tag":  "no_lineart",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_lineart"
-                                     },
-                                     {
-                                         "label":  "輪郭線",
-                                         "tag":  "outline",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/outline"
-                                     },
-                                     {
-                                         "label":  "モザイクアート",
-                                         "tag":  "mosaic_art",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mosaic_art"
-                                     },
-                                     {
-                                         "label":  "フォトモザイク",
-                                         "tag":  "photomosaic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/photomosaic"
-                                     },
-                                     {
-                                         "label":  "お絵かき",
-                                         "tag":  "oekaki",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/oekaki"
-                                     },
-                                     {
-                                         "label":  "公式アート",
-                                         "tag":  "official_art",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/official_art"
-                                     },
-                                     {
-                                         "label":  "電話カード",
-                                         "tag":  "phonecard",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/phonecard"
-                                     },
-                                     {
-                                         "label":  "写真",
-                                         "tag":  "photo_%28medium%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/photo_%28medium%29"
-                                     },
-                                     {
-                                         "label":  "ペーパークラフト",
-                                         "tag":  "papercraft",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/papercraft"
-                                     },
-                                     {
-                                         "label":  "紙の子供",
-                                         "tag":  "paper_child",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/paper_child"
-                                     },
-                                     {
-                                         "label":  "切り絵",
-                                         "tag":  "paper_cutout",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/paper_cutout"
-                                     },
-                                     {
-                                         "label":  "ピクセルアート",
-                                         "tag":  "pixel_art",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pixel_art"
-                                     },
-                                     {
-                                         "label":  "ポストカード",
-                                         "tag":  "postcard",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/postcard"
-                                     },
-                                     {
-                                         "label":  "ポスター（媒体）",
-                                         "tag":  "poster_%28medium%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/poster_%28medium%29"
-                                     },
-                                     {
-                                         "label":  "リビジョン",
-                                         "tag":  "revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/revision"
-                                     },
-                                     {
-                                         "label":  "修正が悪い",
-                                         "tag":  "has_bad_revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/has_bad_revision"
-                                     },
-                                     {
-                                         "label":  "敵対的ノイズ付きの別版あり",
-                                         "tag":  "has_adversarial_noise_revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/has_adversarial_noise_revision"
-                                     },
-                                     {
-                                         "label":  "修正アーティファクトあり",
-                                         "tag":  "has_artifacted_revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/has_artifacted_revision"
-                                     },
-                                     {
-                                         "label":  "修正版あり",
-                                         "tag":  "has_censored_revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/has_censored_revision"
-                                     },
-                                     {
-                                         "label":  "トリミングされた修正あり",
-                                         "tag":  "has_cropped_revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/has_cropped_revision"
-                                     },
-                                     {
-                                         "label":  "縮小版あり",
-                                         "tag":  "has_downscaled_revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/has_downscaled_revision"
-                                     },
-                                     {
-                                         "label":  "非可逆修正あり",
-                                         "tag":  "has_lossy_revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/has_lossy_revision"
-                                     },
-                                     {
-                                         "label":  "透かし付きの別版あり",
-                                         "tag":  "has_watermarked_revision",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/has_watermarked_revision"
-                                     },
-                                     {
-                                         "label":  "スキャン",
-                                         "tag":  "scan",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scan"
-                                     },
-                                     {
-                                         "label":  "下敷",
-                                         "tag":  "shitajiki",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shitajiki"
-                                     },
-                                     {
-                                         "label":  "縦長の画像",
-                                         "tag":  "tall_image",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tall_image"
-                                     },
-                                     {
-                                         "label":  "手書き",
-                                         "tag":  "tegaki",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tegaki"
-                                     },
-                                     {
-                                         "label":  "透明な背景",
-                                         "tag":  "transparent_background",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/transparent_background"
-                                     },
-                                     {
-                                         "label":  "三連祭壇画（美術）",
-                                         "tag":  "triptych_%28art%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/triptych_%28art%29"
-                                     },
-                                     {
-                                         "label":  "サムネイルコラージュ",
-                                         "tag":  "thumbnail_collage",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/thumbnail_collage"
-                                     },
-                                     {
-                                         "label":  "ベクトルトレース",
-                                         "tag":  "vector_trace",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vector_trace"
-                                     },
-                                     {
-                                         "label":  "公式壁紙",
-                                         "tag":  "official_wallpaper",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/official_wallpaper"
-                                     },
-                                     {
-                                         "label":  "タイル化可能",
-                                         "tag":  "tileable",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tileable"
-                                     },
-                                     {
-                                         "label":  "壁紙強制",
-                                         "tag":  "wallpaper_forced",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wallpaper_forced"
-                                     },
-                                     {
-                                         "label":  "ワイドスクリーン",
-                                         "tag":  "widescreen",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/widescreen"
-                                     },
-                                     {
-                                         "label":  "ワイド画像",
-                                         "tag":  "wide_image",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wide_image"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "主題",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "AI生成",
-                                         "tag":  "ai-generated",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ai-generated"
-                                     },
-                                     {
-                                         "label":  "都市景観",
-                                         "tag":  "cityscape",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cityscape"
-                                     },
-                                     {
-                                         "label":  "みんな",
-                                         "tag":  "everyone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/everyone"
-                                     },
-                                     {
-                                         "label":  "絶対に全員",
-                                         "tag":  "absolutely_everyone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/absolutely_everyone"
-                                     },
-                                     {
-                                         "label":  "集合写真",
-                                         "tag":  "group_picture",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/group_picture"
-                                     },
-                                     {
-                                         "label":  "遺影",
-                                         "tag":  "iei",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/iei"
-                                     },
-                                     {
-                                         "label":  "風景",
-                                         "tag":  "landscape",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/landscape"
-                                     },
-                                     {
-                                         "label":  "自然",
-                                         "tag":  "nature",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nature"
-                                     },
-                                     {
-                                         "label":  "人間はいない",
-                                         "tag":  "no_humans",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_humans"
-                                     },
-                                     {
-                                         "label":  "話題外",
-                                         "tag":  "off-topic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/off-topic"
-                                     },
-                                     {
-                                         "label":  "景色",
-                                         "tag":  "scenery",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scenery"
-                                     },
-                                     {
-                                         "label":  "静物",
-                                         "tag":  "still_life",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/still_life"
-                                     },
-                                     {
-                                         "label":  "タググループ：被写体の強調",
-                                         "tag":  "tag_group%3Afocus_tags",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Afocus_tags"
-                                     },
-                                     {
-                                         "label":  "動物中心",
-                                         "tag":  "animal_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_focus"
-                                     },
-                                     {
-                                         "label":  "脇を強調",
-                                         "tag":  "armpit_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/armpit_focus"
-                                     },
-                                     {
-                                         "label":  "尻を強調",
-                                         "tag":  "ass_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ass_focus"
-                                     },
-                                     {
-                                         "label":  "背中を強調",
-                                         "tag":  "back_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/back_focus"
-                                     },
-                                     {
-                                         "label":  "本を強調",
-                                         "tag":  "book_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/book_focus"
-                                     },
-                                     {
-                                         "label":  "胸を強調",
-                                         "tag":  "breast_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/breast_focus"
-                                     },
-                                     {
-                                         "label":  "雲を強調",
-                                         "tag":  "cloud_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cloud_focus"
-                                     },
-                                     {
-                                         "label":  "目を強調",
-                                         "tag":  "eye_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eye_focus"
-                                     },
-                                     {
-                                         "label":  "食べ物を強調",
-                                         "tag":  "food_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/food_focus"
-                                     },
-                                     {
-                                         "label":  "足を強調",
-                                         "tag":  "foot_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/foot_focus"
-                                     },
-                                     {
-                                         "label":  "手を強調",
-                                         "tag":  "hand_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_focus"
-                                     },
-                                     {
-                                         "label":  "腰を強調",
-                                         "tag":  "hip_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hip_focus"
-                                     },
-                                     {
-                                         "label":  "男性中心",
-                                         "tag":  "male_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/male_focus"
-                                     },
-                                     {
-                                         "label":  "モンスター中心",
-                                         "tag":  "monster_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/monster_focus"
-                                     },
-                                     {
-                                         "label":  "へそを強調",
-                                         "tag":  "navel_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/navel_focus"
-                                     },
-                                     {
-                                         "label":  "物を強調",
-                                         "tag":  "object_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/object_focus"
-                                     },
-                                     {
-                                         "label":  "その他の焦点",
-                                         "tag":  "other_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/other_focus"
-                                     },
-                                     {
-                                         "label":  "植物を強調",
-                                         "tag":  "plant_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/plant_focus"
-                                     },
-                                     {
-                                         "label":  "胸筋を強調",
-                                         "tag":  "pectoral_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pectoral_focus"
-                                     },
-                                     {
-                                         "label":  "陰茎を強調",
-                                         "tag":  "penis_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/penis_focus"
-                                     },
-                                     {
-                                         "label":  "一人の人物を強調",
-                                         "tag":  "solo_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/solo_focus"
-                                     },
-                                     {
-                                         "label":  "乗り物中心",
-                                         "tag":  "vehicle_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vehicle_focus"
-                                     },
-                                     {
-                                         "label":  "文字中心",
-                                         "tag":  "text_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/text_focus"
-                                     },
-                                     {
-                                         "label":  "太ももを強調",
-                                         "tag":  "thigh_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/thigh_focus"
-                                     },
-                                     {
-                                         "label":  "武器を強調",
-                                         "tag":  "weapon_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/weapon_focus"
-                                     },
-                                     {
-                                         "label":  "乗り物中心",
-                                         "tag":  "vehicle_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vehicle_focus"
-                                     },
-                                     {
-                                         "label":  "風鈴を強調",
-                                         "tag":  "wind_chime_focus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wind_chime_focus"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "身体の写る範囲",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "肖像画",
-                                         "tag":  "portrait",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/portrait"
-                                     },
-                                     {
-                                         "label":  "上半身",
-                                         "tag":  "upper_body",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/upper_body"
-                                     },
-                                     {
-                                         "label":  "下半身",
-                                         "tag":  "lower_body",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lower_body"
-                                     },
-                                     {
-                                         "label":  "カウボーイショット",
-                                         "tag":  "cowboy_shot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cowboy_shot"
-                                     },
-                                     {
-                                         "label":  "両足が画面外",
-                                         "tag":  "feet_out_of_frame",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/feet_out_of_frame"
-                                     },
-                                     {
-                                         "label":  "全身",
-                                         "tag":  "full_body",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/full_body"
-                                     },
-                                     {
-                                         "label":  "ワイドショット",
-                                         "tag":  "wide_shot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wide_shot"
-                                     },
-                                     {
-                                         "label":  "非常にワイドなショット",
-                                         "tag":  "very_wide_shot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/very_wide_shot"
-                                     },
-                                     {
-                                         "label":  "接写・アップ",
-                                         "tag":  "close-up",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/close-up"
-                                     },
-                                     {
-                                         "label":  "トリミング済み",
-                                         "tag":  "cropped",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cropped"
-                                     },
-                                     {
-                                         "label":  "脚が画面外に切れた構図",
-                                         "tag":  "cropped_legs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cropped_legs"
-                                     },
-                                     {
-                                         "label":  "胴体が画面外に切れた構図",
-                                         "tag":  "cropped_torso",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cropped_torso"
-                                     },
-                                     {
-                                         "label":  "腕が画面外に切れた構図",
-                                         "tag":  "cropped_arms",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cropped_arms"
-                                     },
-                                     {
-                                         "label":  "肩が画面外に切れた構図",
-                                         "tag":  "cropped_shoulders",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cropped_shoulders"
-                                     },
-                                     {
-                                         "label":  "頭が画面外に切れた構図",
-                                         "tag":  "cropped_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cropped_head"
-                                     },
-                                     {
-                                         "label":  "カットイン",
-                                         "tag":  "cut-in",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cut-in"
-                                     },
-                                     {
-                                         "label":  "頭が画面外",
-                                         "tag":  "head_out_of_frame",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/head_out_of_frame"
-                                     },
-                                     {
-                                         "label":  "目が画面外",
-                                         "tag":  "eyes_out_of_frame",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyes_out_of_frame"
-                                     },
-                                     {
-                                         "label":  "複数のビュー",
-                                         "tag":  "multiple_views",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_views"
-                                     },
-                                     {
-                                         "label":  "横顔",
-                                         "tag":  "profile",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/profile"
-                                     },
-                                     {
-                                         "label":  "グループプロフィール",
-                                         "tag":  "group_profile",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/group_profile"
-                                     },
-                                     {
-                                         "label":  "分割栽培",
-                                         "tag":  "split_crop",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/split_crop"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "スタイル",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "抽象",
-                                         "tag":  "abstract",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/abstract"
-                                     },
-                                     {
-                                         "label":  "アールデコ",
-                                         "tag":  "art_deco",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/art_deco"
-                                     },
-                                     {
-                                         "label":  "アールヌーボー",
-                                         "tag":  "art_nouveau",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/art_nouveau"
-                                     },
-                                     {
-                                         "label":  "フェイク写真",
-                                         "tag":  "fake_photograph",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_photograph"
-                                     },
-                                     {
-                                         "label":  "美術パロディ",
-                                         "tag":  "fine_art_parody",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fine_art_parody"
-                                     },
-                                     {
-                                         "label":  "Flame Painter",
-                                         "tag":  "flame_painter_%28medium%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flame_painter_%28medium%29"
-                                     },
-                                     {
-                                         "label":  "印象派",
-                                         "tag":  "impressionism",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/impressionism"
-                                     },
-                                     {
-                                         "label":  "リーン・クレール",
-                                         "tag":  "ligne_claire",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ligne_claire"
-                                     },
-                                     {
-                                         "label":  "ミニマリズム",
-                                         "tag":  "minimalism",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/minimalism"
-                                     },
-                                     {
-                                         "label":  "日本画",
-                                         "tag":  "nihonga",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nihonga"
-                                     },
-                                     {
-                                         "label":  "水墨画",
-                                         "tag":  "sumi-e",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sumi-e"
-                                     },
-                                     {
-                                         "label":  "浮世絵",
-                                         "tag":  "ukiyo-e",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ukiyo-e"
-                                     },
-                                     {
-                                         "label":  "絵画調",
-                                         "tag":  "painterly",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/painterly"
-                                     },
-                                     {
-                                         "label":  "写実的",
-                                         "tag":  "realistic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/realistic"
-                                     },
-                                     {
-                                         "label":  "フォトリアリスティック",
-                                         "tag":  "photorealistic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/photorealistic"
-                                     },
-                                     {
-                                         "label":  "スケッチ",
-                                         "tag":  "sketch",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sketch"
-                                     },
-                                     {
-                                         "label":  "絵柄パロディ",
-                                         "tag":  "style_parody",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/style_parody"
-                                     },
-                                     {
-                                         "label":  "絵柄パロディ一覧",
-                                         "tag":  "list_of_style_parodies",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_style_parodies"
-                                     },
-                                     {
-                                         "label":  "シュール",
-                                         "tag":  "surreal",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/surreal"
-                                     },
-                                     {
-                                         "label":  "アナログ画材",
-                                         "tag":  "traditional_media",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/traditional_media"
-                                     },
-                                     {
-                                         "label":  "疑似アナログ",
-                                         "tag":  "faux_traditional_media",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/faux_traditional_media"
-                                     },
-                                     {
-                                         "label":  "未完成",
-                                         "tag":  "unfinished",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unfinished"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "テクニック",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ブレンディング",
-                                         "tag":  "blending",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blending"
-                                     },
-                                     {
-                                         "label":  "ブルーム（光のにじみ）",
-                                         "tag":  "bloom",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bloom"
-                                     },
-                                     {
-                                         "label":  "ボケ",
-                                         "tag":  "bokeh",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bokeh"
-                                     },
-                                     {
-                                         "label":  "コースティクス",
-                                         "tag":  "caustics",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/caustics"
-                                     },
-                                     {
-                                         "label":  "明暗法",
-                                         "tag":  "chiaroscuro",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chiaroscuro"
-                                     },
-                                     {
-                                         "label":  "色収差",
-                                         "tag":  "chromatic_aberration",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chromatic_aberration"
-                                     },
-                                     {
-                                         "label":  "色収差が大きい",
-                                         "tag":  "heavy_chromatic_aberration",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heavy_chromatic_aberration"
-                                     },
-                                     {
-                                         "label":  "回折スパイク",
-                                         "tag":  "diffraction_spikes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/diffraction_spikes"
-                                     },
-                                     {
-                                         "label":  "被写界深度",
-                                         "tag":  "depth_of_field",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/depth_of_field"
-                                     },
-                                     {
-                                         "label":  "歪み",
-                                         "tag":  "distortion",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/distortion"
-                                     },
-                                     {
-                                         "label":  "ディザリング",
-                                         "tag":  "dithering",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dithering"
-                                     },
-                                     {
-                                         "label":  "二重露光",
-                                         "tag":  "double_exposure",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/double_exposure"
-                                     },
-                                     {
-                                         "label":  "ドロップシャドウ",
-                                         "tag":  "drop_shadow",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/drop_shadow"
-                                     },
-                                     {
-                                         "label":  "強調線",
-                                         "tag":  "emphasis_lines",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/emphasis_lines"
-                                     },
-                                     {
-                                         "label":  "フィルム粒子",
-                                         "tag":  "film_grain",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/film_grain"
-                                     },
-                                     {
-                                         "label":  "短縮法",
-                                         "tag":  "foreshortening",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/foreshortening"
-                                     },
-                                     {
-                                         "label":  "グリッチ",
-                                         "tag":  "glitch",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/glitch"
-                                     },
-                                     {
-                                         "label":  "グラデーション",
-                                         "tag":  "gradient",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient"
-                                     },
-                                     {
-                                         "label":  "ハーフトーン",
-                                         "tag":  "halftone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/halftone"
-                                     },
-                                     {
-                                         "label":  "ハッチング（テクスチャ）",
-                                         "tag":  "hatching_%28texture%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hatching_%28texture%29"
-                                     },
-                                     {
-                                         "label":  "線状ハッチング",
-                                         "tag":  "linear_hatching",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/linear_hatching"
-                                     },
-                                     {
-                                         "label":  "クロスハッチング",
-                                         "tag":  "crosshatching",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crosshatching"
-                                     },
-                                     {
-                                         "label":  "織りハッチング",
-                                         "tag":  "woven_hatching",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/woven_hatching"
-                                     },
-                                     {
-                                         "label":  "高コントラスト",
-                                         "tag":  "high_contrast",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/high_contrast"
-                                     },
-                                     {
-                                         "label":  "意図的なJPEGアーティファクト",
-                                         "tag":  "jpeg_artifacts_on_purpose",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jpeg_artifacts_on_purpose"
-                                     },
-                                     {
-                                         "label":  "レンズフレア",
-                                         "tag":  "lens_flare",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lens_flare"
-                                     },
-                                     {
-                                         "label":  "レンズフレアが激しい",
-                                         "tag":  "heavy_lens_flare",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heavy_lens_flare"
-                                     },
-                                     {
-                                         "label":  "タググループ：照明",
-                                         "tag":  "tag_group%3Alighting",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Alighting"
-                                     },
-                                     {
-                                         "label":  "バックライト",
-                                         "tag":  "backlighting",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/backlighting"
-                                     },
-                                     {
-                                         "label":  "サイドライト",
-                                         "tag":  "sidelighting",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sidelighting"
-                                     },
-                                     {
-                                         "label":  "下からの照明",
-                                         "tag":  "underlighting",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/underlighting"
-                                     },
-                                     {
-                                         "label":  "モーションブラー",
-                                         "tag":  "motion_blur",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/motion_blur"
-                                     },
-                                     {
-                                         "label":  "モーションライン",
-                                         "tag":  "motion_lines",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/motion_lines"
-                                     },
-                                     {
-                                         "label":  "複数のモノクロ",
-                                         "tag":  "multiple_monochrome",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multiple_monochrome"
-                                     },
-                                     {
-                                         "label":  "錯視",
-                                         "tag":  "optical_illusion",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/optical_illusion"
-                                     },
-                                     {
-                                         "label":  "アナグリフ",
-                                         "tag":  "anaglyph",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/anaglyph"
-                                     },
-                                     {
-                                         "label":  "EXIFサムネイルの驚き",
-                                         "tag":  "exif_thumbnail_surprise",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/exif_thumbnail_surprise"
-                                     },
-                                     {
-                                         "label":  "Internet Explorerで開く",
-                                         "tag":  "open_in_internet_explorer",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/open_in_internet_explorer"
-                                     },
-                                     {
-                                         "label":  "Winampで開く",
-                                         "tag":  "open_in_winamp",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/open_in_winamp"
-                                     },
-                                     {
-                                         "label":  "ステレオグラム",
-                                         "tag":  "stereogram",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/stereogram"
-                                     },
-                                     {
-                                         "label":  "露出過多",
-                                         "tag":  "overexposure",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/overexposure"
-                                     },
-                                     {
-                                         "label":  "点描画",
-                                         "tag":  "pointillism",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pointillism"
-                                     },
-                                     {
-                                         "label":  "スキャンライン",
-                                         "tag":  "scanlines",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scanlines"
-                                     },
-                                     {
-                                         "label":  "スクリーントーン",
-                                         "tag":  "screentones",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/screentones"
-                                     },
-                                     {
-                                         "label":  "ベンデイドット",
-                                         "tag":  "ben-day_dots",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ben-day_dots"
-                                     },
-                                     {
-                                         "label":  "シルエット",
-                                         "tag":  "silhouette",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/silhouette"
-                                     },
-                                     {
-                                         "label":  "スピードライン",
-                                         "tag":  "speed_lines",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/speed_lines"
-                                     },
-                                     {
-                                         "label":  "点描（テクスチャ）",
-                                         "tag":  "stippling_%28texture%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/stippling_%28texture%29"
-                                     },
-                                     {
-                                         "label":  "サムネイルのサプライズ",
-                                         "tag":  "thumbnail_surprise",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/thumbnail_surprise"
-                                     },
-                                     {
-                                         "label":  "EXIFサムネイルの驚き",
-                                         "tag":  "exif_thumbnail_surprise",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/exif_thumbnail_surprise"
-                                     },
-                                     {
-                                         "label":  "周辺減光",
-                                         "tag":  "vignetting",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vignetting"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "日本の伝統的な模様",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "麻の葉文様",
-                                         "tag":  "asa_no_ha_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/asa_no_ha_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "絵霞",
-                                         "tag":  "egasumi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/egasumi"
-                                     },
-                                     {
-                                         "label":  "源氏車",
-                                         "tag":  "genjiguruma",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/genjiguruma"
-                                     },
-                                     {
-                                         "label":  "御所車",
-                                         "tag":  "goshoguruma",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/goshoguruma"
-                                     },
-                                     {
-                                         "label":  "井桁（いげた）",
-                                         "tag":  "igeta_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/igeta_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "籠目文様",
-                                         "tag":  "kagome_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kagome_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "鹿の子（柄）",
-                                         "tag":  "kanoko_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kanoko_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "唐草（文様）",
-                                         "tag":  "karakusa_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/karakusa_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "菊紋",
-                                         "tag":  "kikumon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kikumon"
-                                     },
-                                     {
-                                         "label":  "亀甲文様",
-                                         "tag":  "kikkoumon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kikkoumon"
-                                     },
-                                     {
-                                         "label":  "工字繋ぎ",
-                                         "tag":  "kojitsunagi_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kojitsunagi_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "松のシンボル",
-                                         "tag":  "matsu_symbol",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/matsu_symbol"
-                                     },
-                                     {
-                                         "label":  "桜紋",
-                                         "tag":  "sakuramon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sakuramon"
-                                     },
-                                     {
-                                         "label":  "紗綾形",
-                                         "tag":  "sayagata",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sayagata"
-                                     },
-                                     {
-                                         "label":  "青海波",
-                                         "tag":  "seigaiha",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/seigaiha"
-                                     },
-                                     {
-                                         "label":  "縞（模様）",
-                                         "tag":  "shima_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shima_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "七宝（しっぽう）",
-                                         "tag":  "shippou_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shippou_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "団扇",
-                                         "tag":  "uchiwa_%28medium%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/uchiwa_%28medium%29"
-                                     },
-                                     {
-                                         "label":  "鱗文様",
-                                         "tag":  "uroko_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/uroko_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "立涌文様",
-                                         "tag":  "tatewaku",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tatewaku"
-                                     },
-                                     {
-                                         "label":  "矢絣",
-                                         "tag":  "yagasuri",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yagasuri"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他の模様",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アニマルプリント",
-                                         "tag":  "animal_print",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_print"
-                                     },
-                                     {
-                                         "label":  "牛柄",
-                                         "tag":  "cow_print",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cow_print"
-                                     },
-                                     {
-                                         "label":  "ヒョウ柄",
-                                         "tag":  "leopard_print",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/leopard_print"
-                                     },
-                                     {
-                                         "label":  "サメのプリント",
-                                         "tag":  "shark_print",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shark_print"
-                                     },
-                                     {
-                                         "label":  "虎柄",
-                                         "tag":  "tiger_print",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tiger_print"
-                                     },
-                                     {
-                                         "label":  "ゼブラ柄",
-                                         "tag":  "zebra_print",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/zebra_print"
-                                     },
-                                     {
-                                         "label":  "アーガイル",
-                                         "tag":  "argyle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/argyle"
-                                     },
-                                     {
-                                         "label":  "市松",
-                                         "tag":  "checkered",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/checkered"
-                                     },
-                                     {
-                                         "label":  "クロスプリント",
-                                         "tag":  "cross_print",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cross_print"
-                                     },
-                                     {
-                                         "label":  "双喜紋",
-                                         "tag":  "double_happiness",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/double_happiness"
-                                     },
-                                     {
-                                         "label":  "フルール・ド・リス",
-                                         "tag":  "fleur-de-lis",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fleur-de-lis"
-                                     },
-                                     {
-                                         "label":  "花柄",
-                                         "tag":  "floral_print",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/floral_print"
-                                     },
-                                     {
-                                         "label":  "フラワー・オブ・ライフ",
-                                         "tag":  "flower_of_life_%28pattern%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_of_life_%28pattern%29"
-                                     },
-                                     {
-                                         "label":  "ギンガム",
-                                         "tag":  "gingham",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gingham"
-                                     },
-                                     {
-                                         "label":  "千鳥格子",
-                                         "tag":  "houndstooth",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/houndstooth"
-                                     },
-                                     {
-                                         "label":  "雷文・メアンドロス文様",
-                                         "tag":  "meandros",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/meandros"
-                                     },
-                                     {
-                                         "label":  "ペイズリー",
-                                         "tag":  "paisley",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/paisley"
-                                     },
-                                     {
-                                         "label":  "チェック柄",
-                                         "tag":  "plaid",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/plaid"
-                                     },
-                                     {
-                                         "label":  "水玉模様",
-                                         "tag":  "polka_dot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/polka_dot"
-                                     },
-                                     {
-                                         "label":  "縞模様",
-                                         "tag":  "striped",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/striped"
-                                     },
-                                     {
-                                         "label":  "祥雲文様",
-                                         "tag":  "xiangyun",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/xiangyun"
-                                     },
-                                     {
-                                         "label":  "タググループ：プリント",
-                                         "tag":  "tag_group%3Aprints",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aprints"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "不具合・派生版・編集",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "敵対的なノイズ",
-                                         "tag":  "adversarial_noise",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adversarial_noise"
-                                     },
-                                     {
-                                         "label":  "エイリアシング",
-                                         "tag":  "aliasing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aliasing"
-                                     },
-                                     {
-                                         "label":  "GIFアーティファクト",
-                                         "tag":  "gif_artifacts",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gif_artifacts"
-                                     },
-                                     {
-                                         "label":  "JPEGアーティファクト",
-                                         "tag":  "jpeg_artifacts",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/jpeg_artifacts"
-                                     },
-                                     {
-                                         "label":  "スキャン時のノイズ",
-                                         "tag":  "scan_artifacts",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scan_artifacts"
-                                     },
-                                     {
-                                         "label":  "裏写り",
-                                         "tag":  "bleed_through",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bleed_through"
-                                     },
-                                     {
-                                         "label":  "折り目",
-                                         "tag":  "crease",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crease"
-                                     },
-                                     {
-                                         "label":  "VHSアーティファクト",
-                                         "tag":  "vhs_artifacts",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vhs_artifacts"
-                                     },
-                                     {
-                                         "label":  "芸術的な誤り",
-                                         "tag":  "artistic_error",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/artistic_error"
-                                     },
-                                     {
-                                         "label":  "悪い反射",
-                                         "tag":  "bad_reflection",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bad_reflection"
-                                     },
-                                     {
-                                         "label":  "余分な指",
-                                         "tag":  "extra_digits",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/extra_digits"
-                                     },
-                                     {
-                                         "label":  "タイプミス",
-                                         "tag":  "typo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/typo"
-                                     },
-                                     {
-                                         "label":  "アスペクト比が悪い",
-                                         "tag":  "bad_aspect_ratio",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bad_aspect_ratio"
-                                     },
-                                     {
-                                         "label":  "ぼやけた",
-                                         "tag":  "blurry",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blurry"
-                                     },
-                                     {
-                                         "label":  "修正あり",
-                                         "tag":  "censored",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/censored"
-                                     },
-                                     {
-                                         "label":  "無修正",
-                                         "tag":  "uncensored",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/uncensored"
-                                     },
-                                     {
-                                         "label":  "修正除去済み",
-                                         "tag":  "decensored",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/decensored"
-                                     },
-                                     {
-                                         "label":  "タググループ：修正・隠し表現",
-                                         "tag":  "tag_group%3Acensorship",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Acensorship"
-                                     },
-                                     {
-                                         "label":  "派生作品",
-                                         "tag":  "derivative_work",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/derivative_work"
-                                     },
-                                     {
-                                         "label":  "写真参照",
-                                         "tag":  "photo-referenced",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/photo-referenced"
-                                     },
-                                     {
-                                         "label":  "参考写真",
-                                         "tag":  "reference_photo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/reference_photo"
-                                     },
-                                     {
-                                         "label":  "参考文献",
-                                         "tag":  "reference_work",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/reference_work"
-                                     },
-                                     {
-                                         "label":  "スクリーンショットの再描画",
-                                         "tag":  "screenshot_redraw",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/screenshot_redraw"
-                                     },
-                                     {
-                                         "label":  "重複",
-                                         "tag":  "duplicate",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/duplicate"
-                                     },
-                                     {
-                                         "label":  "ピクセルパーフェクトな複製",
-                                         "tag":  "pixel-perfect_duplicate",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pixel-perfect_duplicate"
-                                     },
-                                     {
-                                         "label":  "画像マクロ",
-                                         "tag":  "image_macro_%28meme%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/image_macro_%28meme%29"
-                                     },
-                                     {
-                                         "label":  "ロスレス-ロスレス",
-                                         "tag":  "lossless-lossy",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lossless-lossy"
-                                     },
-                                     {
-                                         "label":  "ロスレス・ロスレス",
-                                         "tag":  "lossy-lossless",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lossy-lossless"
-                                     },
-                                     {
-                                         "label":  "MD5不一致",
-                                         "tag":  "md5_mismatch",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/md5_mismatch"
-                                     },
-                                     {
-                                         "label":  "サムネイルがありません",
-                                         "tag":  "missing_thumbnail",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/missing_thumbnail"
-                                     },
-                                     {
-                                         "label":  "モアレ",
-                                         "tag":  "moire",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/moire"
-                                     },
-                                     {
-                                         "label":  "解剖学的なナンセンス",
-                                         "tag":  "anatomical_nonsense",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/anatomical_nonsense"
-                                     },
-                                     {
-                                         "label":  "人体の描写ミス",
-                                         "tag":  "bad_anatomy",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bad_anatomy"
-                                     },
-                                     {
-                                         "label":  "足の描写ミス",
-                                         "tag":  "bad_feet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bad_feet"
-                                     },
-                                     {
-                                         "label":  "手の描写ミス",
-                                         "tag":  "bad_hands",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bad_hands"
-                                     },
-                                     {
-                                         "label":  "不自然な体の比率",
-                                         "tag":  "bad_proportions",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bad_proportions"
-                                     },
-                                     {
-                                         "label":  "品質",
-                                         "tag":  "quality",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/quality"
-                                     },
-                                     {
-                                         "label":  "範囲",
-                                         "tag":  "ranguage",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ranguage"
-                                     },
-                                     {
-                                         "label":  "サイズ変更",
-                                         "tag":  "resized",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/resized"
-                                     },
-                                     {
-                                         "label":  "縮小",
-                                         "tag":  "downscaled",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/downscaled"
-                                     },
-                                     {
-                                         "label":  "画像サンプル",
-                                         "tag":  "image_sample",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/image_sample"
-                                     },
-                                     {
-                                         "label":  "アップスケール",
-                                         "tag":  "upscaled",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/upscaled"
-                                     },
-                                     {
-                                         "label":  "ワイフ2x",
-                                         "tag":  "waifu2x",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/waifu2x"
-                                     },
-                                     {
-                                         "label":  "逆転",
-                                         "tag":  "reversed",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/reversed"
-                                     },
-                                     {
-                                         "label":  "回転",
-                                         "tag":  "rotated",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rotated"
-                                     },
-                                     {
-                                         "label":  "単色サムネイル",
-                                         "tag":  "solid_color_thumbnail",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/solid_color_thumbnail"
-                                     },
-                                     {
-                                         "label":  "第三者による編集",
-                                         "tag":  "third-party_edit",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/third-party_edit"
-                                     },
-                                     {
-                                         "label":  "テキスト除去",
-                                         "tag":  "detexted",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/detexted"
-                                     },
-                                     {
-                                         "label":  "画像に直接組み込まれた英訳",
-                                         "tag":  "hard-translated",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hard-translated"
-                                     },
-                                     {
-                                         "label":  "ヌードフィルター",
-                                         "tag":  "nude_filter",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nude_filter"
-                                     },
-                                     {
-                                         "label":  "サードパーティ抽出",
-                                         "tag":  "third-party_extraction",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/third-party_extraction"
-                                     },
-                                     {
-                                         "label":  "動かないパターン",
-                                         "tag":  "unmoving_pattern",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unmoving_pattern"
-                                     },
-                                     {
-                                         "label":  "透かし",
-                                         "tag":  "watermark",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/watermark"
-                                     },
-                                     {
-                                         "label":  "サードパーティの透かし",
-                                         "tag":  "third-party_watermark",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/third-party_watermark"
-                                     },
-                                     {
-                                         "label":  "ウェブアドレス",
-                                         "tag":  "web_address",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/web_address"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "背景/色",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "タググループ：背景",
-                                         "tag":  "tag_group%3Abackgrounds",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Abackgrounds"
-                                     },
-                                     {
-                                         "label":  "タググループ：色",
-                                         "tag":  "tag_group%3Acolors",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Acolors"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "参照",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ブロマイド",
-                                         "tag":  "bromide",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bromide"
-                                     },
-                                     {
-                                         "label":  "タググループ：描画・制作ソフトウェア",
-                                         "tag":  "tag_group%3Adrawing_software",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Adrawing_software"
-                                     },
-                                     {
-                                         "label":  "タググループ：視覚的な作風",
-                                         "tag":  "tag_group%3Avisual_aesthetic",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Avisual_aesthetic"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "image_composition",
+  "カテゴリ名": "画像構成",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aimage_composition",
+  "セクション一覧": [
+    {
+      "セクション名": "カメラアングル",
+      "タグ一覧": [
+        {
+          "label": "ダッチアングル（傾いた構図）",
+          "tag": "dutch_angle",
+          "link": "https://danbooru.donmai.us/wiki_pages/dutch_angle"
+        },
+        {
+          "label": "上から",
+          "tag": "from_above",
+          "link": "https://danbooru.donmai.us/wiki_pages/from_above"
+        },
+        {
+          "label": "後ろから",
+          "tag": "from_behind",
+          "link": "https://danbooru.donmai.us/wiki_pages/from_behind"
+        },
+        {
+          "label": "下から",
+          "tag": "from_below",
+          "link": "https://danbooru.donmai.us/wiki_pages/from_below"
+        },
+        {
+          "label": "横から",
+          "tag": "from_side",
+          "link": "https://danbooru.donmai.us/wiki_pages/from_side"
+        },
+        {
+          "label": "高いところ",
+          "tag": "high_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/high_up"
+        },
+        {
+          "label": "複数のビュー",
+          "tag": "multiple_views",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_views"
+        },
+        {
+          "label": "横向き",
+          "tag": "sideways",
+          "link": "https://danbooru.donmai.us/wiki_pages/sideways"
+        },
+        {
+          "label": "正面から",
+          "tag": "straight-on",
+          "link": "https://danbooru.donmai.us/wiki_pages/straight-on"
+        },
+        {
+          "label": "逆さまに",
+          "tag": "upside-down",
+          "link": "https://danbooru.donmai.us/wiki_pages/upside-down"
+        }
+      ]
+    },
+    {
+      "セクション名": "視点・遠近感",
+      "タグ一覧": [
+        {
+          "label": "大気遠近法",
+          "tag": "atmospheric_perspective",
+          "link": "https://danbooru.donmai.us/wiki_pages/atmospheric_perspective"
+        },
+        {
+          "label": "魚眼レンズ",
+          "tag": "fisheye",
+          "link": "https://danbooru.donmai.us/wiki_pages/fisheye"
+        },
+        {
+          "label": "パノラマ",
+          "tag": "panorama",
+          "link": "https://danbooru.donmai.us/wiki_pages/panorama"
+        },
+        {
+          "label": "遠近法",
+          "tag": "perspective",
+          "link": "https://danbooru.donmai.us/wiki_pages/perspective"
+        },
+        {
+          "label": "消失点",
+          "tag": "vanishing_point",
+          "link": "https://danbooru.donmai.us/wiki_pages/vanishing_point"
+        },
+        {
+          "label": "バリエーション",
+          "tag": "variations",
+          "link": "https://danbooru.donmai.us/wiki_pages/variations"
+        }
+      ]
+    },
+    {
+      "セクション名": "構成",
+      "タグ一覧": [
+        {
+          "label": "残像",
+          "tag": "afterimage",
+          "link": "https://danbooru.donmai.us/wiki_pages/afterimage"
+        },
+        {
+          "label": "枠線",
+          "tag": "border",
+          "link": "https://danbooru.donmai.us/wiki_pages/border"
+        },
+        {
+          "label": "フェードアウトする境界線",
+          "tag": "fading_border",
+          "link": "https://danbooru.donmai.us/wiki_pages/fading_border"
+        },
+        {
+          "label": "インセットボーダー",
+          "tag": "inset_border",
+          "link": "https://danbooru.donmai.us/wiki_pages/inset_border"
+        },
+        {
+          "label": "華やかな縁取り",
+          "tag": "ornate_border",
+          "link": "https://danbooru.donmai.us/wiki_pages/ornate_border"
+        },
+        {
+          "label": "境界線の外側",
+          "tag": "outside_border",
+          "link": "https://danbooru.donmai.us/wiki_pages/outside_border"
+        },
+        {
+          "label": "丸い角",
+          "tag": "rounded_corners",
+          "link": "https://danbooru.donmai.us/wiki_pages/rounded_corners"
+        },
+        {
+          "label": "ファインダー",
+          "tag": "viewfinder",
+          "link": "https://danbooru.donmai.us/wiki_pages/viewfinder"
+        },
+        {
+          "label": "チャート",
+          "tag": "chart",
+          "link": "https://danbooru.donmai.us/wiki_pages/chart"
+        },
+        {
+          "label": "バストチャート",
+          "tag": "bust_chart",
+          "link": "https://danbooru.donmai.us/wiki_pages/bust_chart"
+        },
+        {
+          "label": "キャラクターチャート",
+          "tag": "character_chart",
+          "link": "https://danbooru.donmai.us/wiki_pages/character_chart"
+        },
+        {
+          "label": "設定資料",
+          "tag": "reference_sheet",
+          "link": "https://danbooru.donmai.us/wiki_pages/reference_sheet"
+        },
+        {
+          "label": "図",
+          "tag": "diagram",
+          "link": "https://danbooru.donmai.us/wiki_pages/diagram"
+        },
+        {
+          "label": "技のコマンド表",
+          "tag": "move_chart",
+          "link": "https://danbooru.donmai.us/wiki_pages/move_chart"
+        },
+        {
+          "label": "関係グラフ",
+          "tag": "relationship_graph",
+          "link": "https://danbooru.donmai.us/wiki_pages/relationship_graph"
+        },
+        {
+          "label": "座席表",
+          "tag": "seating_chart",
+          "link": "https://danbooru.donmai.us/wiki_pages/seating_chart"
+        },
+        {
+          "label": "能力値表",
+          "tag": "stats",
+          "link": "https://danbooru.donmai.us/wiki_pages/stats"
+        },
+        {
+          "label": "コラージュ",
+          "tag": "collage",
+          "link": "https://danbooru.donmai.us/wiki_pages/collage"
+        },
+        {
+          "label": "コラムラインナップ",
+          "tag": "column_lineup",
+          "link": "https://danbooru.donmai.us/wiki_pages/column_lineup"
+        },
+        {
+          "label": "ジオラマ",
+          "tag": "diorama",
+          "link": "https://danbooru.donmai.us/wiki_pages/diorama"
+        },
+        {
+          "label": "外から",
+          "tag": "from_outside",
+          "link": "https://danbooru.donmai.us/wiki_pages/from_outside"
+        },
+        {
+          "label": "グリッチ",
+          "tag": "glitch",
+          "link": "https://danbooru.donmai.us/wiki_pages/glitch"
+        },
+        {
+          "label": "等角投影",
+          "tag": "isometric",
+          "link": "https://danbooru.donmai.us/wiki_pages/isometric"
+        },
+        {
+          "label": "レターボックス",
+          "tag": "letterboxed",
+          "link": "https://danbooru.donmai.us/wiki_pages/letterboxed"
+        },
+        {
+          "label": "ピラーボックス",
+          "tag": "pillarboxed",
+          "link": "https://danbooru.donmai.us/wiki_pages/pillarboxed"
+        },
+        {
+          "label": "並ぶ",
+          "tag": "lineup",
+          "link": "https://danbooru.donmai.us/wiki_pages/lineup"
+        },
+        {
+          "label": "モザイクアート",
+          "tag": "mosaic_art",
+          "link": "https://danbooru.donmai.us/wiki_pages/mosaic_art"
+        },
+        {
+          "label": "フォトモザイク",
+          "tag": "photomosaic",
+          "link": "https://danbooru.donmai.us/wiki_pages/photomosaic"
+        },
+        {
+          "label": "ネガティブスペース",
+          "tag": "negative_space",
+          "link": "https://danbooru.donmai.us/wiki_pages/negative_space"
+        },
+        {
+          "label": "おまけ",
+          "tag": "omake",
+          "link": "https://danbooru.donmai.us/wiki_pages/omake"
+        },
+        {
+          "label": "フレーム外",
+          "tag": "out_of_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/out_of_frame"
+        },
+        {
+          "label": "フェイクスクロールバー",
+          "tag": "fake_scrollbar",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_scrollbar"
+        },
+        {
+          "label": "両足が画面外",
+          "tag": "feet_out_of_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/feet_out_of_frame"
+        },
+        {
+          "label": "片足が画面外",
+          "tag": "foot_out_of_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/foot_out_of_frame"
+        },
+        {
+          "label": "頭が画面外",
+          "tag": "head_out_of_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/head_out_of_frame"
+        },
+        {
+          "label": "目が画面外",
+          "tag": "eyes_out_of_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyes_out_of_frame"
+        },
+        {
+          "label": "膝が画面外",
+          "tag": "knees_out_of_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/knees_out_of_frame"
+        },
+        {
+          "label": "フレーム外検閲",
+          "tag": "out-of-frame_censoring",
+          "link": "https://danbooru.donmai.us/wiki_pages/out-of-frame_censoring"
+        },
+        {
+          "label": "境界線の外側",
+          "tag": "outside_border",
+          "link": "https://danbooru.donmai.us/wiki_pages/outside_border"
+        },
+        {
+          "label": "部分的に水中撮影",
+          "tag": "partially_underwater_shot",
+          "link": "https://danbooru.donmai.us/wiki_pages/partially_underwater_shot"
+        },
+        {
+          "label": "視点",
+          "tag": "pov",
+          "link": "https://danbooru.donmai.us/wiki_pages/pov"
+        },
+        {
+          "label": "ソーシャルメディアの構成",
+          "tag": "social_media_composition",
+          "link": "https://danbooru.donmai.us/wiki_pages/social_media_composition"
+        },
+        {
+          "label": "対称",
+          "tag": "symmetry",
+          "link": "https://danbooru.donmai.us/wiki_pages/symmetry"
+        },
+        {
+          "label": "正反対",
+          "tag": "polar_opposites",
+          "link": "https://danbooru.donmai.us/wiki_pages/polar_opposites"
+        },
+        {
+          "label": "回転対称性",
+          "tag": "rotational_symmetry",
+          "link": "https://danbooru.donmai.us/wiki_pages/rotational_symmetry"
+        },
+        {
+          "label": "立絵",
+          "tag": "tachi-e",
+          "link": "https://danbooru.donmai.us/wiki_pages/tachi-e"
+        },
+        {
+          "label": "トリムマーク",
+          "tag": "trim_marks",
+          "link": "https://danbooru.donmai.us/wiki_pages/trim_marks"
+        },
+        {
+          "label": "ズームレイヤー",
+          "tag": "zoom_layer",
+          "link": "https://danbooru.donmai.us/wiki_pages/zoom_layer"
+        },
+        {
+          "label": "投影されたインセット",
+          "tag": "projected_inset",
+          "link": "https://danbooru.donmai.us/wiki_pages/projected_inset"
+        }
+      ]
+    },
+    {
+      "セクション名": "形式",
+      "タグ一覧": [
+        {
+          "label": "3D",
+          "tag": "3d",
+          "link": "https://danbooru.donmai.us/wiki_pages/3d"
+        },
+        {
+          "label": "アニメーション",
+          "tag": "animated",
+          "link": "https://danbooru.donmai.us/wiki_pages/animated"
+        },
+        {
+          "label": "アニメーションGIF",
+          "tag": "animated_gif",
+          "link": "https://danbooru.donmai.us/wiki_pages/animated_gif"
+        },
+        {
+          "label": "イージートゥーン",
+          "tag": "easytoon_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/easytoon_%28medium%29"
+        },
+        {
+          "label": "FlipaClip",
+          "tag": "flipaclip_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/flipaclip_%28medium%29"
+        },
+        {
+          "label": "繰り返しのないアニメーション",
+          "tag": "non-repeating_animation",
+          "link": "https://danbooru.donmai.us/wiki_pages/non-repeating_animation"
+        },
+        {
+          "label": "アニメーションPNG",
+          "tag": "animated_png",
+          "link": "https://danbooru.donmai.us/wiki_pages/animated_png"
+        },
+        {
+          "label": "Flash",
+          "tag": "flash",
+          "link": "https://danbooru.donmai.us/wiki_pages/flash"
+        },
+        {
+          "label": "ライブ2D",
+          "tag": "live2d",
+          "link": "https://danbooru.donmai.us/wiki_pages/live2d"
+        },
+        {
+          "label": "ビデオ",
+          "tag": "video",
+          "link": "https://danbooru.donmai.us/wiki_pages/video"
+        },
+        {
+          "label": "ミュージックビデオ",
+          "tag": "music_video",
+          "link": "https://danbooru.donmai.us/wiki_pages/music_video"
+        },
+        {
+          "label": "ループアニメーション",
+          "tag": "looping_animation",
+          "link": "https://danbooru.donmai.us/wiki_pages/looping_animation"
+        },
+        {
+          "label": "ルーレットアニメーション",
+          "tag": "roulette_animation",
+          "link": "https://danbooru.donmai.us/wiki_pages/roulette_animation"
+        },
+        {
+          "label": "アニメのスクリーンショット",
+          "tag": "anime_screenshot",
+          "link": "https://danbooru.donmai.us/wiki_pages/anime_screenshot"
+        },
+        {
+          "label": "アーカイブされたファイル",
+          "tag": "archived_file",
+          "link": "https://danbooru.donmai.us/wiki_pages/archived_file"
+        },
+        {
+          "label": "アートブック",
+          "tag": "artbook",
+          "link": "https://danbooru.donmai.us/wiki_pages/artbook"
+        },
+        {
+          "label": "カレンダー（媒体）",
+          "tag": "calendar_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/calendar_%28medium%29"
+        },
+        {
+          "label": "カード（媒体）",
+          "tag": "card_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/card_%28medium%29"
+        },
+        {
+          "label": "漫画",
+          "tag": "comic",
+          "link": "https://danbooru.donmai.us/wiki_pages/comic"
+        },
+        {
+          "label": "1コマ",
+          "tag": "1koma",
+          "link": "https://danbooru.donmai.us/wiki_pages/1koma"
+        },
+        {
+          "label": "2コマ",
+          "tag": "2koma",
+          "link": "https://danbooru.donmai.us/wiki_pages/2koma"
+        },
+        {
+          "label": "3コマ",
+          "tag": "3koma",
+          "link": "https://danbooru.donmai.us/wiki_pages/3koma"
+        },
+        {
+          "label": "4コマ",
+          "tag": "4koma",
+          "link": "https://danbooru.donmai.us/wiki_pages/4koma"
+        },
+        {
+          "label": "複数の4コマ",
+          "tag": "multiple_4koma",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_4koma"
+        },
+        {
+          "label": "5コマ",
+          "tag": "5koma",
+          "link": "https://danbooru.donmai.us/wiki_pages/5koma"
+        },
+        {
+          "label": "ボーダーレスパネル",
+          "tag": "borderless_panels",
+          "link": "https://danbooru.donmai.us/wiki_pages/borderless_panels"
+        },
+        {
+          "label": "漫画",
+          "tag": "comic",
+          "link": "https://danbooru.donmai.us/wiki_pages/comic"
+        },
+        {
+          "label": "漫画",
+          "tag": "comic",
+          "link": "https://danbooru.donmai.us/wiki_pages/comic"
+        },
+        {
+          "label": "左から右へのマンガ",
+          "tag": "left-to-right_manga",
+          "link": "https://danbooru.donmai.us/wiki_pages/left-to-right_manga"
+        },
+        {
+          "label": "右から左へ読むコミック",
+          "tag": "right-to-left_comic",
+          "link": "https://danbooru.donmai.us/wiki_pages/right-to-left_comic"
+        },
+        {
+          "label": "サイレントコミック",
+          "tag": "silent_comic",
+          "link": "https://danbooru.donmai.us/wiki_pages/silent_comic"
+        },
+        {
+          "label": "破損したファイル",
+          "tag": "corrupted_file",
+          "link": "https://danbooru.donmai.us/wiki_pages/corrupted_file"
+        },
+        {
+          "label": "破損したTwitterファイル",
+          "tag": "corrupted_twitter_file",
+          "link": "https://danbooru.donmai.us/wiki_pages/corrupted_twitter_file"
+        },
+        {
+          "label": "表紙",
+          "tag": "cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/cover"
+        },
+        {
+          "label": "アルバムジャケット",
+          "tag": "album_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/album_cover"
+        },
+        {
+          "label": "キャラクターシングル",
+          "tag": "character_single",
+          "link": "https://danbooru.donmai.us/wiki_pages/character_single"
+        },
+        {
+          "label": "表紙",
+          "tag": "cover_page",
+          "link": "https://danbooru.donmai.us/wiki_pages/cover_page"
+        },
+        {
+          "label": "同人カバー",
+          "tag": "doujin_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/doujin_cover"
+        },
+        {
+          "label": "DVDカバー",
+          "tag": "dvd_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/dvd_cover"
+        },
+        {
+          "label": "フェイクカバー",
+          "tag": "fake_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_cover"
+        },
+        {
+          "label": "雑誌の表紙",
+          "tag": "magazine_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/magazine_cover"
+        },
+        {
+          "label": "マンガの表紙",
+          "tag": "manga_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/manga_cover"
+        },
+        {
+          "label": "ゲームのパッケージ",
+          "tag": "video_game_cover",
+          "link": "https://danbooru.donmai.us/wiki_pages/video_game_cover"
+        },
+        {
+          "label": "フェイクスクリーンショット",
+          "tag": "fake_screenshot",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_screenshot"
+        },
+        {
+          "label": "フェイクスマホスクリーンショット",
+          "tag": "fake_phone_screenshot",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_phone_screenshot"
+        },
+        {
+          "label": "ゲームCG",
+          "tag": "game_cg",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_cg"
+        },
+        {
+          "label": "ゲームのスクリーンショット",
+          "tag": "game_screenshot",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_screenshot"
+        },
+        {
+          "label": "魚拓（技法）",
+          "tag": "gyotaku_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/gyotaku_%28medium%29"
+        },
+        {
+          "label": "高解像度",
+          "tag": "highres",
+          "link": "https://danbooru.donmai.us/wiki_pages/highres"
+        },
+        {
+          "label": "非常に高解像度",
+          "tag": "absurdres",
+          "link": "https://danbooru.donmai.us/wiki_pages/absurdres"
+        },
+        {
+          "label": "極端に高解像度",
+          "tag": "incredibly_absurdres",
+          "link": "https://danbooru.donmai.us/wiki_pages/incredibly_absurdres"
+        },
+        {
+          "label": "低解像度",
+          "tag": "lowres",
+          "link": "https://danbooru.donmai.us/wiki_pages/lowres"
+        },
+        {
+          "label": "アイコン",
+          "tag": "icon_%28computing%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/icon_%28computing%29"
+        },
+        {
+          "label": "ロゴ",
+          "tag": "logo",
+          "link": "https://danbooru.donmai.us/wiki_pages/logo"
+        },
+        {
+          "label": "切り紙",
+          "tag": "kirigami",
+          "link": "https://danbooru.donmai.us/wiki_pages/kirigami"
+        },
+        {
+          "label": "線画",
+          "tag": "lineart",
+          "link": "https://danbooru.donmai.us/wiki_pages/lineart"
+        },
+        {
+          "label": "線画なし",
+          "tag": "no_lineart",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_lineart"
+        },
+        {
+          "label": "輪郭線",
+          "tag": "outline",
+          "link": "https://danbooru.donmai.us/wiki_pages/outline"
+        },
+        {
+          "label": "モザイクアート",
+          "tag": "mosaic_art",
+          "link": "https://danbooru.donmai.us/wiki_pages/mosaic_art"
+        },
+        {
+          "label": "フォトモザイク",
+          "tag": "photomosaic",
+          "link": "https://danbooru.donmai.us/wiki_pages/photomosaic"
+        },
+        {
+          "label": "お絵かき",
+          "tag": "oekaki",
+          "link": "https://danbooru.donmai.us/wiki_pages/oekaki"
+        },
+        {
+          "label": "公式アート",
+          "tag": "official_art",
+          "link": "https://danbooru.donmai.us/wiki_pages/official_art"
+        },
+        {
+          "label": "電話カード",
+          "tag": "phonecard",
+          "link": "https://danbooru.donmai.us/wiki_pages/phonecard"
+        },
+        {
+          "label": "写真",
+          "tag": "photo_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/photo_%28medium%29"
+        },
+        {
+          "label": "ペーパークラフト",
+          "tag": "papercraft",
+          "link": "https://danbooru.donmai.us/wiki_pages/papercraft"
+        },
+        {
+          "label": "紙の子供",
+          "tag": "paper_child",
+          "link": "https://danbooru.donmai.us/wiki_pages/paper_child"
+        },
+        {
+          "label": "切り絵",
+          "tag": "paper_cutout",
+          "link": "https://danbooru.donmai.us/wiki_pages/paper_cutout"
+        },
+        {
+          "label": "ピクセルアート",
+          "tag": "pixel_art",
+          "link": "https://danbooru.donmai.us/wiki_pages/pixel_art"
+        },
+        {
+          "label": "ポストカード",
+          "tag": "postcard",
+          "link": "https://danbooru.donmai.us/wiki_pages/postcard"
+        },
+        {
+          "label": "ポスター（媒体）",
+          "tag": "poster_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/poster_%28medium%29"
+        },
+        {
+          "label": "リビジョン",
+          "tag": "revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/revision"
+        },
+        {
+          "label": "修正が悪い",
+          "tag": "has_bad_revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/has_bad_revision"
+        },
+        {
+          "label": "敵対的ノイズ付きの別版あり",
+          "tag": "has_adversarial_noise_revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/has_adversarial_noise_revision"
+        },
+        {
+          "label": "修正アーティファクトあり",
+          "tag": "has_artifacted_revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/has_artifacted_revision"
+        },
+        {
+          "label": "修正版あり",
+          "tag": "has_censored_revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/has_censored_revision"
+        },
+        {
+          "label": "トリミングされた修正あり",
+          "tag": "has_cropped_revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/has_cropped_revision"
+        },
+        {
+          "label": "縮小版あり",
+          "tag": "has_downscaled_revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/has_downscaled_revision"
+        },
+        {
+          "label": "非可逆修正あり",
+          "tag": "has_lossy_revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/has_lossy_revision"
+        },
+        {
+          "label": "透かし付きの別版あり",
+          "tag": "has_watermarked_revision",
+          "link": "https://danbooru.donmai.us/wiki_pages/has_watermarked_revision"
+        },
+        {
+          "label": "スキャン",
+          "tag": "scan",
+          "link": "https://danbooru.donmai.us/wiki_pages/scan"
+        },
+        {
+          "label": "下敷",
+          "tag": "shitajiki",
+          "link": "https://danbooru.donmai.us/wiki_pages/shitajiki"
+        },
+        {
+          "label": "縦長の画像",
+          "tag": "tall_image",
+          "link": "https://danbooru.donmai.us/wiki_pages/tall_image"
+        },
+        {
+          "label": "手書き",
+          "tag": "tegaki",
+          "link": "https://danbooru.donmai.us/wiki_pages/tegaki"
+        },
+        {
+          "label": "透明な背景",
+          "tag": "transparent_background",
+          "link": "https://danbooru.donmai.us/wiki_pages/transparent_background"
+        },
+        {
+          "label": "三連祭壇画（美術）",
+          "tag": "triptych_%28art%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/triptych_%28art%29"
+        },
+        {
+          "label": "サムネイルコラージュ",
+          "tag": "thumbnail_collage",
+          "link": "https://danbooru.donmai.us/wiki_pages/thumbnail_collage"
+        },
+        {
+          "label": "ベクトルトレース",
+          "tag": "vector_trace",
+          "link": "https://danbooru.donmai.us/wiki_pages/vector_trace"
+        },
+        {
+          "label": "公式壁紙",
+          "tag": "official_wallpaper",
+          "link": "https://danbooru.donmai.us/wiki_pages/official_wallpaper"
+        },
+        {
+          "label": "タイル化可能",
+          "tag": "tileable",
+          "link": "https://danbooru.donmai.us/wiki_pages/tileable"
+        },
+        {
+          "label": "壁紙強制",
+          "tag": "wallpaper_forced",
+          "link": "https://danbooru.donmai.us/wiki_pages/wallpaper_forced"
+        },
+        {
+          "label": "ワイドスクリーン",
+          "tag": "widescreen",
+          "link": "https://danbooru.donmai.us/wiki_pages/widescreen"
+        },
+        {
+          "label": "ワイド画像",
+          "tag": "wide_image",
+          "link": "https://danbooru.donmai.us/wiki_pages/wide_image"
+        }
+      ]
+    },
+    {
+      "セクション名": "主題",
+      "タグ一覧": [
+        {
+          "label": "AI生成",
+          "tag": "ai-generated",
+          "link": "https://danbooru.donmai.us/wiki_pages/ai-generated"
+        },
+        {
+          "label": "都市景観",
+          "tag": "cityscape",
+          "link": "https://danbooru.donmai.us/wiki_pages/cityscape"
+        },
+        {
+          "label": "みんな",
+          "tag": "everyone",
+          "link": "https://danbooru.donmai.us/wiki_pages/everyone"
+        },
+        {
+          "label": "絶対に全員",
+          "tag": "absolutely_everyone",
+          "link": "https://danbooru.donmai.us/wiki_pages/absolutely_everyone"
+        },
+        {
+          "label": "集合写真",
+          "tag": "group_picture",
+          "link": "https://danbooru.donmai.us/wiki_pages/group_picture"
+        },
+        {
+          "label": "遺影",
+          "tag": "iei",
+          "link": "https://danbooru.donmai.us/wiki_pages/iei"
+        },
+        {
+          "label": "風景",
+          "tag": "landscape",
+          "link": "https://danbooru.donmai.us/wiki_pages/landscape"
+        },
+        {
+          "label": "自然",
+          "tag": "nature",
+          "link": "https://danbooru.donmai.us/wiki_pages/nature"
+        },
+        {
+          "label": "人間はいない",
+          "tag": "no_humans",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_humans"
+        },
+        {
+          "label": "話題外",
+          "tag": "off-topic",
+          "link": "https://danbooru.donmai.us/wiki_pages/off-topic"
+        },
+        {
+          "label": "景色",
+          "tag": "scenery",
+          "link": "https://danbooru.donmai.us/wiki_pages/scenery"
+        },
+        {
+          "label": "静物",
+          "tag": "still_life",
+          "link": "https://danbooru.donmai.us/wiki_pages/still_life"
+        },
+        {
+          "label": "タググループ：被写体の強調",
+          "tag": "tag_group%3Afocus_tags",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afocus_tags"
+        },
+        {
+          "label": "動物中心",
+          "tag": "animal_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_focus"
+        },
+        {
+          "label": "脇を強調",
+          "tag": "armpit_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/armpit_focus"
+        },
+        {
+          "label": "尻を強調",
+          "tag": "ass_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/ass_focus"
+        },
+        {
+          "label": "背中を強調",
+          "tag": "back_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/back_focus"
+        },
+        {
+          "label": "本を強調",
+          "tag": "book_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/book_focus"
+        },
+        {
+          "label": "胸を強調",
+          "tag": "breast_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/breast_focus"
+        },
+        {
+          "label": "雲を強調",
+          "tag": "cloud_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/cloud_focus"
+        },
+        {
+          "label": "目を強調",
+          "tag": "eye_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/eye_focus"
+        },
+        {
+          "label": "食べ物を強調",
+          "tag": "food_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/food_focus"
+        },
+        {
+          "label": "足を強調",
+          "tag": "foot_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/foot_focus"
+        },
+        {
+          "label": "手を強調",
+          "tag": "hand_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_focus"
+        },
+        {
+          "label": "腰を強調",
+          "tag": "hip_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/hip_focus"
+        },
+        {
+          "label": "男性中心",
+          "tag": "male_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/male_focus"
+        },
+        {
+          "label": "モンスター中心",
+          "tag": "monster_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/monster_focus"
+        },
+        {
+          "label": "へそを強調",
+          "tag": "navel_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/navel_focus"
+        },
+        {
+          "label": "物を強調",
+          "tag": "object_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/object_focus"
+        },
+        {
+          "label": "その他の焦点",
+          "tag": "other_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/other_focus"
+        },
+        {
+          "label": "植物を強調",
+          "tag": "plant_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/plant_focus"
+        },
+        {
+          "label": "胸筋を強調",
+          "tag": "pectoral_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/pectoral_focus"
+        },
+        {
+          "label": "陰茎を強調",
+          "tag": "penis_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/penis_focus"
+        },
+        {
+          "label": "一人の人物を強調",
+          "tag": "solo_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/solo_focus"
+        },
+        {
+          "label": "乗り物中心",
+          "tag": "vehicle_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/vehicle_focus"
+        },
+        {
+          "label": "文字中心",
+          "tag": "text_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/text_focus"
+        },
+        {
+          "label": "太ももを強調",
+          "tag": "thigh_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/thigh_focus"
+        },
+        {
+          "label": "武器を強調",
+          "tag": "weapon_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/weapon_focus"
+        },
+        {
+          "label": "乗り物中心",
+          "tag": "vehicle_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/vehicle_focus"
+        },
+        {
+          "label": "風鈴を強調",
+          "tag": "wind_chime_focus",
+          "link": "https://danbooru.donmai.us/wiki_pages/wind_chime_focus"
+        }
+      ]
+    },
+    {
+      "セクション名": "身体の写る範囲",
+      "タグ一覧": [
+        {
+          "label": "肖像画",
+          "tag": "portrait",
+          "link": "https://danbooru.donmai.us/wiki_pages/portrait"
+        },
+        {
+          "label": "上半身",
+          "tag": "upper_body",
+          "link": "https://danbooru.donmai.us/wiki_pages/upper_body"
+        },
+        {
+          "label": "下半身",
+          "tag": "lower_body",
+          "link": "https://danbooru.donmai.us/wiki_pages/lower_body"
+        },
+        {
+          "label": "カウボーイショット",
+          "tag": "cowboy_shot",
+          "link": "https://danbooru.donmai.us/wiki_pages/cowboy_shot"
+        },
+        {
+          "label": "両足が画面外",
+          "tag": "feet_out_of_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/feet_out_of_frame"
+        },
+        {
+          "label": "全身",
+          "tag": "full_body",
+          "link": "https://danbooru.donmai.us/wiki_pages/full_body"
+        },
+        {
+          "label": "ワイドショット",
+          "tag": "wide_shot",
+          "link": "https://danbooru.donmai.us/wiki_pages/wide_shot"
+        },
+        {
+          "label": "非常にワイドなショット",
+          "tag": "very_wide_shot",
+          "link": "https://danbooru.donmai.us/wiki_pages/very_wide_shot"
+        },
+        {
+          "label": "接写・アップ",
+          "tag": "close-up",
+          "link": "https://danbooru.donmai.us/wiki_pages/close-up"
+        },
+        {
+          "label": "トリミング済み",
+          "tag": "cropped",
+          "link": "https://danbooru.donmai.us/wiki_pages/cropped"
+        },
+        {
+          "label": "脚が画面外に切れた構図",
+          "tag": "cropped_legs",
+          "link": "https://danbooru.donmai.us/wiki_pages/cropped_legs"
+        },
+        {
+          "label": "胴体が画面外に切れた構図",
+          "tag": "cropped_torso",
+          "link": "https://danbooru.donmai.us/wiki_pages/cropped_torso"
+        },
+        {
+          "label": "腕が画面外に切れた構図",
+          "tag": "cropped_arms",
+          "link": "https://danbooru.donmai.us/wiki_pages/cropped_arms"
+        },
+        {
+          "label": "肩が画面外に切れた構図",
+          "tag": "cropped_shoulders",
+          "link": "https://danbooru.donmai.us/wiki_pages/cropped_shoulders"
+        },
+        {
+          "label": "頭が画面外に切れた構図",
+          "tag": "cropped_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/cropped_head"
+        },
+        {
+          "label": "カットイン",
+          "tag": "cut-in",
+          "link": "https://danbooru.donmai.us/wiki_pages/cut-in"
+        },
+        {
+          "label": "頭が画面外",
+          "tag": "head_out_of_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/head_out_of_frame"
+        },
+        {
+          "label": "目が画面外",
+          "tag": "eyes_out_of_frame",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyes_out_of_frame"
+        },
+        {
+          "label": "複数のビュー",
+          "tag": "multiple_views",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_views"
+        },
+        {
+          "label": "横顔",
+          "tag": "profile",
+          "link": "https://danbooru.donmai.us/wiki_pages/profile"
+        },
+        {
+          "label": "グループプロフィール",
+          "tag": "group_profile",
+          "link": "https://danbooru.donmai.us/wiki_pages/group_profile"
+        },
+        {
+          "label": "分割栽培",
+          "tag": "split_crop",
+          "link": "https://danbooru.donmai.us/wiki_pages/split_crop"
+        }
+      ]
+    },
+    {
+      "セクション名": "スタイル",
+      "タグ一覧": [
+        {
+          "label": "抽象",
+          "tag": "abstract",
+          "link": "https://danbooru.donmai.us/wiki_pages/abstract"
+        },
+        {
+          "label": "アールデコ",
+          "tag": "art_deco",
+          "link": "https://danbooru.donmai.us/wiki_pages/art_deco"
+        },
+        {
+          "label": "アールヌーボー",
+          "tag": "art_nouveau",
+          "link": "https://danbooru.donmai.us/wiki_pages/art_nouveau"
+        },
+        {
+          "label": "フェイク写真",
+          "tag": "fake_photograph",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_photograph"
+        },
+        {
+          "label": "美術パロディ",
+          "tag": "fine_art_parody",
+          "link": "https://danbooru.donmai.us/wiki_pages/fine_art_parody"
+        },
+        {
+          "label": "Flame Painter",
+          "tag": "flame_painter_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/flame_painter_%28medium%29"
+        },
+        {
+          "label": "印象派",
+          "tag": "impressionism",
+          "link": "https://danbooru.donmai.us/wiki_pages/impressionism"
+        },
+        {
+          "label": "リーン・クレール",
+          "tag": "ligne_claire",
+          "link": "https://danbooru.donmai.us/wiki_pages/ligne_claire"
+        },
+        {
+          "label": "ミニマリズム",
+          "tag": "minimalism",
+          "link": "https://danbooru.donmai.us/wiki_pages/minimalism"
+        },
+        {
+          "label": "日本画",
+          "tag": "nihonga",
+          "link": "https://danbooru.donmai.us/wiki_pages/nihonga"
+        },
+        {
+          "label": "水墨画",
+          "tag": "sumi-e",
+          "link": "https://danbooru.donmai.us/wiki_pages/sumi-e"
+        },
+        {
+          "label": "浮世絵",
+          "tag": "ukiyo-e",
+          "link": "https://danbooru.donmai.us/wiki_pages/ukiyo-e"
+        },
+        {
+          "label": "絵画調",
+          "tag": "painterly",
+          "link": "https://danbooru.donmai.us/wiki_pages/painterly"
+        },
+        {
+          "label": "写実的",
+          "tag": "realistic",
+          "link": "https://danbooru.donmai.us/wiki_pages/realistic"
+        },
+        {
+          "label": "フォトリアリスティック",
+          "tag": "photorealistic",
+          "link": "https://danbooru.donmai.us/wiki_pages/photorealistic"
+        },
+        {
+          "label": "スケッチ",
+          "tag": "sketch",
+          "link": "https://danbooru.donmai.us/wiki_pages/sketch"
+        },
+        {
+          "label": "絵柄パロディ",
+          "tag": "style_parody",
+          "link": "https://danbooru.donmai.us/wiki_pages/style_parody"
+        },
+        {
+          "label": "絵柄パロディ一覧",
+          "tag": "list_of_style_parodies",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_style_parodies"
+        },
+        {
+          "label": "シュール",
+          "tag": "surreal",
+          "link": "https://danbooru.donmai.us/wiki_pages/surreal"
+        },
+        {
+          "label": "アナログ画材",
+          "tag": "traditional_media",
+          "link": "https://danbooru.donmai.us/wiki_pages/traditional_media"
+        },
+        {
+          "label": "疑似アナログ",
+          "tag": "faux_traditional_media",
+          "link": "https://danbooru.donmai.us/wiki_pages/faux_traditional_media"
+        },
+        {
+          "label": "未完成",
+          "tag": "unfinished",
+          "link": "https://danbooru.donmai.us/wiki_pages/unfinished"
+        }
+      ]
+    },
+    {
+      "セクション名": "テクニック",
+      "タグ一覧": [
+        {
+          "label": "ブレンディング",
+          "tag": "blending",
+          "link": "https://danbooru.donmai.us/wiki_pages/blending"
+        },
+        {
+          "label": "ブルーム（光のにじみ）",
+          "tag": "bloom",
+          "link": "https://danbooru.donmai.us/wiki_pages/bloom"
+        },
+        {
+          "label": "ボケ",
+          "tag": "bokeh",
+          "link": "https://danbooru.donmai.us/wiki_pages/bokeh"
+        },
+        {
+          "label": "コースティクス",
+          "tag": "caustics",
+          "link": "https://danbooru.donmai.us/wiki_pages/caustics"
+        },
+        {
+          "label": "明暗法",
+          "tag": "chiaroscuro",
+          "link": "https://danbooru.donmai.us/wiki_pages/chiaroscuro"
+        },
+        {
+          "label": "色収差",
+          "tag": "chromatic_aberration",
+          "link": "https://danbooru.donmai.us/wiki_pages/chromatic_aberration"
+        },
+        {
+          "label": "色収差が大きい",
+          "tag": "heavy_chromatic_aberration",
+          "link": "https://danbooru.donmai.us/wiki_pages/heavy_chromatic_aberration"
+        },
+        {
+          "label": "回折スパイク",
+          "tag": "diffraction_spikes",
+          "link": "https://danbooru.donmai.us/wiki_pages/diffraction_spikes"
+        },
+        {
+          "label": "被写界深度",
+          "tag": "depth_of_field",
+          "link": "https://danbooru.donmai.us/wiki_pages/depth_of_field"
+        },
+        {
+          "label": "歪み",
+          "tag": "distortion",
+          "link": "https://danbooru.donmai.us/wiki_pages/distortion"
+        },
+        {
+          "label": "ディザリング",
+          "tag": "dithering",
+          "link": "https://danbooru.donmai.us/wiki_pages/dithering"
+        },
+        {
+          "label": "二重露光",
+          "tag": "double_exposure",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_exposure"
+        },
+        {
+          "label": "ドロップシャドウ",
+          "tag": "drop_shadow",
+          "link": "https://danbooru.donmai.us/wiki_pages/drop_shadow"
+        },
+        {
+          "label": "強調線",
+          "tag": "emphasis_lines",
+          "link": "https://danbooru.donmai.us/wiki_pages/emphasis_lines"
+        },
+        {
+          "label": "フィルム粒子",
+          "tag": "film_grain",
+          "link": "https://danbooru.donmai.us/wiki_pages/film_grain"
+        },
+        {
+          "label": "短縮法",
+          "tag": "foreshortening",
+          "link": "https://danbooru.donmai.us/wiki_pages/foreshortening"
+        },
+        {
+          "label": "グリッチ",
+          "tag": "glitch",
+          "link": "https://danbooru.donmai.us/wiki_pages/glitch"
+        },
+        {
+          "label": "グラデーション",
+          "tag": "gradient",
+          "link": "https://danbooru.donmai.us/wiki_pages/gradient"
+        },
+        {
+          "label": "ハーフトーン",
+          "tag": "halftone",
+          "link": "https://danbooru.donmai.us/wiki_pages/halftone"
+        },
+        {
+          "label": "ハッチング（テクスチャ）",
+          "tag": "hatching_%28texture%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/hatching_%28texture%29"
+        },
+        {
+          "label": "線状ハッチング",
+          "tag": "linear_hatching",
+          "link": "https://danbooru.donmai.us/wiki_pages/linear_hatching"
+        },
+        {
+          "label": "クロスハッチング",
+          "tag": "crosshatching",
+          "link": "https://danbooru.donmai.us/wiki_pages/crosshatching"
+        },
+        {
+          "label": "織りハッチング",
+          "tag": "woven_hatching",
+          "link": "https://danbooru.donmai.us/wiki_pages/woven_hatching"
+        },
+        {
+          "label": "高コントラスト",
+          "tag": "high_contrast",
+          "link": "https://danbooru.donmai.us/wiki_pages/high_contrast"
+        },
+        {
+          "label": "意図的なJPEGアーティファクト",
+          "tag": "jpeg_artifacts_on_purpose",
+          "link": "https://danbooru.donmai.us/wiki_pages/jpeg_artifacts_on_purpose"
+        },
+        {
+          "label": "レンズフレア",
+          "tag": "lens_flare",
+          "link": "https://danbooru.donmai.us/wiki_pages/lens_flare"
+        },
+        {
+          "label": "レンズフレアが激しい",
+          "tag": "heavy_lens_flare",
+          "link": "https://danbooru.donmai.us/wiki_pages/heavy_lens_flare"
+        },
+        {
+          "label": "タググループ：照明",
+          "tag": "tag_group%3Alighting",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alighting"
+        },
+        {
+          "label": "バックライト",
+          "tag": "backlighting",
+          "link": "https://danbooru.donmai.us/wiki_pages/backlighting"
+        },
+        {
+          "label": "サイドライト",
+          "tag": "sidelighting",
+          "link": "https://danbooru.donmai.us/wiki_pages/sidelighting"
+        },
+        {
+          "label": "下からの照明",
+          "tag": "underlighting",
+          "link": "https://danbooru.donmai.us/wiki_pages/underlighting"
+        },
+        {
+          "label": "モーションブラー",
+          "tag": "motion_blur",
+          "link": "https://danbooru.donmai.us/wiki_pages/motion_blur"
+        },
+        {
+          "label": "モーションライン",
+          "tag": "motion_lines",
+          "link": "https://danbooru.donmai.us/wiki_pages/motion_lines"
+        },
+        {
+          "label": "複数のモノクロ",
+          "tag": "multiple_monochrome",
+          "link": "https://danbooru.donmai.us/wiki_pages/multiple_monochrome"
+        },
+        {
+          "label": "錯視",
+          "tag": "optical_illusion",
+          "link": "https://danbooru.donmai.us/wiki_pages/optical_illusion"
+        },
+        {
+          "label": "アナグリフ",
+          "tag": "anaglyph",
+          "link": "https://danbooru.donmai.us/wiki_pages/anaglyph"
+        },
+        {
+          "label": "EXIFサムネイルの驚き",
+          "tag": "exif_thumbnail_surprise",
+          "link": "https://danbooru.donmai.us/wiki_pages/exif_thumbnail_surprise"
+        },
+        {
+          "label": "Internet Explorerで開く",
+          "tag": "open_in_internet_explorer",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_in_internet_explorer"
+        },
+        {
+          "label": "Winampで開く",
+          "tag": "open_in_winamp",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_in_winamp"
+        },
+        {
+          "label": "ステレオグラム",
+          "tag": "stereogram",
+          "link": "https://danbooru.donmai.us/wiki_pages/stereogram"
+        },
+        {
+          "label": "露出過多",
+          "tag": "overexposure",
+          "link": "https://danbooru.donmai.us/wiki_pages/overexposure"
+        },
+        {
+          "label": "点描画",
+          "tag": "pointillism",
+          "link": "https://danbooru.donmai.us/wiki_pages/pointillism"
+        },
+        {
+          "label": "スキャンライン",
+          "tag": "scanlines",
+          "link": "https://danbooru.donmai.us/wiki_pages/scanlines"
+        },
+        {
+          "label": "スクリーントーン",
+          "tag": "screentones",
+          "link": "https://danbooru.donmai.us/wiki_pages/screentones"
+        },
+        {
+          "label": "ベンデイドット",
+          "tag": "ben-day_dots",
+          "link": "https://danbooru.donmai.us/wiki_pages/ben-day_dots"
+        },
+        {
+          "label": "シルエット",
+          "tag": "silhouette",
+          "link": "https://danbooru.donmai.us/wiki_pages/silhouette"
+        },
+        {
+          "label": "スピードライン",
+          "tag": "speed_lines",
+          "link": "https://danbooru.donmai.us/wiki_pages/speed_lines"
+        },
+        {
+          "label": "点描（テクスチャ）",
+          "tag": "stippling_%28texture%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/stippling_%28texture%29"
+        },
+        {
+          "label": "サムネイルのサプライズ",
+          "tag": "thumbnail_surprise",
+          "link": "https://danbooru.donmai.us/wiki_pages/thumbnail_surprise"
+        },
+        {
+          "label": "EXIFサムネイルの驚き",
+          "tag": "exif_thumbnail_surprise",
+          "link": "https://danbooru.donmai.us/wiki_pages/exif_thumbnail_surprise"
+        },
+        {
+          "label": "周辺減光",
+          "tag": "vignetting",
+          "link": "https://danbooru.donmai.us/wiki_pages/vignetting"
+        }
+      ]
+    },
+    {
+      "セクション名": "日本の伝統的な模様",
+      "タグ一覧": [
+        {
+          "label": "麻の葉文様",
+          "tag": "asa_no_ha_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/asa_no_ha_%28pattern%29"
+        },
+        {
+          "label": "絵霞",
+          "tag": "egasumi",
+          "link": "https://danbooru.donmai.us/wiki_pages/egasumi"
+        },
+        {
+          "label": "源氏車",
+          "tag": "genjiguruma",
+          "link": "https://danbooru.donmai.us/wiki_pages/genjiguruma"
+        },
+        {
+          "label": "御所車",
+          "tag": "goshoguruma",
+          "link": "https://danbooru.donmai.us/wiki_pages/goshoguruma"
+        },
+        {
+          "label": "井桁（いげた）",
+          "tag": "igeta_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/igeta_%28pattern%29"
+        },
+        {
+          "label": "籠目文様",
+          "tag": "kagome_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kagome_%28pattern%29"
+        },
+        {
+          "label": "鹿の子（柄）",
+          "tag": "kanoko_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kanoko_%28pattern%29"
+        },
+        {
+          "label": "唐草（文様）",
+          "tag": "karakusa_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/karakusa_%28pattern%29"
+        },
+        {
+          "label": "菊紋",
+          "tag": "kikumon",
+          "link": "https://danbooru.donmai.us/wiki_pages/kikumon"
+        },
+        {
+          "label": "亀甲文様",
+          "tag": "kikkoumon",
+          "link": "https://danbooru.donmai.us/wiki_pages/kikkoumon"
+        },
+        {
+          "label": "工字繋ぎ",
+          "tag": "kojitsunagi_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/kojitsunagi_%28pattern%29"
+        },
+        {
+          "label": "松のシンボル",
+          "tag": "matsu_symbol",
+          "link": "https://danbooru.donmai.us/wiki_pages/matsu_symbol"
+        },
+        {
+          "label": "桜紋",
+          "tag": "sakuramon",
+          "link": "https://danbooru.donmai.us/wiki_pages/sakuramon"
+        },
+        {
+          "label": "紗綾形",
+          "tag": "sayagata",
+          "link": "https://danbooru.donmai.us/wiki_pages/sayagata"
+        },
+        {
+          "label": "青海波",
+          "tag": "seigaiha",
+          "link": "https://danbooru.donmai.us/wiki_pages/seigaiha"
+        },
+        {
+          "label": "縞（模様）",
+          "tag": "shima_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shima_%28pattern%29"
+        },
+        {
+          "label": "七宝（しっぽう）",
+          "tag": "shippou_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/shippou_%28pattern%29"
+        },
+        {
+          "label": "団扇",
+          "tag": "uchiwa_%28medium%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uchiwa_%28medium%29"
+        },
+        {
+          "label": "鱗文様",
+          "tag": "uroko_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/uroko_%28pattern%29"
+        },
+        {
+          "label": "立涌文様",
+          "tag": "tatewaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/tatewaku"
+        },
+        {
+          "label": "矢絣",
+          "tag": "yagasuri",
+          "link": "https://danbooru.donmai.us/wiki_pages/yagasuri"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の模様",
+      "タグ一覧": [
+        {
+          "label": "アニマルプリント",
+          "tag": "animal_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_print"
+        },
+        {
+          "label": "牛柄",
+          "tag": "cow_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/cow_print"
+        },
+        {
+          "label": "ヒョウ柄",
+          "tag": "leopard_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/leopard_print"
+        },
+        {
+          "label": "サメのプリント",
+          "tag": "shark_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/shark_print"
+        },
+        {
+          "label": "虎柄",
+          "tag": "tiger_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/tiger_print"
+        },
+        {
+          "label": "ゼブラ柄",
+          "tag": "zebra_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/zebra_print"
+        },
+        {
+          "label": "アーガイル",
+          "tag": "argyle",
+          "link": "https://danbooru.donmai.us/wiki_pages/argyle"
+        },
+        {
+          "label": "市松",
+          "tag": "checkered",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered"
+        },
+        {
+          "label": "クロスプリント",
+          "tag": "cross_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_print"
+        },
+        {
+          "label": "双喜紋",
+          "tag": "double_happiness",
+          "link": "https://danbooru.donmai.us/wiki_pages/double_happiness"
+        },
+        {
+          "label": "フルール・ド・リス",
+          "tag": "fleur-de-lis",
+          "link": "https://danbooru.donmai.us/wiki_pages/fleur-de-lis"
+        },
+        {
+          "label": "花柄",
+          "tag": "floral_print",
+          "link": "https://danbooru.donmai.us/wiki_pages/floral_print"
+        },
+        {
+          "label": "フラワー・オブ・ライフ",
+          "tag": "flower_of_life_%28pattern%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower_of_life_%28pattern%29"
+        },
+        {
+          "label": "ギンガム",
+          "tag": "gingham",
+          "link": "https://danbooru.donmai.us/wiki_pages/gingham"
+        },
+        {
+          "label": "千鳥格子",
+          "tag": "houndstooth",
+          "link": "https://danbooru.donmai.us/wiki_pages/houndstooth"
+        },
+        {
+          "label": "雷文・メアンドロス文様",
+          "tag": "meandros",
+          "link": "https://danbooru.donmai.us/wiki_pages/meandros"
+        },
+        {
+          "label": "ペイズリー",
+          "tag": "paisley",
+          "link": "https://danbooru.donmai.us/wiki_pages/paisley"
+        },
+        {
+          "label": "チェック柄",
+          "tag": "plaid",
+          "link": "https://danbooru.donmai.us/wiki_pages/plaid"
+        },
+        {
+          "label": "水玉模様",
+          "tag": "polka_dot",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot"
+        },
+        {
+          "label": "縞模様",
+          "tag": "striped",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped"
+        },
+        {
+          "label": "祥雲文様",
+          "tag": "xiangyun",
+          "link": "https://danbooru.donmai.us/wiki_pages/xiangyun"
+        },
+        {
+          "label": "タググループ：プリント",
+          "tag": "tag_group%3Aprints",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aprints"
+        }
+      ]
+    },
+    {
+      "セクション名": "不具合・派生版・編集",
+      "タグ一覧": [
+        {
+          "label": "敵対的なノイズ",
+          "tag": "adversarial_noise",
+          "link": "https://danbooru.donmai.us/wiki_pages/adversarial_noise"
+        },
+        {
+          "label": "エイリアシング",
+          "tag": "aliasing",
+          "link": "https://danbooru.donmai.us/wiki_pages/aliasing"
+        },
+        {
+          "label": "GIFアーティファクト",
+          "tag": "gif_artifacts",
+          "link": "https://danbooru.donmai.us/wiki_pages/gif_artifacts"
+        },
+        {
+          "label": "JPEGアーティファクト",
+          "tag": "jpeg_artifacts",
+          "link": "https://danbooru.donmai.us/wiki_pages/jpeg_artifacts"
+        },
+        {
+          "label": "スキャン時のノイズ",
+          "tag": "scan_artifacts",
+          "link": "https://danbooru.donmai.us/wiki_pages/scan_artifacts"
+        },
+        {
+          "label": "裏写り",
+          "tag": "bleed_through",
+          "link": "https://danbooru.donmai.us/wiki_pages/bleed_through"
+        },
+        {
+          "label": "折り目",
+          "tag": "crease",
+          "link": "https://danbooru.donmai.us/wiki_pages/crease"
+        },
+        {
+          "label": "VHSアーティファクト",
+          "tag": "vhs_artifacts",
+          "link": "https://danbooru.donmai.us/wiki_pages/vhs_artifacts"
+        },
+        {
+          "label": "芸術的な誤り",
+          "tag": "artistic_error",
+          "link": "https://danbooru.donmai.us/wiki_pages/artistic_error"
+        },
+        {
+          "label": "悪い反射",
+          "tag": "bad_reflection",
+          "link": "https://danbooru.donmai.us/wiki_pages/bad_reflection"
+        },
+        {
+          "label": "余分な指",
+          "tag": "extra_digits",
+          "link": "https://danbooru.donmai.us/wiki_pages/extra_digits"
+        },
+        {
+          "label": "タイプミス",
+          "tag": "typo",
+          "link": "https://danbooru.donmai.us/wiki_pages/typo"
+        },
+        {
+          "label": "アスペクト比が悪い",
+          "tag": "bad_aspect_ratio",
+          "link": "https://danbooru.donmai.us/wiki_pages/bad_aspect_ratio"
+        },
+        {
+          "label": "ぼやけた",
+          "tag": "blurry",
+          "link": "https://danbooru.donmai.us/wiki_pages/blurry"
+        },
+        {
+          "label": "修正あり",
+          "tag": "censored",
+          "link": "https://danbooru.donmai.us/wiki_pages/censored"
+        },
+        {
+          "label": "無修正",
+          "tag": "uncensored",
+          "link": "https://danbooru.donmai.us/wiki_pages/uncensored"
+        },
+        {
+          "label": "修正除去済み",
+          "tag": "decensored",
+          "link": "https://danbooru.donmai.us/wiki_pages/decensored"
+        },
+        {
+          "label": "タググループ：修正・隠し表現",
+          "tag": "tag_group%3Acensorship",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acensorship"
+        },
+        {
+          "label": "派生作品",
+          "tag": "derivative_work",
+          "link": "https://danbooru.donmai.us/wiki_pages/derivative_work"
+        },
+        {
+          "label": "写真参照",
+          "tag": "photo-referenced",
+          "link": "https://danbooru.donmai.us/wiki_pages/photo-referenced"
+        },
+        {
+          "label": "参考写真",
+          "tag": "reference_photo",
+          "link": "https://danbooru.donmai.us/wiki_pages/reference_photo"
+        },
+        {
+          "label": "参考文献",
+          "tag": "reference_work",
+          "link": "https://danbooru.donmai.us/wiki_pages/reference_work"
+        },
+        {
+          "label": "スクリーンショットの再描画",
+          "tag": "screenshot_redraw",
+          "link": "https://danbooru.donmai.us/wiki_pages/screenshot_redraw"
+        },
+        {
+          "label": "重複",
+          "tag": "duplicate",
+          "link": "https://danbooru.donmai.us/wiki_pages/duplicate"
+        },
+        {
+          "label": "ピクセルパーフェクトな複製",
+          "tag": "pixel-perfect_duplicate",
+          "link": "https://danbooru.donmai.us/wiki_pages/pixel-perfect_duplicate"
+        },
+        {
+          "label": "画像マクロ",
+          "tag": "image_macro_%28meme%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/image_macro_%28meme%29"
+        },
+        {
+          "label": "ロスレス-ロスレス",
+          "tag": "lossless-lossy",
+          "link": "https://danbooru.donmai.us/wiki_pages/lossless-lossy"
+        },
+        {
+          "label": "ロスレス・ロスレス",
+          "tag": "lossy-lossless",
+          "link": "https://danbooru.donmai.us/wiki_pages/lossy-lossless"
+        },
+        {
+          "label": "MD5不一致",
+          "tag": "md5_mismatch",
+          "link": "https://danbooru.donmai.us/wiki_pages/md5_mismatch"
+        },
+        {
+          "label": "サムネイルがありません",
+          "tag": "missing_thumbnail",
+          "link": "https://danbooru.donmai.us/wiki_pages/missing_thumbnail"
+        },
+        {
+          "label": "モアレ",
+          "tag": "moire",
+          "link": "https://danbooru.donmai.us/wiki_pages/moire"
+        },
+        {
+          "label": "解剖学的なナンセンス",
+          "tag": "anatomical_nonsense",
+          "link": "https://danbooru.donmai.us/wiki_pages/anatomical_nonsense"
+        },
+        {
+          "label": "人体の描写ミス",
+          "tag": "bad_anatomy",
+          "link": "https://danbooru.donmai.us/wiki_pages/bad_anatomy"
+        },
+        {
+          "label": "足の描写ミス",
+          "tag": "bad_feet",
+          "link": "https://danbooru.donmai.us/wiki_pages/bad_feet"
+        },
+        {
+          "label": "手の描写ミス",
+          "tag": "bad_hands",
+          "link": "https://danbooru.donmai.us/wiki_pages/bad_hands"
+        },
+        {
+          "label": "不自然な体の比率",
+          "tag": "bad_proportions",
+          "link": "https://danbooru.donmai.us/wiki_pages/bad_proportions"
+        },
+        {
+          "label": "品質",
+          "tag": "quality",
+          "link": "https://danbooru.donmai.us/wiki_pages/quality"
+        },
+        {
+          "label": "範囲",
+          "tag": "ranguage",
+          "link": "https://danbooru.donmai.us/wiki_pages/ranguage"
+        },
+        {
+          "label": "サイズ変更",
+          "tag": "resized",
+          "link": "https://danbooru.donmai.us/wiki_pages/resized"
+        },
+        {
+          "label": "縮小",
+          "tag": "downscaled",
+          "link": "https://danbooru.donmai.us/wiki_pages/downscaled"
+        },
+        {
+          "label": "画像サンプル",
+          "tag": "image_sample",
+          "link": "https://danbooru.donmai.us/wiki_pages/image_sample"
+        },
+        {
+          "label": "アップスケール",
+          "tag": "upscaled",
+          "link": "https://danbooru.donmai.us/wiki_pages/upscaled"
+        },
+        {
+          "label": "ワイフ2x",
+          "tag": "waifu2x",
+          "link": "https://danbooru.donmai.us/wiki_pages/waifu2x"
+        },
+        {
+          "label": "逆転",
+          "tag": "reversed",
+          "link": "https://danbooru.donmai.us/wiki_pages/reversed"
+        },
+        {
+          "label": "回転",
+          "tag": "rotated",
+          "link": "https://danbooru.donmai.us/wiki_pages/rotated"
+        },
+        {
+          "label": "単色サムネイル",
+          "tag": "solid_color_thumbnail",
+          "link": "https://danbooru.donmai.us/wiki_pages/solid_color_thumbnail"
+        },
+        {
+          "label": "第三者による編集",
+          "tag": "third-party_edit",
+          "link": "https://danbooru.donmai.us/wiki_pages/third-party_edit"
+        },
+        {
+          "label": "テキスト除去",
+          "tag": "detexted",
+          "link": "https://danbooru.donmai.us/wiki_pages/detexted"
+        },
+        {
+          "label": "画像に直接組み込まれた英訳",
+          "tag": "hard-translated",
+          "link": "https://danbooru.donmai.us/wiki_pages/hard-translated"
+        },
+        {
+          "label": "ヌードフィルター",
+          "tag": "nude_filter",
+          "link": "https://danbooru.donmai.us/wiki_pages/nude_filter"
+        },
+        {
+          "label": "サードパーティ抽出",
+          "tag": "third-party_extraction",
+          "link": "https://danbooru.donmai.us/wiki_pages/third-party_extraction"
+        },
+        {
+          "label": "動かないパターン",
+          "tag": "unmoving_pattern",
+          "link": "https://danbooru.donmai.us/wiki_pages/unmoving_pattern"
+        },
+        {
+          "label": "透かし",
+          "tag": "watermark",
+          "link": "https://danbooru.donmai.us/wiki_pages/watermark"
+        },
+        {
+          "label": "サードパーティの透かし",
+          "tag": "third-party_watermark",
+          "link": "https://danbooru.donmai.us/wiki_pages/third-party_watermark"
+        },
+        {
+          "label": "ウェブアドレス",
+          "tag": "web_address",
+          "link": "https://danbooru.donmai.us/wiki_pages/web_address"
+        }
+      ]
+    },
+    {
+      "セクション名": "背景/色",
+      "タグ一覧": [
+        {
+          "label": "タググループ：背景",
+          "tag": "tag_group%3Abackgrounds",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abackgrounds"
+        },
+        {
+          "label": "タググループ：色",
+          "tag": "tag_group%3Acolors",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acolors"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "ブロマイド",
+          "tag": "bromide",
+          "link": "https://danbooru.donmai.us/wiki_pages/bromide"
+        },
+        {
+          "label": "タググループ：描画・制作ソフトウェア",
+          "tag": "tag_group%3Adrawing_software",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Adrawing_software"
+        },
+        {
+          "label": "タググループ：視覚的な作風",
+          "tag": "tag_group%3Avisual_aesthetic",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Avisual_aesthetic"
+        }
+      ]
+    }
+  ]
 }

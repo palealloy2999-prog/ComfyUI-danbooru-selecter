@@ -1,497 +1,497 @@
 ﻿{
-    "カテゴリID":  "sleeves",
-    "カテゴリ名":  "袖",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Asleeves",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "色",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "シースルースリーブ",
-                                         "tag":  "see-through_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/see-through_sleeves"
-                                     },
-                                     {
-                                         "label":  "グラデーションスリーブ",
-                                         "tag":  "gradient_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient_sleeves"
-                                     },
-                                     {
-                                         "label":  "ツートンカラーの袖",
-                                         "tag":  "two-tone_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/two-tone_sleeves"
-                                     },
-                                     {
-                                         "label":  "多色の袖",
-                                         "tag":  "multicolored_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_sleeves"
-                                     },
-                                     {
-                                         "label":  "水色の袖",
-                                         "tag":  "aqua_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_sleeves"
-                                     },
-                                     {
-                                         "label":  "黒い袖",
-                                         "tag":  "black_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_sleeves"
-                                     },
-                                     {
-                                         "label":  "青い袖",
-                                         "tag":  "blue_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_sleeves"
-                                     },
-                                     {
-                                         "label":  "茶色の袖",
-                                         "tag":  "brown_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_sleeves"
-                                     },
-                                     {
-                                         "label":  "緑の袖",
-                                         "tag":  "green_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_sleeves"
-                                     },
-                                     {
-                                         "label":  "グレーの袖",
-                                         "tag":  "grey_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_sleeves"
-                                     },
-                                     {
-                                         "label":  "オレンジ色の袖",
-                                         "tag":  "orange_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_sleeves"
-                                     },
-                                     {
-                                         "label":  "ピンクの袖",
-                                         "tag":  "pink_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_sleeves"
-                                     },
-                                     {
-                                         "label":  "紫色の袖",
-                                         "tag":  "purple_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/purple_sleeves"
-                                     },
-                                     {
-                                         "label":  "赤い袖",
-                                         "tag":  "red_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_sleeves"
-                                     },
-                                     {
-                                         "label":  "白い袖",
-                                         "tag":  "white_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_sleeves"
-                                     },
-                                     {
-                                         "label":  "黄色の袖",
-                                         "tag":  "yellow_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_sleeves"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "パターン",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "チェック柄の袖",
-                                         "tag":  "checkered_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/checkered_sleeves"
-                                     },
-                                     {
-                                         "label":  "チェック柄の袖",
-                                         "tag":  "plaid_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/plaid_sleeves"
-                                     },
-                                     {
-                                         "label":  "水玉模様の袖",
-                                         "tag":  "polka_dot_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/polka_dot_sleeves"
-                                     },
-                                     {
-                                         "label":  "プリントスリーブ",
-                                         "tag":  "print_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/print_sleeves"
-                                     },
-                                     {
-                                         "label":  "リブ袖",
-                                         "tag":  "ribbed_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbed_sleeves"
-                                     },
-                                     {
-                                         "label":  "ストライプの袖",
-                                         "tag":  "striped_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/striped_sleeves"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "長さ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "半袖",
-                                         "tag":  "short_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short_sleeves"
-                                     },
-                                     {
-                                         "label":  "長袖の上に半袖",
-                                         "tag":  "short_over_long_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short_over_long_sleeves"
-                                     },
-                                     {
-                                         "label":  "七分袖",
-                                         "tag":  "three-quarter_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/three-quarter_sleeves"
-                                     },
-                                     {
-                                         "label":  "長袖",
-                                         "tag":  "long_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/long_sleeves"
-                                     },
-                                     {
-                                         "label":  "手首を覆う長い袖",
-                                         "tag":  "sleeves_past_wrists",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeves_past_wrists"
-                                     },
-                                     {
-                                         "label":  "指先を覆う長い袖",
-                                         "tag":  "sleeves_past_fingers",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeves_past_fingers"
-                                     },
-                                     {
-                                         "label":  "袖が不揃い",
-                                         "tag":  "uneven_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/uneven_sleeves"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "スタイル",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "付け袖",
-                                         "tag":  "detached_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/detached_sleeves"
-                                     },
-                                     {
-                                         "label":  "片側だけの付け袖",
-                                         "tag":  "single_detached_sleeve",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_detached_sleeve"
-                                     },
-                                     {
-                                         "label":  "片袖",
-                                         "tag":  "single_sleeve",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/single_sleeve"
-                                     },
-                                     {
-                                         "label":  "袖をまくった",
-                                         "tag":  "sleeves_pushed_up",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeves_pushed_up"
-                                     },
-                                     {
-                                         "label":  "袖をまくった",
-                                         "tag":  "sleeves_rolled_up",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeves_rolled_up"
-                                     },
-                                     {
-                                         "label":  "破れた袖",
-                                         "tag":  "torn_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_sleeves"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "トリム",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "羽根飾りの袖",
-                                         "tag":  "feather-trimmed_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/feather-trimmed_sleeves"
-                                     },
-                                     {
-                                         "label":  "フリル袖",
-                                         "tag":  "frilled_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/frilled_sleeves"
-                                     },
-                                     {
-                                         "label":  "毛皮で縁取られた袖",
-                                         "tag":  "fur-trimmed_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur-trimmed_sleeves"
-                                     },
-                                     {
-                                         "label":  "レーストリムの袖",
-                                         "tag":  "lace-trimmed_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace-trimmed_sleeves"
-                                     },
-                                     {
-                                         "label":  "リボントリムの袖",
-                                         "tag":  "ribbon-trimmed_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_sleeves"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "タイプ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ベルスリーブ",
-                                         "tag":  "bell_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bell_sleeves"
-                                     },
-                                     {
-                                         "label":  "着圧スリーブ",
-                                         "tag":  "compression_sleeve",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/compression_sleeve"
-                                     },
-                                     {
-                                         "label":  "クロスレースの袖",
-                                         "tag":  "cross-laced_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cross-laced_sleeves"
-                                     },
-                                     {
-                                         "label":  "エルボースリーブ",
-                                         "tag":  "elbow_sleeve",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/elbow_sleeve"
-                                     },
-                                     {
-                                         "label":  "網状の袖",
-                                         "tag":  "fishnet_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fishnet_sleeves"
-                                     },
-                                     {
-                                         "label":  "振袖の袖",
-                                         "tag":  "furisode_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/furisode_sleeves"
-                                     },
-                                     {
-                                         "label":  "ジュリエットスリーブ",
-                                         "tag":  "juliet_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/juliet_sleeves"
-                                     },
-                                     {
-                                         "label":  "レースアップスリーブ",
-                                         "tag":  "lace-up_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace-up_sleeves"
-                                     },
-                                     {
-                                         "label":  "重ね袖",
-                                         "tag":  "layered_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/layered_sleeves"
-                                     },
-                                     {
-                                         "label":  "左右で異なる袖",
-                                         "tag":  "mismatched_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mismatched_sleeves"
-                                     },
-                                     {
-                                         "label":  "パウスリーブ",
-                                         "tag":  "paw_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/paw_sleeves"
-                                     },
-                                     {
-                                         "label":  "パフスリーブとスラッシュスリーブ",
-                                         "tag":  "puff_and_slash_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/puff_and_slash_sleeves"
-                                     },
-                                     {
-                                         "label":  "パフスリーブ",
-                                         "tag":  "puffy_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/puffy_sleeves"
-                                     },
-                                     {
-                                         "label":  "膨らんだ付け袖",
-                                         "tag":  "puffy_detached_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/puffy_detached_sleeves"
-                                     },
-                                     {
-                                         "label":  "パフ長袖",
-                                         "tag":  "puffy_long_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/puffy_long_sleeves"
-                                     },
-                                     {
-                                         "label":  "膨らんだ半袖",
-                                         "tag":  "puffy_short_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/puffy_short_sleeves"
-                                     },
-                                     {
-                                         "label":  "ラグランスリーブ",
-                                         "tag":  "raglan_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/raglan_sleeves"
-                                     },
-                                     {
-                                         "label":  "親指穴付きスリーブ",
-                                         "tag":  "thumb_hole_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/thumb_hole_sleeves"
-                                     },
-                                     {
-                                         "label":  "破れた袖",
-                                         "tag":  "torn_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_sleeves"
-                                     },
-                                     {
-                                         "label":  "ワイドスリーブ",
-                                         "tag":  "wide_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wide_sleeves"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "アクション",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "袖から腕を出す",
-                                         "tag":  "arm_out_of_sleeve",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_out_of_sleeve"
-                                     },
-                                     {
-                                         "label":  "両手を反対側の袖に入れる",
-                                         "tag":  "hands_in_opposite_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hands_in_opposite_sleeves"
-                                     },
-                                     {
-                                         "label":  "袖をつまむ",
-                                         "tag":  "pinching_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pinching_sleeves"
-                                     },
-                                     {
-                                         "label":  "袖をまくる",
-                                         "tag":  "rolling_sleeves_up",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rolling_sleeves_up"
-                                     },
-                                     {
-                                         "label":  "袖を掴む",
-                                         "tag":  "sleeve_grab",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeve_grab"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ノースリーブの服",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ノースリーブ",
-                                         "tag":  "sleeveless",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless"
-                                     },
-                                     {
-                                         "label":  "ノースリーブシャツ",
-                                         "tag":  "sleeveless_shirt",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_shirt"
-                                     },
-                                     {
-                                         "label":  "ノースリーブドレス",
-                                         "tag":  "sleeveless_dress",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_dress"
-                                     },
-                                     {
-                                         "label":  "ノースリーブダスター",
-                                         "tag":  "sleeveless_duster",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_duster"
-                                     },
-                                     {
-                                         "label":  "ノースリーブパーカー",
-                                         "tag":  "sleeveless_hoodie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_hoodie"
-                                     },
-                                     {
-                                         "label":  "ノースリーブジャケット",
-                                         "tag":  "sleeveless_jacket",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_jacket"
-                                     },
-                                     {
-                                         "label":  "袖なし着物",
-                                         "tag":  "sleeveless_kimono",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_kimono"
-                                     },
-                                     {
-                                         "label":  "ノースリーブシャツ",
-                                         "tag":  "sleeveless_shirt",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_shirt"
-                                     },
-                                     {
-                                         "label":  "セーターベスト",
-                                         "tag":  "sweater_vest",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sweater_vest"
-                                     },
-                                     {
-                                         "label":  "ノースリーブタートルネック",
-                                         "tag":  "sleeveless_turtleneck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_turtleneck"
-                                     },
-                                     {
-                                         "label":  "ベスト",
-                                         "tag":  "vest",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vest"
-                                     },
-                                     {
-                                         "label":  "チョッキ",
-                                         "tag":  "waistcoat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/waistcoat"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "特殊な袖の衣服",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "袖付きレオタード",
-                                         "tag":  "sleeved_leotard",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeved_leotard"
-                                     },
-                                     {
-                                         "label":  "半袖コート",
-                                         "tag":  "short-sleeved_coat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short-sleeved_coat"
-                                     },
-                                     {
-                                         "label":  "半袖ジャケット",
-                                         "tag":  "short-sleeved_jacket",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short-sleeved_jacket"
-                                     },
-                                     {
-                                         "label":  "半袖セーター",
-                                         "tag":  "short-sleeved_sweater",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/short-sleeved_sweater"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ニップルスリーブ",
-                                         "tag":  "nipple_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nipple_sleeves"
-                                     },
-                                     {
-                                         "label":  "付け袖なし",
-                                         "tag":  "no_detached_sleeves",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_detached_sleeves"
-                                     },
-                                     {
-                                         "label":  "袖口",
-                                         "tag":  "sleeve_cuffs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeve_cuffs"
-                                     },
-                                     {
-                                         "label":  "袖の内側が見える",
-                                         "tag":  "up_sleeve",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/up_sleeve"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "参照",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "タググループ：服装",
-                                         "tag":  "tag_group%3Aattire",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
-                                     },
-                                     {
-                                         "label":  "タググループ：ドレス",
-                                         "tag":  "tag_group%3Adress",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Adress"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "sleeves",
+  "カテゴリ名": "袖",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Asleeves",
+  "セクション一覧": [
+    {
+      "セクション名": "色",
+      "タグ一覧": [
+        {
+          "label": "シースルースリーブ",
+          "tag": "see-through_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/see-through_sleeves"
+        },
+        {
+          "label": "グラデーションスリーブ",
+          "tag": "gradient_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/gradient_sleeves"
+        },
+        {
+          "label": "ツートンカラーの袖",
+          "tag": "two-tone_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-tone_sleeves"
+        },
+        {
+          "label": "多色の袖",
+          "tag": "multicolored_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_sleeves"
+        },
+        {
+          "label": "水色の袖",
+          "tag": "aqua_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_sleeves"
+        },
+        {
+          "label": "黒い袖",
+          "tag": "black_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_sleeves"
+        },
+        {
+          "label": "青い袖",
+          "tag": "blue_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_sleeves"
+        },
+        {
+          "label": "茶色の袖",
+          "tag": "brown_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_sleeves"
+        },
+        {
+          "label": "緑の袖",
+          "tag": "green_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_sleeves"
+        },
+        {
+          "label": "グレーの袖",
+          "tag": "grey_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_sleeves"
+        },
+        {
+          "label": "オレンジ色の袖",
+          "tag": "orange_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_sleeves"
+        },
+        {
+          "label": "ピンクの袖",
+          "tag": "pink_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_sleeves"
+        },
+        {
+          "label": "紫色の袖",
+          "tag": "purple_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/purple_sleeves"
+        },
+        {
+          "label": "赤い袖",
+          "tag": "red_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_sleeves"
+        },
+        {
+          "label": "白い袖",
+          "tag": "white_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_sleeves"
+        },
+        {
+          "label": "黄色の袖",
+          "tag": "yellow_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_sleeves"
+        }
+      ]
+    },
+    {
+      "セクション名": "パターン",
+      "タグ一覧": [
+        {
+          "label": "チェック柄の袖",
+          "tag": "checkered_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_sleeves"
+        },
+        {
+          "label": "チェック柄の袖",
+          "tag": "plaid_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/plaid_sleeves"
+        },
+        {
+          "label": "水玉模様の袖",
+          "tag": "polka_dot_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot_sleeves"
+        },
+        {
+          "label": "プリントスリーブ",
+          "tag": "print_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_sleeves"
+        },
+        {
+          "label": "リブ袖",
+          "tag": "ribbed_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbed_sleeves"
+        },
+        {
+          "label": "ストライプの袖",
+          "tag": "striped_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_sleeves"
+        }
+      ]
+    },
+    {
+      "セクション名": "長さ",
+      "タグ一覧": [
+        {
+          "label": "半袖",
+          "tag": "short_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/short_sleeves"
+        },
+        {
+          "label": "長袖の上に半袖",
+          "tag": "short_over_long_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/short_over_long_sleeves"
+        },
+        {
+          "label": "七分袖",
+          "tag": "three-quarter_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/three-quarter_sleeves"
+        },
+        {
+          "label": "長袖",
+          "tag": "long_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_sleeves"
+        },
+        {
+          "label": "手首を覆う長い袖",
+          "tag": "sleeves_past_wrists",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeves_past_wrists"
+        },
+        {
+          "label": "指先を覆う長い袖",
+          "tag": "sleeves_past_fingers",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeves_past_fingers"
+        },
+        {
+          "label": "袖が不揃い",
+          "tag": "uneven_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/uneven_sleeves"
+        }
+      ]
+    },
+    {
+      "セクション名": "スタイル",
+      "タグ一覧": [
+        {
+          "label": "付け袖",
+          "tag": "detached_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/detached_sleeves"
+        },
+        {
+          "label": "片側だけの付け袖",
+          "tag": "single_detached_sleeve",
+          "link": "https://danbooru.donmai.us/wiki_pages/single_detached_sleeve"
+        },
+        {
+          "label": "片袖",
+          "tag": "single_sleeve",
+          "link": "https://danbooru.donmai.us/wiki_pages/single_sleeve"
+        },
+        {
+          "label": "袖をまくった",
+          "tag": "sleeves_pushed_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeves_pushed_up"
+        },
+        {
+          "label": "袖をまくった",
+          "tag": "sleeves_rolled_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeves_rolled_up"
+        },
+        {
+          "label": "破れた袖",
+          "tag": "torn_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_sleeves"
+        }
+      ]
+    },
+    {
+      "セクション名": "トリム",
+      "タグ一覧": [
+        {
+          "label": "羽根飾りの袖",
+          "tag": "feather-trimmed_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/feather-trimmed_sleeves"
+        },
+        {
+          "label": "フリル袖",
+          "tag": "frilled_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/frilled_sleeves"
+        },
+        {
+          "label": "毛皮で縁取られた袖",
+          "tag": "fur-trimmed_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/fur-trimmed_sleeves"
+        },
+        {
+          "label": "レーストリムの袖",
+          "tag": "lace-trimmed_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace-trimmed_sleeves"
+        },
+        {
+          "label": "リボントリムの袖",
+          "tag": "ribbon-trimmed_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_sleeves"
+        }
+      ]
+    },
+    {
+      "セクション名": "タイプ",
+      "タグ一覧": [
+        {
+          "label": "ベルスリーブ",
+          "tag": "bell_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/bell_sleeves"
+        },
+        {
+          "label": "着圧スリーブ",
+          "tag": "compression_sleeve",
+          "link": "https://danbooru.donmai.us/wiki_pages/compression_sleeve"
+        },
+        {
+          "label": "クロスレースの袖",
+          "tag": "cross-laced_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross-laced_sleeves"
+        },
+        {
+          "label": "エルボースリーブ",
+          "tag": "elbow_sleeve",
+          "link": "https://danbooru.donmai.us/wiki_pages/elbow_sleeve"
+        },
+        {
+          "label": "網状の袖",
+          "tag": "fishnet_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/fishnet_sleeves"
+        },
+        {
+          "label": "振袖の袖",
+          "tag": "furisode_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/furisode_sleeves"
+        },
+        {
+          "label": "ジュリエットスリーブ",
+          "tag": "juliet_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/juliet_sleeves"
+        },
+        {
+          "label": "レースアップスリーブ",
+          "tag": "lace-up_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace-up_sleeves"
+        },
+        {
+          "label": "重ね袖",
+          "tag": "layered_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/layered_sleeves"
+        },
+        {
+          "label": "左右で異なる袖",
+          "tag": "mismatched_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/mismatched_sleeves"
+        },
+        {
+          "label": "パウスリーブ",
+          "tag": "paw_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/paw_sleeves"
+        },
+        {
+          "label": "パフスリーブとスラッシュスリーブ",
+          "tag": "puff_and_slash_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/puff_and_slash_sleeves"
+        },
+        {
+          "label": "パフスリーブ",
+          "tag": "puffy_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/puffy_sleeves"
+        },
+        {
+          "label": "膨らんだ付け袖",
+          "tag": "puffy_detached_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/puffy_detached_sleeves"
+        },
+        {
+          "label": "パフ長袖",
+          "tag": "puffy_long_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/puffy_long_sleeves"
+        },
+        {
+          "label": "膨らんだ半袖",
+          "tag": "puffy_short_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/puffy_short_sleeves"
+        },
+        {
+          "label": "ラグランスリーブ",
+          "tag": "raglan_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/raglan_sleeves"
+        },
+        {
+          "label": "親指穴付きスリーブ",
+          "tag": "thumb_hole_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/thumb_hole_sleeves"
+        },
+        {
+          "label": "破れた袖",
+          "tag": "torn_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_sleeves"
+        },
+        {
+          "label": "ワイドスリーブ",
+          "tag": "wide_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/wide_sleeves"
+        }
+      ]
+    },
+    {
+      "セクション名": "アクション",
+      "タグ一覧": [
+        {
+          "label": "袖から腕を出す",
+          "tag": "arm_out_of_sleeve",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_out_of_sleeve"
+        },
+        {
+          "label": "両手を反対側の袖に入れる",
+          "tag": "hands_in_opposite_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_in_opposite_sleeves"
+        },
+        {
+          "label": "袖をつまむ",
+          "tag": "pinching_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/pinching_sleeves"
+        },
+        {
+          "label": "袖をまくる",
+          "tag": "rolling_sleeves_up",
+          "link": "https://danbooru.donmai.us/wiki_pages/rolling_sleeves_up"
+        },
+        {
+          "label": "袖を掴む",
+          "tag": "sleeve_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeve_grab"
+        }
+      ]
+    },
+    {
+      "セクション名": "ノースリーブの服",
+      "タグ一覧": [
+        {
+          "label": "ノースリーブ",
+          "tag": "sleeveless",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless"
+        },
+        {
+          "label": "ノースリーブシャツ",
+          "tag": "sleeveless_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_shirt"
+        },
+        {
+          "label": "ノースリーブドレス",
+          "tag": "sleeveless_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_dress"
+        },
+        {
+          "label": "ノースリーブダスター",
+          "tag": "sleeveless_duster",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_duster"
+        },
+        {
+          "label": "ノースリーブパーカー",
+          "tag": "sleeveless_hoodie",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_hoodie"
+        },
+        {
+          "label": "ノースリーブジャケット",
+          "tag": "sleeveless_jacket",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_jacket"
+        },
+        {
+          "label": "袖なし着物",
+          "tag": "sleeveless_kimono",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_kimono"
+        },
+        {
+          "label": "ノースリーブシャツ",
+          "tag": "sleeveless_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_shirt"
+        },
+        {
+          "label": "セーターベスト",
+          "tag": "sweater_vest",
+          "link": "https://danbooru.donmai.us/wiki_pages/sweater_vest"
+        },
+        {
+          "label": "ノースリーブタートルネック",
+          "tag": "sleeveless_turtleneck",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_turtleneck"
+        },
+        {
+          "label": "ベスト",
+          "tag": "vest",
+          "link": "https://danbooru.donmai.us/wiki_pages/vest"
+        },
+        {
+          "label": "チョッキ",
+          "tag": "waistcoat",
+          "link": "https://danbooru.donmai.us/wiki_pages/waistcoat"
+        }
+      ]
+    },
+    {
+      "セクション名": "特殊な袖の衣服",
+      "タグ一覧": [
+        {
+          "label": "袖付きレオタード",
+          "tag": "sleeved_leotard",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeved_leotard"
+        },
+        {
+          "label": "半袖コート",
+          "tag": "short-sleeved_coat",
+          "link": "https://danbooru.donmai.us/wiki_pages/short-sleeved_coat"
+        },
+        {
+          "label": "半袖ジャケット",
+          "tag": "short-sleeved_jacket",
+          "link": "https://danbooru.donmai.us/wiki_pages/short-sleeved_jacket"
+        },
+        {
+          "label": "半袖セーター",
+          "tag": "short-sleeved_sweater",
+          "link": "https://danbooru.donmai.us/wiki_pages/short-sleeved_sweater"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "ニップルスリーブ",
+          "tag": "nipple_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_sleeves"
+        },
+        {
+          "label": "付け袖なし",
+          "tag": "no_detached_sleeves",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_detached_sleeves"
+        },
+        {
+          "label": "袖口",
+          "tag": "sleeve_cuffs",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeve_cuffs"
+        },
+        {
+          "label": "袖の内側が見える",
+          "tag": "up_sleeve",
+          "link": "https://danbooru.donmai.us/wiki_pages/up_sleeve"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "タググループ：服装",
+          "tag": "tag_group%3Aattire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+        },
+        {
+          "label": "タググループ：ドレス",
+          "tag": "tag_group%3Adress",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Adress"
+        }
+      ]
+    }
+  ]
 }

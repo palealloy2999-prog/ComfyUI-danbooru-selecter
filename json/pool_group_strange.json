@@ -1,167 +1,167 @@
 ﻿{
-    "カテゴリID":  "pool_group%3Astrange",
-    "カテゴリ名":  "プールグループ:奇妙",
-    "カテゴリリンク":  "https://danbooru.donmai.us/wiki_pages/pool_group%3Astrange",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "珍しい人物やグループ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "最もあり得ないカップル",
-                                         "tag":  "The Most Unlikely Couples",
-                                         "link":  "https://danbooru.donmai.us/pools/1499"
-                                     },
-                                     {
-                                         "label":  "最もあり得ないクロスオーバー",
-                                         "tag":  "The Most Unlikely Crossovers",
-                                         "link":  "https://danbooru.donmai.us/pools/1339"
-                                     },
-                                     {
-                                         "label":  "最もあり得ない融合",
-                                         "tag":  "The Most Unlikely Fusions",
-                                         "link":  "https://danbooru.donmai.us/pools/2101"
-                                     },
-                                     {
-                                         "label":  "ルール 34",
-                                         "tag":  "Rule 34",
-                                         "link":  "https://danbooru.donmai.us/pools/730"
-                                     },
-                                     {
-                                         "label":  "予期せぬ擬人化",
-                                         "tag":  "Unexpected Personifications",
-                                         "link":  "https://danbooru.donmai.us/pools/4191"
-                                     },
-                                     {
-                                         "label":  "ありそうもないバンド - ロックしましょう!",
-                                         "tag":  "Unlikely Bands - Let\u0027s Rock!",
-                                         "link":  "https://danbooru.donmai.us/pools/2069"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "理屈の通らない状況",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "どうしてそんなことが可能なんだ？",
-                                         "tag":  "How Is That Even Possible?",
-                                         "link":  "https://danbooru.donmai.us/pools/2553"
-                                     },
-                                     {
-                                         "label":  "場違いな服装",
-                                         "tag":  "Dressed for the (Wrong) Occasion",
-                                         "link":  "https://danbooru.donmai.us/pools/4449"
-                                     },
-                                     {
-                                         "label":  "ありふれた一日…",
-                                         "tag":  "Just Another Ordinary Day...",
-                                         "link":  "https://danbooru.donmai.us/pools/2097"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他の変わったもの",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "もう二度と同じ見方はできない",
-                                         "tag":  "I Will Never See This the Same Way Again",
-                                         "link":  "https://danbooru.donmai.us/pools/4642"
-                                     },
-                                     {
-                                         "label":  "ポケモン：ディグダの全身",
-                                         "tag":  "Pokemon - Diglett Exposed!",
-                                         "link":  "https://danbooru.donmai.us/pools/1091"
-                                     },
-                                     {
-                                         "label":  "変わった擬音",
-                                         "tag":  "Unconventional SFX",
-                                         "link":  "https://danbooru.donmai.us/pools/1537"
-                                     },
-                                     {
-                                         "label":  "珍しい翼",
-                                         "tag":  "Unusual Wings",
-                                         "link":  "https://danbooru.donmai.us/pools/1909"
-                                     },
-                                     {
-                                         "label":  "東方 - 空想の翼を持つフランドール",
-                                         "tag":  "Touhou - Fancy Winged Flandre",
-                                         "link":  "https://danbooru.donmai.us/pools/1628"
-                                     },
-                                     {
-                                         "label":  "東方 - 空想の翼を持つ鵺",
-                                         "tag":  "Touhou - Fancy Winged Nue",
-                                         "link":  "https://danbooru.donmai.us/pools/3165"
-                                     },
-                                     {
-                                         "label":  "東方 - 空想の翼を持つサグメ",
-                                         "tag":  "Touhou - Fancy Winged Sagume",
-                                         "link":  "https://danbooru.donmai.us/pools/21359"
-                                     },
-                                     {
-                                         "label":  "珍しいスタイルのレッグウェア",
-                                         "tag":  "Uncommonly-Styled Legwear",
-                                         "link":  "https://danbooru.donmai.us/pools/1445"
-                                     },
-                                     {
-                                         "label":  "奇妙な鎧",
-                                         "tag":  "Weird armor",
-                                         "link":  "https://danbooru.donmai.us/pools/25618"
-                                     },
-                                     {
-                                         "label":  "奇妙な乗り物",
-                                         "tag":  "Weird vehicles",
-                                         "link":  "https://danbooru.donmai.us/pools/13541"
-                                     },
-                                     {
-                                         "label":  "奇妙な武器",
-                                         "tag":  "Weird weapons",
-                                         "link":  "https://danbooru.donmai.us/pools/12660"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "奇妙または怖い",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "理由もなく不気味",
-                                         "tag":  "Creepy for No Good Reason",
-                                         "link":  "https://danbooru.donmai.us/pools/3377"
-                                     },
-                                     {
-                                         "label":  "恐ろしい食べ物",
-                                         "tag":  "Food of Doom",
-                                         "link":  "https://danbooru.donmai.us/pools/1679"
-                                     },
-                                     {
-                                         "label":  "悪夢を誘うもの",
-                                         "tag":  "Nightmare Fuel",
-                                         "link":  "https://danbooru.donmai.us/pools/339"
-                                     },
-                                     {
-                                         "label":  "それはペニスじゃない!",
-                                         "tag":  "That\u0027s Not a Penis!",
-                                         "link":  "https://danbooru.donmai.us/pools/2300"
-                                     },
-                                     {
-                                         "label":  "見たら忘れられない衝撃",
-                                         "tag":  "TOO SCARRING, CANNOT UNSEE",
-                                         "link":  "https://danbooru.donmai.us/pools/1351"
-                                     },
-                                     {
-                                         "label":  "説明のつかない体の部位",
-                                         "tag":  "Unexplained Body Parts",
-                                         "link":  "https://danbooru.donmai.us/pools/2388"
-                                     },
-                                     {
-                                         "label":  "科学が生んだとんでもないもの",
-                                         "tag":  "What Has Science Done?!?",
-                                         "link":  "https://danbooru.donmai.us/pools/1908"
-                                     },
-                                     {
-                                         "label":  "なぜ?",
-                                         "tag":  "Why?",
-                                         "link":  "https://danbooru.donmai.us/pools/5782"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "pool_group%3Astrange",
+  "カテゴリ名": "プールグループ:奇妙",
+  "カテゴリリンク": "https://danbooru.donmai.us/wiki_pages/pool_group%3Astrange",
+  "セクション一覧": [
+    {
+      "セクション名": "珍しい人物やグループ",
+      "タグ一覧": [
+        {
+          "label": "最もあり得ないカップル",
+          "tag": "The Most Unlikely Couples",
+          "link": "https://danbooru.donmai.us/pools/1499"
+        },
+        {
+          "label": "最もあり得ないクロスオーバー",
+          "tag": "The Most Unlikely Crossovers",
+          "link": "https://danbooru.donmai.us/pools/1339"
+        },
+        {
+          "label": "最もあり得ない融合",
+          "tag": "The Most Unlikely Fusions",
+          "link": "https://danbooru.donmai.us/pools/2101"
+        },
+        {
+          "label": "ルール 34",
+          "tag": "Rule 34",
+          "link": "https://danbooru.donmai.us/pools/730"
+        },
+        {
+          "label": "予期せぬ擬人化",
+          "tag": "Unexpected Personifications",
+          "link": "https://danbooru.donmai.us/pools/4191"
+        },
+        {
+          "label": "ありそうもないバンド - ロックしましょう!",
+          "tag": "Unlikely Bands - Let's Rock!",
+          "link": "https://danbooru.donmai.us/pools/2069"
+        }
+      ]
+    },
+    {
+      "セクション名": "理屈の通らない状況",
+      "タグ一覧": [
+        {
+          "label": "どうしてそんなことが可能なんだ？",
+          "tag": "How Is That Even Possible?",
+          "link": "https://danbooru.donmai.us/pools/2553"
+        },
+        {
+          "label": "場違いな服装",
+          "tag": "Dressed for the (Wrong) Occasion",
+          "link": "https://danbooru.donmai.us/pools/4449"
+        },
+        {
+          "label": "ありふれた一日…",
+          "tag": "Just Another Ordinary Day...",
+          "link": "https://danbooru.donmai.us/pools/2097"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他の変わったもの",
+      "タグ一覧": [
+        {
+          "label": "もう二度と同じ見方はできない",
+          "tag": "I Will Never See This the Same Way Again",
+          "link": "https://danbooru.donmai.us/pools/4642"
+        },
+        {
+          "label": "ポケモン：ディグダの全身",
+          "tag": "Pokemon - Diglett Exposed!",
+          "link": "https://danbooru.donmai.us/pools/1091"
+        },
+        {
+          "label": "変わった擬音",
+          "tag": "Unconventional SFX",
+          "link": "https://danbooru.donmai.us/pools/1537"
+        },
+        {
+          "label": "珍しい翼",
+          "tag": "Unusual Wings",
+          "link": "https://danbooru.donmai.us/pools/1909"
+        },
+        {
+          "label": "東方 - 空想の翼を持つフランドール",
+          "tag": "Touhou - Fancy Winged Flandre",
+          "link": "https://danbooru.donmai.us/pools/1628"
+        },
+        {
+          "label": "東方 - 空想の翼を持つ鵺",
+          "tag": "Touhou - Fancy Winged Nue",
+          "link": "https://danbooru.donmai.us/pools/3165"
+        },
+        {
+          "label": "東方 - 空想の翼を持つサグメ",
+          "tag": "Touhou - Fancy Winged Sagume",
+          "link": "https://danbooru.donmai.us/pools/21359"
+        },
+        {
+          "label": "珍しいスタイルのレッグウェア",
+          "tag": "Uncommonly-Styled Legwear",
+          "link": "https://danbooru.donmai.us/pools/1445"
+        },
+        {
+          "label": "奇妙な鎧",
+          "tag": "Weird armor",
+          "link": "https://danbooru.donmai.us/pools/25618"
+        },
+        {
+          "label": "奇妙な乗り物",
+          "tag": "Weird vehicles",
+          "link": "https://danbooru.donmai.us/pools/13541"
+        },
+        {
+          "label": "奇妙な武器",
+          "tag": "Weird weapons",
+          "link": "https://danbooru.donmai.us/pools/12660"
+        }
+      ]
+    },
+    {
+      "セクション名": "奇妙または怖い",
+      "タグ一覧": [
+        {
+          "label": "理由もなく不気味",
+          "tag": "Creepy for No Good Reason",
+          "link": "https://danbooru.donmai.us/pools/3377"
+        },
+        {
+          "label": "恐ろしい食べ物",
+          "tag": "Food of Doom",
+          "link": "https://danbooru.donmai.us/pools/1679"
+        },
+        {
+          "label": "悪夢を誘うもの",
+          "tag": "Nightmare Fuel",
+          "link": "https://danbooru.donmai.us/pools/339"
+        },
+        {
+          "label": "それはペニスじゃない!",
+          "tag": "That's Not a Penis!",
+          "link": "https://danbooru.donmai.us/pools/2300"
+        },
+        {
+          "label": "見たら忘れられない衝撃",
+          "tag": "TOO SCARRING, CANNOT UNSEE",
+          "link": "https://danbooru.donmai.us/pools/1351"
+        },
+        {
+          "label": "説明のつかない体の部位",
+          "tag": "Unexplained Body Parts",
+          "link": "https://danbooru.donmai.us/pools/2388"
+        },
+        {
+          "label": "科学が生んだとんでもないもの",
+          "tag": "What Has Science Done?!?",
+          "link": "https://danbooru.donmai.us/pools/1908"
+        },
+        {
+          "label": "なぜ?",
+          "tag": "Why?",
+          "link": "https://danbooru.donmai.us/pools/5782"
+        }
+      ]
+    }
+  ]
 }

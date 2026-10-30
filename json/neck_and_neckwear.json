@@ -1,1392 +1,1392 @@
 ﻿{
-    "カテゴリID":  "neck_and_neckwear",
-    "カテゴリ名":  "首とネックウェア",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Aneck_and_neckwear",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "首の解剖学",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "鎖骨",
-                                         "tag":  "collarbone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collarbone"
-                                     },
-                                     {
-                                         "label":  "うなじ",
-                                         "tag":  "nape",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nape"
-                                     },
-                                     {
-                                         "label":  "首",
-                                         "tag":  "neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck"
-                                     },
-                                     {
-                                         "label":  "長い首",
-                                         "tag":  "long_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/long_neck"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "動作 / 姿勢",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "首に腕を回す",
-                                         "tag":  "arm_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/arm_around_neck"
-                                     },
-                                     {
-                                         "label":  "首に腕を回す",
-                                         "tag":  "arms_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/arms_around_neck"
-                                     },
-                                     {
-                                         "label":  "相手の首に手を添える",
-                                         "tag":  "hand_on_another%27s_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_neck"
-                                     },
-                                     {
-                                         "label":  "他人の首に手を添える",
-                                         "tag":  "hands_on_another%27s_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hands_on_another%27s_neck"
-                                     },
-                                     {
-                                         "label":  "首を絞める",
-                                         "tag":  "strangling",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/strangling"
-                                     },
-                                     {
-                                         "label":  "自分の首に手を当てる",
-                                         "tag":  "hand_on_own_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hand_on_own_neck"
-                                     },
-                                     {
-                                         "label":  "自分の首に手を当てる",
-                                         "tag":  "hands_on_own_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hands_on_own_neck"
-                                     },
-                                     {
-                                         "label":  "首を噛む",
-                                         "tag":  "biting_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/biting_neck"
-                                     },
-                                     {
-                                         "label":  "首にキス",
-                                         "tag":  "kissing_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kissing_neck"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "独立した首元の装飾",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アスコット",
-                                         "tag":  "ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ascot"
-                                     },
-                                     {
-                                         "label":  "よだれかけカラー",
-                                         "tag":  "bib_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bib_collar"
-                                     },
-                                     {
-                                         "label":  "ボロタイ",
-                                         "tag":  "bolo_tie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bolo_tie"
-                                     },
-                                     {
-                                         "label":  "蝶ネクタイ",
-                                         "tag":  "bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bowtie"
-                                     },
-                                     {
-                                         "label":  "首輪",
-                                         "tag":  "collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collar"
-                                     },
-                                     {
-                                         "label":  "クロスタイ",
-                                         "tag":  "cross_tie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cross_tie"
-                                     },
-                                     {
-                                         "label":  "付け襟",
-                                         "tag":  "detached_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/detached_collar"
-                                     },
-                                     {
-                                         "label":  "ギンペ",
-                                         "tag":  "guimpe",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/guimpe"
-                                     },
-                                     {
-                                         "label":  "エリザベスカラー",
-                                         "tag":  "pet_cone",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pet_cone"
-                                     },
-                                     {
-                                         "label":  "ピューリタンカラー",
-                                         "tag":  "puritan_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/puritan_collar"
-                                     },
-                                     {
-                                         "label":  "フェザーボア",
-                                         "tag":  "feather_boa",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/feather_boa"
-                                     },
-                                     {
-                                         "label":  "首元の鈴",
-                                         "tag":  "neck_bell",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_bell"
-                                     },
-                                     {
-                                         "label":  "ネックレス",
-                                         "tag":  "necklace",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/necklace"
-                                     },
-                                     {
-                                         "label":  "ネッカチーフ",
-                                         "tag":  "neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neckerchief"
-                                     },
-                                     {
-                                         "label":  "ネックリボン",
-                                         "tag":  "neck_ribbon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_ribbon"
-                                     },
-                                     {
-                                         "label":  "ラフカラー",
-                                         "tag":  "neck_ruff",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_ruff"
-                                     },
-                                     {
-                                         "label":  "ネックタッセル",
-                                         "tag":  "neck_tassel",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_tassel"
-                                     },
-                                     {
-                                         "label":  "ネクタイ",
-                                         "tag":  "necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/necktie"
-                                     },
-                                     {
-                                         "label":  "ストール",
-                                         "tag":  "stole",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/stole"
-                                     },
-                                     {
-                                         "label":  "首に動物",
-                                         "tag":  "animal_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_around_neck"
-                                     },
-                                     {
-                                         "label":  "首に巻くバンダナ",
-                                         "tag":  "bandana_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandana_around_neck"
-                                     },
-                                     {
-                                         "label":  "首にかける眼鏡",
-                                         "tag":  "eyewear_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyewear_around_neck"
-                                     },
-                                     {
-                                         "label":  "首にゴーグルをかける",
-                                         "tag":  "goggles_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/goggles_around_neck"
-                                     },
-                                     {
-                                         "label":  "喉当て",
-                                         "tag":  "gorget",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gorget"
-                                     },
-                                     {
-                                         "label":  "首にかけるヘッドフォン",
-                                         "tag":  "headphones_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/headphones_around_neck"
-                                     },
-                                     {
-                                         "label":  "ストラップ",
-                                         "tag":  "lanyard",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lanyard"
-                                     },
-                                     {
-                                         "label":  "首に掛けたマスク",
-                                         "tag":  "mask_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mask_around_neck"
-                                     },
-                                     {
-                                         "label":  "首に巻くタオル",
-                                         "tag":  "towel_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/towel_around_neck"
-                                     },
-                                     {
-                                         "label":  "首に巻く笛",
-                                         "tag":  "whistle_around_neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/whistle_around_neck"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "襟",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ファーカラー",
-                                         "tag":  "fur_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur_collar"
-                                     },
-                                     {
-                                         "label":  "ハイカラー",
-                                         "tag":  "high_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/high_collar"
-                                     },
-                                     {
-                                         "label":  "オープンカラー",
-                                         "tag":  "open_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/open_collar"
-                                     },
-                                     {
-                                         "label":  "襟を立てた",
-                                         "tag":  "popped_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/popped_collar"
-                                     },
-                                     {
-                                         "label":  "ピューリタンカラー",
-                                         "tag":  "puritan_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/puritan_collar"
-                                     },
-                                     {
-                                         "label":  "セーラーカラー",
-                                         "tag":  "sailor_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sailor_collar"
-                                     },
-                                     {
-                                         "label":  "タートルネック",
-                                         "tag":  "turtleneck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/turtleneck"
-                                     },
-                                     {
-                                         "label":  "ノースリーブタートルネック",
-                                         "tag":  "sleeveless_turtleneck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_turtleneck"
-                                     },
-                                     {
-                                         "label":  "Vネック",
-                                         "tag":  "v-neck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/v-neck"
-                                     },
-                                     {
-                                         "label":  "ウィングカラー",
-                                         "tag":  "wing_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wing_collar"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "襟付きの服",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "襟付きブラウス",
-                                         "tag":  "collared_blouse",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_blouse"
-                                     },
-                                     {
-                                         "label":  "襟付きケープ",
-                                         "tag":  "collared_cape",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_cape"
-                                     },
-                                     {
-                                         "label":  "襟付きケープレット",
-                                         "tag":  "collared_capelet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_capelet"
-                                     },
-                                     {
-                                         "label":  "襟付きコート",
-                                         "tag":  "collared_coat",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_coat"
-                                     },
-                                     {
-                                         "label":  "襟付きクロップトップ",
-                                         "tag":  "collared_crop_top",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_crop_top"
-                                     },
-                                     {
-                                         "label":  "襟付きドレス",
-                                         "tag":  "collared_dress",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_dress"
-                                     },
-                                     {
-                                         "label":  "襟付きレオタード",
-                                         "tag":  "collared_leotard",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_leotard"
-                                     },
-                                     {
-                                         "label":  "襟付きシャツ",
-                                         "tag":  "collared_shirt",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_shirt"
-                                     },
-                                     {
-                                         "label":  "襟付きシュラッグ",
-                                         "tag":  "collared_shrug",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_shrug"
-                                     },
-                                     {
-                                         "label":  "襟付きベスト",
-                                         "tag":  "collared_vest",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collared_vest"
-                                     },
-                                     {
-                                         "label":  "ホルターネック",
-                                         "tag":  "halterneck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/halterneck"
-                                     },
-                                     {
-                                         "label":  "ホルターネックドレス",
-                                         "tag":  "halter_dress",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/halter_dress"
-                                     },
-                                     {
-                                         "label":  "ホルターレオタード",
-                                         "tag":  "halter_leotard",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/halter_leotard"
-                                     },
-                                     {
-                                         "label":  "ホルターシャツ",
-                                         "tag":  "halter_shirt",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/halter_shirt"
-                                     },
-                                     {
-                                         "label":  "交差したホルターネック",
-                                         "tag":  "criss-cross_halter",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/criss-cross_halter"
-                                     },
-                                     {
-                                         "label":  "セーラーカラー",
-                                         "tag":  "sailor_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sailor_collar"
-                                     },
-                                     {
-                                         "label":  "セーラービキニ",
-                                         "tag":  "sailor_bikini",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sailor_bikini"
-                                     },
-                                     {
-                                         "label":  "セーラードレス",
-                                         "tag":  "sailor_dress",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sailor_dress"
-                                     },
-                                     {
-                                         "label":  "セーラーシャツ",
-                                         "tag":  "sailor_shirt",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sailor_shirt"
-                                     },
-                                     {
-                                         "label":  "セーラー服",
-                                         "tag":  "serafuku",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/serafuku"
-                                     },
-                                     {
-                                         "label":  "タートルネック",
-                                         "tag":  "turtleneck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/turtleneck"
-                                     },
-                                     {
-                                         "label":  "ノースリーブタートルネック",
-                                         "tag":  "sleeveless_turtleneck",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sleeveless_turtleneck"
-                                     },
-                                     {
-                                         "label":  "タートルネックボディスーツ",
-                                         "tag":  "turtleneck_bodysuit",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/turtleneck_bodysuit"
-                                     },
-                                     {
-                                         "label":  "タートルネックドレス",
-                                         "tag":  "turtleneck_dress",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/turtleneck_dress"
-                                     },
-                                     {
-                                         "label":  "タートルネックジャケット",
-                                         "tag":  "turtleneck_jacket",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/turtleneck_jacket"
-                                     },
-                                     {
-                                         "label":  "タートルネックワンピース水着",
-                                         "tag":  "turtleneck_one-piece_swimsuit",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/turtleneck_one-piece_swimsuit"
-                                     },
-                                     {
-                                         "label":  "タートルネックシャツ",
-                                         "tag":  "turtleneck_shirt",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/turtleneck_shirt"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "首元の装飾に関する動作",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "襟を整える",
-                                         "tag":  "adjusting_collar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_collar"
-                                     },
-                                     {
-                                         "label":  "ネッカチーフの調整",
-                                         "tag":  "adjusting_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_neckerchief"
-                                     },
-                                     {
-                                         "label":  "ネックレスの調整",
-                                         "tag":  "adjusting_necklace",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_necklace"
-                                     },
-                                     {
-                                         "label":  "ネックリボンの調整",
-                                         "tag":  "adjusting_neck_ribbon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_neck_ribbon"
-                                     },
-                                     {
-                                         "label":  "ネクタイの調整",
-                                         "tag":  "adjusting_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_necktie"
-                                     },
-                                     {
-                                         "label":  "スカーフの調整",
-                                         "tag":  "adjusting_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_scarf"
-                                     },
-                                     {
-                                         "label":  "胸の間のネクタイ",
-                                         "tag":  "necktie_between_breasts",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/necktie_between_breasts"
-                                     },
-                                     {
-                                         "label":  "ネックウェアを掴む",
-                                         "tag":  "neckwear_grab",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neckwear_grab"
-                                     },
-                                     {
-                                         "label":  "襟を掴む",
-                                         "tag":  "collar_grab",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collar_grab"
-                                     },
-                                     {
-                                         "label":  "ネッカチーフを掴む",
-                                         "tag":  "neckerchief_grab",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neckerchief_grab"
-                                     },
-                                     {
-                                         "label":  "ネックリボングラブ",
-                                         "tag":  "neck_ribbon_grab",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_ribbon_grab"
-                                     },
-                                     {
-                                         "label":  "ネクタイを掴む",
-                                         "tag":  "necktie_grab",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/necktie_grab"
-                                     },
-                                     {
-                                         "label":  "スカーフを掴む",
-                                         "tag":  "scarf_grab",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scarf_grab"
-                                     },
-                                     {
-                                         "label":  "着用していないチョーカー",
-                                         "tag":  "unworn_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_choker"
-                                     },
-                                     {
-                                         "label":  "着用していないネッカチーフ",
-                                         "tag":  "unworn_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_neckerchief"
-                                     },
-                                     {
-                                         "label":  "着用していないネックレス",
-                                         "tag":  "unworn_necklace",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_necklace"
-                                     },
-                                     {
-                                         "label":  "着用していないネクタイ",
-                                         "tag":  "unworn_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_necktie"
-                                     },
-                                     {
-                                         "label":  "着用していないスカーフ",
-                                         "tag":  "unworn_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_scarf"
-                                     },
-                                     {
-                                         "label":  "ネックウェアなし",
-                                         "tag":  "no_neckwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_neckwear"
-                                     },
-                                     {
-                                         "label":  "チョーカーなし",
-                                         "tag":  "no_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_choker"
-                                     },
-                                     {
-                                         "label":  "ネックレスなし",
-                                         "tag":  "no_necklace",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_necklace"
-                                     },
-                                     {
-                                         "label":  "ネクタイなし",
-                                         "tag":  "no_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_necktie"
-                                     },
-                                     {
-                                         "label":  "スカーフなし",
-                                         "tag":  "no_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_scarf"
-                                     },
-                                     {
-                                         "label":  "頭にネクタイ",
-                                         "tag":  "necktie_on_head",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/necktie_on_head"
-                                     },
-                                     {
-                                         "label":  "口にバンダナ",
-                                         "tag":  "bandana_over_mouth",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bandana_over_mouth"
-                                     },
-                                     {
-                                         "label":  "衣類の口枷",
-                                         "tag":  "clothes_gag",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/clothes_gag"
-                                     },
-                                     {
-                                         "label":  "口を覆うスカーフ",
-                                         "tag":  "scarf_over_mouth",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scarf_over_mouth"
-                                     },
-                                     {
-                                         "label":  "シェアスカーフ",
-                                         "tag":  "shared_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shared_scarf"
-                                     },
-                                     {
-                                         "label":  "首輪を引っ張る",
-                                         "tag":  "collar_tug",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collar_tug"
-                                     },
-                                     {
-                                         "label":  "ゆるめの蝶ネクタイ",
-                                         "tag":  "loose_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/loose_bowtie"
-                                     },
-                                     {
-                                         "label":  "ゆるめのネクタイ",
-                                         "tag":  "loose_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/loose_necktie"
-                                     },
-                                     {
-                                         "label":  "ほどけたアスコットタイ",
-                                         "tag":  "undone_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/undone_ascot"
-                                     },
-                                     {
-                                         "label":  "ほどけたネッカチーフ",
-                                         "tag":  "undone_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/undone_neckerchief"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "アスコット",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アスコット",
-                                         "tag":  "ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ascot"
-                                     },
-                                     {
-                                         "label":  "チェック柄アスコット",
-                                         "tag":  "checkered_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/checkered_ascot"
-                                     },
-                                     {
-                                         "label":  "ギンガムアスコット",
-                                         "tag":  "gingham_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gingham_ascot"
-                                     },
-                                     {
-                                         "label":  "レーストリムのアスコット",
-                                         "tag":  "lace-trimmed_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace-trimmed_ascot"
-                                     },
-                                     {
-                                         "label":  "チェック柄アスコット",
-                                         "tag":  "plaid_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/plaid_ascot"
-                                     },
-                                     {
-                                         "label":  "ストライプアスコット",
-                                         "tag":  "striped_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/striped_ascot"
-                                     },
-                                     {
-                                         "label":  "破れたアスコット",
-                                         "tag":  "torn_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_ascot"
-                                     },
-                                     {
-                                         "label":  "グラデーションアスコット",
-                                         "tag":  "gradient_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient_ascot"
-                                     },
-                                     {
-                                         "label":  "多色のアスコット",
-                                         "tag":  "multicolored_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_ascot"
-                                     },
-                                     {
-                                         "label":  "ツートンアスコット",
-                                         "tag":  "two-tone_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/two-tone_ascot"
-                                     },
-                                     {
-                                         "label":  "水色のアスコットタイ",
-                                         "tag":  "aqua_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_ascot"
-                                     },
-                                     {
-                                         "label":  "ブラックアスコット",
-                                         "tag":  "black_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_ascot"
-                                     },
-                                     {
-                                         "label":  "ブルーアスコット",
-                                         "tag":  "blue_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_ascot"
-                                     },
-                                     {
-                                         "label":  "ブラウンアスコット",
-                                         "tag":  "brown_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_ascot"
-                                     },
-                                     {
-                                         "label":  "グリーンアスコット",
-                                         "tag":  "green_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_ascot"
-                                     },
-                                     {
-                                         "label":  "グレーのアスコット",
-                                         "tag":  "grey_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_ascot"
-                                     },
-                                     {
-                                         "label":  "オレンジアスコット",
-                                         "tag":  "orange_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_ascot"
-                                     },
-                                     {
-                                         "label":  "ピンクのアスコット",
-                                         "tag":  "pink_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_ascot"
-                                     },
-                                     {
-                                         "label":  "レッドアスコット",
-                                         "tag":  "red_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_ascot"
-                                     },
-                                     {
-                                         "label":  "ホワイトアスコット",
-                                         "tag":  "white_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_ascot"
-                                     },
-                                     {
-                                         "label":  "イエローアスコット",
-                                         "tag":  "yellow_ascot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_ascot"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "蝶ネクタイ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "蝶ネクタイ",
-                                         "tag":  "bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bowtie"
-                                     },
-                                     {
-                                         "label":  "伝統的な蝶ネクタイ",
-                                         "tag":  "traditional_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/traditional_bowtie"
-                                     },
-                                     {
-                                         "label":  "巨大な蝶ネクタイ",
-                                         "tag":  "huge_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/huge_bowtie"
-                                     },
-                                     {
-                                         "label":  "アーガイル蝶ネクタイ",
-                                         "tag":  "argyle_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/argyle_bowtie"
-                                     },
-                                     {
-                                         "label":  "チェック柄の蝶ネクタイ",
-                                         "tag":  "checkered_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/checkered_bowtie"
-                                     },
-                                     {
-                                         "label":  "チェック柄の蝶ネクタイ",
-                                         "tag":  "plaid_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/plaid_bowtie"
-                                     },
-                                     {
-                                         "label":  "水玉模様の蝶ネクタイ",
-                                         "tag":  "polka_dot_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/polka_dot_bowtie"
-                                     },
-                                     {
-                                         "label":  "ストライプの蝶ネクタイ",
-                                         "tag":  "striped_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/striped_bowtie"
-                                     },
-                                     {
-                                         "label":  "グラデーションボウタイ",
-                                         "tag":  "gradient_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient_bowtie"
-                                     },
-                                     {
-                                         "label":  "マルチカラーの蝶ネクタイ",
-                                         "tag":  "multicolored_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_bowtie"
-                                     },
-                                     {
-                                         "label":  "ツートンカラーの蝶ネクタイ",
-                                         "tag":  "two-tone_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/two-tone_bowtie"
-                                     },
-                                     {
-                                         "label":  "水色の蝶ネクタイ",
-                                         "tag":  "aqua_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_bowtie"
-                                     },
-                                     {
-                                         "label":  "黒の蝶ネクタイ",
-                                         "tag":  "black_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_bowtie"
-                                     },
-                                     {
-                                         "label":  "青い蝶ネクタイ",
-                                         "tag":  "blue_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_bowtie"
-                                     },
-                                     {
-                                         "label":  "茶色の蝶ネクタイ",
-                                         "tag":  "brown_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_bowtie"
-                                     },
-                                     {
-                                         "label":  "緑の蝶ネクタイ",
-                                         "tag":  "green_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_bowtie"
-                                     },
-                                     {
-                                         "label":  "グレーの蝶ネクタイ",
-                                         "tag":  "grey_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_bowtie"
-                                     },
-                                     {
-                                         "label":  "オレンジ色の蝶ネクタイ",
-                                         "tag":  "orange_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_bowtie"
-                                     },
-                                     {
-                                         "label":  "ピンクの蝶ネクタイ",
-                                         "tag":  "pink_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_bowtie"
-                                     },
-                                     {
-                                         "label":  "赤い蝶ネクタイ",
-                                         "tag":  "red_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_bowtie"
-                                     },
-                                     {
-                                         "label":  "白い蝶ネクタイ",
-                                         "tag":  "white_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_bowtie"
-                                     },
-                                     {
-                                         "label":  "黄色の蝶ネクタイ",
-                                         "tag":  "yellow_bowtie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_bowtie"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "チョーカー",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "チョーカー",
-                                         "tag":  "choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/choker"
-                                     },
-                                     {
-                                         "label":  "アンカーチョーカー",
-                                         "tag":  "anchor_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/anchor_choker"
-                                     },
-                                     {
-                                         "label":  "ビーズチョーカー",
-                                         "tag":  "bead_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bead_choker"
-                                     },
-                                     {
-                                         "label":  "ベルチョーカー",
-                                         "tag":  "bell_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bell_choker"
-                                     },
-                                     {
-                                         "label":  "ボウチョーカー",
-                                         "tag":  "bow_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bow_choker"
-                                     },
-                                     {
-                                         "label":  "三日月チョーカー",
-                                         "tag":  "crescent_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/crescent_choker"
-                                     },
-                                     {
-                                         "label":  "クロスチョーカー",
-                                         "tag":  "cross_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cross_choker"
-                                     },
-                                     {
-                                         "label":  "フラワーチョーカー",
-                                         "tag":  "flower_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_choker"
-                                     },
-                                     {
-                                         "label":  "フリルチョーカー",
-                                         "tag":  "frilled_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/frilled_choker"
-                                     },
-                                     {
-                                         "label":  "ファーチョーカー",
-                                         "tag":  "fur_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur_choker"
-                                     },
-                                     {
-                                         "label":  "ファートリムのチョーカー",
-                                         "tag":  "fur-trimmed_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur-trimmed_choker"
-                                     },
-                                     {
-                                         "label":  "ゴールドチョーカー",
-                                         "tag":  "gold_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gold_choker"
-                                     },
-                                     {
-                                         "label":  "ハートチョーカー",
-                                         "tag":  "heart_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_choker"
-                                     },
-                                     {
-                                         "label":  "キーチョーカー",
-                                         "tag":  "key_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/key_choker"
-                                     },
-                                     {
-                                         "label":  "レースチョーカー",
-                                         "tag":  "lace_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace_choker"
-                                     },
-                                     {
-                                         "label":  "レーストリムのチョーカー",
-                                         "tag":  "lace-trimmed_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace-trimmed_choker"
-                                     },
-                                     {
-                                         "label":  "Oリングチョーカー",
-                                         "tag":  "o-ring_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/o-ring_choker"
-                                     },
-                                     {
-                                         "label":  "ハートリングチョーカー",
-                                         "tag":  "heart_ring_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/heart_ring_choker"
-                                     },
-                                     {
-                                         "label":  "ペンダントチョーカー",
-                                         "tag":  "pendant_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pendant_choker"
-                                     },
-                                     {
-                                         "label":  "ウサギのチョーカー",
-                                         "tag":  "rabbit_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rabbit_choker"
-                                     },
-                                     {
-                                         "label":  "リボンチョーカー",
-                                         "tag":  "ribbon_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbon_choker"
-                                     },
-                                     {
-                                         "label":  "シルバーチョーカー",
-                                         "tag":  "silver_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/silver_choker"
-                                     },
-                                     {
-                                         "label":  "スカルチョーカー",
-                                         "tag":  "skull_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/skull_choker"
-                                     },
-                                     {
-                                         "label":  "スパイクチョーカー",
-                                         "tag":  "spiked_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/spiked_choker"
-                                     },
-                                     {
-                                         "label":  "スターチョーカー",
-                                         "tag":  "star_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/star_choker"
-                                     },
-                                     {
-                                         "label":  "ストライプチョーカー",
-                                         "tag":  "striped_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/striped_choker"
-                                     },
-                                     {
-                                         "label":  "スタッズチョーカー",
-                                         "tag":  "studded_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/studded_choker"
-                                     },
-                                     {
-                                         "label":  "アーガイルチョーカー",
-                                         "tag":  "argyle_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/argyle_choker"
-                                     },
-                                     {
-                                         "label":  "チェック柄チョーカー",
-                                         "tag":  "plaid_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/plaid_choker"
-                                     },
-                                     {
-                                         "label":  "プリントチョーカー",
-                                         "tag":  "print_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/print_choker"
-                                     },
-                                     {
-                                         "label":  "水色のチョーカー",
-                                         "tag":  "aqua_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_choker"
-                                     },
-                                     {
-                                         "label":  "黒のチョーカー",
-                                         "tag":  "black_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_choker"
-                                     },
-                                     {
-                                         "label":  "青いチョーカー",
-                                         "tag":  "blue_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_choker"
-                                     },
-                                     {
-                                         "label":  "ブラウンチョーカー",
-                                         "tag":  "brown_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_choker"
-                                     },
-                                     {
-                                         "label":  "グリーンチョーカー",
-                                         "tag":  "green_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_choker"
-                                     },
-                                     {
-                                         "label":  "グレーのチョーカー",
-                                         "tag":  "grey_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_choker"
-                                     },
-                                     {
-                                         "label":  "オレンジチョーカー",
-                                         "tag":  "orange_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_choker"
-                                     },
-                                     {
-                                         "label":  "ピンクのチョーカー",
-                                         "tag":  "pink_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_choker"
-                                     },
-                                     {
-                                         "label":  "赤いチョーカー",
-                                         "tag":  "red_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_choker"
-                                     },
-                                     {
-                                         "label":  "白いチョーカー",
-                                         "tag":  "white_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_choker"
-                                     },
-                                     {
-                                         "label":  "黄色のチョーカー",
-                                         "tag":  "yellow_choker",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_choker"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ネッカチーフ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ネッカチーフ",
-                                         "tag":  "neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neckerchief"
-                                     },
-                                     {
-                                         "label":  "チェック柄のネッカチーフ",
-                                         "tag":  "checkered_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/checkered_neckerchief"
-                                     },
-                                     {
-                                         "label":  "ストライプ柄のネッカチーフ",
-                                         "tag":  "striped_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/striped_neckerchief"
-                                     },
-                                     {
-                                         "label":  "斜めストライプのネッカチーフ",
-                                         "tag":  "diagonal-striped_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/diagonal-striped_neckerchief"
-                                     },
-                                     {
-                                         "label":  "ツートンカラーのネッカチーフ",
-                                         "tag":  "two-tone_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/two-tone_neckerchief"
-                                     },
-                                     {
-                                         "label":  "グラデーションネッカチーフ",
-                                         "tag":  "gradient_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient_neckerchief"
-                                     },
-                                     {
-                                         "label":  "多色",
-                                         "tag":  "multicolored",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored"
-                                     },
-                                     {
-                                         "label":  "水色のネッカチーフ",
-                                         "tag":  "aqua_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_neckerchief"
-                                     },
-                                     {
-                                         "label":  "黒のネッカチーフ",
-                                         "tag":  "black_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_neckerchief"
-                                     },
-                                     {
-                                         "label":  "青いネッカチーフ",
-                                         "tag":  "blue_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_neckerchief"
-                                     },
-                                     {
-                                         "label":  "茶色のネッカチーフ",
-                                         "tag":  "brown_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_neckerchief"
-                                     },
-                                     {
-                                         "label":  "緑のネッカチーフ",
-                                         "tag":  "green_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_neckerchief"
-                                     },
-                                     {
-                                         "label":  "グレーのネッカチーフ",
-                                         "tag":  "grey_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_neckerchief"
-                                     },
-                                     {
-                                         "label":  "オレンジ色のネッカチーフ",
-                                         "tag":  "orange_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_neckerchief"
-                                     },
-                                     {
-                                         "label":  "ピンクのネッカチーフ",
-                                         "tag":  "pink_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_neckerchief"
-                                     },
-                                     {
-                                         "label":  "赤いネッカチーフ",
-                                         "tag":  "red_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_neckerchief"
-                                     },
-                                     {
-                                         "label":  "白いネッカチーフ",
-                                         "tag":  "white_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_neckerchief"
-                                     },
-                                     {
-                                         "label":  "黄色のネッカチーフ",
-                                         "tag":  "yellow_neckerchief",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_neckerchief"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ネックレス",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ネックレス",
-                                         "tag":  "necklace",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/necklace"
-                                     },
-                                     {
-                                         "label":  "チェーンネックレス",
-                                         "tag":  "chain_necklace",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/chain_necklace"
-                                     },
-                                     {
-                                         "label":  "花のネックレス",
-                                         "tag":  "flower_necklace",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flower_necklace"
-                                     },
-                                     {
-                                         "label":  "レイ",
-                                         "tag":  "lei",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lei"
-                                     },
-                                     {
-                                         "label":  "友情のお守り",
-                                         "tag":  "friendship_charm",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/friendship_charm"
-                                     },
-                                     {
-                                         "label":  "真珠のネックレス",
-                                         "tag":  "pearl_necklace",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pearl_necklace"
-                                     },
-                                     {
-                                         "label":  "ペンダント",
-                                         "tag":  "pendant",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pendant"
-                                     },
-                                     {
-                                         "label":  "お守り",
-                                         "tag":  "amulet",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/amulet"
-                                     },
-                                     {
-                                         "label":  "ロケット",
-                                         "tag":  "locket",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/locket"
-                                     },
-                                     {
-                                         "label":  "勾玉",
-                                         "tag":  "magatama",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/magatama"
-                                     },
-                                     {
-                                         "label":  "ペンタクル",
-                                         "tag":  "pentacle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pentacle"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ネクタイ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ネクタイ",
-                                         "tag":  "necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/necktie"
-                                     },
-                                     {
-                                         "label":  "水色のネクタイ",
-                                         "tag":  "aqua_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_necktie"
-                                     },
-                                     {
-                                         "label":  "黒のネクタイ",
-                                         "tag":  "black_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_necktie"
-                                     },
-                                     {
-                                         "label":  "青いネクタイ",
-                                         "tag":  "blue_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_necktie"
-                                     },
-                                     {
-                                         "label":  "茶色のネクタイ",
-                                         "tag":  "brown_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_necktie"
-                                     },
-                                     {
-                                         "label":  "緑のネクタイ",
-                                         "tag":  "green_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_necktie"
-                                     },
-                                     {
-                                         "label":  "グレーのネクタイ",
-                                         "tag":  "grey_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_necktie"
-                                     },
-                                     {
-                                         "label":  "オレンジ色のネクタイ",
-                                         "tag":  "orange_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_necktie"
-                                     },
-                                     {
-                                         "label":  "ピンクのネクタイ",
-                                         "tag":  "pink_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_necktie"
-                                     },
-                                     {
-                                         "label":  "赤いネクタイ",
-                                         "tag":  "red_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_necktie"
-                                     },
-                                     {
-                                         "label":  "白いネクタイ",
-                                         "tag":  "white_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_necktie"
-                                     },
-                                     {
-                                         "label":  "黄色のネクタイ",
-                                         "tag":  "yellow_necktie",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_necktie"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "スカーフ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "スカーフ",
-                                         "tag":  "scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scarf"
-                                     },
-                                     {
-                                         "label":  "フリンジトリム",
-                                         "tag":  "fringe_trim",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fringe_trim"
-                                     },
-                                     {
-                                         "label":  "ファースカーフ",
-                                         "tag":  "fur_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur_scarf"
-                                     },
-                                     {
-                                         "label":  "毛皮の縁取りのスカーフ",
-                                         "tag":  "fur-trimmed_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur-trimmed_scarf"
-                                     },
-                                     {
-                                         "label":  "浮かぶスカーフ",
-                                         "tag":  "floating_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/floating_scarf"
-                                     },
-                                     {
-                                         "label":  "意思を持つスカーフ",
-                                         "tag":  "sentient_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sentient_scarf"
-                                     },
-                                     {
-                                         "label":  "シースルースカーフ",
-                                         "tag":  "see-through_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/see-through_scarf"
-                                     },
-                                     {
-                                         "label":  "アーガイル柄のスカーフ",
-                                         "tag":  "argyle_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/argyle_scarf"
-                                     },
-                                     {
-                                         "label":  "迷彩柄スカーフ",
-                                         "tag":  "camouflage_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/camouflage_scarf"
-                                     },
-                                     {
-                                         "label":  "水玉模様のスカーフ",
-                                         "tag":  "polka_dot_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/polka_dot_scarf"
-                                     },
-                                     {
-                                         "label":  "ストライプ柄のスカーフ",
-                                         "tag":  "striped_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/striped_scarf"
-                                     },
-                                     {
-                                         "label":  "縦縞のスカーフ",
-                                         "tag":  "vertical-striped_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vertical-striped_scarf"
-                                     },
-                                     {
-                                         "label":  "破れたスカーフ",
-                                         "tag":  "torn_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_scarf"
-                                     },
-                                     {
-                                         "label":  "グラデーションスカーフ",
-                                         "tag":  "gradient_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient_scarf"
-                                     },
-                                     {
-                                         "label":  "マルチカラーのスカーフ",
-                                         "tag":  "multicolored_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_scarf"
-                                     },
-                                     {
-                                         "label":  "ツートンカラーのスカーフ",
-                                         "tag":  "two-tone_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/two-tone_scarf"
-                                     },
-                                     {
-                                         "label":  "水色のスカーフ",
-                                         "tag":  "aqua_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aqua_scarf"
-                                     },
-                                     {
-                                         "label":  "黒いスカーフ",
-                                         "tag":  "black_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/black_scarf"
-                                     },
-                                     {
-                                         "label":  "青いスカーフ",
-                                         "tag":  "blue_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/blue_scarf"
-                                     },
-                                     {
-                                         "label":  "茶色のスカーフ",
-                                         "tag":  "brown_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/brown_scarf"
-                                     },
-                                     {
-                                         "label":  "緑のスカーフ",
-                                         "tag":  "green_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/green_scarf"
-                                     },
-                                     {
-                                         "label":  "グレーのスカーフ",
-                                         "tag":  "grey_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/grey_scarf"
-                                     },
-                                     {
-                                         "label":  "オレンジ色のスカーフ",
-                                         "tag":  "orange_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/orange_scarf"
-                                     },
-                                     {
-                                         "label":  "ピンクのスカーフ",
-                                         "tag":  "pink_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pink_scarf"
-                                     },
-                                     {
-                                         "label":  "赤いスカーフ",
-                                         "tag":  "red_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/red_scarf"
-                                     },
-                                     {
-                                         "label":  "白いスカーフ",
-                                         "tag":  "white_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/white_scarf"
-                                     },
-                                     {
-                                         "label":  "黄色いスカーフ",
-                                         "tag":  "yellow_scarf",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/yellow_scarf"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "neck_and_neckwear",
+  "カテゴリ名": "首とネックウェア",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Aneck_and_neckwear",
+  "セクション一覧": [
+    {
+      "セクション名": "首の解剖学",
+      "タグ一覧": [
+        {
+          "label": "鎖骨",
+          "tag": "collarbone",
+          "link": "https://danbooru.donmai.us/wiki_pages/collarbone"
+        },
+        {
+          "label": "うなじ",
+          "tag": "nape",
+          "link": "https://danbooru.donmai.us/wiki_pages/nape"
+        },
+        {
+          "label": "首",
+          "tag": "neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/neck"
+        },
+        {
+          "label": "長い首",
+          "tag": "long_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/long_neck"
+        }
+      ]
+    },
+    {
+      "セクション名": "動作 / 姿勢",
+      "タグ一覧": [
+        {
+          "label": "首に腕を回す",
+          "tag": "arm_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/arm_around_neck"
+        },
+        {
+          "label": "首に腕を回す",
+          "tag": "arms_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/arms_around_neck"
+        },
+        {
+          "label": "相手の首に手を添える",
+          "tag": "hand_on_another%27s_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_another%27s_neck"
+        },
+        {
+          "label": "他人の首に手を添える",
+          "tag": "hands_on_another%27s_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_another%27s_neck"
+        },
+        {
+          "label": "首を絞める",
+          "tag": "strangling",
+          "link": "https://danbooru.donmai.us/wiki_pages/strangling"
+        },
+        {
+          "label": "自分の首に手を当てる",
+          "tag": "hand_on_own_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/hand_on_own_neck"
+        },
+        {
+          "label": "自分の首に手を当てる",
+          "tag": "hands_on_own_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/hands_on_own_neck"
+        },
+        {
+          "label": "首を噛む",
+          "tag": "biting_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/biting_neck"
+        },
+        {
+          "label": "首にキス",
+          "tag": "kissing_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/kissing_neck"
+        }
+      ]
+    },
+    {
+      "セクション名": "独立した首元の装飾",
+      "タグ一覧": [
+        {
+          "label": "アスコット",
+          "tag": "ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/ascot"
+        },
+        {
+          "label": "よだれかけカラー",
+          "tag": "bib_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/bib_collar"
+        },
+        {
+          "label": "ボロタイ",
+          "tag": "bolo_tie",
+          "link": "https://danbooru.donmai.us/wiki_pages/bolo_tie"
+        },
+        {
+          "label": "蝶ネクタイ",
+          "tag": "bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowtie"
+        },
+        {
+          "label": "首輪",
+          "tag": "collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/collar"
+        },
+        {
+          "label": "クロスタイ",
+          "tag": "cross_tie",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_tie"
+        },
+        {
+          "label": "付け襟",
+          "tag": "detached_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/detached_collar"
+        },
+        {
+          "label": "ギンペ",
+          "tag": "guimpe",
+          "link": "https://danbooru.donmai.us/wiki_pages/guimpe"
+        },
+        {
+          "label": "エリザベスカラー",
+          "tag": "pet_cone",
+          "link": "https://danbooru.donmai.us/wiki_pages/pet_cone"
+        },
+        {
+          "label": "ピューリタンカラー",
+          "tag": "puritan_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/puritan_collar"
+        },
+        {
+          "label": "フェザーボア",
+          "tag": "feather_boa",
+          "link": "https://danbooru.donmai.us/wiki_pages/feather_boa"
+        },
+        {
+          "label": "首元の鈴",
+          "tag": "neck_bell",
+          "link": "https://danbooru.donmai.us/wiki_pages/neck_bell"
+        },
+        {
+          "label": "ネックレス",
+          "tag": "necklace",
+          "link": "https://danbooru.donmai.us/wiki_pages/necklace"
+        },
+        {
+          "label": "ネッカチーフ",
+          "tag": "neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/neckerchief"
+        },
+        {
+          "label": "ネックリボン",
+          "tag": "neck_ribbon",
+          "link": "https://danbooru.donmai.us/wiki_pages/neck_ribbon"
+        },
+        {
+          "label": "ラフカラー",
+          "tag": "neck_ruff",
+          "link": "https://danbooru.donmai.us/wiki_pages/neck_ruff"
+        },
+        {
+          "label": "ネックタッセル",
+          "tag": "neck_tassel",
+          "link": "https://danbooru.donmai.us/wiki_pages/neck_tassel"
+        },
+        {
+          "label": "ネクタイ",
+          "tag": "necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/necktie"
+        },
+        {
+          "label": "ストール",
+          "tag": "stole",
+          "link": "https://danbooru.donmai.us/wiki_pages/stole"
+        },
+        {
+          "label": "首に動物",
+          "tag": "animal_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_around_neck"
+        },
+        {
+          "label": "首に巻くバンダナ",
+          "tag": "bandana_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandana_around_neck"
+        },
+        {
+          "label": "首にかける眼鏡",
+          "tag": "eyewear_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyewear_around_neck"
+        },
+        {
+          "label": "首にゴーグルをかける",
+          "tag": "goggles_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/goggles_around_neck"
+        },
+        {
+          "label": "喉当て",
+          "tag": "gorget",
+          "link": "https://danbooru.donmai.us/wiki_pages/gorget"
+        },
+        {
+          "label": "首にかけるヘッドフォン",
+          "tag": "headphones_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/headphones_around_neck"
+        },
+        {
+          "label": "ストラップ",
+          "tag": "lanyard",
+          "link": "https://danbooru.donmai.us/wiki_pages/lanyard"
+        },
+        {
+          "label": "首に掛けたマスク",
+          "tag": "mask_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/mask_around_neck"
+        },
+        {
+          "label": "首に巻くタオル",
+          "tag": "towel_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/towel_around_neck"
+        },
+        {
+          "label": "首に巻く笛",
+          "tag": "whistle_around_neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/whistle_around_neck"
+        }
+      ]
+    },
+    {
+      "セクション名": "襟",
+      "タグ一覧": [
+        {
+          "label": "ファーカラー",
+          "tag": "fur_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/fur_collar"
+        },
+        {
+          "label": "ハイカラー",
+          "tag": "high_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/high_collar"
+        },
+        {
+          "label": "オープンカラー",
+          "tag": "open_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/open_collar"
+        },
+        {
+          "label": "襟を立てた",
+          "tag": "popped_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/popped_collar"
+        },
+        {
+          "label": "ピューリタンカラー",
+          "tag": "puritan_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/puritan_collar"
+        },
+        {
+          "label": "セーラーカラー",
+          "tag": "sailor_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailor_collar"
+        },
+        {
+          "label": "タートルネック",
+          "tag": "turtleneck",
+          "link": "https://danbooru.donmai.us/wiki_pages/turtleneck"
+        },
+        {
+          "label": "ノースリーブタートルネック",
+          "tag": "sleeveless_turtleneck",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_turtleneck"
+        },
+        {
+          "label": "Vネック",
+          "tag": "v-neck",
+          "link": "https://danbooru.donmai.us/wiki_pages/v-neck"
+        },
+        {
+          "label": "ウィングカラー",
+          "tag": "wing_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/wing_collar"
+        }
+      ]
+    },
+    {
+      "セクション名": "襟付きの服",
+      "タグ一覧": [
+        {
+          "label": "襟付きブラウス",
+          "tag": "collared_blouse",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_blouse"
+        },
+        {
+          "label": "襟付きケープ",
+          "tag": "collared_cape",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_cape"
+        },
+        {
+          "label": "襟付きケープレット",
+          "tag": "collared_capelet",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_capelet"
+        },
+        {
+          "label": "襟付きコート",
+          "tag": "collared_coat",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_coat"
+        },
+        {
+          "label": "襟付きクロップトップ",
+          "tag": "collared_crop_top",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_crop_top"
+        },
+        {
+          "label": "襟付きドレス",
+          "tag": "collared_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_dress"
+        },
+        {
+          "label": "襟付きレオタード",
+          "tag": "collared_leotard",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_leotard"
+        },
+        {
+          "label": "襟付きシャツ",
+          "tag": "collared_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_shirt"
+        },
+        {
+          "label": "襟付きシュラッグ",
+          "tag": "collared_shrug",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_shrug"
+        },
+        {
+          "label": "襟付きベスト",
+          "tag": "collared_vest",
+          "link": "https://danbooru.donmai.us/wiki_pages/collared_vest"
+        },
+        {
+          "label": "ホルターネック",
+          "tag": "halterneck",
+          "link": "https://danbooru.donmai.us/wiki_pages/halterneck"
+        },
+        {
+          "label": "ホルターネックドレス",
+          "tag": "halter_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/halter_dress"
+        },
+        {
+          "label": "ホルターレオタード",
+          "tag": "halter_leotard",
+          "link": "https://danbooru.donmai.us/wiki_pages/halter_leotard"
+        },
+        {
+          "label": "ホルターシャツ",
+          "tag": "halter_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/halter_shirt"
+        },
+        {
+          "label": "交差したホルターネック",
+          "tag": "criss-cross_halter",
+          "link": "https://danbooru.donmai.us/wiki_pages/criss-cross_halter"
+        },
+        {
+          "label": "セーラーカラー",
+          "tag": "sailor_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailor_collar"
+        },
+        {
+          "label": "セーラービキニ",
+          "tag": "sailor_bikini",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailor_bikini"
+        },
+        {
+          "label": "セーラードレス",
+          "tag": "sailor_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailor_dress"
+        },
+        {
+          "label": "セーラーシャツ",
+          "tag": "sailor_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/sailor_shirt"
+        },
+        {
+          "label": "セーラー服",
+          "tag": "serafuku",
+          "link": "https://danbooru.donmai.us/wiki_pages/serafuku"
+        },
+        {
+          "label": "タートルネック",
+          "tag": "turtleneck",
+          "link": "https://danbooru.donmai.us/wiki_pages/turtleneck"
+        },
+        {
+          "label": "ノースリーブタートルネック",
+          "tag": "sleeveless_turtleneck",
+          "link": "https://danbooru.donmai.us/wiki_pages/sleeveless_turtleneck"
+        },
+        {
+          "label": "タートルネックボディスーツ",
+          "tag": "turtleneck_bodysuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/turtleneck_bodysuit"
+        },
+        {
+          "label": "タートルネックドレス",
+          "tag": "turtleneck_dress",
+          "link": "https://danbooru.donmai.us/wiki_pages/turtleneck_dress"
+        },
+        {
+          "label": "タートルネックジャケット",
+          "tag": "turtleneck_jacket",
+          "link": "https://danbooru.donmai.us/wiki_pages/turtleneck_jacket"
+        },
+        {
+          "label": "タートルネックワンピース水着",
+          "tag": "turtleneck_one-piece_swimsuit",
+          "link": "https://danbooru.donmai.us/wiki_pages/turtleneck_one-piece_swimsuit"
+        },
+        {
+          "label": "タートルネックシャツ",
+          "tag": "turtleneck_shirt",
+          "link": "https://danbooru.donmai.us/wiki_pages/turtleneck_shirt"
+        }
+      ]
+    },
+    {
+      "セクション名": "首元の装飾に関する動作",
+      "タグ一覧": [
+        {
+          "label": "襟を整える",
+          "tag": "adjusting_collar",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_collar"
+        },
+        {
+          "label": "ネッカチーフの調整",
+          "tag": "adjusting_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_neckerchief"
+        },
+        {
+          "label": "ネックレスの調整",
+          "tag": "adjusting_necklace",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_necklace"
+        },
+        {
+          "label": "ネックリボンの調整",
+          "tag": "adjusting_neck_ribbon",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_neck_ribbon"
+        },
+        {
+          "label": "ネクタイの調整",
+          "tag": "adjusting_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_necktie"
+        },
+        {
+          "label": "スカーフの調整",
+          "tag": "adjusting_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_scarf"
+        },
+        {
+          "label": "胸の間のネクタイ",
+          "tag": "necktie_between_breasts",
+          "link": "https://danbooru.donmai.us/wiki_pages/necktie_between_breasts"
+        },
+        {
+          "label": "ネックウェアを掴む",
+          "tag": "neckwear_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/neckwear_grab"
+        },
+        {
+          "label": "襟を掴む",
+          "tag": "collar_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/collar_grab"
+        },
+        {
+          "label": "ネッカチーフを掴む",
+          "tag": "neckerchief_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/neckerchief_grab"
+        },
+        {
+          "label": "ネックリボングラブ",
+          "tag": "neck_ribbon_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/neck_ribbon_grab"
+        },
+        {
+          "label": "ネクタイを掴む",
+          "tag": "necktie_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/necktie_grab"
+        },
+        {
+          "label": "スカーフを掴む",
+          "tag": "scarf_grab",
+          "link": "https://danbooru.donmai.us/wiki_pages/scarf_grab"
+        },
+        {
+          "label": "着用していないチョーカー",
+          "tag": "unworn_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_choker"
+        },
+        {
+          "label": "着用していないネッカチーフ",
+          "tag": "unworn_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_neckerchief"
+        },
+        {
+          "label": "着用していないネックレス",
+          "tag": "unworn_necklace",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_necklace"
+        },
+        {
+          "label": "着用していないネクタイ",
+          "tag": "unworn_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_necktie"
+        },
+        {
+          "label": "着用していないスカーフ",
+          "tag": "unworn_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_scarf"
+        },
+        {
+          "label": "ネックウェアなし",
+          "tag": "no_neckwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_neckwear"
+        },
+        {
+          "label": "チョーカーなし",
+          "tag": "no_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_choker"
+        },
+        {
+          "label": "ネックレスなし",
+          "tag": "no_necklace",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_necklace"
+        },
+        {
+          "label": "ネクタイなし",
+          "tag": "no_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_necktie"
+        },
+        {
+          "label": "スカーフなし",
+          "tag": "no_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_scarf"
+        },
+        {
+          "label": "頭にネクタイ",
+          "tag": "necktie_on_head",
+          "link": "https://danbooru.donmai.us/wiki_pages/necktie_on_head"
+        },
+        {
+          "label": "口にバンダナ",
+          "tag": "bandana_over_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/bandana_over_mouth"
+        },
+        {
+          "label": "衣類の口枷",
+          "tag": "clothes_gag",
+          "link": "https://danbooru.donmai.us/wiki_pages/clothes_gag"
+        },
+        {
+          "label": "口を覆うスカーフ",
+          "tag": "scarf_over_mouth",
+          "link": "https://danbooru.donmai.us/wiki_pages/scarf_over_mouth"
+        },
+        {
+          "label": "シェアスカーフ",
+          "tag": "shared_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/shared_scarf"
+        },
+        {
+          "label": "首輪を引っ張る",
+          "tag": "collar_tug",
+          "link": "https://danbooru.donmai.us/wiki_pages/collar_tug"
+        },
+        {
+          "label": "ゆるめの蝶ネクタイ",
+          "tag": "loose_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/loose_bowtie"
+        },
+        {
+          "label": "ゆるめのネクタイ",
+          "tag": "loose_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/loose_necktie"
+        },
+        {
+          "label": "ほどけたアスコットタイ",
+          "tag": "undone_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/undone_ascot"
+        },
+        {
+          "label": "ほどけたネッカチーフ",
+          "tag": "undone_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/undone_neckerchief"
+        }
+      ]
+    },
+    {
+      "セクション名": "アスコット",
+      "タグ一覧": [
+        {
+          "label": "アスコット",
+          "tag": "ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/ascot"
+        },
+        {
+          "label": "チェック柄アスコット",
+          "tag": "checkered_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_ascot"
+        },
+        {
+          "label": "ギンガムアスコット",
+          "tag": "gingham_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/gingham_ascot"
+        },
+        {
+          "label": "レーストリムのアスコット",
+          "tag": "lace-trimmed_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace-trimmed_ascot"
+        },
+        {
+          "label": "チェック柄アスコット",
+          "tag": "plaid_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/plaid_ascot"
+        },
+        {
+          "label": "ストライプアスコット",
+          "tag": "striped_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_ascot"
+        },
+        {
+          "label": "破れたアスコット",
+          "tag": "torn_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_ascot"
+        },
+        {
+          "label": "グラデーションアスコット",
+          "tag": "gradient_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/gradient_ascot"
+        },
+        {
+          "label": "多色のアスコット",
+          "tag": "multicolored_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_ascot"
+        },
+        {
+          "label": "ツートンアスコット",
+          "tag": "two-tone_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-tone_ascot"
+        },
+        {
+          "label": "水色のアスコットタイ",
+          "tag": "aqua_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_ascot"
+        },
+        {
+          "label": "ブラックアスコット",
+          "tag": "black_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_ascot"
+        },
+        {
+          "label": "ブルーアスコット",
+          "tag": "blue_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_ascot"
+        },
+        {
+          "label": "ブラウンアスコット",
+          "tag": "brown_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_ascot"
+        },
+        {
+          "label": "グリーンアスコット",
+          "tag": "green_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_ascot"
+        },
+        {
+          "label": "グレーのアスコット",
+          "tag": "grey_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_ascot"
+        },
+        {
+          "label": "オレンジアスコット",
+          "tag": "orange_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_ascot"
+        },
+        {
+          "label": "ピンクのアスコット",
+          "tag": "pink_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_ascot"
+        },
+        {
+          "label": "レッドアスコット",
+          "tag": "red_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_ascot"
+        },
+        {
+          "label": "ホワイトアスコット",
+          "tag": "white_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_ascot"
+        },
+        {
+          "label": "イエローアスコット",
+          "tag": "yellow_ascot",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_ascot"
+        }
+      ]
+    },
+    {
+      "セクション名": "蝶ネクタイ",
+      "タグ一覧": [
+        {
+          "label": "蝶ネクタイ",
+          "tag": "bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/bowtie"
+        },
+        {
+          "label": "伝統的な蝶ネクタイ",
+          "tag": "traditional_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/traditional_bowtie"
+        },
+        {
+          "label": "巨大な蝶ネクタイ",
+          "tag": "huge_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/huge_bowtie"
+        },
+        {
+          "label": "アーガイル蝶ネクタイ",
+          "tag": "argyle_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/argyle_bowtie"
+        },
+        {
+          "label": "チェック柄の蝶ネクタイ",
+          "tag": "checkered_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_bowtie"
+        },
+        {
+          "label": "チェック柄の蝶ネクタイ",
+          "tag": "plaid_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/plaid_bowtie"
+        },
+        {
+          "label": "水玉模様の蝶ネクタイ",
+          "tag": "polka_dot_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot_bowtie"
+        },
+        {
+          "label": "ストライプの蝶ネクタイ",
+          "tag": "striped_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_bowtie"
+        },
+        {
+          "label": "グラデーションボウタイ",
+          "tag": "gradient_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/gradient_bowtie"
+        },
+        {
+          "label": "マルチカラーの蝶ネクタイ",
+          "tag": "multicolored_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_bowtie"
+        },
+        {
+          "label": "ツートンカラーの蝶ネクタイ",
+          "tag": "two-tone_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-tone_bowtie"
+        },
+        {
+          "label": "水色の蝶ネクタイ",
+          "tag": "aqua_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_bowtie"
+        },
+        {
+          "label": "黒の蝶ネクタイ",
+          "tag": "black_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_bowtie"
+        },
+        {
+          "label": "青い蝶ネクタイ",
+          "tag": "blue_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_bowtie"
+        },
+        {
+          "label": "茶色の蝶ネクタイ",
+          "tag": "brown_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_bowtie"
+        },
+        {
+          "label": "緑の蝶ネクタイ",
+          "tag": "green_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_bowtie"
+        },
+        {
+          "label": "グレーの蝶ネクタイ",
+          "tag": "grey_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_bowtie"
+        },
+        {
+          "label": "オレンジ色の蝶ネクタイ",
+          "tag": "orange_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_bowtie"
+        },
+        {
+          "label": "ピンクの蝶ネクタイ",
+          "tag": "pink_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_bowtie"
+        },
+        {
+          "label": "赤い蝶ネクタイ",
+          "tag": "red_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_bowtie"
+        },
+        {
+          "label": "白い蝶ネクタイ",
+          "tag": "white_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_bowtie"
+        },
+        {
+          "label": "黄色の蝶ネクタイ",
+          "tag": "yellow_bowtie",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_bowtie"
+        }
+      ]
+    },
+    {
+      "セクション名": "チョーカー",
+      "タグ一覧": [
+        {
+          "label": "チョーカー",
+          "tag": "choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/choker"
+        },
+        {
+          "label": "アンカーチョーカー",
+          "tag": "anchor_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/anchor_choker"
+        },
+        {
+          "label": "ビーズチョーカー",
+          "tag": "bead_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/bead_choker"
+        },
+        {
+          "label": "ベルチョーカー",
+          "tag": "bell_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/bell_choker"
+        },
+        {
+          "label": "ボウチョーカー",
+          "tag": "bow_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/bow_choker"
+        },
+        {
+          "label": "三日月チョーカー",
+          "tag": "crescent_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/crescent_choker"
+        },
+        {
+          "label": "クロスチョーカー",
+          "tag": "cross_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross_choker"
+        },
+        {
+          "label": "フラワーチョーカー",
+          "tag": "flower_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower_choker"
+        },
+        {
+          "label": "フリルチョーカー",
+          "tag": "frilled_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/frilled_choker"
+        },
+        {
+          "label": "ファーチョーカー",
+          "tag": "fur_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/fur_choker"
+        },
+        {
+          "label": "ファートリムのチョーカー",
+          "tag": "fur-trimmed_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/fur-trimmed_choker"
+        },
+        {
+          "label": "ゴールドチョーカー",
+          "tag": "gold_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/gold_choker"
+        },
+        {
+          "label": "ハートチョーカー",
+          "tag": "heart_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_choker"
+        },
+        {
+          "label": "キーチョーカー",
+          "tag": "key_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/key_choker"
+        },
+        {
+          "label": "レースチョーカー",
+          "tag": "lace_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace_choker"
+        },
+        {
+          "label": "レーストリムのチョーカー",
+          "tag": "lace-trimmed_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace-trimmed_choker"
+        },
+        {
+          "label": "Oリングチョーカー",
+          "tag": "o-ring_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/o-ring_choker"
+        },
+        {
+          "label": "ハートリングチョーカー",
+          "tag": "heart_ring_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/heart_ring_choker"
+        },
+        {
+          "label": "ペンダントチョーカー",
+          "tag": "pendant_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/pendant_choker"
+        },
+        {
+          "label": "ウサギのチョーカー",
+          "tag": "rabbit_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit_choker"
+        },
+        {
+          "label": "リボンチョーカー",
+          "tag": "ribbon_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbon_choker"
+        },
+        {
+          "label": "シルバーチョーカー",
+          "tag": "silver_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/silver_choker"
+        },
+        {
+          "label": "スカルチョーカー",
+          "tag": "skull_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/skull_choker"
+        },
+        {
+          "label": "スパイクチョーカー",
+          "tag": "spiked_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/spiked_choker"
+        },
+        {
+          "label": "スターチョーカー",
+          "tag": "star_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/star_choker"
+        },
+        {
+          "label": "ストライプチョーカー",
+          "tag": "striped_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_choker"
+        },
+        {
+          "label": "スタッズチョーカー",
+          "tag": "studded_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/studded_choker"
+        },
+        {
+          "label": "アーガイルチョーカー",
+          "tag": "argyle_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/argyle_choker"
+        },
+        {
+          "label": "チェック柄チョーカー",
+          "tag": "plaid_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/plaid_choker"
+        },
+        {
+          "label": "プリントチョーカー",
+          "tag": "print_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/print_choker"
+        },
+        {
+          "label": "水色のチョーカー",
+          "tag": "aqua_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_choker"
+        },
+        {
+          "label": "黒のチョーカー",
+          "tag": "black_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_choker"
+        },
+        {
+          "label": "青いチョーカー",
+          "tag": "blue_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_choker"
+        },
+        {
+          "label": "ブラウンチョーカー",
+          "tag": "brown_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_choker"
+        },
+        {
+          "label": "グリーンチョーカー",
+          "tag": "green_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_choker"
+        },
+        {
+          "label": "グレーのチョーカー",
+          "tag": "grey_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_choker"
+        },
+        {
+          "label": "オレンジチョーカー",
+          "tag": "orange_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_choker"
+        },
+        {
+          "label": "ピンクのチョーカー",
+          "tag": "pink_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_choker"
+        },
+        {
+          "label": "赤いチョーカー",
+          "tag": "red_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_choker"
+        },
+        {
+          "label": "白いチョーカー",
+          "tag": "white_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_choker"
+        },
+        {
+          "label": "黄色のチョーカー",
+          "tag": "yellow_choker",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_choker"
+        }
+      ]
+    },
+    {
+      "セクション名": "ネッカチーフ",
+      "タグ一覧": [
+        {
+          "label": "ネッカチーフ",
+          "tag": "neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/neckerchief"
+        },
+        {
+          "label": "チェック柄のネッカチーフ",
+          "tag": "checkered_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_neckerchief"
+        },
+        {
+          "label": "ストライプ柄のネッカチーフ",
+          "tag": "striped_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_neckerchief"
+        },
+        {
+          "label": "斜めストライプのネッカチーフ",
+          "tag": "diagonal-striped_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/diagonal-striped_neckerchief"
+        },
+        {
+          "label": "ツートンカラーのネッカチーフ",
+          "tag": "two-tone_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-tone_neckerchief"
+        },
+        {
+          "label": "グラデーションネッカチーフ",
+          "tag": "gradient_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/gradient_neckerchief"
+        },
+        {
+          "label": "多色",
+          "tag": "multicolored",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored"
+        },
+        {
+          "label": "水色のネッカチーフ",
+          "tag": "aqua_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_neckerchief"
+        },
+        {
+          "label": "黒のネッカチーフ",
+          "tag": "black_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_neckerchief"
+        },
+        {
+          "label": "青いネッカチーフ",
+          "tag": "blue_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_neckerchief"
+        },
+        {
+          "label": "茶色のネッカチーフ",
+          "tag": "brown_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_neckerchief"
+        },
+        {
+          "label": "緑のネッカチーフ",
+          "tag": "green_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_neckerchief"
+        },
+        {
+          "label": "グレーのネッカチーフ",
+          "tag": "grey_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_neckerchief"
+        },
+        {
+          "label": "オレンジ色のネッカチーフ",
+          "tag": "orange_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_neckerchief"
+        },
+        {
+          "label": "ピンクのネッカチーフ",
+          "tag": "pink_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_neckerchief"
+        },
+        {
+          "label": "赤いネッカチーフ",
+          "tag": "red_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_neckerchief"
+        },
+        {
+          "label": "白いネッカチーフ",
+          "tag": "white_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_neckerchief"
+        },
+        {
+          "label": "黄色のネッカチーフ",
+          "tag": "yellow_neckerchief",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_neckerchief"
+        }
+      ]
+    },
+    {
+      "セクション名": "ネックレス",
+      "タグ一覧": [
+        {
+          "label": "ネックレス",
+          "tag": "necklace",
+          "link": "https://danbooru.donmai.us/wiki_pages/necklace"
+        },
+        {
+          "label": "チェーンネックレス",
+          "tag": "chain_necklace",
+          "link": "https://danbooru.donmai.us/wiki_pages/chain_necklace"
+        },
+        {
+          "label": "花のネックレス",
+          "tag": "flower_necklace",
+          "link": "https://danbooru.donmai.us/wiki_pages/flower_necklace"
+        },
+        {
+          "label": "レイ",
+          "tag": "lei",
+          "link": "https://danbooru.donmai.us/wiki_pages/lei"
+        },
+        {
+          "label": "友情のお守り",
+          "tag": "friendship_charm",
+          "link": "https://danbooru.donmai.us/wiki_pages/friendship_charm"
+        },
+        {
+          "label": "真珠のネックレス",
+          "tag": "pearl_necklace",
+          "link": "https://danbooru.donmai.us/wiki_pages/pearl_necklace"
+        },
+        {
+          "label": "ペンダント",
+          "tag": "pendant",
+          "link": "https://danbooru.donmai.us/wiki_pages/pendant"
+        },
+        {
+          "label": "お守り",
+          "tag": "amulet",
+          "link": "https://danbooru.donmai.us/wiki_pages/amulet"
+        },
+        {
+          "label": "ロケット",
+          "tag": "locket",
+          "link": "https://danbooru.donmai.us/wiki_pages/locket"
+        },
+        {
+          "label": "勾玉",
+          "tag": "magatama",
+          "link": "https://danbooru.donmai.us/wiki_pages/magatama"
+        },
+        {
+          "label": "ペンタクル",
+          "tag": "pentacle",
+          "link": "https://danbooru.donmai.us/wiki_pages/pentacle"
+        }
+      ]
+    },
+    {
+      "セクション名": "ネクタイ",
+      "タグ一覧": [
+        {
+          "label": "ネクタイ",
+          "tag": "necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/necktie"
+        },
+        {
+          "label": "水色のネクタイ",
+          "tag": "aqua_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_necktie"
+        },
+        {
+          "label": "黒のネクタイ",
+          "tag": "black_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_necktie"
+        },
+        {
+          "label": "青いネクタイ",
+          "tag": "blue_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_necktie"
+        },
+        {
+          "label": "茶色のネクタイ",
+          "tag": "brown_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_necktie"
+        },
+        {
+          "label": "緑のネクタイ",
+          "tag": "green_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_necktie"
+        },
+        {
+          "label": "グレーのネクタイ",
+          "tag": "grey_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_necktie"
+        },
+        {
+          "label": "オレンジ色のネクタイ",
+          "tag": "orange_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_necktie"
+        },
+        {
+          "label": "ピンクのネクタイ",
+          "tag": "pink_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_necktie"
+        },
+        {
+          "label": "赤いネクタイ",
+          "tag": "red_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_necktie"
+        },
+        {
+          "label": "白いネクタイ",
+          "tag": "white_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_necktie"
+        },
+        {
+          "label": "黄色のネクタイ",
+          "tag": "yellow_necktie",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_necktie"
+        }
+      ]
+    },
+    {
+      "セクション名": "スカーフ",
+      "タグ一覧": [
+        {
+          "label": "スカーフ",
+          "tag": "scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/scarf"
+        },
+        {
+          "label": "フリンジトリム",
+          "tag": "fringe_trim",
+          "link": "https://danbooru.donmai.us/wiki_pages/fringe_trim"
+        },
+        {
+          "label": "ファースカーフ",
+          "tag": "fur_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/fur_scarf"
+        },
+        {
+          "label": "毛皮の縁取りのスカーフ",
+          "tag": "fur-trimmed_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/fur-trimmed_scarf"
+        },
+        {
+          "label": "浮かぶスカーフ",
+          "tag": "floating_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/floating_scarf"
+        },
+        {
+          "label": "意思を持つスカーフ",
+          "tag": "sentient_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/sentient_scarf"
+        },
+        {
+          "label": "シースルースカーフ",
+          "tag": "see-through_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/see-through_scarf"
+        },
+        {
+          "label": "アーガイル柄のスカーフ",
+          "tag": "argyle_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/argyle_scarf"
+        },
+        {
+          "label": "迷彩柄スカーフ",
+          "tag": "camouflage_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/camouflage_scarf"
+        },
+        {
+          "label": "水玉模様のスカーフ",
+          "tag": "polka_dot_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot_scarf"
+        },
+        {
+          "label": "ストライプ柄のスカーフ",
+          "tag": "striped_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/striped_scarf"
+        },
+        {
+          "label": "縦縞のスカーフ",
+          "tag": "vertical-striped_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/vertical-striped_scarf"
+        },
+        {
+          "label": "破れたスカーフ",
+          "tag": "torn_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_scarf"
+        },
+        {
+          "label": "グラデーションスカーフ",
+          "tag": "gradient_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/gradient_scarf"
+        },
+        {
+          "label": "マルチカラーのスカーフ",
+          "tag": "multicolored_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_scarf"
+        },
+        {
+          "label": "ツートンカラーのスカーフ",
+          "tag": "two-tone_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-tone_scarf"
+        },
+        {
+          "label": "水色のスカーフ",
+          "tag": "aqua_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/aqua_scarf"
+        },
+        {
+          "label": "黒いスカーフ",
+          "tag": "black_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/black_scarf"
+        },
+        {
+          "label": "青いスカーフ",
+          "tag": "blue_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/blue_scarf"
+        },
+        {
+          "label": "茶色のスカーフ",
+          "tag": "brown_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/brown_scarf"
+        },
+        {
+          "label": "緑のスカーフ",
+          "tag": "green_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/green_scarf"
+        },
+        {
+          "label": "グレーのスカーフ",
+          "tag": "grey_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/grey_scarf"
+        },
+        {
+          "label": "オレンジ色のスカーフ",
+          "tag": "orange_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/orange_scarf"
+        },
+        {
+          "label": "ピンクのスカーフ",
+          "tag": "pink_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/pink_scarf"
+        },
+        {
+          "label": "赤いスカーフ",
+          "tag": "red_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/red_scarf"
+        },
+        {
+          "label": "白いスカーフ",
+          "tag": "white_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/white_scarf"
+        },
+        {
+          "label": "黄色いスカーフ",
+          "tag": "yellow_scarf",
+          "link": "https://danbooru.donmai.us/wiki_pages/yellow_scarf"
+        }
+      ]
+    }
+  ]
 }

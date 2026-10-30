@@ -1,777 +1,777 @@
 ﻿{
-    "カテゴリID":  "video_game",
-    "カテゴリ名":  "ビデオゲーム",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Avideo_game",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "基本",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ビデオゲーム",
-                                         "tag":  "video_game",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/video_game"
-                                     },
-                                     {
-                                         "label":  "ゲームをする",
-                                         "tag":  "playing_games",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playing_games"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ゲーム内",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "スプライト",
-                                         "tag":  "sprite",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sprite"
-                                     },
-                                     {
-                                         "label":  "プレイヤー2",
-                                         "tag":  "player_2",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/player_2"
-                                     },
-                                     {
-                                         "label":  "セーブポイント",
-                                         "tag":  "save_point",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/save_point"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ビデオゲームのジャンル",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "格闘ゲーム",
-                                         "tag":  "fighting_game",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fighting_game"
-                                     },
-                                     {
-                                         "label":  "MMORPG",
-                                         "tag":  "mmorpg",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mmorpg"
-                                     },
-                                     {
-                                         "label":  "ビジュアルノベル",
-                                         "tag":  "visual_novel",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/visual_novel"
-                                     },
-                                     {
-                                         "label":  "エロゲ",
-                                         "tag":  "eroge",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eroge"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ゲーム画面",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "キャラクター選択",
-                                         "tag":  "character_select",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/character_select"
-                                     },
-                                     {
-                                         "label":  "ゲームオーバー",
-                                         "tag":  "game_over",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_over"
-                                     },
-                                     {
-                                         "label":  "ボス戦",
-                                         "tag":  "boss_fight",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/boss_fight"
-                                     },
-                                     {
-                                         "label":  "タイトル画面",
-                                         "tag":  "title_screen",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/title_screen"
-                                     },
-                                     {
-                                         "label":  "VS",
-                                         "tag":  "vs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/vs"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "攻撃、行動、体力、ダメージ",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "コマンド入力",
-                                         "tag":  "command_input",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/command_input"
-                                     },
-                                     {
-                                         "label":  "弾幕",
-                                         "tag":  "danmaku",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/danmaku"
-                                     },
-                                     {
-                                         "label":  "ダメージ数値",
-                                         "tag":  "damage_numbers",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/damage_numbers"
-                                     },
-                                     {
-                                         "label":  "波動拳",
-                                         "tag":  "hadouken",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hadouken"
-                                     },
-                                     {
-                                         "label":  "ヘルスバー",
-                                         "tag":  "health_bar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/health_bar"
-                                     },
-                                     {
-                                         "label":  "ヒットボックス",
-                                         "tag":  "hitbox",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/hitbox"
-                                     },
-                                     {
-                                         "label":  "技のコマンド表",
-                                         "tag":  "move_chart",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/move_chart"
-                                     },
-                                     {
-                                         "label":  "ポケモンバトル",
-                                         "tag":  "pokemon_battle",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pokemon_battle"
-                                     },
-                                     {
-                                         "label":  "パワーレベル",
-                                         "tag":  "power_level",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/power_level"
-                                     },
-                                     {
-                                         "label":  "昇龍拳",
-                                         "tag":  "shouryuuken",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shouryuuken"
-                                     },
-                                     {
-                                         "label":  "瞬極殺",
-                                         "tag":  "shun_goku_satsu",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shun_goku_satsu"
-                                     },
-                                     {
-                                         "label":  "スピニングバードキック",
-                                         "tag":  "spinning_bird_kick",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/spinning_bird_kick"
-                                     },
-                                     {
-                                         "label":  "竜巻旋風脚",
-                                         "tag":  "tatsumaki_senpuukyaku",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tatsumaki_senpuukyaku"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "特定のビデオゲーム",
-                        "タグ一覧":  [
-                                     {
-          "label":  "タググループ:格闘ゲーム",
-                                         "tag":  "tag_group%3Afighting_games",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Afighting_games"
-                                     },
-                                     {
-          "label":  "タググループ:プラットフォームゲーム",
-                                         "tag":  "tag_group%3Aplatform_games",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aplatform_games"
-                                     },
-                                     {
-          "label":  "タググループ:RPG",
-                                         "tag":  "tag_group%3Arole-playing_games",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Arole-playing_games"
-                                     },
-                                     {
-          "label":  "タググループ:シューティングゲーム",
-                                         "tag":  "tag_group%3Ashooter_games",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Ashooter_games"
-                                     },
-                                     {
-          "label":  "タググループ:ビジュアルノベルゲーム",
-                                         "tag":  "tag_group%3Avisual_novel_games",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Avisual_novel_games"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ゲームメーカー",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アークシステムワークス",
-                                         "tag":  "arc_system_works",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/arc_system_works"
-                                     },
-                                     {
-                                         "label":  "アトラス",
-                                         "tag":  "atlus",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/atlus"
-                                     },
-                                     {
-                                         "label":  "カプコン",
-                                         "tag":  "capcom",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/capcom"
-                                     },
-                                     {
-                                         "label":  "ケイブ",
-                                         "tag":  "cave_%28developer%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cave_%28developer%29"
-                                     },
-                                     {
-                                         "label":  "ファルコム",
-                                         "tag":  "falcom",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/falcom"
-                                     },
-                                     {
-                                         "label":  "ガスト",
-                                         "tag":  "gust",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gust"
-                                     },
-                                     {
-                                         "label":  "アイデアファクトリー",
-                                         "tag":  "idea_factory",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/idea_factory"
-                                     },
-                                     {
-                                         "label":  "コナミ",
-                                         "tag":  "konami",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/konami"
-                                     },
-                                     {
-                                         "label":  "マイクロソフト",
-                                         "tag":  "microsoft",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/microsoft"
-                                     },
-                                     {
-                                         "label":  "ナムコ",
-                                         "tag":  "namco",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/namco"
-                                     },
-                                     {
-                                         "label":  "任天堂",
-                                         "tag":  "nintendo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo"
-                                     },
-                                     {
-                                         "label":  "日本一",
-                                         "tag":  "nippon_ichi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nippon_ichi"
-                                     },
-                                     {
-                                         "label":  "セガ",
-                                         "tag":  "sega",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega"
-                                     },
-                                     {
-                                         "label":  "彩京",
-                                         "tag":  "psikyo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/psikyo"
-                                     },
-                                     {
-                                         "label":  "SNK",
-                                         "tag":  "snk",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/snk"
-                                     },
-                                     {
-                                         "label":  "ソニー",
-                                         "tag":  "sony",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sony"
-                                     },
-                                     {
-                                         "label":  "スクウェア・エニックス",
-                                         "tag":  "square_enix",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/square_enix"
-                                     },
-                                     {
-                                         "label":  "サンソフト",
-                                         "tag":  "sunsoft",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sunsoft"
-                                     },
-                                     {
-                                         "label":  "タイプムーン",
-                                         "tag":  "type-moon",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/type-moon"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ハードウェア",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "コンピューター",
-                                         "tag":  "computer",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/computer"
-                                     },
-                                     {
-                                         "label":  "ゲームカートリッジ",
-                                         "tag":  "game_cartridge",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_cartridge"
-                                     },
-                                     {
-                                         "label":  "ファミコンカートリッジ",
-                                         "tag":  "famicom_cartridge",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/famicom_cartridge"
-                                     },
-                                     {
-                                         "label":  "ゲームボーイカートリッジ",
-                                         "tag":  "game_boy_cartridge",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_boy_cartridge"
-                                     },
-                                     {
-                                         "label":  "スーパーファミコンカートリッジ",
-                                         "tag":  "super_famicom_cartridge",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/super_famicom_cartridge"
-                                     },
-                                     {
-                                         "label":  "ゲーム機",
-                                         "tag":  "game_console",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_console"
-                                     },
-                                     {
-                                         "label":  "ゲームコントローラー",
-                                         "tag":  "game_controller",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_controller"
-                                     },
-                                     {
-                                         "label":  "アーケードスティック",
-                                         "tag":  "arcade_stick",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/arcade_stick"
-                                     },
-                                     {
-                                         "label":  "ダンスパッド",
-                                         "tag":  "dance_pad",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dance_pad"
-                                     },
-                                     {
-                                         "label":  "ドリームキャストコントローラー",
-                                         "tag":  "dreamcast_controller",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dreamcast_controller"
-                                     },
-                                     {
-                                         "label":  "デュアルショック",
-                                         "tag":  "dualshock",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dualshock"
-                                     },
-                                     {
-                                         "label":  "ファミコンゲームパッド",
-                                         "tag":  "famicom_gamepad",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/famicom_gamepad"
-                                     },
-                                     {
-                                         "label":  "ゲームキューブコントローラー",
-                                         "tag":  "gamecube_controller",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gamecube_controller"
-                                     },
-                                     {
-                                         "label":  "ゲームパッド",
-                                         "tag":  "gamepad",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gamepad"
-                                     },
-                                     {
-                                         "label":  "ジョイスティック",
-                                         "tag":  "joystick",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/joystick"
-                                     },
-                                     {
-                                         "label":  "キネクト",
-                                         "tag":  "kinect",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kinect"
-                                     },
-                                     {
-                                         "label":  "ニンテンドー64コントローラー",
-                                         "tag":  "nintendo_64_controller",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_64_controller"
-                                     },
-                                     {
-                                         "label":  "Nintendo Switch Proコントローラー",
-                                         "tag":  "nintendo_switch_pro_controller",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_switch_pro_controller"
-                                     },
-                                     {
-                                         "label":  "プレイステーションコントローラー",
-                                         "tag":  "playstation_controller",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playstation_controller"
-                                     },
-                                     {
-                                         "label":  "プレイステーションムーブ",
-                                         "tag":  "playstation_move",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playstation_move"
-                                     },
-                                     {
-                                         "label":  "スーパーファミコンのゲームパッド",
-                                         "tag":  "super_famicom_gamepad",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/super_famicom_gamepad"
-                                     },
-                                     {
-                                         "label":  "バランスWiiボード",
-                                         "tag":  "wii_balance_board",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wii_balance_board"
-                                     },
-                                     {
-                                         "label":  "Wii レーシングホイール",
-                                         "tag":  "wii_racing_wheel",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wii_racing_wheel"
-                                     },
-                                     {
-                                         "label":  "Wiiリモコン",
-                                         "tag":  "wii_remote",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wii_remote"
-                                     },
-                                     {
-                                         "label":  "Wii U ゲームパッド",
-                                         "tag":  "wii_u_gamepad",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wii_u_gamepad"
-                                     },
-                                     {
-                                         "label":  "Xboxコントローラー",
-                                         "tag":  "xbox_controller",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/xbox_controller"
-                                     },
-                                     {
-                                         "label":  "携帯型ゲーム機",
-                                         "tag":  "handheld_game_console",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/handheld_game_console"
-                                     },
-                                     {
-                                         "label":  "アタリ 2600",
-                                         "tag":  "atari_2600",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/atari_2600"
-                                     },
-                                     {
-                                         "label":  "アタリジャガー",
-                                         "tag":  "atari_jaguar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/atari_jaguar"
-                                     },
-                                     {
-                                         "label":  "アタリ リンクス",
-                                         "tag":  "atari_lynx",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/atari_lynx"
-                                     },
-                                     {
-                                         "label":  "グーグル・スタディア",
-                                         "tag":  "google_stadia",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/google_stadia"
-                                     },
-                                     {
-                                         "label":  "Xbox",
-                                         "tag":  "xbox_%28original%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/xbox_%28original%29"
-                                     },
-                                     {
-                                         "label":  "Xbox 360",
-                                         "tag":  "xbox_360",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/xbox_360"
-                                     },
-                                     {
-                                         "label":  "Xbox One",
-                                         "tag":  "xbox_one",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/xbox_one"
-                                     },
-                                     {
-                                         "label":  "XboxシリーズX",
-                                         "tag":  "xbox_series_x",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/xbox_series_x"
-                                     },
-                                     {
-                                         "label":  "NES（海外版ファミコン）",
-                                         "tag":  "nes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nes"
-                                     },
-                                     {
-                                         "label":  "ファミリーコンピュータ",
-                                         "tag":  "famicom",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/famicom"
-                                     },
-                                     {
-                                         "label":  "ファミコン ディスクシステム",
-                                         "tag":  "famicom_disk_system",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/famicom_disk_system"
-                                     },
-                                     {
-                                         "label":  "SNES（海外版スーパーファミコン）",
-                                         "tag":  "super_nintendo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/super_nintendo"
-                                     },
-                                     {
-                                         "label":  "スーパーファミコン",
-                                         "tag":  "super_famicom",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/super_famicom"
-                                     },
-                                     {
-                                         "label":  "バーチャルボーイ",
-                                         "tag":  "virtual_boy",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/virtual_boy"
-                                     },
-                                     {
-                                         "label":  "ニンテンドー64",
-                                         "tag":  "nintendo_64",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_64"
-                                     },
-                                     {
-                                         "label":  "ニンテンドー64DD",
-                                         "tag":  "nintendo_64dd",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_64dd"
-                                     },
-                                     {
-                                         "label":  "ニンテンドーゲームキューブ",
-                                         "tag":  "gamecube",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gamecube"
-                                     },
-                                     {
-                                         "label":  "任天堂Wii",
-                                         "tag":  "wii",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wii"
-                                     },
-                                     {
-                                         "label":  "WiiU",
-                                         "tag":  "wii_u",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wii_u"
-                                     },
-                                     {
-                                         "label":  "ニンテンドースイッチ",
-                                         "tag":  "nintendo_switch",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_switch"
-                                     },
-                                     {
-                                         "label":  "ニンテンドースイッチライト",
-                                         "tag":  "nintendo_switch_lite",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_switch_lite"
-                                     },
-                                     {
-                                         "label":  "ゲームボーイ",
-                                         "tag":  "game_boy",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_boy"
-                                     },
-                                     {
-                                         "label":  "ゲームボーイポケット",
-                                         "tag":  "game_boy_pocket",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_boy_pocket"
-                                     },
-                                     {
-                                         "label":  "ゲームリンクケーブル",
-                                         "tag":  "game_link_cable",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_link_cable"
-                                     },
-                                     {
-                                         "label":  "ゲームボーイカラー",
-                                         "tag":  "game_boy_color",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_boy_color"
-                                     },
-                                     {
-                                         "label":  "ゲームボーイアドバンス",
-                                         "tag":  "game_boy_advance",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_boy_advance"
-                                     },
-                                     {
-                                         "label":  "ゲームボーイアドバンスSP",
-                                         "tag":  "game_boy_advance_sp",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_boy_advance_sp"
-                                     },
-                                     {
-                                         "label":  "ゲームボーイミクロ",
-                                         "tag":  "game_boy_micro",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_boy_micro"
-                                     },
-                                     {
-                                         "label":  "ニンテンドーDS",
-                                         "tag":  "nintendo_ds",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_ds"
-                                     },
-                                     {
-                                         "label":  "ニンテンドーDS Lite",
-                                         "tag":  "nintendo_ds_lite",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_ds_lite"
-                                     },
-                                     {
-                                         "label":  "ニンテンドーDSi",
-                                         "tag":  "nintendo_dsi",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_dsi"
-                                     },
-                                     {
-                                         "label":  "ニンテンドー3DS",
-                                         "tag":  "nintendo_3ds",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_3ds"
-                                     },
-                                     {
-                                         "label":  "Newニンテンドー3DS",
-                                         "tag":  "new_nintendo_3ds",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/new_nintendo_3ds"
-                                     },
-                                     {
-                                         "label":  "Newニンテンドー3DS LL",
-                                         "tag":  "new_nintendo_3ds_ll",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/new_nintendo_3ds_ll"
-                                     },
-                                     {
-                                         "label":  "ニンテンドー2DS",
-                                         "tag":  "nintendo_2ds",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_2ds"
-                                     },
-                                     {
-                                         "label":  "ニンテンドー3DS LL",
-                                         "tag":  "nintendo_3ds_ll",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nintendo_3ds_ll"
-                                     },
-                                     {
-                                         "label":  "セガ SC-3000",
-                                         "tag":  "sega_sc-3000",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_sc-3000"
-                                     },
-                                     {
-                                         "label":  "セガ SG-1000",
-                                         "tag":  "sega_sg-1000",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_sg-1000"
-                                     },
-                                     {
-                                         "label":  "セガ ゲームギア",
-                                         "tag":  "sega_game_gear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_game_gear"
-                                     },
-                                     {
-                                         "label":  "セガ マスターシステム",
-                                         "tag":  "sega_master_system",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_master_system"
-                                     },
-                                     {
-                                         "label":  "セガ マーク III",
-                                         "tag":  "sega_mark_iii",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_mark_iii"
-                                     },
-                                     {
-                                         "label":  "セガメガドライブ",
-                                         "tag":  "sega_mega_drive",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_mega_drive"
-                                     },
-                                     {
-                                         "label":  "セガ32X",
-                                         "tag":  "sega_32x",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_32x"
-                                     },
-                                     {
-                                         "label":  "セガCD",
-                                         "tag":  "sega_cd",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_cd"
-                                     },
-                                     {
-                                         "label":  "セガサターン",
-                                         "tag":  "sega_saturn",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_saturn"
-                                     },
-                                     {
-                                         "label":  "セガ ドリームキャスト",
-                                         "tag":  "sega_dreamcast",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/sega_dreamcast"
-                                     },
-                                     {
-                                         "label":  "ネオジオ",
-                                         "tag":  "neo_geo",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neo_geo"
-                                     },
-                                     {
-                                         "label":  "ネオジオCD",
-                                         "tag":  "neo_geo_cd",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neo_geo_cd"
-                                     },
-                                     {
-                                         "label":  "ネオジオミニ",
-                                         "tag":  "neo_geo_mini",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neo_geo_mini"
-                                     },
-                                     {
-                                         "label":  "ネオジオポケットカラー",
-                                         "tag":  "neo_geo_pocket_color",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neo_geo_pocket_color"
-                                     },
-                                     {
-                                         "label":  "プレイステーション1",
-                                         "tag":  "playstation_1",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playstation_1"
-                                     },
-                                     {
-                                         "label":  "プレイステーション2",
-                                         "tag":  "playstation_2",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playstation_2"
-                                     },
-                                     {
-                                         "label":  "プレイステーション3",
-                                         "tag":  "playstation_3",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playstation_3"
-                                     },
-                                     {
-                                         "label":  "プレイステーション4",
-                                         "tag":  "playstation_4",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playstation_4"
-                                     },
-                                     {
-                                         "label":  "プレイステーション5",
-                                         "tag":  "playstation_5",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playstation_5"
-                                     },
-                                     {
-                                         "label":  "プレイステーション・ポータブル",
-                                         "tag":  "playstation_portable",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playstation_portable"
-                                     },
-                                     {
-                                         "label":  "プレイステーション ヴィータ",
-                                         "tag":  "playstation_vita",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playstation_vita"
-                                     },
-                                     {
-                                         "label":  "プレイディア",
-                                         "tag":  "playdia",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/playdia"
-                                     },
-                                     {
-                                         "label":  "ワンダースワン",
-                                         "tag":  "wonderswan",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/wonderswan"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "画像の出典",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ゲームCG",
-                                         "tag":  "game_cg",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/game_cg"
-                                     },
-                                     {
-                                         "label":  "フェイクスクリーンショット",
-                                         "tag":  "fake_screenshot",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fake_screenshot"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "フラッシュゲーム",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "Flash",
-                                         "tag":  "flash",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flash"
-                                     },
-                                     {
-                                         "label":  "フラッシュゲーム",
-                                         "tag":  "flash_game",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/flash_game"
-                                     },
-                                     {
-                                         "label":  "操作可能な作品",
-                                         "tag":  "interactive",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/interactive"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "参照",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "メタウィキのリスト",
-                                         "tag":  "list_of_meta-wikis",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "video_game",
+  "カテゴリ名": "ビデオゲーム",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Avideo_game",
+  "セクション一覧": [
+    {
+      "セクション名": "基本",
+      "タグ一覧": [
+        {
+          "label": "ビデオゲーム",
+          "tag": "video_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/video_game"
+        },
+        {
+          "label": "ゲームをする",
+          "tag": "playing_games",
+          "link": "https://danbooru.donmai.us/wiki_pages/playing_games"
+        }
+      ]
+    },
+    {
+      "セクション名": "ゲーム内",
+      "タグ一覧": [
+        {
+          "label": "スプライト",
+          "tag": "sprite",
+          "link": "https://danbooru.donmai.us/wiki_pages/sprite"
+        },
+        {
+          "label": "プレイヤー2",
+          "tag": "player_2",
+          "link": "https://danbooru.donmai.us/wiki_pages/player_2"
+        },
+        {
+          "label": "セーブポイント",
+          "tag": "save_point",
+          "link": "https://danbooru.donmai.us/wiki_pages/save_point"
+        }
+      ]
+    },
+    {
+      "セクション名": "ビデオゲームのジャンル",
+      "タグ一覧": [
+        {
+          "label": "格闘ゲーム",
+          "tag": "fighting_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/fighting_game"
+        },
+        {
+          "label": "MMORPG",
+          "tag": "mmorpg",
+          "link": "https://danbooru.donmai.us/wiki_pages/mmorpg"
+        },
+        {
+          "label": "ビジュアルノベル",
+          "tag": "visual_novel",
+          "link": "https://danbooru.donmai.us/wiki_pages/visual_novel"
+        },
+        {
+          "label": "エロゲ",
+          "tag": "eroge",
+          "link": "https://danbooru.donmai.us/wiki_pages/eroge"
+        }
+      ]
+    },
+    {
+      "セクション名": "ゲーム画面",
+      "タグ一覧": [
+        {
+          "label": "キャラクター選択",
+          "tag": "character_select",
+          "link": "https://danbooru.donmai.us/wiki_pages/character_select"
+        },
+        {
+          "label": "ゲームオーバー",
+          "tag": "game_over",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_over"
+        },
+        {
+          "label": "ボス戦",
+          "tag": "boss_fight",
+          "link": "https://danbooru.donmai.us/wiki_pages/boss_fight"
+        },
+        {
+          "label": "タイトル画面",
+          "tag": "title_screen",
+          "link": "https://danbooru.donmai.us/wiki_pages/title_screen"
+        },
+        {
+          "label": "VS",
+          "tag": "vs",
+          "link": "https://danbooru.donmai.us/wiki_pages/vs"
+        }
+      ]
+    },
+    {
+      "セクション名": "攻撃、行動、体力、ダメージ",
+      "タグ一覧": [
+        {
+          "label": "コマンド入力",
+          "tag": "command_input",
+          "link": "https://danbooru.donmai.us/wiki_pages/command_input"
+        },
+        {
+          "label": "弾幕",
+          "tag": "danmaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/danmaku"
+        },
+        {
+          "label": "ダメージ数値",
+          "tag": "damage_numbers",
+          "link": "https://danbooru.donmai.us/wiki_pages/damage_numbers"
+        },
+        {
+          "label": "波動拳",
+          "tag": "hadouken",
+          "link": "https://danbooru.donmai.us/wiki_pages/hadouken"
+        },
+        {
+          "label": "ヘルスバー",
+          "tag": "health_bar",
+          "link": "https://danbooru.donmai.us/wiki_pages/health_bar"
+        },
+        {
+          "label": "ヒットボックス",
+          "tag": "hitbox",
+          "link": "https://danbooru.donmai.us/wiki_pages/hitbox"
+        },
+        {
+          "label": "技のコマンド表",
+          "tag": "move_chart",
+          "link": "https://danbooru.donmai.us/wiki_pages/move_chart"
+        },
+        {
+          "label": "ポケモンバトル",
+          "tag": "pokemon_battle",
+          "link": "https://danbooru.donmai.us/wiki_pages/pokemon_battle"
+        },
+        {
+          "label": "パワーレベル",
+          "tag": "power_level",
+          "link": "https://danbooru.donmai.us/wiki_pages/power_level"
+        },
+        {
+          "label": "昇龍拳",
+          "tag": "shouryuuken",
+          "link": "https://danbooru.donmai.us/wiki_pages/shouryuuken"
+        },
+        {
+          "label": "瞬極殺",
+          "tag": "shun_goku_satsu",
+          "link": "https://danbooru.donmai.us/wiki_pages/shun_goku_satsu"
+        },
+        {
+          "label": "スピニングバードキック",
+          "tag": "spinning_bird_kick",
+          "link": "https://danbooru.donmai.us/wiki_pages/spinning_bird_kick"
+        },
+        {
+          "label": "竜巻旋風脚",
+          "tag": "tatsumaki_senpuukyaku",
+          "link": "https://danbooru.donmai.us/wiki_pages/tatsumaki_senpuukyaku"
+        }
+      ]
+    },
+    {
+      "セクション名": "特定のビデオゲーム",
+      "タグ一覧": [
+        {
+          "label": "タググループ:格闘ゲーム",
+          "tag": "tag_group%3Afighting_games",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afighting_games"
+        },
+        {
+          "label": "タググループ:プラットフォームゲーム",
+          "tag": "tag_group%3Aplatform_games",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aplatform_games"
+        },
+        {
+          "label": "タググループ:RPG",
+          "tag": "tag_group%3Arole-playing_games",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Arole-playing_games"
+        },
+        {
+          "label": "タググループ:シューティングゲーム",
+          "tag": "tag_group%3Ashooter_games",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ashooter_games"
+        },
+        {
+          "label": "タググループ:ビジュアルノベルゲーム",
+          "tag": "tag_group%3Avisual_novel_games",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Avisual_novel_games"
+        }
+      ]
+    },
+    {
+      "セクション名": "ゲームメーカー",
+      "タグ一覧": [
+        {
+          "label": "アークシステムワークス",
+          "tag": "arc_system_works",
+          "link": "https://danbooru.donmai.us/wiki_pages/arc_system_works"
+        },
+        {
+          "label": "アトラス",
+          "tag": "atlus",
+          "link": "https://danbooru.donmai.us/wiki_pages/atlus"
+        },
+        {
+          "label": "カプコン",
+          "tag": "capcom",
+          "link": "https://danbooru.donmai.us/wiki_pages/capcom"
+        },
+        {
+          "label": "ケイブ",
+          "tag": "cave_%28developer%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/cave_%28developer%29"
+        },
+        {
+          "label": "ファルコム",
+          "tag": "falcom",
+          "link": "https://danbooru.donmai.us/wiki_pages/falcom"
+        },
+        {
+          "label": "ガスト",
+          "tag": "gust",
+          "link": "https://danbooru.donmai.us/wiki_pages/gust"
+        },
+        {
+          "label": "アイデアファクトリー",
+          "tag": "idea_factory",
+          "link": "https://danbooru.donmai.us/wiki_pages/idea_factory"
+        },
+        {
+          "label": "コナミ",
+          "tag": "konami",
+          "link": "https://danbooru.donmai.us/wiki_pages/konami"
+        },
+        {
+          "label": "マイクロソフト",
+          "tag": "microsoft",
+          "link": "https://danbooru.donmai.us/wiki_pages/microsoft"
+        },
+        {
+          "label": "ナムコ",
+          "tag": "namco",
+          "link": "https://danbooru.donmai.us/wiki_pages/namco"
+        },
+        {
+          "label": "任天堂",
+          "tag": "nintendo",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo"
+        },
+        {
+          "label": "日本一",
+          "tag": "nippon_ichi",
+          "link": "https://danbooru.donmai.us/wiki_pages/nippon_ichi"
+        },
+        {
+          "label": "セガ",
+          "tag": "sega",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega"
+        },
+        {
+          "label": "彩京",
+          "tag": "psikyo",
+          "link": "https://danbooru.donmai.us/wiki_pages/psikyo"
+        },
+        {
+          "label": "SNK",
+          "tag": "snk",
+          "link": "https://danbooru.donmai.us/wiki_pages/snk"
+        },
+        {
+          "label": "ソニー",
+          "tag": "sony",
+          "link": "https://danbooru.donmai.us/wiki_pages/sony"
+        },
+        {
+          "label": "スクウェア・エニックス",
+          "tag": "square_enix",
+          "link": "https://danbooru.donmai.us/wiki_pages/square_enix"
+        },
+        {
+          "label": "サンソフト",
+          "tag": "sunsoft",
+          "link": "https://danbooru.donmai.us/wiki_pages/sunsoft"
+        },
+        {
+          "label": "タイプムーン",
+          "tag": "type-moon",
+          "link": "https://danbooru.donmai.us/wiki_pages/type-moon"
+        }
+      ]
+    },
+    {
+      "セクション名": "ハードウェア",
+      "タグ一覧": [
+        {
+          "label": "コンピューター",
+          "tag": "computer",
+          "link": "https://danbooru.donmai.us/wiki_pages/computer"
+        },
+        {
+          "label": "ゲームカートリッジ",
+          "tag": "game_cartridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_cartridge"
+        },
+        {
+          "label": "ファミコンカートリッジ",
+          "tag": "famicom_cartridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/famicom_cartridge"
+        },
+        {
+          "label": "ゲームボーイカートリッジ",
+          "tag": "game_boy_cartridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_boy_cartridge"
+        },
+        {
+          "label": "スーパーファミコンカートリッジ",
+          "tag": "super_famicom_cartridge",
+          "link": "https://danbooru.donmai.us/wiki_pages/super_famicom_cartridge"
+        },
+        {
+          "label": "ゲーム機",
+          "tag": "game_console",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_console"
+        },
+        {
+          "label": "ゲームコントローラー",
+          "tag": "game_controller",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_controller"
+        },
+        {
+          "label": "アーケードスティック",
+          "tag": "arcade_stick",
+          "link": "https://danbooru.donmai.us/wiki_pages/arcade_stick"
+        },
+        {
+          "label": "ダンスパッド",
+          "tag": "dance_pad",
+          "link": "https://danbooru.donmai.us/wiki_pages/dance_pad"
+        },
+        {
+          "label": "ドリームキャストコントローラー",
+          "tag": "dreamcast_controller",
+          "link": "https://danbooru.donmai.us/wiki_pages/dreamcast_controller"
+        },
+        {
+          "label": "デュアルショック",
+          "tag": "dualshock",
+          "link": "https://danbooru.donmai.us/wiki_pages/dualshock"
+        },
+        {
+          "label": "ファミコンゲームパッド",
+          "tag": "famicom_gamepad",
+          "link": "https://danbooru.donmai.us/wiki_pages/famicom_gamepad"
+        },
+        {
+          "label": "ゲームキューブコントローラー",
+          "tag": "gamecube_controller",
+          "link": "https://danbooru.donmai.us/wiki_pages/gamecube_controller"
+        },
+        {
+          "label": "ゲームパッド",
+          "tag": "gamepad",
+          "link": "https://danbooru.donmai.us/wiki_pages/gamepad"
+        },
+        {
+          "label": "ジョイスティック",
+          "tag": "joystick",
+          "link": "https://danbooru.donmai.us/wiki_pages/joystick"
+        },
+        {
+          "label": "キネクト",
+          "tag": "kinect",
+          "link": "https://danbooru.donmai.us/wiki_pages/kinect"
+        },
+        {
+          "label": "ニンテンドー64コントローラー",
+          "tag": "nintendo_64_controller",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_64_controller"
+        },
+        {
+          "label": "Nintendo Switch Proコントローラー",
+          "tag": "nintendo_switch_pro_controller",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_switch_pro_controller"
+        },
+        {
+          "label": "プレイステーションコントローラー",
+          "tag": "playstation_controller",
+          "link": "https://danbooru.donmai.us/wiki_pages/playstation_controller"
+        },
+        {
+          "label": "プレイステーションムーブ",
+          "tag": "playstation_move",
+          "link": "https://danbooru.donmai.us/wiki_pages/playstation_move"
+        },
+        {
+          "label": "スーパーファミコンのゲームパッド",
+          "tag": "super_famicom_gamepad",
+          "link": "https://danbooru.donmai.us/wiki_pages/super_famicom_gamepad"
+        },
+        {
+          "label": "バランスWiiボード",
+          "tag": "wii_balance_board",
+          "link": "https://danbooru.donmai.us/wiki_pages/wii_balance_board"
+        },
+        {
+          "label": "Wii レーシングホイール",
+          "tag": "wii_racing_wheel",
+          "link": "https://danbooru.donmai.us/wiki_pages/wii_racing_wheel"
+        },
+        {
+          "label": "Wiiリモコン",
+          "tag": "wii_remote",
+          "link": "https://danbooru.donmai.us/wiki_pages/wii_remote"
+        },
+        {
+          "label": "Wii U ゲームパッド",
+          "tag": "wii_u_gamepad",
+          "link": "https://danbooru.donmai.us/wiki_pages/wii_u_gamepad"
+        },
+        {
+          "label": "Xboxコントローラー",
+          "tag": "xbox_controller",
+          "link": "https://danbooru.donmai.us/wiki_pages/xbox_controller"
+        },
+        {
+          "label": "携帯型ゲーム機",
+          "tag": "handheld_game_console",
+          "link": "https://danbooru.donmai.us/wiki_pages/handheld_game_console"
+        },
+        {
+          "label": "アタリ 2600",
+          "tag": "atari_2600",
+          "link": "https://danbooru.donmai.us/wiki_pages/atari_2600"
+        },
+        {
+          "label": "アタリジャガー",
+          "tag": "atari_jaguar",
+          "link": "https://danbooru.donmai.us/wiki_pages/atari_jaguar"
+        },
+        {
+          "label": "アタリ リンクス",
+          "tag": "atari_lynx",
+          "link": "https://danbooru.donmai.us/wiki_pages/atari_lynx"
+        },
+        {
+          "label": "グーグル・スタディア",
+          "tag": "google_stadia",
+          "link": "https://danbooru.donmai.us/wiki_pages/google_stadia"
+        },
+        {
+          "label": "Xbox",
+          "tag": "xbox_%28original%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/xbox_%28original%29"
+        },
+        {
+          "label": "Xbox 360",
+          "tag": "xbox_360",
+          "link": "https://danbooru.donmai.us/wiki_pages/xbox_360"
+        },
+        {
+          "label": "Xbox One",
+          "tag": "xbox_one",
+          "link": "https://danbooru.donmai.us/wiki_pages/xbox_one"
+        },
+        {
+          "label": "XboxシリーズX",
+          "tag": "xbox_series_x",
+          "link": "https://danbooru.donmai.us/wiki_pages/xbox_series_x"
+        },
+        {
+          "label": "NES（海外版ファミコン）",
+          "tag": "nes",
+          "link": "https://danbooru.donmai.us/wiki_pages/nes"
+        },
+        {
+          "label": "ファミリーコンピュータ",
+          "tag": "famicom",
+          "link": "https://danbooru.donmai.us/wiki_pages/famicom"
+        },
+        {
+          "label": "ファミコン ディスクシステム",
+          "tag": "famicom_disk_system",
+          "link": "https://danbooru.donmai.us/wiki_pages/famicom_disk_system"
+        },
+        {
+          "label": "SNES（海外版スーパーファミコン）",
+          "tag": "super_nintendo",
+          "link": "https://danbooru.donmai.us/wiki_pages/super_nintendo"
+        },
+        {
+          "label": "スーパーファミコン",
+          "tag": "super_famicom",
+          "link": "https://danbooru.donmai.us/wiki_pages/super_famicom"
+        },
+        {
+          "label": "バーチャルボーイ",
+          "tag": "virtual_boy",
+          "link": "https://danbooru.donmai.us/wiki_pages/virtual_boy"
+        },
+        {
+          "label": "ニンテンドー64",
+          "tag": "nintendo_64",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_64"
+        },
+        {
+          "label": "ニンテンドー64DD",
+          "tag": "nintendo_64dd",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_64dd"
+        },
+        {
+          "label": "ニンテンドーゲームキューブ",
+          "tag": "gamecube",
+          "link": "https://danbooru.donmai.us/wiki_pages/gamecube"
+        },
+        {
+          "label": "任天堂Wii",
+          "tag": "wii",
+          "link": "https://danbooru.donmai.us/wiki_pages/wii"
+        },
+        {
+          "label": "WiiU",
+          "tag": "wii_u",
+          "link": "https://danbooru.donmai.us/wiki_pages/wii_u"
+        },
+        {
+          "label": "ニンテンドースイッチ",
+          "tag": "nintendo_switch",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_switch"
+        },
+        {
+          "label": "ニンテンドースイッチライト",
+          "tag": "nintendo_switch_lite",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_switch_lite"
+        },
+        {
+          "label": "ゲームボーイ",
+          "tag": "game_boy",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_boy"
+        },
+        {
+          "label": "ゲームボーイポケット",
+          "tag": "game_boy_pocket",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_boy_pocket"
+        },
+        {
+          "label": "ゲームリンクケーブル",
+          "tag": "game_link_cable",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_link_cable"
+        },
+        {
+          "label": "ゲームボーイカラー",
+          "tag": "game_boy_color",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_boy_color"
+        },
+        {
+          "label": "ゲームボーイアドバンス",
+          "tag": "game_boy_advance",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_boy_advance"
+        },
+        {
+          "label": "ゲームボーイアドバンスSP",
+          "tag": "game_boy_advance_sp",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_boy_advance_sp"
+        },
+        {
+          "label": "ゲームボーイミクロ",
+          "tag": "game_boy_micro",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_boy_micro"
+        },
+        {
+          "label": "ニンテンドーDS",
+          "tag": "nintendo_ds",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_ds"
+        },
+        {
+          "label": "ニンテンドーDS Lite",
+          "tag": "nintendo_ds_lite",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_ds_lite"
+        },
+        {
+          "label": "ニンテンドーDSi",
+          "tag": "nintendo_dsi",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_dsi"
+        },
+        {
+          "label": "ニンテンドー3DS",
+          "tag": "nintendo_3ds",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_3ds"
+        },
+        {
+          "label": "Newニンテンドー3DS",
+          "tag": "new_nintendo_3ds",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_nintendo_3ds"
+        },
+        {
+          "label": "Newニンテンドー3DS LL",
+          "tag": "new_nintendo_3ds_ll",
+          "link": "https://danbooru.donmai.us/wiki_pages/new_nintendo_3ds_ll"
+        },
+        {
+          "label": "ニンテンドー2DS",
+          "tag": "nintendo_2ds",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_2ds"
+        },
+        {
+          "label": "ニンテンドー3DS LL",
+          "tag": "nintendo_3ds_ll",
+          "link": "https://danbooru.donmai.us/wiki_pages/nintendo_3ds_ll"
+        },
+        {
+          "label": "セガ SC-3000",
+          "tag": "sega_sc-3000",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_sc-3000"
+        },
+        {
+          "label": "セガ SG-1000",
+          "tag": "sega_sg-1000",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_sg-1000"
+        },
+        {
+          "label": "セガ ゲームギア",
+          "tag": "sega_game_gear",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_game_gear"
+        },
+        {
+          "label": "セガ マスターシステム",
+          "tag": "sega_master_system",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_master_system"
+        },
+        {
+          "label": "セガ マーク III",
+          "tag": "sega_mark_iii",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_mark_iii"
+        },
+        {
+          "label": "セガメガドライブ",
+          "tag": "sega_mega_drive",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_mega_drive"
+        },
+        {
+          "label": "セガ32X",
+          "tag": "sega_32x",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_32x"
+        },
+        {
+          "label": "セガCD",
+          "tag": "sega_cd",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_cd"
+        },
+        {
+          "label": "セガサターン",
+          "tag": "sega_saturn",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_saturn"
+        },
+        {
+          "label": "セガ ドリームキャスト",
+          "tag": "sega_dreamcast",
+          "link": "https://danbooru.donmai.us/wiki_pages/sega_dreamcast"
+        },
+        {
+          "label": "ネオジオ",
+          "tag": "neo_geo",
+          "link": "https://danbooru.donmai.us/wiki_pages/neo_geo"
+        },
+        {
+          "label": "ネオジオCD",
+          "tag": "neo_geo_cd",
+          "link": "https://danbooru.donmai.us/wiki_pages/neo_geo_cd"
+        },
+        {
+          "label": "ネオジオミニ",
+          "tag": "neo_geo_mini",
+          "link": "https://danbooru.donmai.us/wiki_pages/neo_geo_mini"
+        },
+        {
+          "label": "ネオジオポケットカラー",
+          "tag": "neo_geo_pocket_color",
+          "link": "https://danbooru.donmai.us/wiki_pages/neo_geo_pocket_color"
+        },
+        {
+          "label": "プレイステーション1",
+          "tag": "playstation_1",
+          "link": "https://danbooru.donmai.us/wiki_pages/playstation_1"
+        },
+        {
+          "label": "プレイステーション2",
+          "tag": "playstation_2",
+          "link": "https://danbooru.donmai.us/wiki_pages/playstation_2"
+        },
+        {
+          "label": "プレイステーション3",
+          "tag": "playstation_3",
+          "link": "https://danbooru.donmai.us/wiki_pages/playstation_3"
+        },
+        {
+          "label": "プレイステーション4",
+          "tag": "playstation_4",
+          "link": "https://danbooru.donmai.us/wiki_pages/playstation_4"
+        },
+        {
+          "label": "プレイステーション5",
+          "tag": "playstation_5",
+          "link": "https://danbooru.donmai.us/wiki_pages/playstation_5"
+        },
+        {
+          "label": "プレイステーション・ポータブル",
+          "tag": "playstation_portable",
+          "link": "https://danbooru.donmai.us/wiki_pages/playstation_portable"
+        },
+        {
+          "label": "プレイステーション ヴィータ",
+          "tag": "playstation_vita",
+          "link": "https://danbooru.donmai.us/wiki_pages/playstation_vita"
+        },
+        {
+          "label": "プレイディア",
+          "tag": "playdia",
+          "link": "https://danbooru.donmai.us/wiki_pages/playdia"
+        },
+        {
+          "label": "ワンダースワン",
+          "tag": "wonderswan",
+          "link": "https://danbooru.donmai.us/wiki_pages/wonderswan"
+        }
+      ]
+    },
+    {
+      "セクション名": "画像の出典",
+      "タグ一覧": [
+        {
+          "label": "ゲームCG",
+          "tag": "game_cg",
+          "link": "https://danbooru.donmai.us/wiki_pages/game_cg"
+        },
+        {
+          "label": "フェイクスクリーンショット",
+          "tag": "fake_screenshot",
+          "link": "https://danbooru.donmai.us/wiki_pages/fake_screenshot"
+        }
+      ]
+    },
+    {
+      "セクション名": "フラッシュゲーム",
+      "タグ一覧": [
+        {
+          "label": "Flash",
+          "tag": "flash",
+          "link": "https://danbooru.donmai.us/wiki_pages/flash"
+        },
+        {
+          "label": "フラッシュゲーム",
+          "tag": "flash_game",
+          "link": "https://danbooru.donmai.us/wiki_pages/flash_game"
+        },
+        {
+          "label": "操作可能な作品",
+          "tag": "interactive",
+          "link": "https://danbooru.donmai.us/wiki_pages/interactive"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "メタウィキのリスト",
+          "tag": "list_of_meta-wikis",
+          "link": "https://danbooru.donmai.us/wiki_pages/list_of_meta-wikis"
+        }
+      ]
+    }
+  ]
 }

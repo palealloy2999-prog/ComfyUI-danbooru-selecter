@@ -1,462 +1,462 @@
 ﻿{
-    "カテゴリID":  "legwear",
-    "カテゴリ名":  "レッグウェア",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Alegwear",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "種類・丈",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ソックス",
-                                         "tag":  "socks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/socks"
-                                     },
-                                     {
-                                         "label":  "ニーハイソックス",
-                                         "tag":  "kneehighs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/kneehighs"
-                                     },
-                                     {
-                                         "label":  "オーバーニーソックス",
-                                         "tag":  "over-kneehighs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/over-kneehighs"
-                                     },
-                                     {
-                                         "label":  "サイハイソックス",
-                                         "tag":  "thighhighs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/thighhighs"
-                                     },
-                                     {
-                                         "label":  "パンスト",
-                                         "tag":  "pantyhose",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pantyhose"
-                                     },
-                                     {
-                                         "label":  "レギンス",
-                                         "tag":  "leggings",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/leggings"
-                                     },
-                                     {
-                                         "label":  "付けレギンス",
-                                         "tag":  "detached_leggings",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/detached_leggings"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "複数の色",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "グラデーションレッグウェア",
-                                         "tag":  "gradient_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gradient_legwear"
-                                     },
-                                     {
-                                         "label":  "多色のレギンス",
-                                         "tag":  "multicolored_leggings",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_leggings"
-                                     },
-                                     {
-                                         "label":  "多色のレッグウォーマー",
-                                         "tag":  "multicolored_leg_warmers",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_leg_warmers"
-                                     },
-                                     {
-                                         "label":  "色とりどりのパンスト",
-                                         "tag":  "multicolored_pantyhose",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_pantyhose"
-                                     },
-                                     {
-                                         "label":  "色とりどりの靴下",
-                                         "tag":  "multicolored_socks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_socks"
-                                     },
-                                     {
-                                         "label":  "多色のサイハイソックス",
-                                         "tag":  "multicolored_thighhighs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/multicolored_thighhighs"
-                                     },
-                                     {
-                                         "label":  "ツートンカラーのレッグウェア",
-                                         "tag":  "two-tone_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/two-tone_legwear"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "パターン",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アメリカ国旗のレッグウェア",
-                                         "tag":  "american_flag_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/american_flag_legwear"
-                                     },
-                                     {
-                                         "label":  "迷彩柄レッグウェア",
-                                         "tag":  "camouflage_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/camouflage_legwear"
-                                     },
-                                     {
-                                         "label":  "チェック柄のレッグウェア",
-                                         "tag":  "checkered_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/checkered_legwear"
-                                     },
-                                     {
-                                         "label":  "斜めストライプのレッグウェア",
-                                         "tag":  "diagonal-striped_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/diagonal-striped_legwear"
-                                     },
-                                     {
-                                         "label":  "ギンガムチェックのレッグウェア",
-                                         "tag":  "gingham_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/gingham_legwear"
-                                     },
-                                     {
-                                         "label":  "水玉模様のレッグウェア",
-                                         "tag":  "polka_dot_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/polka_dot_legwear"
-                                     },
-                                     {
-                                         "label":  "レインボーレッグウェア",
-                                         "tag":  "rainbow_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rainbow_legwear"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "履き口の装飾",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "動物の耳のレッグウェア",
-                                         "tag":  "animal_ear_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_ear_legwear"
-                                     },
-                                     {
-                                         "label":  "コウモリのレッグウェア",
-                                         "tag":  "bat_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bat_legwear"
-                                     },
-                                     {
-                                         "label":  "ベアバンドレッグウェア",
-                                         "tag":  "bear_band_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bear_band_legwear"
-                                     },
-                                     {
-                                         "label":  "ウサギの耳のレッグウェア",
-                                         "tag":  "rabbit_ear_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/rabbit_ear_legwear"
-                                     },
-                                     {
-                                         "label":  "猫耳レッグウェア",
-                                         "tag":  "cat_ear_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cat_ear_legwear"
-                                     },
-                                     {
-                                         "label":  "ホーンバンドレッグウェア",
-                                         "tag":  "horn_band_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/horn_band_legwear"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "スタイル",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "アランレッグウェア",
-                                         "tag":  "aran_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/aran_legwear"
-                                     },
-                                     {
-                                         "label":  "装甲脚装具",
-                                         "tag":  "armored_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/armored_legwear"
-                                     },
-                                     {
-                                         "label":  "リボンレッグウェア",
-                                         "tag":  "bow_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bow_legwear"
-                                     },
-                                     {
-                                         "label":  "クロスレースのレッグウェア",
-                                         "tag":  "cross-laced_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/cross-laced_legwear"
-                                     },
-                                     {
-                                         "label":  "網タイツのレギンス",
-                                         "tag":  "fishnet_leggings",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fishnet_leggings"
-                                     },
-                                     {
-                                         "label":  "網タイツ",
-                                         "tag":  "fishnet_pantyhose",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fishnet_pantyhose"
-                                     },
-                                     {
-                                         "label":  "網ソックス",
-                                         "tag":  "fishnet_socks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fishnet_socks"
-                                     },
-                                     {
-                                         "label":  "網のサイハイソックス",
-                                         "tag":  "fishnet_thighhighs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fishnet_thighhighs"
-                                     },
-                                     {
-                                         "label":  "ふわふわのレッグウェア",
-                                         "tag":  "fluffy_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fluffy_legwear"
-                                     },
-                                     {
-                                         "label":  "ニットレッグウェア",
-                                         "tag":  "knit_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/knit_legwear"
-                                     },
-                                     {
-                                         "label":  "レースのレッグウェア",
-                                         "tag":  "lace_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace_legwear"
-                                     },
-                                     {
-                                         "label":  "レースアップレッグウェア",
-                                         "tag":  "lace-up_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace-up_legwear"
-                                     },
-                                     {
-                                         "label":  "ラテックスレッグウェア",
-                                         "tag":  "latex_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/latex_legwear"
-                                     },
-                                     {
-                                         "label":  "レッグウェアベル",
-                                         "tag":  "legwear_bell",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/legwear_bell"
-                                     },
-                                     {
-                                         "label":  "Oリングレッグウェア",
-                                         "tag":  "o-ring_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/o-ring_legwear"
-                                     },
-                                     {
-                                         "label":  "リブ編みのレッグウォーマー",
-                                         "tag":  "ribbed_leg_warmers",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbed_leg_warmers"
-                                     },
-                                     {
-                                         "label":  "リブ付きパンスト",
-                                         "tag":  "ribbed_pantyhose",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbed_pantyhose"
-                                     },
-                                     {
-                                         "label":  "リブ編みのソックス",
-                                         "tag":  "ribbed_socks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbed_socks"
-                                     },
-                                     {
-                                         "label":  "リブ編みのサイハイソックス",
-                                         "tag":  "ribbed_thighhighs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbed_thighhighs"
-                                     },
-                                     {
-                                         "label":  "シーム入りレッグウェア",
-                                         "tag":  "seamed_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/seamed_legwear"
-                                     },
-                                     {
-                                         "label":  "バックシームレッグウェア",
-                                         "tag":  "back-seamed_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/back-seamed_legwear"
-                                     },
-                                     {
-                                         "label":  "フロントシームのレッグウェア",
-                                         "tag":  "front-seamed_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/front-seamed_legwear"
-                                     },
-                                     {
-                                         "label":  "サイドシームレッグウェア",
-                                         "tag":  "side-seamed_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/side-seamed_legwear"
-                                     },
-                                     {
-                                         "label":  "シースルーのレッグウェア",
-                                         "tag":  "see-through_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/see-through_legwear"
-                                     },
-                                     {
-                                         "label":  "光沢のあるレッグウェア",
-                                         "tag":  "shiny_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/shiny_legwear"
-                                     },
-                                     {
-                                         "label":  "サイドタイレッグウェア",
-                                         "tag":  "side-tie_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/side-tie_legwear"
-                                     },
-                                     {
-                                         "label":  "スパイク付きレッグウェア",
-                                         "tag":  "spiked_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/spiked_legwear"
-                                     },
-                                     {
-                                         "label":  "スタッズ付きレッグウェア",
-                                         "tag":  "studded_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/studded_legwear"
-                                     },
-                                     {
-                                         "label":  "つま先のないレッグウェア",
-                                         "tag":  "toeless_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/toeless_legwear"
-                                     },
-                                     {
-                                         "label":  "ブライダルレッグウェア",
-                                         "tag":  "bridal_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bridal_legwear"
-                                     },
-                                     {
-                                         "label":  "トレンカ型のレッグウェア",
-                                         "tag":  "stirrup_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/stirrup_legwear"
-                                     },
-                                     {
-                                         "label":  "ジッパー付きレッグウェア",
-                                         "tag":  "zipper_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/zipper_legwear"
-                                     },
-                                     {
-                                         "label":  "毛皮で縁取られたレッグウェア",
-                                         "tag":  "fur-trimmed_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fur-trimmed_legwear"
-                                     },
-                                     {
-                                         "label":  "レーストリムのレッグウェア",
-                                         "tag":  "lace-trimmed_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lace-trimmed_legwear"
-                                     },
-                                     {
-                                         "label":  "リボンで縁取られたレッグウェア",
-                                         "tag":  "ribbon-trimmed_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_legwear"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "動作",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "レッグウェアを整える",
-                                         "tag":  "adjusting_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/adjusting_legwear"
-                                     },
-                                     {
-                                         "label":  "レッグウェアを持つ",
-                                         "tag":  "holding_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/holding_legwear"
-                                     },
-                                     {
-                                         "label":  "レッグウェアを脱ぐ",
-                                         "tag":  "pulling_off_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pulling_off_legwear"
-                                     },
-                                     {
-                                         "label":  "レッグウェアを履く",
-                                         "tag":  "putting_on_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/putting_on_legwear"
-                                     },
-                                     {
-                                         "label":  "レッグウェアを脱ぐ",
-                                         "tag":  "removing_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/removing_legwear"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "レッグウェア差分",
-                                         "tag":  "alternate_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/alternate_legwear"
-                                     },
-                                     {
-                                         "label":  "左右で長さの違うレッグウェア",
-                                         "tag":  "uneven_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/uneven_legwear"
-                                     },
-                                     {
-                                         "label":  "汚れたレッグウェア",
-                                         "tag":  "dirty_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dirty_legwear"
-                                     },
-                                     {
-                                         "label":  "レッグウェア",
-                                         "tag":  "in_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/in_legwear"
-                                     },
-                                     {
-                                         "label":  "レッグウェアの重ね履き",
-                                         "tag":  "layered_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/layered_legwear"
-                                     },
-                                     {
-                                         "label":  "着用していないレッグウェア",
-                                         "tag":  "unworn_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/unworn_legwear"
-                                     },
-                                     {
-                                         "label":  "ショートパンツの下にパンストを履く",
-                                         "tag":  "pantyhose_under_shorts",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pantyhose_under_shorts"
-                                     },
-                                     {
-                                         "label":  "左右で異なるレッグウェア",
-                                         "tag":  "mismatched_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/mismatched_legwear"
-                                     },
-                                     {
-                                         "label":  "レッグウェアなし",
-                                         "tag":  "no_legwear",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/no_legwear"
-                                     },
-                                     {
-                                         "label":  "破れたレギンス",
-                                         "tag":  "torn_leggings",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_leggings"
-                                     },
-                                     {
-                                         "label":  "破れたレッグウォーマー",
-                                         "tag":  "torn_leg_warmers",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_leg_warmers"
-                                     },
-                                     {
-                                         "label":  "破れたパンスト",
-                                         "tag":  "torn_pantyhose",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_pantyhose"
-                                     },
-                                     {
-                                         "label":  "破れた靴下",
-                                         "tag":  "torn_socks",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_socks"
-                                     },
-                                     {
-                                         "label":  "破れたサイハイソックス",
-                                         "tag":  "torn_thighhighs",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/torn_thighhighs"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "参照",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "太ももバンドパンスト",
-                                         "tag":  "thighband_pantyhose",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/thighband_pantyhose"
-                                     },
-                                     {
-                                         "label":  "タググループ：服装",
-                                         "tag":  "tag_group%3Aattire",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "legwear",
+  "カテゴリ名": "レッグウェア",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Alegwear",
+  "セクション一覧": [
+    {
+      "セクション名": "種類・丈",
+      "タグ一覧": [
+        {
+          "label": "ソックス",
+          "tag": "socks",
+          "link": "https://danbooru.donmai.us/wiki_pages/socks"
+        },
+        {
+          "label": "ニーハイソックス",
+          "tag": "kneehighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/kneehighs"
+        },
+        {
+          "label": "オーバーニーソックス",
+          "tag": "over-kneehighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/over-kneehighs"
+        },
+        {
+          "label": "サイハイソックス",
+          "tag": "thighhighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/thighhighs"
+        },
+        {
+          "label": "パンスト",
+          "tag": "pantyhose",
+          "link": "https://danbooru.donmai.us/wiki_pages/pantyhose"
+        },
+        {
+          "label": "レギンス",
+          "tag": "leggings",
+          "link": "https://danbooru.donmai.us/wiki_pages/leggings"
+        },
+        {
+          "label": "付けレギンス",
+          "tag": "detached_leggings",
+          "link": "https://danbooru.donmai.us/wiki_pages/detached_leggings"
+        }
+      ]
+    },
+    {
+      "セクション名": "複数の色",
+      "タグ一覧": [
+        {
+          "label": "グラデーションレッグウェア",
+          "tag": "gradient_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/gradient_legwear"
+        },
+        {
+          "label": "多色のレギンス",
+          "tag": "multicolored_leggings",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_leggings"
+        },
+        {
+          "label": "多色のレッグウォーマー",
+          "tag": "multicolored_leg_warmers",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_leg_warmers"
+        },
+        {
+          "label": "色とりどりのパンスト",
+          "tag": "multicolored_pantyhose",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_pantyhose"
+        },
+        {
+          "label": "色とりどりの靴下",
+          "tag": "multicolored_socks",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_socks"
+        },
+        {
+          "label": "多色のサイハイソックス",
+          "tag": "multicolored_thighhighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/multicolored_thighhighs"
+        },
+        {
+          "label": "ツートンカラーのレッグウェア",
+          "tag": "two-tone_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/two-tone_legwear"
+        }
+      ]
+    },
+    {
+      "セクション名": "パターン",
+      "タグ一覧": [
+        {
+          "label": "アメリカ国旗のレッグウェア",
+          "tag": "american_flag_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/american_flag_legwear"
+        },
+        {
+          "label": "迷彩柄レッグウェア",
+          "tag": "camouflage_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/camouflage_legwear"
+        },
+        {
+          "label": "チェック柄のレッグウェア",
+          "tag": "checkered_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/checkered_legwear"
+        },
+        {
+          "label": "斜めストライプのレッグウェア",
+          "tag": "diagonal-striped_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/diagonal-striped_legwear"
+        },
+        {
+          "label": "ギンガムチェックのレッグウェア",
+          "tag": "gingham_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/gingham_legwear"
+        },
+        {
+          "label": "水玉模様のレッグウェア",
+          "tag": "polka_dot_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/polka_dot_legwear"
+        },
+        {
+          "label": "レインボーレッグウェア",
+          "tag": "rainbow_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/rainbow_legwear"
+        }
+      ]
+    },
+    {
+      "セクション名": "履き口の装飾",
+      "タグ一覧": [
+        {
+          "label": "動物の耳のレッグウェア",
+          "tag": "animal_ear_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_ear_legwear"
+        },
+        {
+          "label": "コウモリのレッグウェア",
+          "tag": "bat_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/bat_legwear"
+        },
+        {
+          "label": "ベアバンドレッグウェア",
+          "tag": "bear_band_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/bear_band_legwear"
+        },
+        {
+          "label": "ウサギの耳のレッグウェア",
+          "tag": "rabbit_ear_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/rabbit_ear_legwear"
+        },
+        {
+          "label": "猫耳レッグウェア",
+          "tag": "cat_ear_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/cat_ear_legwear"
+        },
+        {
+          "label": "ホーンバンドレッグウェア",
+          "tag": "horn_band_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/horn_band_legwear"
+        }
+      ]
+    },
+    {
+      "セクション名": "スタイル",
+      "タグ一覧": [
+        {
+          "label": "アランレッグウェア",
+          "tag": "aran_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/aran_legwear"
+        },
+        {
+          "label": "装甲脚装具",
+          "tag": "armored_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/armored_legwear"
+        },
+        {
+          "label": "リボンレッグウェア",
+          "tag": "bow_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/bow_legwear"
+        },
+        {
+          "label": "クロスレースのレッグウェア",
+          "tag": "cross-laced_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/cross-laced_legwear"
+        },
+        {
+          "label": "網タイツのレギンス",
+          "tag": "fishnet_leggings",
+          "link": "https://danbooru.donmai.us/wiki_pages/fishnet_leggings"
+        },
+        {
+          "label": "網タイツ",
+          "tag": "fishnet_pantyhose",
+          "link": "https://danbooru.donmai.us/wiki_pages/fishnet_pantyhose"
+        },
+        {
+          "label": "網ソックス",
+          "tag": "fishnet_socks",
+          "link": "https://danbooru.donmai.us/wiki_pages/fishnet_socks"
+        },
+        {
+          "label": "網のサイハイソックス",
+          "tag": "fishnet_thighhighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/fishnet_thighhighs"
+        },
+        {
+          "label": "ふわふわのレッグウェア",
+          "tag": "fluffy_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/fluffy_legwear"
+        },
+        {
+          "label": "ニットレッグウェア",
+          "tag": "knit_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/knit_legwear"
+        },
+        {
+          "label": "レースのレッグウェア",
+          "tag": "lace_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace_legwear"
+        },
+        {
+          "label": "レースアップレッグウェア",
+          "tag": "lace-up_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace-up_legwear"
+        },
+        {
+          "label": "ラテックスレッグウェア",
+          "tag": "latex_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/latex_legwear"
+        },
+        {
+          "label": "レッグウェアベル",
+          "tag": "legwear_bell",
+          "link": "https://danbooru.donmai.us/wiki_pages/legwear_bell"
+        },
+        {
+          "label": "Oリングレッグウェア",
+          "tag": "o-ring_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/o-ring_legwear"
+        },
+        {
+          "label": "リブ編みのレッグウォーマー",
+          "tag": "ribbed_leg_warmers",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbed_leg_warmers"
+        },
+        {
+          "label": "リブ付きパンスト",
+          "tag": "ribbed_pantyhose",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbed_pantyhose"
+        },
+        {
+          "label": "リブ編みのソックス",
+          "tag": "ribbed_socks",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbed_socks"
+        },
+        {
+          "label": "リブ編みのサイハイソックス",
+          "tag": "ribbed_thighhighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbed_thighhighs"
+        },
+        {
+          "label": "シーム入りレッグウェア",
+          "tag": "seamed_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/seamed_legwear"
+        },
+        {
+          "label": "バックシームレッグウェア",
+          "tag": "back-seamed_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/back-seamed_legwear"
+        },
+        {
+          "label": "フロントシームのレッグウェア",
+          "tag": "front-seamed_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/front-seamed_legwear"
+        },
+        {
+          "label": "サイドシームレッグウェア",
+          "tag": "side-seamed_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/side-seamed_legwear"
+        },
+        {
+          "label": "シースルーのレッグウェア",
+          "tag": "see-through_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/see-through_legwear"
+        },
+        {
+          "label": "光沢のあるレッグウェア",
+          "tag": "shiny_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/shiny_legwear"
+        },
+        {
+          "label": "サイドタイレッグウェア",
+          "tag": "side-tie_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/side-tie_legwear"
+        },
+        {
+          "label": "スパイク付きレッグウェア",
+          "tag": "spiked_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/spiked_legwear"
+        },
+        {
+          "label": "スタッズ付きレッグウェア",
+          "tag": "studded_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/studded_legwear"
+        },
+        {
+          "label": "つま先のないレッグウェア",
+          "tag": "toeless_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/toeless_legwear"
+        },
+        {
+          "label": "ブライダルレッグウェア",
+          "tag": "bridal_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/bridal_legwear"
+        },
+        {
+          "label": "トレンカ型のレッグウェア",
+          "tag": "stirrup_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/stirrup_legwear"
+        },
+        {
+          "label": "ジッパー付きレッグウェア",
+          "tag": "zipper_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/zipper_legwear"
+        },
+        {
+          "label": "毛皮で縁取られたレッグウェア",
+          "tag": "fur-trimmed_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/fur-trimmed_legwear"
+        },
+        {
+          "label": "レーストリムのレッグウェア",
+          "tag": "lace-trimmed_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/lace-trimmed_legwear"
+        },
+        {
+          "label": "リボンで縁取られたレッグウェア",
+          "tag": "ribbon-trimmed_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_legwear"
+        }
+      ]
+    },
+    {
+      "セクション名": "動作",
+      "タグ一覧": [
+        {
+          "label": "レッグウェアを整える",
+          "tag": "adjusting_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/adjusting_legwear"
+        },
+        {
+          "label": "レッグウェアを持つ",
+          "tag": "holding_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/holding_legwear"
+        },
+        {
+          "label": "レッグウェアを脱ぐ",
+          "tag": "pulling_off_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/pulling_off_legwear"
+        },
+        {
+          "label": "レッグウェアを履く",
+          "tag": "putting_on_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/putting_on_legwear"
+        },
+        {
+          "label": "レッグウェアを脱ぐ",
+          "tag": "removing_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/removing_legwear"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "レッグウェア差分",
+          "tag": "alternate_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/alternate_legwear"
+        },
+        {
+          "label": "左右で長さの違うレッグウェア",
+          "tag": "uneven_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/uneven_legwear"
+        },
+        {
+          "label": "汚れたレッグウェア",
+          "tag": "dirty_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/dirty_legwear"
+        },
+        {
+          "label": "レッグウェア",
+          "tag": "in_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/in_legwear"
+        },
+        {
+          "label": "レッグウェアの重ね履き",
+          "tag": "layered_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/layered_legwear"
+        },
+        {
+          "label": "着用していないレッグウェア",
+          "tag": "unworn_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/unworn_legwear"
+        },
+        {
+          "label": "ショートパンツの下にパンストを履く",
+          "tag": "pantyhose_under_shorts",
+          "link": "https://danbooru.donmai.us/wiki_pages/pantyhose_under_shorts"
+        },
+        {
+          "label": "左右で異なるレッグウェア",
+          "tag": "mismatched_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/mismatched_legwear"
+        },
+        {
+          "label": "レッグウェアなし",
+          "tag": "no_legwear",
+          "link": "https://danbooru.donmai.us/wiki_pages/no_legwear"
+        },
+        {
+          "label": "破れたレギンス",
+          "tag": "torn_leggings",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_leggings"
+        },
+        {
+          "label": "破れたレッグウォーマー",
+          "tag": "torn_leg_warmers",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_leg_warmers"
+        },
+        {
+          "label": "破れたパンスト",
+          "tag": "torn_pantyhose",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_pantyhose"
+        },
+        {
+          "label": "破れた靴下",
+          "tag": "torn_socks",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_socks"
+        },
+        {
+          "label": "破れたサイハイソックス",
+          "tag": "torn_thighhighs",
+          "link": "https://danbooru.donmai.us/wiki_pages/torn_thighhighs"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "太ももバンドパンスト",
+          "tag": "thighband_pantyhose",
+          "link": "https://danbooru.donmai.us/wiki_pages/thighband_pantyhose"
+        },
+        {
+          "label": "タググループ：服装",
+          "tag": "tag_group%3Aattire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+        }
+      ]
+    }
+  ]
 }

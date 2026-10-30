@@ -1,282 +1,282 @@
 ﻿{
-    "カテゴリID":  "piercings",
-    "カテゴリ名":  "ピアス",
-    "カテゴリリンク":  "https://danbooru.donmai.us/posts?tags=tag_group%3Apiercings",
-    "セクション一覧":  [
-                    {
-                        "セクション名":  "基本",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ピアス",
-                                         "tag":  "piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/piercing"
-                                     },
-                                     {
-                                         "label":  "衣服を貫くピアス",
-                                         "tag":  "piercing_through_clothes",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/piercing_through_clothes"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "頭と顔のピアス",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "耳のピアス",
-                                         "tag":  "ear_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ear_piercing"
-                                     },
-                                     {
-                                         "label":  "インダストリアルピアス",
-                                         "tag":  "industrial_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/industrial_piercing"
-                                     },
-                                     {
-                                         "label":  "イヤリングチェーン",
-                                         "tag":  "ear_chain",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ear_chain"
-                                     },
-                                     {
-                                         "label":  "プラグ（ピアス）",
-                                         "tag":  "plug_%28piercing%29",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/plug_%28piercing%29"
-                                     },
-                                     {
-                                         "label":  "動物の耳ピアス",
-                                         "tag":  "animal_ear_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/animal_ear_piercing"
-                                     },
-                                     {
-                                         "label":  "眉ピアス",
-                                         "tag":  "eyebrow_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyebrow_piercing"
-                                     },
-                                     {
-                                         "label":  "アンチアイブロウピアス",
-                                         "tag":  "anti-eyebrow_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/anti-eyebrow_piercing"
-                                     },
-                                     {
-                                         "label":  "まぶたのピアス",
-                                         "tag":  "eyelid_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/eyelid_piercing"
-                                     },
-                                     {
-                                         "label":  "唇のピアス",
-                                         "tag":  "lip_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lip_piercing"
-                                     },
-                                     {
-                                         "label":  "ラブレットピアス",
-                                         "tag":  "labret_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/labret_piercing"
-                                     },
-                                     {
-                                         "label":  "ネックピアス",
-                                         "tag":  "neck_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/neck_piercing"
-                                     },
-                                     {
-                                         "label":  "鼻ピアス",
-                                         "tag":  "nose_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nose_piercing"
-                                     },
-                                     {
-                                         "label":  "ブリッジピアシング",
-                                         "tag":  "bridge_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/bridge_piercing"
-                                     },
-                                     {
-                                         "label":  "舌ピアス",
-                                         "tag":  "tongue_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tongue_piercing"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "ボディピアス",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "乳輪ピアス",
-                                         "tag":  "areola_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/areola_piercing"
-                                     },
-                                     {
-                                         "label":  "背中ピアス",
-                                         "tag":  "back_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/back_piercing"
-                                     },
-                                     {
-                                         "label":  "コルセットピアス",
-                                         "tag":  "corset_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/corset_piercing"
-                                     },
-                                     {
-                                         "label":  "鎖骨ピアス",
-                                         "tag":  "collarbone_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/collarbone_piercing"
-                                     },
-                                     {
-                                         "label":  "へそピアス",
-                                         "tag":  "navel_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/navel_piercing"
-                                     },
-                                     {
-                                         "label":  "乳首ピアス",
-                                         "tag":  "nipple_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nipple_piercing"
-                                     },
-                                     {
-                                         "label":  "ニップルバー",
-                                         "tag":  "nipple_bar",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nipple_bar"
-                                     },
-                                     {
-                                         "label":  "乳首のチェーン",
-                                         "tag":  "nipple_chain",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nipple_chain"
-                                     },
-                                     {
-                                         "label":  "ニップルロック",
-                                         "tag":  "nipple_lock",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nipple_lock"
-                                     },
-                                     {
-                                         "label":  "乳首のリング",
-                                         "tag":  "nipple_rings",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nipple_rings"
-                                     },
-                                     {
-                                         "label":  "乳首の拡張器具",
-                                         "tag":  "nipple_stretcher",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nipple_stretcher"
-                                     },
-                                     {
-                                         "label":  "乳首ジュエリー",
-                                         "tag":  "nipple_jewelry",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/nipple_jewelry"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "性器ピアス（女性）",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "女性器のピアス",
-                                         "tag":  "pussy_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pussy_piercing"
-                                     },
-                                     {
-                                         "label":  "クリトリスピアス",
-                                         "tag":  "clitoris_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/clitoris_piercing"
-                                     },
-                                     {
-                                         "label":  "クリトリスリング",
-                                         "tag":  "clitoris_ring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/clitoris_ring"
-                                     },
-                                     {
-                                         "label":  "陰唇ピアス",
-                                         "tag":  "labia_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/labia_piercing"
-                                     },
-                                     {
-                                         "label":  "フォーシェットピアス",
-                                         "tag":  "fourchette_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/fourchette_piercing"
-                                     },
-                                     {
-                                         "label":  "女性器の装飾品",
-                                         "tag":  "pussy_jewelry",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/pussy_jewelry"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "性器ピアス（男性）",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "ペニスピアス",
-                                         "tag":  "penis_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/penis_piercing"
-                                     },
-                                     {
-                                         "label":  "アンパラン",
-                                         "tag":  "ampallang",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/ampallang"
-                                     },
-                                     {
-                                         "label":  "ディドー",
-                                         "tag":  "dydoe",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/dydoe"
-                                     },
-                                     {
-                                         "label":  "包皮ピアス",
-                                         "tag":  "foreskin_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/foreskin_piercing"
-                                     },
-                                     {
-                                         "label":  "小帯ピアス",
-                                         "tag":  "frenulum_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/frenulum_piercing"
-                                     },
-                                     {
-                                         "label":  "ロラムピアス",
-                                         "tag":  "lorum_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/lorum_piercing"
-                                     },
-                                     {
-                                         "label":  "プリンス・アルバート（ピアス）",
-                                         "tag":  "prince_albert",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/prince_albert"
-                                     },
-                                     {
-                                         "label":  "ギーシュピアス",
-                                         "tag":  "guiche_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/guiche_piercing"
-                                     },
-                                     {
-                                         "label":  "陰嚢ピアス",
-                                         "tag":  "scrotum_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/scrotum_piercing"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "その他",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "キャプティブビーズリング",
-                                         "tag":  "captive_bead_ring",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/captive_bead_ring"
-                                     },
-                                     {
-                                         "label":  "リンクピアス",
-                                         "tag":  "linked_piercing",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/linked_piercing"
-                                     }
-                                 ]
-                    },
-                    {
-                        "セクション名":  "参照",
-                        "タグ一覧":  [
-                                     {
-                                         "label":  "イヤリング",
-                                         "tag":  "earrings",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/earrings"
-                                     },
-                                     {
-                                         "label":  "タググループ：服装",
-                                         "tag":  "tag_group%3Aattire",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
-                                     },
-                                     {
-                                         "label":  "タググループ：性具・拘束具",
-                                         "tag":  "tag_group%3Asex_objects",
-                                         "link":  "https://danbooru.donmai.us/wiki_pages/tag_group%3Asex_objects"
-                                     }
-                                 ]
-                    }
-                ]
+  "カテゴリID": "piercings",
+  "カテゴリ名": "ピアス",
+  "カテゴリリンク": "https://danbooru.donmai.us/posts?tags=tag_group%3Apiercings",
+  "セクション一覧": [
+    {
+      "セクション名": "基本",
+      "タグ一覧": [
+        {
+          "label": "ピアス",
+          "tag": "piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/piercing"
+        },
+        {
+          "label": "衣服を貫くピアス",
+          "tag": "piercing_through_clothes",
+          "link": "https://danbooru.donmai.us/wiki_pages/piercing_through_clothes"
+        }
+      ]
+    },
+    {
+      "セクション名": "頭と顔のピアス",
+      "タグ一覧": [
+        {
+          "label": "耳のピアス",
+          "tag": "ear_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/ear_piercing"
+        },
+        {
+          "label": "インダストリアルピアス",
+          "tag": "industrial_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/industrial_piercing"
+        },
+        {
+          "label": "イヤリングチェーン",
+          "tag": "ear_chain",
+          "link": "https://danbooru.donmai.us/wiki_pages/ear_chain"
+        },
+        {
+          "label": "プラグ（ピアス）",
+          "tag": "plug_%28piercing%29",
+          "link": "https://danbooru.donmai.us/wiki_pages/plug_%28piercing%29"
+        },
+        {
+          "label": "動物の耳ピアス",
+          "tag": "animal_ear_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/animal_ear_piercing"
+        },
+        {
+          "label": "眉ピアス",
+          "tag": "eyebrow_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyebrow_piercing"
+        },
+        {
+          "label": "アンチアイブロウピアス",
+          "tag": "anti-eyebrow_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/anti-eyebrow_piercing"
+        },
+        {
+          "label": "まぶたのピアス",
+          "tag": "eyelid_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/eyelid_piercing"
+        },
+        {
+          "label": "唇のピアス",
+          "tag": "lip_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/lip_piercing"
+        },
+        {
+          "label": "ラブレットピアス",
+          "tag": "labret_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/labret_piercing"
+        },
+        {
+          "label": "ネックピアス",
+          "tag": "neck_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/neck_piercing"
+        },
+        {
+          "label": "鼻ピアス",
+          "tag": "nose_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/nose_piercing"
+        },
+        {
+          "label": "ブリッジピアシング",
+          "tag": "bridge_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/bridge_piercing"
+        },
+        {
+          "label": "舌ピアス",
+          "tag": "tongue_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/tongue_piercing"
+        }
+      ]
+    },
+    {
+      "セクション名": "ボディピアス",
+      "タグ一覧": [
+        {
+          "label": "乳輪ピアス",
+          "tag": "areola_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/areola_piercing"
+        },
+        {
+          "label": "背中ピアス",
+          "tag": "back_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/back_piercing"
+        },
+        {
+          "label": "コルセットピアス",
+          "tag": "corset_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/corset_piercing"
+        },
+        {
+          "label": "鎖骨ピアス",
+          "tag": "collarbone_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/collarbone_piercing"
+        },
+        {
+          "label": "へそピアス",
+          "tag": "navel_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/navel_piercing"
+        },
+        {
+          "label": "乳首ピアス",
+          "tag": "nipple_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_piercing"
+        },
+        {
+          "label": "ニップルバー",
+          "tag": "nipple_bar",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_bar"
+        },
+        {
+          "label": "乳首のチェーン",
+          "tag": "nipple_chain",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_chain"
+        },
+        {
+          "label": "ニップルロック",
+          "tag": "nipple_lock",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_lock"
+        },
+        {
+          "label": "乳首のリング",
+          "tag": "nipple_rings",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_rings"
+        },
+        {
+          "label": "乳首の拡張器具",
+          "tag": "nipple_stretcher",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_stretcher"
+        },
+        {
+          "label": "乳首ジュエリー",
+          "tag": "nipple_jewelry",
+          "link": "https://danbooru.donmai.us/wiki_pages/nipple_jewelry"
+        }
+      ]
+    },
+    {
+      "セクション名": "性器ピアス（女性）",
+      "タグ一覧": [
+        {
+          "label": "女性器のピアス",
+          "tag": "pussy_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/pussy_piercing"
+        },
+        {
+          "label": "クリトリスピアス",
+          "tag": "clitoris_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/clitoris_piercing"
+        },
+        {
+          "label": "クリトリスリング",
+          "tag": "clitoris_ring",
+          "link": "https://danbooru.donmai.us/wiki_pages/clitoris_ring"
+        },
+        {
+          "label": "陰唇ピアス",
+          "tag": "labia_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/labia_piercing"
+        },
+        {
+          "label": "フォーシェットピアス",
+          "tag": "fourchette_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/fourchette_piercing"
+        },
+        {
+          "label": "女性器の装飾品",
+          "tag": "pussy_jewelry",
+          "link": "https://danbooru.donmai.us/wiki_pages/pussy_jewelry"
+        }
+      ]
+    },
+    {
+      "セクション名": "性器ピアス（男性）",
+      "タグ一覧": [
+        {
+          "label": "ペニスピアス",
+          "tag": "penis_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/penis_piercing"
+        },
+        {
+          "label": "アンパラン",
+          "tag": "ampallang",
+          "link": "https://danbooru.donmai.us/wiki_pages/ampallang"
+        },
+        {
+          "label": "ディドー",
+          "tag": "dydoe",
+          "link": "https://danbooru.donmai.us/wiki_pages/dydoe"
+        },
+        {
+          "label": "包皮ピアス",
+          "tag": "foreskin_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/foreskin_piercing"
+        },
+        {
+          "label": "小帯ピアス",
+          "tag": "frenulum_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/frenulum_piercing"
+        },
+        {
+          "label": "ロラムピアス",
+          "tag": "lorum_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/lorum_piercing"
+        },
+        {
+          "label": "プリンス・アルバート（ピアス）",
+          "tag": "prince_albert",
+          "link": "https://danbooru.donmai.us/wiki_pages/prince_albert"
+        },
+        {
+          "label": "ギーシュピアス",
+          "tag": "guiche_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/guiche_piercing"
+        },
+        {
+          "label": "陰嚢ピアス",
+          "tag": "scrotum_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/scrotum_piercing"
+        }
+      ]
+    },
+    {
+      "セクション名": "その他",
+      "タグ一覧": [
+        {
+          "label": "キャプティブビーズリング",
+          "tag": "captive_bead_ring",
+          "link": "https://danbooru.donmai.us/wiki_pages/captive_bead_ring"
+        },
+        {
+          "label": "リンクピアス",
+          "tag": "linked_piercing",
+          "link": "https://danbooru.donmai.us/wiki_pages/linked_piercing"
+        }
+      ]
+    },
+    {
+      "セクション名": "参照",
+      "タグ一覧": [
+        {
+          "label": "イヤリング",
+          "tag": "earrings",
+          "link": "https://danbooru.donmai.us/wiki_pages/earrings"
+        },
+        {
+          "label": "タググループ：服装",
+          "tag": "tag_group%3Aattire",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire"
+        },
+        {
+          "label": "タググループ：性具・拘束具",
+          "tag": "tag_group%3Asex_objects",
+          "link": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asex_objects"
+        }
+      ]
+    }
+  ]
 }
