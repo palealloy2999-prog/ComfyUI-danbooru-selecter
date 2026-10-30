@@ -1,28 +1,31 @@
 # Danbooru Selecter
 
-[日本語](README_JA.md)
 
-A ComfyUI node for building a prompt from Japanese Danbooru tag labels and custom presets.
+日本語のDanbooruタグ名とカスタム定型文からプロンプトを組み立てるComfyUIノードです。
+
+<img width="1100" height="543" alt="image" src="https://github.com/user-attachments/assets/50f3d34b-718f-43a2-a092-b2797e7975b1" />
 
 ## Installation
 
-Place this folder at **ComfyUI/custom_nodes/ComfyUI-danbooru-selecter**, then restart ComfyUI and refresh the browser. No additional dependencies are required.
+```
+cd ComfyUI/custom_nodes
+git clone https://github.com/palealloy2999-prog/ComfyUI-danbooru-selecter
+```
+## 使い方
 
-## Usage
+1. **PALEALLOY / Prompt → Danbooru Selecter** を追加します。
+2. 日本語・英語の全文検索は、プルダウンの選択に関わらず全カテゴリを検索します。カテゴリ・セクションを選ぶと、入力済みの検索語に関わらずその範囲のタグを表示します。最後に操作した側の結果が表示され、検索語とプルダウンの選択はそれぞれ保持されます。
+3. タグをクリックすると選択した順に追加され、色が変わります。選択中のタグをクリックすると解除できます。右端の ↗ はDanbooruの該当ページを新しいタブで開きます。リンクのない項目ではアイコンを表示しません。
+4. **STRING** 出力をCLIP Text Encodeなどのテキスト入力へ接続します。
 
-1. Add **PALEALLOY / Prompt → Danbooru Selecter**.
-2. Japanese or English search covers all categories regardless of the dropdown selections. Choosing a category or section shows its tags regardless of the search text. The last control used determines the results; both the search text and dropdown selections are retained.
-3. Click tags to add them in selection order; their color indicates selection. Click a selected tag to remove it. The right-hand ↗ opens its Danbooru page in a new tab. Entries without a URL do not show a link icon.
-4. Connect the **STRING** output to a text input such as CLIP Text Encode.
+ノード内にプレビュー、コピー、全解除、区切り、アンダースコア置換を備えています。選択内容と整形設定はワークフローに保存されます。複数ノードの選択内容は独立しています。
 
-The node includes a prompt preview, copy, clear, separator, and underscore replacement controls. Selection and formatting settings are saved in the workflow. Multiple nodes keep separate selections.
+標準の区切りはカンマです。パイプは **{a|b}**、セミコロンは **a;b** を出力します。末尾の区切り文字は付加しません。通常タグの括弧はエスケープし、カスタム定型文の重み構文は保持します。
 
-Comma is the default separator. Pipe produces **{a|b}**; semicolon produces **a;b**. No trailing separator is added. Normal tag parentheses are escaped; custom preset weighting syntax is preserved.
+## タグデータ
 
-## Tag data
+カテゴリJSONは **json/**、カスタム定型文のJSONは **custom/** に配置します。用意された日本語キーのJSON形式を使用し、各カテゴリファイルを自動検出します。**json/index.json** でカテゴリの親子関係と表示順を管理します。カテゴリは一つのプルダウン内で親カテゴリ別に並び、深い階層は「親 › 子」で表示します。表示名には各カテゴリJSONの翻訳済みカテゴリ名を使い、index未登録のファイルは末尾の「未分類」に表示します。custom/ の表示は従来どおりです。データ変更後はComfyUIを再起動してブラウザを更新してください。
 
-Keep category JSON files in **json/** and custom preset JSON files in **custom/**. The supplied Japanese JSON structure is supported. All category files are discovered automatically; **json/index.json** defines category hierarchy and order. One dropdown groups categories by parent; deeper levels appear as “parent › child”. Display names come from the translated category JSON files. Unlisted files appear under the final unclassified group. Custom presets keep their existing presentation. Restart ComfyUI and refresh the browser after changing data.
+カスタム定型文は複数タグや重み構文を含められます。タググループは対応するデータがあればカテゴリを開きます。
 
-Custom presets may contain multiple tags and weighting syntax. Selectable groups open their matching category when its data exists.
-
-Load **example_workflows/tag_picker.json** for a saved selection example. This node generates text only; models interpret tag and wildcard syntax independently.
+保存済み選択の例は **example_workflows/tag_picker.json** です。このノードはテキストを生成します。タグやワイルドカード構文の解釈は接続先に依存します。
